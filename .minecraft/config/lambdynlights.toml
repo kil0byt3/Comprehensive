@@ -1,0 +1,62 @@
+mode = "fancy"
+
+[light_sources]
+	water_sensitive_check = false
+	block_entities = false
+	entities = true
+	self = true
+	tnt = "simple"
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				bee = true
+				axolotl = true
+				donkey = true
+				cow = true
+				chest_minecart = true
+				tropical_fish = true
+				fox = true
+				pig = true
+				skeleton = true
+				bat = true
+				rabbit = true
+				zombie = true
+				drowned = true
+				sheep = true
+				player = true
+				dolphin = true
+				item = true
+				turtle = true
+				wolf = true
+				salmon = true
+				zombie_villager = true
+				horse = true
+				cave_spider = true
+				glow_squid = true
+				cod = true
+				witch = true
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+				parrot = true
+				ocelot = true
+				slime = true
+				glow_item_frame = true
+				pufferfish = true
+				villager = true
+				cat = true
+				iron_golem = true
+				llama = true
+
+			[light_sources.settings.entities.bewitchment]
+				toad = true
+				ghost = true
+				owl = true
+				snake = true
+

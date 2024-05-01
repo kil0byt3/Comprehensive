@@ -1,0 +1,5 @@
+{
+  "main_menu": {
+    "bottom_left": [{"text":"Comprehensive v1.0","clickEvent":{"action":"open_url","value":"https://github.com/kil0byt3/Comprehensive"}}]
+  }
+}

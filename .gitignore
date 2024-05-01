@@ -1,0 +1,11 @@
+
+/.minecraft/saves
+/.minecraft/logs
+/.minecraft/.fabric/processedMods
+/.minecraft/mods/.index
+/.minecraft/screenshots
+.minecraft/usercache.json
+.minecraft/usernamecache.json
+/.minecraft/crash-reports
+/.minecraft/modernfix/structureCacheV1
+/.minecraft/logs
