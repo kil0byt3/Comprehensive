@@ -1,11 +1,6 @@
 {
 	"favorites": [
-		"{data:{Count:1b,id:\"sophisticatedbackpacks:stack_upgrade_tier_4\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"sophisticatedbackpacks:smoking_upgrade\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"sophisticatedbackpacks:gold_backpack\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"seasonsextras:season_detector\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"seasonsextras:season_calendar\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"seasonsextras:crop_season_tester\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{mode:\"NOON\",type:\"roughlyenoughitems:time\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

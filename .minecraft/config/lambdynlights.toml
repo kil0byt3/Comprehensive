@@ -53,10 +53,15 @@ mode = "fancy"
 				cat = true
 				iron_golem = true
 				llama = true
+				tnt_minecart = true
+				guardian = true
+				elder_guardian = true
+				trident = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
 				ghost = true
 				owl = true
 				snake = true
+				raven = true
 
