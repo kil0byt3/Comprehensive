@@ -65,3 +65,10 @@ mode = "fancy"
 				snake = true
 				raven = true
 
+			[light_sources.settings.entities.naturalist]
+				snail = true
+				firefly = true
+				lizard = true
+				bluejay = true
+				finch = true
+

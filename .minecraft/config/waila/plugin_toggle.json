@@ -7,5 +7,9 @@
   "waila:fabric": true,
   "waila:team_reborn_energy": true,
   "waila:test": false,
-  "treechop:plugin": true
+  "treechop:plugin": true,
+  "megane:applied-energistics-2": true,
+  "megane:deep-mob-learning-simulacrum": true,
+  "megane:kibe": true,
+  "ae2:wthit": true
 }
