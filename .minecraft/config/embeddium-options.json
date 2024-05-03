@@ -8,7 +8,7 @@
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": true,
     "disable_incompatible_mod_warnings": false,
-    "cpu_render_ahead_limit": 4
+    "cpu_render_ahead_limit": 3
   },
   "performance": {
     "chunk_builder_threads": 0,
@@ -23,7 +23,7 @@
   },
   "notifications": {
     "force_disable_donation_prompts": false,
-    "has_cleared_donation_button": false,
+    "has_cleared_donation_button": true,
     "has_seen_donation_prompt": false
   }
 }

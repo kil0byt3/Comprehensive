@@ -1,6 +1,6 @@
 {
   "general": {
-    "baby": true,
+    "baby": false,
     "babyQuickAttackGoal": true,
     "fleeGoal": true,
     "swimGoal": true

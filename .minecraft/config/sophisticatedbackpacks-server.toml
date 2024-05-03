@@ -365,7 +365,7 @@
 	[server.entityBackpackAdditions]
 		#Chance of an entity spawning with Backpack
 		#Range: 0.0 ~ 1.0
-		chance = 0.00
+		chance = 0.0
 		#Chance increase per looting level of mob dropping backpack
 		#Range: 0.0 ~ 0.3
 		lootingChanceIncreasePerLevel = 0.15

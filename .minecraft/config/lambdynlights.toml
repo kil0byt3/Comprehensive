@@ -71,6 +71,9 @@ mode = "fancy"
 				armor_stand = true
 				painting = true
 				magma_cube = true
+				pillager = true
+				arrow = true
+				vindicator = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
@@ -107,6 +110,7 @@ mode = "fancy"
 				rattlesnake = true
 				bear = true
 				deer = true
+				dragonfly = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -124,6 +128,8 @@ mode = "fancy"
 				jungle_creeper = true
 				hills_creeper = true
 				badlands_creeper = true
+				ocean_creeper = true
+				swamp_creeper = true
 
 			[light_sources.settings.entities.ecologics]
 				coconut_crab = true
@@ -134,6 +140,7 @@ mode = "fancy"
 				badlands_enderman = true
 				cave_enderman = true
 				desert_enderman = true
+				swamp_enderman = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true
@@ -144,4 +151,7 @@ mode = "fancy"
 			[light_sources.settings.entities.create]
 				super_glue = true
 				stationary_contraption = true
+
+			[light_sources.settings.entities.sihywtcamd]
+				cobweb = true
 
