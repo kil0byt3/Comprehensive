@@ -1,4 +1,3 @@
-
 #Server Settings
 [server]
 	#List of blocks that are not allowed to connect to backpacks - e.g. "refinedstorage:external_storage"
@@ -28,7 +27,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-
 	#Advanced Void Upgrade Settings
 	[server.advancedVoidUpgrade]
 		#Number of Advanced Void Upgrade's filter slots
@@ -39,7 +37,6 @@
 		slotsInRow = 4
 		#Determines whether void upgrade allows voiding anything or it only has overflow option
 		voidAnythingEnabled = true
-
 	#Advanced Magnet Upgrade Settings
 	[server.advancedMagnetUpgrade]
 		#Number of Advanced Magnet Upgrade's filter slots
@@ -51,7 +48,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-
 	#Smoking Upgrade Settings
 	[server.smokingUpgrade]
 		#Smelting speed multiplier (1.0 equals speed at which vanilla furnace smelts items)
@@ -60,7 +56,6 @@
 		#Fuel efficiency multiplier (1.0 equals speed at which it's used in vanilla furnace)
 		#Range: 0.25 ~ 4.0
 		fuelEfficiencyMultiplier = 1.0
-
 	#Pickup Upgrade Settings
 	[server.pickupUpgrade]
 		#Number of Pickup Upgrade's filter slots
@@ -69,7 +64,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 3
-
 	#Diamond Backpack Settings
 	[server.diamondBackpack]
 		#Number of upgrade slots in the backpack
@@ -78,7 +72,6 @@
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
 		inventorySlotCount = 108
-
 	#Filter Upgrade Settings
 	[server.filterUpgrade]
 		#Number of Filter Upgrade's filter slots
@@ -87,7 +80,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 3
-
 	#Compacting Upgrade Settings
 	[server.compactingUpgrade]
 		#Number of Compacting Upgrade's filter slots
@@ -96,7 +88,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 3
-
 	#Advanced Compacting Upgrade Settings
 	[server.advancedCompactingUpgrade]
 		#Number of Advanced Compacting Upgrade's filter slots
@@ -105,7 +96,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-
 	#Void Upgrade Settings
 	[server.voidUpgrade]
 		#Number of Void Upgrade's filter slots
@@ -116,7 +106,6 @@
 		slotsInRow = 3
 		#Determines whether void upgrade allows voiding anything or it only has overflow option
 		voidAnythingEnabled = true
-
 	#Tool Swapper Upgrade Settings
 	[server.toolSwapperUpgrade]
 		#Number of Tool Swapper Upgrade's filter slots
@@ -125,7 +114,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-
 	[server.nerfs]
 		#Ratio of slowness levels per every backpack above the maximum number allowed. (number of backpacks above the max gets multiplied by this number and ceiled)
 		#Range: 0.1 ~ 5.0
@@ -137,14 +125,12 @@
 		maxNumberOfBackpacks = 3
 		#Determines if too many backpacks in player's inventory cause slowness to the player
 		tooManyBackpacksSlowness = false
-
 	#Inception Upgrade Settings
 	[server.inceptionUpgrade]
 		#Allows / Disallows backpack upgrades to work with inventories of Backpacks in the Backpack with Inception Upgrade
 		upgradesUseInventoriesOfBackpacksInBackpack = true
 		#Allows / Disallows upgrades to be functional even when they are in Backpacks in the inventory of Backpack with Inception Upgrade
 		upgradesInContainedBackpacksAreFunctional = true
-
 	#Restock Upgrade Settings
 	[server.restockUpgrade]
 		#Number of Restock Upgrade's filter slots
@@ -153,7 +139,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 3
-
 	#Auto-Blasting Upgrade Settings
 	[server.autoBlastingUpgrade]
 		#Number of fuel filter slots displayed in a row
@@ -174,7 +159,6 @@
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 6
 		inputFilterSlotsInRow = 4
-
 	#Auto-Smoking Upgrade Settings
 	[server.autoSmokingUpgrade]
 		#Number of fuel filter slots displayed in a row
@@ -195,7 +179,6 @@
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 6
 		inputFilterSlotsInRow = 4
-
 	#Advanced Deposit Upgrade Settings
 	[server.advancedDepositUpgrade]
 		#Number of Advanced Deposit Upgrade's filter slots
@@ -204,7 +187,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-
 	#Netherite Backpack Settings
 	[server.netheriteBackpack]
 		#Number of upgrade slots in the backpack
@@ -213,7 +195,6 @@
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
 		inventorySlotCount = 120
-
 	#Deposit Upgrade Settings
 	[server.depositUpgrade]
 		#Number of Deposit Upgrade's filter slots
@@ -222,7 +203,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 3
-
 	#Pump Upgrade Settings
 	[server.pumpUpgrade]
 		#Ratio that gets applied (multiplies) to inventory stack multiplier before this is applied to max input/output value. Value lower than 1 makes stack multiplier affect the capacity less, higher makes it affect the capacity more. 0 turns off stack multiplier affecting input/output
@@ -234,7 +214,6 @@
 		#How much mB can be transfered in / out per operation. This is a base transfer rate that gets multiplied by number of rows in storage and stack multiplier.
 		#Range: 1 ~ 1000
 		maxInputOutput = 20
-
 	#Auto-Smelting Upgrade Settings
 	[server.autoSmeltingUpgrade]
 		#Number of fuel filter slots displayed in a row
@@ -255,7 +234,6 @@
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 6
 		inputFilterSlotsInRow = 4
-
 	#Advanced Restock Upgrade Settings
 	[server.advancedRestockUpgrade]
 		#Number of Advanced Restock Upgrade's filter slots
@@ -264,7 +242,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-
 	#Blasting Upgrade Settings
 	[server.blastingUpgrade]
 		#Smelting speed multiplier (1.0 equals speed at which vanilla furnace smelts items)
@@ -273,7 +250,6 @@
 		#Fuel efficiency multiplier (1.0 equals speed at which it's used in vanilla furnace)
 		#Range: 0.25 ~ 4.0
 		fuelEfficiencyMultiplier = 1.0
-
 	#Leather Backpack Settings
 	[server.leatherBackpack]
 		#Number of upgrade slots in the backpack
@@ -282,7 +258,6 @@
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
 		inventorySlotCount = 27
-
 	#Gold Backpack Settings
 	[server.goldBackpack]
 		#Number of upgrade slots in the backpack
@@ -291,7 +266,6 @@
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
 		inventorySlotCount = 81
-
 	#Iron Backpack Settings
 	[server.ironBackpack]
 		#Number of upgrade slots in the backpack
@@ -300,7 +274,6 @@
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
 		inventorySlotCount = 54
-
 	#Advanced Feeding Upgrade Settings
 	[server.advancedFeedingUpgrade]
 		#Number of Advanced Feeding Upgrade's filter slots
@@ -309,7 +282,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-
 	#Feeding Upgrade Settings
 	[server.feedingUpgrade]
 		#Number of Feeding Upgrade's filter slots
@@ -318,7 +290,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 3
-
 	#Advanced Refill Upgrade Settings
 	[server.advancedRefillUpgrade]
 		#Number of Advanced Refill Upgrade's filter slots
@@ -327,7 +298,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-
 	#Magnet Upgrade Settings
 	[server.magnetUpgrade]
 		#Number of Magnet Upgrade's filter slots
@@ -339,7 +309,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 3
-
 	#Smelting Upgrade Settings
 	[server.smeltingUpgrade]
 		#Smelting speed multiplier (1.0 equals speed at which vanilla furnace smelts items)
@@ -348,7 +317,6 @@
 		#Fuel efficiency multiplier (1.0 equals speed at which it's used in vanilla furnace)
 		#Range: 0.25 ~ 4.0
 		fuelEfficiencyMultiplier = 1.0
-
 	#Xp Pump Upgrade Settings
 	[server.xpPumpUpgrade]
 		#Whether xp pump can mend items with mending. Set false here to turn off the feature altogether.
@@ -356,7 +324,6 @@
 		#How many experience points at a maximum would be used to mend an item per operation (every 5 ticks and 1 xp point usually translates to 2 damage repaired).
 		#Range: 1 ~ 20
 		maxXpPointsPerMending = 5
-
 	#Tank Upgrade Settings
 	[server.tankUpgrade]
 		#Ratio that gets applied (multiplies) to inventory stack multiplier before this is applied to max energy of the battery and max in/out. Value lower than 1 makes stack multiplier affect the max energy less, higher makes it affect the max energy more. 0 turns off stack multiplier affecting battery upgrade
@@ -374,7 +341,6 @@
 		#Cooldown between fill/drain actions done on fluid containers in tank slots. Only fills/drains one bucket worth to/from container after this cooldown and then waits again.
 		#Range: 1 ~ 100
 		autoFillDrainContainerCooldown = 20
-
 	#Advanced Pickup Upgrade Settings
 	[server.advancedPickupUpgrade]
 		#Number of Advanced Pickup Upgrade's filter slots
@@ -383,7 +349,6 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 4
-
 	#Refill Upgrade Settings
 	[server.refillUpgrade]
 		#Number of Refill Upgrade's filter slots
@@ -392,17 +357,15 @@
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 3
-
 	#Stack Upgrade Settings
 	[server.stackUpgrade]
 		#List of items that are not supposed to stack in storage even when stack upgrade is inserted. Item registry names are expected here.
 		nonStackableItems = ["minecraft:bundle", "minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box"]
-
 	#Settings for Spawning Entities with Backpack
 	[server.entityBackpackAdditions]
 		#Chance of an entity spawning with Backpack
 		#Range: 0.0 ~ 1.0
-		chance = 0.01
+		chance = 0.00
 		#Chance increase per looting level of mob dropping backpack
 		#Range: 0.0 ~ 0.3
 		lootingChanceIncreasePerLevel = 0.15
@@ -425,4 +388,3 @@
 		addLoot = true
 		#Turns on/off a chance that the entity that wears backpack gets jukebox upgrade and plays a music disc.
 		playJukebox = true
-

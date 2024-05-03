@@ -1,0 +1,8 @@
+{
+  "maxStacker": 99,
+  "itemOverride": [
+    "#c:not_stackable:1"
+  ],
+  "fontOverride": true,
+  "itemCountScaleInt": 25
+}

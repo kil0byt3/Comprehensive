@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "hidden": "IN_PROGRESS"
+  },
+  "dependencies": [
+    "687ED1196101F48D",
+    "47ED4204DD0D65C4"
+  ],
+  "tasks": {
+    "4332DE476304087F": {
+      "type": "heracles:item",
+      "item": "minecraft:turtle_helmet"
+    }
+  },
+  "rewards": {
+    "777F2EAF4C750945": {
+      "type": "heracles:item",
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:aqua_affinity",
+              "lvl": 1
+            }
+          ]
+        }
+      }
+    },
+    "256FDDB934BF6FDE": {
+      "type": "heracles:item",
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:strong_turtle_master"
+        }
+      }
+    }
+  },
+  "display": {
+    "title": "Cowabunga!",
+    "description": [
+      "<subtitle id=\"56295946AF0DD074\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"4332DE476304087F\" quest=\"56295946AF0DD074\"/>",
+      "<hr/>",
+      "&&3Turtle Shells&&r are helmets that provide additional &&dBreath Capacity&&r, similar to the &&3Respiration&&r enchantment. ",
+      "<br/>",
+      "They can also be brewed into three &&ePotion of the Turtle Master&&r - a specialized &&3Combat Potion&&r that &&dslows you&&r.",
+      "<hr/>",
+      "<reward reward=\"777F2EAF4C750945\" quest=\"56295946AF0DD074\"/>",
+      "<reward reward=\"256FDDB934BF6FDE\" quest=\"56295946AF0DD074\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:turtle_helmet"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "subtitle": {
+      "text": "Craft a Turtle Shell"
+    },
+    "groups": {
+      "Exploration": {
+        "position": [
+          -336,
+          -192
+        ]
+      }
+    }
+  }
+}

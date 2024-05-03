@@ -1,4 +1,3 @@
-
 [overlay]
 	#Range: 0.0 ~ 1.7976931348623157E308
 	scale = 1.0
@@ -10,7 +9,5 @@
 		x = 6
 		#Range: > -2147483648
 		y = 6
-
 [effects]
 	seasonal = true
-

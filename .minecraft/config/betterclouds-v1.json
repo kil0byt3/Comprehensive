@@ -5,7 +5,7 @@
   "fuzziness": 1.0,
   "shuffle": false,
   "y_range": 64.0,
-  "y_offset": 104.0,
+  "y_offset": 200.0,
   "sparsity": 0.0,
   "spacing": 5.25,
   "size_x_z": 16.0,

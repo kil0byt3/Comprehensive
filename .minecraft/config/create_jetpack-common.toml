@@ -1,10 +1,8 @@
-
 [air]
 	#Range: > 1
 	uses_per_tank = 2048
 	#Range: > 1
 	uses_per_tank_hover = 20480
-
 [speed]
 	#Range: 0.01 ~ 100.0
 	horizontal = 0.02
@@ -16,8 +14,6 @@
 	vertical = 0.4
 	#Range: -100.0 ~ 0.0
 	hover_descend = -0.03
-
 [features]
 	#Range: 1.0 ~ 100.0
 	elytra_boost = 1.25
-

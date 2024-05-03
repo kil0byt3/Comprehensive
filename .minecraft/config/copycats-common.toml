@@ -1,4 +1,3 @@
-
 #.
 #Enable/disable features. Values on server override clients
 [features]
@@ -25,4 +24,3 @@
 	copycat_half_layer = true
 	copycat_layer = true
 	copycat_stone_button = true
-

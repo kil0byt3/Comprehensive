@@ -62,4 +62,3 @@ crushingWheelDropExpScale = 0.3400000035762787
 #.
 #Whether or not copying a written book always get original version. Setting it to false let you always get copy version of the book.
 copyingWrittenBookAlwaysGetOriginalVersion = true
-

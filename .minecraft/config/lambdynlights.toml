@@ -57,6 +57,20 @@ mode = "fancy"
 				guardian = true
 				elder_guardian = true
 				trident = true
+				frog = true
+				experience_orb = true
+				item_frame = true
+				area_effect_cloud = true
+				panda = true
+				goat = true
+				wither_skeleton = true
+				phantom = true
+				potion = true
+				hoglin = true
+				illusioner = true
+				armor_stand = true
+				painting = true
+				magma_cube = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
@@ -71,4 +85,63 @@ mode = "fancy"
 				lizard = true
 				bluejay = true
 				finch = true
+				zebra = true
+				boar = true
+				vulture = true
+				rhino = true
+				canary = true
+				giraffe = true
+				bass = true
+				lion = true
+				cardinal = true
+				duck = true
+				butterfly = true
+				catfish = true
+				elephant = true
+				alligator = true
+				tortoise = true
+				coral_snake = true
+				robin = true
+				snake = true
+				sparrow = true
+				rattlesnake = true
+				bear = true
+				deer = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				beach_creeper = true
+				cave_creeper = true
+				savannah_creeper = true
+				desert_creeper = true
+				dripstone_creeper = true
+				bamboo_creeper = true
+				jungle_creeper = true
+				hills_creeper = true
+				badlands_creeper = true
+
+			[light_sources.settings.entities.ecologics]
+				coconut_crab = true
+				squirrel = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				savanna_enderman = true
+				badlands_enderman = true
+				cave_enderman = true
+				desert_enderman = true
+
+			[light_sources.settings.entities.duckling]
+				duck = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.create]
+				super_glue = true
+				stationary_contraption = true
 

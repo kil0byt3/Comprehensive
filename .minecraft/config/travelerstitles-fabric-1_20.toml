@@ -1,5 +1,5 @@
 [biomes]
-enabled = true
+enabled = false
 textFadeInTime = 10
 textDisplayTime = 50
 textFadeOutTime = 10

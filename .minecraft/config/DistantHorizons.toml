@@ -83,6 +83,9 @@ _version = 2
 				# Note: Other mods may conflict with this setting.
 				# 
 				disableVanillaFog = true
+				# At what distance should Fog be drawn on the LODs?
+				# 
+				distance = "FAR"
 
 				[client.advanced.graphics.fog.advancedFog]
 					# At what distance should the far fog start? 
@@ -322,6 +325,16 @@ _version = 2
 				# 
 				# 
 				grassSideRendering = "FADE_TO_DIRT"
+				# Buggy experimental option that will attempt to match up 
+				# Distant Horizons' and Minecraft's near/far clip planes, 
+				# reducing overdraw. 
+				# 
+				# Only functional on Fabric.
+				# Works best with an overdraw prevention setting of MEDIUM or higher 
+				#  and cave culling is disabled. 
+				# 
+				# 
+				seamlessOverdraw = false
 
 		[client.advanced.worldGenerator]
 			#  Should Distant Horizons slowly generate LODs 
@@ -330,7 +343,7 @@ _version = 2
 			#  Note: when on a server, distant generation isn't supported 
 			#  and will always be disabled.
 			# 
-			enableDistantGeneration = true
+			enableDistantGeneration = false
 			# How detailed should LODs be generated outside the vanilla render distance? 
 			# 
 			# PRE_EXISTING_ONLY 
@@ -421,12 +434,6 @@ _version = 2
 			# Expected Compression Ratio: 0.36
 			# Estimated average DTO read speed: 1.85 ms
 			# Estimated average DTO write speed: 9.46 ms
-			# 
-			# Z_STD 
-			# A good middle ground between speed and compression.
-			# Expected Compression Ratio: 0.21
-			# Estimated average DTO read speed: 11.78 ms
-			# Estimated average DTO write speed: 16.77 ms
 			# 
 			# LZMA2 
 			# Slow but very good compression.
@@ -707,6 +714,15 @@ _version = 2
 				# Render full data update/lock status?
 				# 
 				showFullDataUpdateStatus = false
+				# Render full data file status?
+				# 
+				showFullDataFileStatus = false
+				# Render full data file sampling progress?
+				# 
+				showFullDataFileSampling = false
+				# Render render data file status?
+				# 
+				showRenderDataFileStatus = false
 
 			[client.advanced.debugging.openGl]
 				# Requires a reboot to change. 

@@ -1,10 +1,8 @@
-
 [Camera]
 	#Default focal range of the camera (without a lens attached).
 	#Allowed range: 10-300
 	#Default: 18-55
 	DefaultFocalRange = "18-55"
-
 [Lightroom]
 	#Time in ticks to print black and white photograph. Default: 80
 	#Range: > 1
@@ -24,17 +22,13 @@
 	#Amount of experience awarded per printed black and white Photograph. Set to 0 to disable. Default: 2
 	#Range: 0 ~ 99
 	ExperiencePerPrintBW = 2
-
 [Photographs]
 	#How many photographs can be stacked in Stacked Photographs item. Default: 16.
 	#Larger numbers may cause errors. Use at your own risk.
 	#Range: 2 ~ 64
 	StackedPhotographsMaxSize = 16
-
 [Integration]
-
 	[Integration.Create]
-
 		[Integration.Create.SequencedSpoutFilmDeveloping]
 			#Film can be developed with create Spout Filling. Default: true
 			Enabled = true
@@ -42,4 +36,3 @@
 			ColorFilmSequence = ["{FluidName:\"create:potion\",Amount:27000,Tag:{Potion:\"minecraft:awkward\"}}", "{FluidName:\"create:potion\",Amount:27000,Tag:{Potion:\"minecraft:thick\"}}", "{FluidName:\"create:potion\",Amount:27000,Tag:{Potion:\"minecraft:mundane\"}}"]
 			#Fluid spouting sequence required to develop black and white film.
 			BlackAndWhiteFilmSequence = ["{FluidName:\"minecraft:water\",Amount:27000}"]
-

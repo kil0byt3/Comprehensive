@@ -1,0 +1,81 @@
+{
+  "dependencies": [
+    "15402DCFAC7CC56A"
+  ],
+  "tasks": {
+    "1458865ACC4EFFB5": {
+      "title": "Click Here!",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "2B52865B1A2AB9EB": {
+      "item": {
+        "id": "minecraft:lantern",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "spyglass": {
+      "item": {
+        "id": "minecraft:spyglass",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": "Movement, Information, and Crafting"
+    },
+    "description": [
+      "<subtitle id=\"7840EB3C8B8048EF\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1458865ACC4EFFB5\" quest=\"7840EB3C8B8048EF\"/>",
+      "<hr/>",
+      "&&7[Go Prone]&&r Press &&7[&&r&&6X&&r&&7]&&r to crawl.",
+      "<br/>",
+      "&&7[PicoHUD/WTHIT]&&r Hold &&7[&&r&&6ALT&&r&&7]&&r to show your &&3location&&r, the &&3time&&r, and information about what's in front of you.",
+      "<br/>",
+      "&&7[Spyglass Improvements]&&r When you have a spyglass in your inventory, hold &&7[&&r&&6Z&&r&&7]&&r to zoom in on far away objects. You can use the mouse wheel to zoom in and out! Also, note that you can use a spyglass if it's anywhere in your inventory, not just on your hotbar. There's also a Trinket slot for it!",
+      "<br/>",
+      "&&7[Noteable]&&r Press &&7[&&r&&6N&&r&&7]&&r to open your notes, where you can write things down for this world.",
+      "<br/>",
+      "&&7[LambDynamicLights/ClientTweaks]&&r Held items like &&3Torches&&r will &&dlight up their surroundings&&r. Press &&7[&&r&&6F&&r&&7]&&r to swap one to your &&3off-hand&&r, where it can't be placed accidentally.",
+      "<br/>",
+      "&&7[Reacharound]&&r When a &&3visual [- -] indicator&&r appears at the crosshair, you can place blocks on &&dnormally unreachable sides&&r - Useful for building &&dbridges, walls, and downward staircases&&r.",
+      "<hr/>",
+      "<reward reward=\"2B52865B1A2AB9EB\" quest=\"7840EB3C8B8048EF\"/>",
+      "<reward reward=\"spyglass\" quest=\"7840EB3C8B8048EF\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          -48,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:fishing_rod",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "title": {
+      "text": "Pack Controls"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}
