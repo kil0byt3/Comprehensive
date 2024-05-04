@@ -44,7 +44,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","itemswapper:experimental_addon","Moonlight Mods Dynamic Assets","extendeddrawersaddon:addon","presencefootsteps:default_sound_pack","file/Stay_True_1.20.zip","file/FreshAnimations_v1.9.zip","file/Simple Create Radios.zip","file/Create Simple Storage 2.1.zip"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","itemswapper:default","itemswapper:experimental_addon","bloomingnature:bushy_leaves","vinery:bushy_leaves","Moonlight Mods Dynamic Assets","presencefootsteps:default_sound_pack","file/Stay_True_1.20.zip","file/FreshAnimations_v1.9.zip","file/Simple Create Radios.zip","file/Create Simple Storage 2.1.zip"]
 incompatibleResourcePacks:["file/Create Simple Storage 2.1.zip"]
 lastServer:
 lang:en_us
@@ -55,7 +55,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -108,7 +108,7 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.c
+key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.unknown
 key_key.hotbar.1:key.keyboard.1
@@ -123,7 +123,7 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
-key_key.ad_astra.toggle_suit_flight:key.keyboard.v
+key_key.ad_astra.toggle_suit_flight:key.keyboard.unknown
 key_key.ad_astra.open_radio:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
@@ -137,7 +137,7 @@ key_key.bankstorage.lockslot:key.keyboard.left.alt
 key_key.bankstorage.openbankfromkeybind:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
-key_key.botania_corporea_request:key.keyboard.c
+key_key.botania_corporea_request:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
 key_keybinds.combatroll.roll:key.keyboard.r
 key_key.craftingtweaks.rotate:key.keyboard.unknown
@@ -213,8 +213,6 @@ key_key.paraglider.paragliderSettings:key.keyboard.p
 key_ping-wheel.key.ping-location:key.mouse.5
 key_ping-wheel.key.open-settings:key.keyboard.unknown
 key_ping-wheel.key.name-labels:key.keyboard.left.alt
-key_key.portable_tables.open_craft:key.keyboard.v
-key_key.portable_tables.open_furnace:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.p
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
@@ -223,15 +221,15 @@ key_key.showmeyourskin.open_settings:key.keyboard.o
 key_key.showmeyourskin.global_toggle:key.keyboard.unknown
 key_simplemagnets.keys.toggle:key.keyboard.h
 key_key.smallships.ship_sail:key.keyboard.comma
-key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
-key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.c
+key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.b
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.z
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown
@@ -252,18 +250,18 @@ key_key.trashslot.deleteAll_modifier:key.keyboard.left.shift
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.toggle_felling:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
-key_treechop.key.open_settings_overlay:key.keyboard.minus
+key_treechop.key.open_settings_overlay:key.keyboard.t
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.unknown
-key_key.hide_icons:key.keyboard.h
-key_key.voice_chat:key.keyboard.v
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.backslash
 key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.weaponmaster.opengui:key.keyboard.v
+key_key.weaponmaster.opengui:key.keyboard.semicolon
 key_key.waila.config:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
@@ -324,4 +322,4 @@ modelPart_left_sleeve:true
 modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
-modelPart_hat:true
+modelPart_hat:false

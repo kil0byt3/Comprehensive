@@ -15,7 +15,7 @@ event.remove({ output: 'simplyswords:diamond_spear' })
 event.remove({ output: 'simplyswords:netherite_spear' })
 event.remove({ output: 'simplyswords:runic_spear' })
 
-// Hide broken chipped upgrades
+// Remove broken chipped upgrades
 event.remove({ output: 'sophisticatedbackpacks:chipped/botanist_workbench_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/glassblower_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/carpenters_table_upgrade' })
@@ -23,6 +23,9 @@ event.remove({ output: 'sophisticatedbackpacks:chipped/loom_table_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/mason_table_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/alchemy_bench_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/tinkering_table_upgrade' })
+
+// Remove OP upgrades
+event.remove({ output: 'sophisticatedbackpacks:inception_upgrade' })
 
 
 // Sophisticated Backpacks rebalance

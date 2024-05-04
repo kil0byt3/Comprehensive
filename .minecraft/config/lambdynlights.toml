@@ -74,6 +74,8 @@ mode = "fancy"
 				pillager = true
 				arrow = true
 				vindicator = true
+				ghast = true
+				camel = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
@@ -111,6 +113,7 @@ mode = "fancy"
 				bear = true
 				deer = true
 				dragonfly = true
+				hippo = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -130,6 +133,7 @@ mode = "fancy"
 				badlands_creeper = true
 				ocean_creeper = true
 				swamp_creeper = true
+				spruce_creeper = true
 
 			[light_sources.settings.entities.ecologics]
 				coconut_crab = true
@@ -141,6 +145,7 @@ mode = "fancy"
 				cave_enderman = true
 				desert_enderman = true
 				swamp_enderman = true
+				coral_enderman = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true
@@ -154,4 +159,26 @@ mode = "fancy"
 
 			[light_sources.settings.entities.sihywtcamd]
 				cobweb = true
+
+			[light_sources.settings.entities.farmingforblockheads]
+				merchant = true
+
+			[light_sources.settings.entities.spell_engine]
+				spell_area_effect = true
+				spell_projectile = true
+
+			[light_sources.settings.entities.bloomingnature]
+				squirrel = true
+				boar = true
+				deer = true
+				turkey = true
+				owl = true
+				pelican = true
+
+			[light_sources.settings.entities.meadow]
+				brown_bear = true
+				wooly_cow = true
+
+			[light_sources.settings.entities.exposure]
+				photograph = true
 

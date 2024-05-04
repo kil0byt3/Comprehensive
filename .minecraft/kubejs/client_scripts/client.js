@@ -15,4 +15,5 @@ REIEvents.hide('item', event => {
     event.hide('sophisticatedbackpacks:chipped/mason_table_upgrade' )
     event.hide('sophisticatedbackpacks:chipped/alchemy_bench_upgrade' )
     event.hide('sophisticatedbackpacks:chipped/tinkering_table_upgrade' )
+    event.hide('sophisticatedbackpacks:inception_upgrade' )
 })

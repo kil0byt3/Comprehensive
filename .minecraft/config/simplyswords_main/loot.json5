@@ -2,7 +2,7 @@
 	"enableLootDrops": true,
 	"enableLootInVillages": false,
 	"enableTheWatcher": true,
-	"standardLootTableWeight": 0.009999999776482582,
+	"standardLootTableWeight": 0.0,
 	"rareLootTableWeight": 0.004000000189989805,
 	"runicLootTableWeight": 0.007000000216066837,
 	"uniqueLootTableWeight": 0.0010000000474974513,
