@@ -1,0 +1,76 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "6B547341AB9F3005": {
+      "type": "heracles:item",
+      "item": "#c:pickaxes",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Wooden Pickaxe",
+      "icon": {
+        "item": {
+          "id": "minecraft:wooden_pickaxe",
+          "count": 1,
+          "nbt": {
+            "Damage": 0
+          }
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "7DE872D39C3E7272": {
+      "item": {
+        "id": "minecraft:stone_sword",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Wooden Pickaxe"
+    },
+    "description": [
+      "<subtitle id=\"53AFBD6DDF572701\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"6B547341AB9F3005\" quest=\"53AFBD6DDF572701\"/>",
+      "<hr/>",
+      "A &&3Wooden Pickaxe&&r can be made using material from &&3Trees&&r at a &&3Crafting Table&&r.",
+      "<br/>",
+      "&&7[EMI]&&r You can &&dlook up recipes for both any time&&r in the search box!",
+      "<hr/>",
+      "<reward reward=\"7DE872D39C3E7272\" quest=\"53AFBD6DDF572701\"/>"
+    ],
+    "groups": {
+      "The Basics": {
+        "position": [
+          48,
+          -80
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:crafting_table",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Recipe Chim-Cheri"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

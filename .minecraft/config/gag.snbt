@@ -71,23 +71,23 @@
 		# Time (in ticks) the player has to wait after using the stone, default is 60 seconds
 		# Default: 1200
 		# Range: 0 ~ 72000
-		cooldown: 1200
+		cooldown: 72000
 		
 		# Damage multiplier for using the stone across dimensions, default is 2
 		# Set to -1 to disable teleporting across dimensions
 		# Default: 2
 		# Range: -∞ ~ +∞
-		dimensionMultiplier: 2
+		dimensionMultiplier: -1
 		
 		# Maximum durability of the stone, default is 64
 		# Default: 64
 		# Range: 0 ~ 32767
-		durability: 64
+		durability: 16
 		
 		# Maximum durability of the energized hearthstone, default is 256
 		# Default: 256
 		# Range: 0 ~ 32767
-		energizedDurability: 256
+		energizedDurability: 3
 		
 		# Whether the stone should ignore checking whether the spawn block is still valid and unobstructed
 		# Default: false
@@ -105,7 +105,7 @@
 		# Time (in ticks) it takes to use the stone, default is 5 seconds
 		# Default: 100
 		# Range: 0 ~ 72000
-		warmup: 100
+		warmup: 300
 	}
 	
 	# Settings related to miscellaneous items and features

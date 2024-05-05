@@ -1,5 +1,4 @@
 {
-  "settings": {},
   "dependencies": [
     "15402DCFAC7CC56A"
   ],
@@ -11,7 +10,9 @@
   },
   "rewards": {},
   "display": {
-    "title": "Crafting Rebalance",
+    "subtitle": {
+      "translate": "Sentimentality and Vegetarianism"
+    },
     "description": [
       "<subtitle id=\"00BF3119EB22417C\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",
@@ -29,21 +30,31 @@
       "<br/>",
       "Finally, equipment can be &&dde-worked&&r one stage using &&3Netherite Scrap&&r at an &&3Anvil&&r, making adding enchantments &&dcost less experience&&r."
     ],
-    "icon": {
-      "type": "heracles:item",
-      "item": "minecraft:smithing_table"
-    },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
-    "subtitle": {
-      "text": "Sentimentality and Vegetarianism"
-    },
     "groups": {
       "Introduction": {
         "position": [
-          48,
-          -64
+          83,
+          -32
         ]
       }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:smithing_table",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "title": {
+      "translate": "Crafting Rebalance"
     }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
   }
 }

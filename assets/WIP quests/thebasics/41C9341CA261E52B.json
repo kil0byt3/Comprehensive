@@ -1,0 +1,76 @@
+{
+  "dependencies": [
+    "548555BB1E839006"
+  ],
+  "tasks": {
+    "1017D28DD8548D65": {
+      "type": "heracles:item",
+      "item": "#minecraft:beacon_payment_items",
+      "amount": 6,
+      "collection": "AUTOMATIC",
+      "title": "6x Iron Ingot",
+      "icon": {
+        "item": {
+          "id": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "35D4A094E1392970": {
+      "item": {
+        "id": "minecraft:bundle",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Smelt 6 Iron Ingots"
+    },
+    "description": [
+      "<subtitle id=\"41C9341CA261E52B\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1017D28DD8548D65\" quest=\"41C9341CA261E52B\"/>",
+      "<hr/>",
+      "A &&3Stone Pickaxe&&r allows you to mine &&3Iron Ore&&r, which can be smelted at a &&3Furnace&&r into &&dIron Ingots&&r",
+      "<br/>",
+      "An &&3Iron Pickaxe&&r can in turn mine &&3Gold&&r, which makes poor equipment, and the rarer &&3Diamond&&r, which &&dmakes the best overworld equipment&&r.",
+      "<br/>",
+      "&&eBundles&&r can &&dhelp store small varied items&&r, simply &&6Right-Click&&r while holding a stack over the bundle.",
+      "<br/>",
+      "&&7[Fabrication]&&r Bundles can hold up to 8 tools.",
+      "<hr/>",
+      "<reward reward=\"35D4A094E1392970\" quest=\"41C9341CA261E52B\"/>"
+    ],
+    "groups": {
+      "The Basics": {
+        "position": [
+          48,
+          16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:iron_ore",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Going Underground"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "394B1747873BEBD6": {
+      "type": "heracles:item",
+      "item": "#minecraft:beds",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Make a Bed",
+      "icon": {
+        "item": {
+          "id": "minecraft:red_bed",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "6E55816EB6C398FF": {
+      "item": {
+        "id": "another_furniture:oak_drawer",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "4EFC22A08C5CE99E": {
+      "item": {
+        "id": "minecraft:candle",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "A bit different than normal!"
+    },
+    "description": [
+      "<subtitle id=\"20E2938DD7365207\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"394B1747873BEBD6\" quest=\"20E2938DD7365207\"/>",
+      "<hr/>",
+      "&&3Beds&&r allow you to &&dsleep through the night&&r, if you're tired enough, and &&dset your spawn point&&r in case you die.",
+      "<br/>",
+      "&&dTo check your Tiredness&&r, hover over the \"ZZZ\" symbol in your inventory. ",
+      "",
+      "You cannot sleep unless you have &&6100% Tiredness.&&r",
+      "After successfully sleeping, your Tiredness will be reset to 0%.",
+      "",
+      "When your tiredness level reaches 300%, Phantoms have a chance to spawn on you.",
+      "",
+      "As your tiredness level increases, more Phantoms will spawn at once.",
+      "",
+      "The maximum level of Tiredness is 500%.",
+      "",
+      "You can brew two types of potions to help you manage your sleep schedule. ",
+      "",
+      "&&eLiveliness Potions&&r will decrease your Tiredness gain by 0.5x per potion level.",
+      "Liveliness Potions can be brewed with an Awkward Potion and a Honeycomb. Check REI!",
+      "",
+      "&&eDrowsiness Potions&&r will increase your Tiredness gain by 2x per potion level.",
+      "Drowsiness Potions can be brewed by corrupting a Liveliness Potion with a Fermented Spider Eye. Check REI!",
+      "",
+      "<hr/>",
+      "<reward reward=\"6E55816EB6C398FF\" quest=\"20E2938DD7365207\"/>",
+      "<reward reward=\"4EFC22A08C5CE99E\" quest=\"20E2938DD7365207\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -64,
+          -368
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:red_bed",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Beds and Sleeping [Housing]"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -28,7 +28,7 @@
     "//useWhitelistBlocks": "Use Whitelist instead of Blacklist for Blocks",
     "useWhitelistBlocks": false,
     "//useWhitelistEntities": "Use Whitelist instead of Blacklist for Entities",
-    "useWhitelistEntities": false,
+    "useWhitelistEntities": true,
     "//useWhitelistStacking": "Use Whitelist instead of Blacklist for Stacking",
     "useWhitelistStacking": false,
     "//hitWhileCarrying": "Whether the player can hit blocks and entities while carrying or not",
@@ -52,7 +52,7 @@
       "minecraft:oak_trapdoor[half]"
     ],
     "//pickupPlayers": "Whether Players can be picked up. Creative players can't be picked up in Survival Mode",
-    "pickupPlayers": true,
+    "pickupPlayers": false,
     "//pickupUnbreakableBlocks": "Whether players in Survival Mode can pick up unbreakable blocks. Creative players always can.",
     "pickupUnbreakableBlocks": false
   },

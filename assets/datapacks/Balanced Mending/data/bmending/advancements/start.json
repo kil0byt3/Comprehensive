@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "ct": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "function": "bmending:load"
+  }
+}

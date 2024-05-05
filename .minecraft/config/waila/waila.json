@@ -3,7 +3,7 @@
     "displayTooltip": true,
     "shiftForDetails": false,
     "hideShiftText": false,
-    "displayMode": "TOGGLE",
+    "displayMode": "HOLD_KEY",
     "hideFromPlayerList": true,
     "hideFromDebug": true,
     "enableTextToSpeech": false,
@@ -24,11 +24,11 @@
       "bossBarsOverlap": false
     },
     "color": {
-      "backgroundAlpha": 204,
+      "backgroundAlpha": 1,
       "themes": [],
-      "activeTheme": "waila:vanilla"
+      "activeTheme": "waila:dark"
     },
-    "scale": 1.0,
+    "scale": 0.81,
     "fps": 30
   },
   "formatter": {

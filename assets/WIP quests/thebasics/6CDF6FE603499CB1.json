@@ -1,0 +1,69 @@
+{
+  "dependencies": [
+    "345A5D446CD0E0D2"
+  ],
+  "tasks": {
+    "6554F5E5D6221299": {
+      "title": "Free the End",
+      "advancements": [
+        "minecraft:end/kill_dragon"
+      ],
+      "type": "heracles:advancement"
+    }
+  },
+  "rewards": {
+    "009CC64E5C033956": {
+      "item": {
+        "id": "minecraft:diamond_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Free the End"
+    },
+    "description": [
+      "<subtitle id=\"6CDF6FE603499CB1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"6554F5E5D6221299\" quest=\"6CDF6FE603499CB1\"/>",
+      "<hr/>",
+      "To attack the &&4Ender Dragon&&r, first destroy the explosive &&3End Crystals&&r that heal it, making it &&dvulnerable&&r to arrows and melee.",
+      "<br/>",
+      "&&3Dragon Breath&&r is hazardous but can be &&dcollected in bottles for brewing&&r.",
+      "<br/>",
+      "The dragon can also &&3charge&&r at players, flinging them &&dhigh enough into the air to kill&&r on landing.",
+      "<br/>",
+      "Completing the battle grants &&d68 Experience Levels&&r and a decorative &&3Dragon Egg&&r.",
+      "<hr/>",
+      "<reward reward=\"009CC64E5C033956\" quest=\"6CDF6FE603499CB1\"/>"
+    ],
+    "groups": {
+      "The Basics": {
+        "position": [
+          272,
+          64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:knowledge_book",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
+    "title": {
+      "translate": "§o*static noises*§r"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

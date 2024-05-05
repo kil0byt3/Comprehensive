@@ -1,0 +1,88 @@
+{
+  "dependencies": [
+    "423E897DEB76653D"
+  ],
+  "tasks": {
+    "61C1C9ADFC09F727": {
+      "icon": {
+        "item": {
+          "id": "minecraft:saddle",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "stat": "minecraft:horse_one_cm",
+      "target": 5000,
+      "title": "Travel 50 Blocks by Horse",
+      "type": "heracles:stat"
+    }
+  },
+  "rewards": {
+    "610567D311799E3F": {
+      "item": {
+        "id": "minecraft:leather_horse_armor",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "681402F43E21EDA4": {
+      "item": {
+        "id": "minecraft:carrot_on_a_stick",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Saddle and ride a Horse"
+    },
+    "description": [
+      "<subtitle id=\"7AA799B6789ABD71\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"61C1C9ADFC09F727\" quest=\"7AA799B6789ABD71\"/>",
+      "<hr/>",
+      "&&aHorses&&r are some of the simplest forms of &&dimproved transport&&r. ",
+      "<br/>",
+      "A &&aHorse&&r must first be broken in by &&3trying to ride it until it calms&&r. Then saddle it with &&7[&&r&&6Sneak+Right-Click&&r&&7]&&r.",
+      "<br/>",
+      "Horses can also equip &&3Horse Armor&&r (including dyed leather armor!) to &&dimprove their survivability&&r. Just try not to get one stuck in terrain!",
+      "<br/>",
+      "&&aPigs&&r can also be &&dridden using saddles&&r, and a &&3Carrot on a Stick&&r can lead them.",
+      "<br/>",
+      "&&7[Dual Ride]&&r Horses can also seat a &&dpassenger&&r.",
+      "<hr/>",
+      "<reward reward=\"610567D311799E3F\" quest=\"7AA799B6789ABD71\"/>",
+      "<reward reward=\"681402F43E21EDA4\" quest=\"7AA799B6789ABD71\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -208,
+          -320
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:saddle",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Yeehaw"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

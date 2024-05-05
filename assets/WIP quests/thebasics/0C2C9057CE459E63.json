@@ -1,0 +1,98 @@
+{
+  "dependencies": [
+    "274780E9080AF463"
+  ],
+  "tasks": {
+    "1BE9417FD5079964": {
+      "type": "heracles:item",
+      "item": "minecraft:potion",
+      "nbt": {
+        "Potion": "minecraft:fire_resistance"
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "123031348D667D6D": {
+      "type": "heracles:item",
+      "item": "minecraft:potion",
+      "nbt": {
+        "Potion": "minecraft:slow_falling"
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "74647DB1EEC564B3": {
+      "item": {
+        "id": "minecraft:saddle",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "2CE4CC0075F94E19": {
+      "item": {
+        "id": "minecraft:warped_fungus_on_a_stick",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "3BEB49B7D31DCF90": {
+      "item": {
+        "id": "minecraft:redstone",
+        "count": 16
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Brew Fire Res. and Slow Fall. Potions"
+    },
+    "description": [
+      "<subtitle id=\"0C2C9057CE459E63\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1BE9417FD5079964\" quest=\"0C2C9057CE459E63\"/>",
+      "<task task=\"123031348D667D6D\" quest=\"0C2C9057CE459E63\"/>",
+      "<hr/>",
+      "Once visited a few times, &&2The Nether&&r can become safer through the use of &&dpotions and safe transport routes&&r.",
+      "<br/>",
+      "Safer transport includes digging tunnels through &&3Netherrack&&r, and &&eriding&&r a &&bStrider&&r over the lava sea using &&eWarped Fungus&&r.",
+      "<br/>",
+      "&&eRedstone Dust&&r can be brewed into potions to &&dextend their duration&&r, while &&3Glowstone Dust&&r can increase some potions' potency.",
+      "<hr/>",
+      "<reward reward=\"74647DB1EEC564B3\" quest=\"0C2C9057CE459E63\"/>",
+      "<reward reward=\"2CE4CC0075F94E19\" quest=\"0C2C9057CE459E63\"/>",
+      "<reward reward=\"3BEB49B7D31DCF90\" quest=\"0C2C9057CE459E63\"/>"
+    ],
+    "groups": {
+      "The Basics": {
+        "position": [
+          144,
+          112
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Nether-Proof Soup"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

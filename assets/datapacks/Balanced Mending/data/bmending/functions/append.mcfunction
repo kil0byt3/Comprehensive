@@ -1,0 +1,1 @@
+data modify entity @e[type=wandering_trader,limit=1] Offers.Recipes append value {buy:{id:"minecraft:emerald",Count:64b},buyB:{id:book,Count:1},maxUses:1,sell:{id:"minecraft:enchanted_book",Count:1b,tag:{StoredEnchantments:[{id:"minecraft:mending",lvl:1}]}}}

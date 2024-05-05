@@ -321,7 +321,13 @@
 					"ad_astra:oxygen_loading",
 					"ad_astra:fuel_refining",
 					"ad_astra:cryo_freezing",
-					"ad_astra:nasa_workbench"
+					"ad_astra:nasa_workbench",
+					"vinery:fermentation_barrel_display",
+					"vinery:apple_press_display",
+					"herbalbrews:tea_kettle_display",
+					"herbalbrews:cauldron_display",
+					"brewery:brewing_station_display",
+					"brewery:silo_display"
 				],
 				"hiddenCategories": [
 					"minecraft:plugins/tag"
@@ -333,8 +339,7 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}",
-				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}"
 			]
 		}
 	},

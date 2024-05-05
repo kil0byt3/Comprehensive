@@ -1,0 +1,74 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "3DA9DDCFB85248ED": {
+      "type": "heracles:item",
+      "item": "#minecraft:boats",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Wooden Boat",
+      "icon": {
+        "item": {
+          "id": "minecraft:oak_boat",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "206A289D94C23F6C": {
+      "item": {
+        "id": "minecraft:chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Boat"
+    },
+    "description": [
+      "<subtitle id=\"423E897DEB76653D\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"3DA9DDCFB85248ED\" quest=\"423E897DEB76653D\"/>",
+      "<hr/>",
+      "&&3Boats&&r allow you to move long distances over water &&dwithout a hunger cost&&r.",
+      "<br/>",
+      "&&eChests&&r can also be added to boats to &&dtransport extra items&&r.",
+      "<br/>",
+      "By mapping out rivers and creating canals, large stretches can be accessible by boat.",
+      "<br/>",
+      "&&7[Fabrication]&&r Water sources spread more easily when terraforming.",
+      "<hr/>",
+      "<reward reward=\"206A289D94C23F6C\" quest=\"423E897DEB76653D\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -176,
+          -368
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:oak_boat",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Aye 'yam amphibious [Transport] "
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

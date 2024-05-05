@@ -3,9 +3,9 @@
 	"playCooldownFlash": true,
 	"playRollSound": true,
 	"hudArrowColor": 5540067,
-	"hudBackgroundOpacity": 75,
-	"showWhenFull": true,
-	"showHUDInCreative": false,
-	"showKeybinding": true,
+	"hudBackgroundOpacity": 10,
+	"showWhenFull": false,
+	"showHUDInCreative": true,
+	"showKeybinding": false,
 	"keybindingLabelPosition": "LEFT"
 }

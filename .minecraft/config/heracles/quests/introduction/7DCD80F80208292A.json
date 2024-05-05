@@ -1,5 +1,4 @@
 {
-  "settings": {},
   "dependencies": [
     "15402DCFAC7CC56A"
   ],
@@ -11,37 +10,47 @@
   },
   "rewards": {},
   "display": {
-    "title": "Difficulty Changes",
+    "subtitle": {
+      "translate": "Graves, Pets, and Monsters"
+    },
     "description": [
       "<subtitle id=\"7DCD80F80208292A\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",
       "<task task=\"13A47D4ACD23046E\" quest=\"7DCD80F80208292A\"/>",
       "<hr/>",
-      "&&7[Apathy]&&r On &&3Easy Difficulty&&r, mobs &&dwill not attack you&&r unless you attack them first - including guard mobs and bosses. On Normal and above servers, type &&6/apathy set join neutral&&r to enable this for just you.",
+      "&&7[Apocalypse]&&r Zombies may form hordes to hunt you down, break blocks to get to you, and pounce to attack you. /6/Be careful! /6/",
+      "<br/>",
+      "&&7[SIHYWTCAMD]&&r Basically, /4/almost every hostile mob has been reworked/4/, from small changes to huge ones. Some of them are inspired by the Bedrock edition, which is a bit different (and often harder) than the Java one. There are now also a few achievements to make the experience even funnier!",
       "<br/>",
       "&&7[YIGD]&&r On death, a &&3Grave&&r will be placed that &&dcontains your items&&r. Simply &&6Right-Click&&r the grave to restore them. When respawning, you'll receive a &&3Compass&&r that points to your grave.",
       "<br/>",
-      "&&7[SaveThePets]&&r You can't accidentally hit your tamed animals like &&aHorses&&r or &&aWolves&&r. On death, tamed animals drop a note that, when used on a &&3Copper Block&&r, will &&drevive&&r them. ",
-      "<br/>",
-      "&&7[Pettable]&&r Animals can be pet with &&6Middle-Click&&r to &&drestore some health&&r.",
-      "<br/>",
-      "&&7[HorseBuff/Fabrication]&&r Saddled &&aHorses&&r &&dwill not wander&&r from where they're left. &&6Sneak+Right-Click&&r to unsaddle mobs."
+      "&&7[Friendly Fire]&&r You can't accidentally hit your tamed animals like &&aHorses&&r or &&aWolves&&r. "
     ],
-    "icon": {
-      "type": "heracles:item",
-      "item": "minecraft:structure_void"
-    },
-    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
-    "subtitle": {
-      "text": "Apathy, Graves, and Pets"
-    },
     "groups": {
       "Introduction": {
         "position": [
-          -48,
-          -64
+          0,
+          -118
         ]
       }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:structure_void",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "title": {
+      "translate": "Difficulty Changes"
     }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
   }
 }
