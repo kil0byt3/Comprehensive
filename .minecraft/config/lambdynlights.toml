@@ -157,6 +157,7 @@ mode = "fancy"
 				coral_enderman = true
 				flower_fields_enderman = true
 				corrupted_pearl = true
+				snowy_enderman = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true
