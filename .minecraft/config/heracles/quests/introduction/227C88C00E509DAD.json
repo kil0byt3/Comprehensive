@@ -4,7 +4,7 @@
   ],
   "tasks": {
     "636D01F223970749": {
-      "title": "Click here to reselect your Origin!",
+      "title": "Click here!",
       "type": "heracles:check"
     }
   },
@@ -63,7 +63,7 @@
   "settings": {
     "unlockNotification": false,
     "showDependencyArrow": true,
-    "repeatable": true,
+    "repeatable": false,
     "individual_progress": false,
     "hidden": "IN_PROGRESS"
   }

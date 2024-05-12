@@ -26,7 +26,7 @@ hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.5
 screenEffectScale:1.0
-fovEffectScale:1.0
+fovEffectScale:0.20138248793971458
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
@@ -78,7 +78,7 @@ skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:false
-hideBundleTutorial:false
+hideBundleTutorial:true
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
@@ -227,11 +227,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.c
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.b
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.z
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.z
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
 key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown
@@ -265,7 +265,7 @@ key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.weaponmaster.opengui:key.keyboard.o
 key_key.waila.config:key.keyboard.keypad.0
-key_key.waila.show_overlay:key.keyboard.left.alt
+key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
@@ -273,12 +273,12 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.i
 soundCategory_master:1.0
-soundCategory_music:0.5042583626760564
+soundCategory_music:0.40324053697183115
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_neutral:0.702475792253521
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0

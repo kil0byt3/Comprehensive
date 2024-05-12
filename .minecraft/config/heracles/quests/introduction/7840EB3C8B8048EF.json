@@ -55,7 +55,7 @@
       "",
       "&&7[Spyglass Improvements]&&r When you have a spyglass in your inventory, hold &&7[&&r&&6Z&&r&&7]&&r to zoom in on far away objects. You can use the mouse wheel to zoom in and out! Also, note that you can use a spyglass if it's anywhere in your inventory, not just on your hotbar. There's also a Trinket slot for it!",
       "<br/>",
-      "&&7[PicoHUD/WTHIT]&&r Press &&7[&&r&&6ALT&&r&&7]&&r to get a small UI showing your coordinates, biome, direction, and what you are looking at. If you prefer to change this, you can change the way the \"What Am I Looking At\" UI appears by pressing Numpad 0, or searching for \"wthit\" in the Mod Settings. ",
+      "&&7[PicoHUD/WTHIT]&&r Press &&7[&&r&&6ALT&&r&&7]&&r to get a small UI showing your coordinates, biome, and direction. If you prefer to not always see what you're looking at at the top of your screen, you can change the way the \"What Am I Looking At\" UI appears by pressing Numpad 0, or searching for \"wthit\" in the Mod Settings. ",
       "<br/>",
       "<hr/>",
       "/5/Other useful UI changes:/5/",
