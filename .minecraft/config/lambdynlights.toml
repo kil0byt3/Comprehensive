@@ -83,6 +83,15 @@ mode = "fancy"
 				furnace_minecart = true
 				endermite = true
 				lightning_bolt = true
+				blaze = true
+				strider = true
+				piglin = true
+				piglin_brute = true
+				zombified_piglin = true
+				vex = true
+				allay = true
+				ender_dragon = true
+				ender_pearl = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
@@ -158,6 +167,11 @@ mode = "fancy"
 				flower_fields_enderman = true
 				corrupted_pearl = true
 				snowy_enderman = true
+				warped_forest_enderman = true
+				crimson_forest_enderman = true
+				nether_wastes_enderman = true
+				end_enderman = true
+				end_islands_enderman = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true
