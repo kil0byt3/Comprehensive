@@ -256,7 +256,7 @@ _version = 2
 				#  and cave culling is disabled. 
 				# 
 				# 
-				seamlessOverdraw = true
+				seamlessOverdraw = false
 				# How bright LOD colors are. 
 				# 
 				# 0 = black 
@@ -310,7 +310,7 @@ _version = 2
 				# NONE: All LOD sides will be rendered with the same brightness. 
 				# 
 				# 
-				lodShading = "OLD_LIGHTING"
+				lodShading = "MINECRAFT"
 
 		[client.advanced.worldGenerator]
 			#  Should Distant Horizons slowly generate LODs 

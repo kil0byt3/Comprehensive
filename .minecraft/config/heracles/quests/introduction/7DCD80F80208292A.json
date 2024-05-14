@@ -8,23 +8,74 @@
       "type": "heracles:check"
     }
   },
-  "rewards": {},
+  "rewards": {
+    "difficulty_reward": {
+      "item": {
+        "id": "minecraft:torch",
+        "count": 16
+      },
+      "type": "heracles:item"
+    }
+  },
   "display": {
     "subtitle": {
-      "translate": "Graves, Pets, and Monsters"
+      "translate": "Monsters, Survival, and the Rebirth of the Night"
     },
     "description": [
       "<subtitle id=\"7DCD80F80208292A\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",
       "<task task=\"13A47D4ACD23046E\" quest=\"7DCD80F80208292A\"/>",
       "<hr/>",
+      "",
+      "/5/Monsters, And Other Creepy-Crawlies/5/",
+      "<br/>",
       "&&7[Apocalypse]&&r Zombies may form hordes to hunt you down, break blocks to get to you, and pounce to attack you. /6/Be careful! /6/",
       "<br/>",
-      "&&7[SIHYWTCAMD]&&r Basically, /4/almost every hostile mob has been reworked/4/, from small changes to huge ones. Some of them are inspired by the Bedrock edition, which is a bit different (and often harder) than the Java one. There are now also a few achievements to make the experience even funnier!",
+      "&&7[SIHYWTCAMD]&&r Basically, /4/almost every hostile mob has been reworked/4/, from small changes to huge ones. Some of them are inspired by the Bedrock edition, which is a bit different (and often harder) than the Java one. There are now also a few achievements related to mobs in general.",
+      "<br/>",
+      "<hr/>",
+      "<br/>",
+      "/5/Sleep Overhaul/5/",
+      "<br/>",
+      "Normally in Minecraft, the sleeping system is quite stupid. Once you have a bed, you can effectively avoid all potential challenge of the night. As well, sleep is almost required, due to Phantoms spawning when you haven't slept for a while. This makes zero sense.",
+      "",
+      "In /6/Comprehensive/6/, sleeping works differently and in a less annoying way.",
+      "",
+      "/9/Tiredness/9/ is a value attached to every player.",
+      "Your current Tiredness level can be seen within your inventory by hovering over the \"Zzz\" icon.",
+      "When your /9/Tiredness/9/ level reaches 100%, you will be able to sleep. At 0 - 99%, you will not be able to sleep. After successfully sleeping, your Tiredness will be /6/reset/6/ to 0%.",
+      "The maximum level of Tiredness is /6/500%/6/.",
+      "",
+      "When your tiredness level reaches 300%, Phantoms have a chance to spawn on you.",
+      "As your tiredness level increases, /4/more Phantoms will spawn at once/4/. ",
+      "",
+      "Other than that, /d/Tiredness has no effect. You won't be forced to lose stamina faster, or any other negatives. It's just a way to discourage sleeping away every single night. /d/",
+      "",
+      "There are also /e/Potions of Liveliness/e/ and /9/Potions of Drowsiness/9/ that will decrease or increase your /9/Tiredness/9/ gain in order to stay up late or fall asleep faster. You can check the recipes for these in REI. ",
+      "",
+      "On servers, only 50% of players are required to sleep in order to skip the night - this means if players on the server sleep too often, you may need to stay awake a few nights a week. /c/Combined with the more difficult mobs, this means building strong walls and defensible bases is important again!/c/",
+      "<br/>",
+      "<hr/>",
+      "<br/>",
+      "/5/The Rebirth of the Night/5/",
+      "<br/>",
+      "&&7[True Darkness]&&r Nighttime darkness is determined by /c/the phase of the moon/c/. When it's a full moon, it's bright, and easy to see threats coming from afar. If it's a New Moon....well, you might not want to be out in /c/the pitch black/c/. Thankfully, there are tools to combat the darkness:",
+      "<br/>",
+      "&&7[LambDynamicLights]&&r Held items like &&3Torches&&r and &&3Lanterns&&r will &&dlight up their surroundings&&r. Press &&7[&&r&&6F&&r&&7]&&r to swap one to your &&3off-hand&&r, where it can't be placed accidentally.",
+      "<br/>",
+      "<hr/>",
+      "<br/>",
+      "/5/Life and Death/5/",
       "<br/>",
       "&&7[YIGD]&&r On death, a &&3Grave&&r will be placed that &&dcontains your items&&r. Simply &&6Right-Click&&r the grave to restore them. When respawning, you'll receive a &&3Compass&&r that points to your grave.",
       "<br/>",
-      "&&7[Friendly Fire]&&r You can't accidentally hit your tamed animals like &&aHorses&&r or &&aWolves&&r. "
+      "<hr/>",
+      "<br/>",
+      "/5/Other useful Difficulty-related changes:/5/",
+      "<br/>",
+      "&&7[Friendly Fire]&&r You can't accidentally hit your tamed animals like &&aHorses&&r or &&aWolves&&r.",
+      "",
+      "<reward reward=\"difficulty_reward\" quest=\"7DCD80F80208292A\"/>"
     ],
     "groups": {
       "Introduction": {
@@ -36,7 +87,7 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:structure_void",
+        "id": "yigd:grave",
         "count": 1
       },
       "type": "heracles:item"

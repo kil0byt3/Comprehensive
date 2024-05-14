@@ -1,6 +1,6 @@
 {
   "inventoryConfig": {
-    "dropPlayerHead": false,
+    "dropPlayerHead": true,
     "itemLoss": {
       "enabled": false,
       "affectStacks": false,
@@ -194,7 +194,7 @@
       "consumeOnUse": false
     },
     "graveCompass": {
-      "receiveOnRespawn": false,
+      "receiveOnRespawn": true,
       "consumeOnUse": true,
       "deleteWhenUnlinked": true,
       "cloneRecoveryCompassWithGUI": false,

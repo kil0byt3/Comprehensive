@@ -11,8 +11,8 @@
   "rewards": {
     "12ED530D4B5BB824": {
       "item": {
-        "id": "minecraft:leather_boots",
-        "count": 1,
+        "id": "farmersdelight:mixed_salad",
+        "count": 5,
         "nbt": {
           "Damage": 0
         }

@@ -1,0 +1,85 @@
+{
+  "dependencies": [
+    "15402DCFAC7CC56A"
+  ],
+  "tasks": {
+    "survival_task": {
+      "title": "Click Here!",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "survival_reward": {
+      "item": {
+        "id": "scorchful:cactus_juice",
+        "count": 4
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<subtitle id=\"survival\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"survival_task\" quest=\"survival\"/>",
+      "<hr/>",
+      "",
+      "/5/Keeping Warm, Staying Cool/5/",
+      "<br/>",
+      "Extremely hot and cold places should be difficult to traverse and live in. /6/Comprehensive/6/ uses a very lightweight heat and cold system based on the biome you are in. ",
+      "",
+      "You will see /6/your hearts change/6/ in Cold and Hot biomes; /4/fire symbols mean you're heating up/4/, and /b/icy symbols mean you're freezing/b/. ",
+      "",
+      "When your /6/heat/cold bar fills up/6/, you may experience effects, like blurred vision, hunger, weakness, and eventually, /4/injury and death/4/. ",
+      "",
+      "Thankfully, there are easy ways to counteract these effects. ",
+      "",
+      "/b/In Cold biomes/b/, like Frozen Oceans, Tundras, and Taigas, try hanging out near a Campfire or inside a building, finding and walking near certain types of warm, orange Lichen, or crafting Fur armor to stave off the biting cold.",
+      "",
+      "/4/In Hot biomes/4/, like Deserts, Mesas, and Dunes, try hanging out in water pools or under shaded areas, drinking or eating specific foods, or crafting a Waterskin and a Sun Hat so you don't dry out. ",
+      "",
+      "__/4/Note that the Nether is an extremely hot and hostile area, make sure to prepare carefully. /4/__ There are certain plant types in the Nether that may be useful when traversing the scorchy depths. ",
+      "<br/>",
+      "<hr/>",
+      "<br/>",
+      "Try searching REI for \"/b/@Frostiful/b/\" and \"/4/@Scorchful/4/\" for other useful items to explore the most hostile biomes in /6/Comprehensive/6/.",
+      "",
+      "If you choose to live in these inhospitable areas, make sure you do your research first. ",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"survival_reward\" quest=\"survival\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          48,
+          -113
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "frostiful:fur_helmet",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Survival"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

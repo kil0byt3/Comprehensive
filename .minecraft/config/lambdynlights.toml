@@ -1,7 +1,7 @@
 mode = "fancy"
 
 [light_sources]
-	water_sensitive_check = false
+	water_sensitive_check = true
 	block_entities = false
 	entities = true
 	self = true
@@ -92,6 +92,11 @@ mode = "fancy"
 				allay = true
 				ender_dragon = true
 				ender_pearl = true
+				polar_bear = true
+				ravager = true
+				snow_golem = true
+				stray = true
+				tnt = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
@@ -203,6 +208,7 @@ mode = "fancy"
 				raccoon = true
 				bison = true
 				wandering_gardener = true
+				red_wolf = true
 
 			[light_sources.settings.entities.meadow]
 				brown_bear = true
@@ -245,4 +251,21 @@ mode = "fancy"
 			[light_sources.settings.entities.sleep_tight]
 				bedbug = true
 				bed_entity = true
+
+			[light_sources.settings.entities.frostiful]
+				packed_snowball = true
+				chillager = true
+				frost_tipped_arrow = true
+				frostologer = true
+				frost_spell = true
+
+			[light_sources.settings.entities.aquamirae]
+				anglerfish = true
+				spinefish = true
+				tortured_soul = true
+				golden_moth = true
+				maw = true
+
+			[light_sources.settings.entities.supplementaries]
+				rope_arrow = true
 

@@ -49,11 +49,8 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:golden_sword",
-        "count": 1,
-        "nbt": {
-          "Damage": 0
-        }
+        "id": "artifacts:aqua_dashers",
+        "count": 1
       },
       "type": "heracles:item"
     },

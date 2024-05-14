@@ -10,8 +10,11 @@
   "rewards": {
     "world": {
       "item": {
-        "id": "farmersdelight:mixed_salad",
-        "count": 5
+        "id": "archers:archer_armor_feet",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
       },
       "type": "heracles:item"
     }
@@ -56,8 +59,8 @@
     "groups": {
       "Introduction": {
         "position": [
-          69,
-          -106
+          82,
+          -32
         ]
       }
     },
@@ -70,7 +73,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
     "title": {
-      "translate": "The Comprehensive World"
+      "translate": "Travel in Comprehensive"
     }
   },
   "settings": {

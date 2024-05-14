@@ -16,6 +16,13 @@ event.remove({ output: 'simplyswords:netherite_spear' })
 event.remove({ output: 'simplyswords:runic_spear' })
 
 // General place for removing stuff
+event.remove({ output: 'immersive_aircraft:quadrocopter' })
+event.remove({ output: 'immersive_aircraft:gyrodyne' })
+event.remove({ output: 'gag:time_sand_pouch' })
+event.remove({ output: 'gag:escape_rope' })
+
+// Remove OP/broken SB upgrades
+event.remove({ output: 'sophisticatedbackpacks:inception_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/botanist_workbench_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/glassblower_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/carpenters_table_upgrade' })
@@ -23,14 +30,6 @@ event.remove({ output: 'sophisticatedbackpacks:chipped/loom_table_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/mason_table_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/alchemy_bench_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/tinkering_table_upgrade' })
-event.remove({ output: 'hangglider:reinforced_hang_glider' })
-event.remove({ output: 'immersive_aircraft:quadrocopter' })
-event.remove({ output: 'immersive_aircraft:gyrodyne' })
-event.remove({ output: 'gag:time_sand_pouch' })
-event.remove({ output: 'gag:escape_rope' })
-
-// Remove OP upgrades
-event.remove({ output: 'sophisticatedbackpacks:inception_upgrade' })
 
 
 // Sophisticated Backpacks rebalance
@@ -77,6 +76,61 @@ event.shaped('gag:hearthstone', [// arg 1: output
   ], {
     A: 'botania:ender_hand',  //arg 3: the mapping object
     B: 'botania:mana_pearl'
+  }
+)
+
+// Frostiful fur recipe changes
+
+event.shaped('frostiful:fur_helmet', [// arg 1: output
+    '   ', 
+    'ABA', // arg 2: the shape (array of strings)
+    'A A'  
+  ], {
+    A: 'minecraft:string',  //arg 3: the mapping object
+    B: '#minecraft:wool'
+  }
+)
+
+event.shaped('frostiful:fur_chestplate', [// arg 1: output
+    'A A', 
+    'ABA', // arg 2: the shape (array of strings)
+    'ABA'  
+  ], {
+    A: 'minecraft:string',  //arg 3: the mapping object
+    B: '#minecraft:wool'
+  }
+)
+
+event.shaped('frostiful:fur_leggings', [// arg 1: output
+    'BBB', 
+    'A A', // arg 2: the shape (array of strings)
+    'A A'  
+  ], {
+    A: 'minecraft:string',  //arg 3: the mapping object
+    B: '#minecraft:wool'
+  }
+)
+
+event.shaped('frostiful:fur_boots', [// arg 1: output
+    '   ', 
+    'B B', // arg 2: the shape (array of strings)
+    'A A'  
+  ], {
+    A: 'minecraft:string',  //arg 3: the mapping object
+    B: '#minecraft:wool'
+  }
+)
+
+// Comforts tweak recipe
+
+event.remove({ output: 'comforts:rope_and_nail' })
+event.shaped('comforts:rope_and_nail', [// arg 1: output
+    ' A ', 
+    ' B ', // arg 2: the shape (array of strings)
+    ' A '  
+  ], {
+    A: 'supplementaries:rope',  //arg 3: the mapping object
+    B: 'minecraft:iron_ingot'
   }
 )
 

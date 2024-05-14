@@ -175,7 +175,8 @@
       "powah:*",
       "advancementtrophies:trophy",
       "mekanismgenerators:heat_generator",
-      "mna:filler_block"
+      "mna:filler_block",
+      "numismatic-overhaul:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
