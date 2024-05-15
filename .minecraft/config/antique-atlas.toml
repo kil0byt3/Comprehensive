@@ -37,13 +37,13 @@ fallbackFailHandling = "MISSING"
 debugRender = false
 
 [structureMarkers]
-	"minecraft:type/end_city" = false
-	"minecraft:start/village_taiga" = true
-	"minecraft:start/village_plains" = true
-	"minecraft:type/ocean_monument" = true
-	"minecraft:start/village_snowy" = true
 	"minecraft:start/bastion_remnant" = true
-	"minecraft:tag/village" = true
-	"minecraft:start/village_savanna" = true
-	"minecraft:start/village_desert" = true
+	"minecraft:type/ocean_monument" = true
 	"minecraft:type/woodland_mansion" = true
+	"minecraft:start/village_taiga" = true
+	"minecraft:start/village_desert" = true
+	"minecraft:type/end_city" = false
+	"minecraft:tag/village" = true
+	"minecraft:start/village_snowy" = true
+	"minecraft:start/village_savanna" = true
+	"minecraft:start/village_plains" = true

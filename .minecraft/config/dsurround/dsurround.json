@@ -15,14 +15,14 @@
     "enableEnhancedSounds": true,
     "backgroundThreadWorkers": 0,
     "enableMonoConversion": true,
-    "enableOcclusionProcessing": false,
+    "enableOcclusionProcessing": true,
     "reverbRays": 32,
     "reverbBounces": 4,
     "reverbRayTraceDistance": 256
   },
   "soundOptions": {
     "ambientVolumeScaling": 100,
-    "replaceThunderSounds": true,
+    "replaceThunderSounds": false,
     "allowScarySounds": true,
     "playBiomeMusicWhileCreative": false,
     "displayToastMessagesForMusic": true
@@ -54,7 +54,7 @@
     "enableLeafAccents": true
   },
   "particleTweaks": {
-    "suppressPlayerParticles": false,
+    "suppressPlayerParticles": true,
     "suppressProjectileParticleTrails": false
   },
   "compassAndClockOptions": {

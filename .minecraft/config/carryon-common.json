@@ -176,7 +176,16 @@
       "advancementtrophies:trophy",
       "mekanismgenerators:heat_generator",
       "mna:filler_block",
-      "numismatic-overhaul:*"
+      "numismatic-overhaul:*",
+      "phonos:*",
+      "botania:*",
+      "createaddition:*",
+      "create_enchantment_industry:*",
+      "create_power_loader:*",
+      "createdieselgenerators:*",
+      "railways:*",
+      "sliceanddice:*",
+      "createoreexcavation:*'"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [

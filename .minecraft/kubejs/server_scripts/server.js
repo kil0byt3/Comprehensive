@@ -134,4 +134,91 @@ event.shaped('comforts:rope_and_nail', [// arg 1: output
   }
 )
 
+// Phonos
+
+event.remove({ output: 'phonos:white_audio_cable' })
+event.remove({ output: 'phonos:orange_audio_cable' })
+event.remove({ output: 'phonos:magenta_audio_cable' })
+event.remove({ output: 'phonos:light_blue_audio_cable' })
+event.remove({ output: 'phonos:yellow_audio_cable' })
+event.remove({ output: 'phonos:lime_audio_cable' })
+event.remove({ output: 'phonos:pink_audio_cable' })
+event.remove({ output: 'phonos:gray_audio_cable' })
+event.remove({ output: 'phonos:light_gray_audio_cable' })
+event.remove({ output: 'phonos:cyan_audio_cable' })
+event.remove({ output: 'phonos:purple_audio_cable' })
+event.remove({ output: 'phonos:blue_audio_cable' })
+event.remove({ output: 'phonos:brown_audio_cable' })
+event.remove({ output: 'phonos:green_audio_cable' })
+event.remove({ output: 'phonos:red_audio_cable' })
+event.remove({ output: 'phonos:black_audio_cable' })
+event.remove({ output: 'phonos:headset' })
+event.remove({ output: 'phonos:portable_radio' })
+event.remove({ output: 'phonos:portable_record_player' })
+
+event.shaped('8x phonos:audio_cable', [
+    ' A ', 
+    ' B ',
+    ' A '  
+  ], {
+    A: "minecraft:string",  
+    B: 'minecraft:copper_ingot'
+  }
+)
+
+event.shapeless("phonos:electronic_note_block", ["minecraft:note_block", "minecraft:redstone"])
+
+event.shaped('2x phonos:connection_hub', [
+  ' A ', 
+  'ABA',
+  ' A '  
+], {
+  A: "minecraft:redstone",  
+  B: "minecraft:copper_ingot"
+}
+)
+
+event.shaped("phonos:electronic_jukebox", [
+  ' A ', 
+  'ABA',
+  ' A '  
+], {
+  A: "minecraft:redstone",  
+  B: "minecraft:jukebox"
+}
+)
+
+event.shaped("phonos:loudspeaker", [
+  ' A ', 
+  'ABA',
+  ' A '  
+], {
+  A: "minecraft:redstone",  
+  B: "minecraft:note_block"
+}
+)
+
+event.shapeless("phonos:radio_loudspeaker", ["phonos:loudspeaker", "simpleradio:receiving_module"])
+event.shapeless("phonos:radio_transceiver", ["phonos:loudspeaker", "simpleradio:transmitting_module"])
+
+event.shaped("phonos:satellite", [
+  ' A ', 
+  'ABA',
+  ' A '  
+], {
+  A: "simpleradio:transmitting_module",  
+  B: "minecraft:note_block"
+}
+)
+
+event.shaped("phonos:satellite_station", [
+  ' A ', 
+  'ABA',
+  ' A '  
+], {
+  A: "simpleradio:transmitting_module",  
+  B: "phonos:radio_transceiver"
+}
+)
+
 })

@@ -10,7 +10,7 @@
         "type": "heracles:item"
       },
       "stat": "minecraft:play_time",
-      "target": 1200,
+      "target": 200,
       "title": "Start a New World",
       "type": "heracles:stat"
     }

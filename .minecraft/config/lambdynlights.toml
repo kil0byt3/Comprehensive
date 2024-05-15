@@ -97,6 +97,12 @@ mode = "fancy"
 				snow_golem = true
 				stray = true
 				tnt = true
+				experience_bottle = true
+				skeleton_horse = true
+				wandering_trader = true
+				trader_llama = true
+				llama_spit = true
+				husk = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
@@ -209,6 +215,7 @@ mode = "fancy"
 				bison = true
 				wandering_gardener = true
 				red_wolf = true
+				termite = true
 
 			[light_sources.settings.entities.meadow]
 				brown_bear = true

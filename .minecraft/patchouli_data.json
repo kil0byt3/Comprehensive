@@ -1,5 +1,15 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:basics/black_lotus",
+        "botania:tools/overgrowth_seed",
+        "botania:baubles/item_finder"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

@@ -21,7 +21,7 @@
 		// Set this to false to disable the rotating items in the petal and rune entries in the Lexica Botania.
 		"rotatingItems": true,
 		// Set this to false to disable the animated 3D render for the Lexica Botania.
-		"render_3d": true
+		"render_3d": false
 	},
 	"particles": {
 		// Set this to true to set the power system's particles to be a lot more subtle. Good for low-end systems, if the particles are causing lag.

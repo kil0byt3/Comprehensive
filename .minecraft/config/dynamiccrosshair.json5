@@ -19,14 +19,14 @@
 		"forceHoldingSpyglass": false
 	},
 	"color": {
-		"crosshairColor": "Unchanged",
-		"customColor": -5588020,
+		"crosshairColor": "Custom",
+		"customColor": -1,
 		"forceColor": false
 	},
 	"dynamicCrosshairStyle": true,
 	"crosshairStyle": {
 		"regular": {
-			"style": "Cross",
+			"style": "DiagonalCross",
 			"color": {
 				"crosshairColor": "Unchanged",
 				"customColor": -5588020,
