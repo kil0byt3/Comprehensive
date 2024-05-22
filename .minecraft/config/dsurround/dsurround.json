@@ -24,7 +24,7 @@
     "ambientVolumeScaling": 100,
     "replaceThunderSounds": false,
     "allowScarySounds": true,
-    "playBiomeMusicWhileCreative": false,
+    "playBiomeMusicWhileCreative": true,
     "displayToastMessagesForMusic": true
   },
   "blockEffects": {

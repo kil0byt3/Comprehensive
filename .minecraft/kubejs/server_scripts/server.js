@@ -79,7 +79,9 @@ event.shaped('gag:hearthstone', [// arg 1: output
   }
 )
 
-// Frostiful fur recipe changes
+/*/ removed for now
+
+Frostiful fur recipe changes
 
 event.shaped('frostiful:fur_helmet', [// arg 1: output
     '   ', 
@@ -120,6 +122,7 @@ event.shaped('frostiful:fur_boots', [// arg 1: output
     B: '#minecraft:wool'
   }
 )
+/*/
 
 // Comforts tweak recipe
 

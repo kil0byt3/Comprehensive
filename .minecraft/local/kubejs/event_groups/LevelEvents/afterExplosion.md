@@ -23,20 +23,20 @@ Note: Even if no fields are listed above, some methods are still available as fi
 
 | Name | Parameters | Return type | Static? |
 | ---- | ---------- | ----------- | ------- |
-| removeKnockback |  |  | void | ✘ |
 | getAffectedBlocks |  |  | List<BlockContainerJS> | ✘ |
+| removeKnockback |  |  | void | ✘ |
 | removeAffectedEntity | Entity |  | void | ✘ |
-| removeAllAffectedEntities |  |  | void | ✘ |
+| removeAffectedBlock | BlockContainerJS |  | void | ✘ |
 | getAffectedEntities |  |  | EntityArrayList | ✘ |
 | removeAllAffectedBlocks |  |  | void | ✘ |
-| removeAffectedBlock | BlockContainerJS |  | void | ✘ |
+| removeAllAffectedEntities |  |  | void | ✘ |
 | getLevel |  |  | Level | ✘ |
 | getBlock |  |  | BlockContainerJS | ✘ |
 | getY |  |  | double | ✘ |
 | getPosition |  |  | Vec3 | ✘ |
 | getX |  |  | double | ✘ |
-| getExploder |  |  | LivingEntity | ✘ |
 | getZ |  |  | double | ✘ |
+| getExploder |  |  | LivingEntity | ✘ |
 | getServer |  |  | MinecraftServer | ✘ |
 | exit | Object |  | Object | ✘ |
 | exit |  |  | Object | ✘ |
@@ -48,14 +48,14 @@ Note: Even if no fields are listed above, some methods are still available as fi
 
 ### Documented members:
 
-- `void removeKnockback()`
-```
-Remove all knockback from all affected *players*.
-```
-
 - `List<BlockContainerJS> getAffectedBlocks()`
 ```
 Gets a list of all blocks affected by the explosion.
+```
+
+- `void removeKnockback()`
+```
+Remove all knockback from all affected *players*.
 ```
 
 - `void removeAffectedEntity(Entity var0)`
@@ -67,9 +67,13 @@ Gets a list of all blocks affected by the explosion.
 Remove an entity from the list of affected entities.
 ```
 
-- `void removeAllAffectedEntities()`
+- `void removeAffectedBlock(BlockContainerJS var0)`
+
+  Parameters:
+  - var0: BlockContainerJS
+
 ```
-Remove all entities from the list of affected entities.
+Remove a block from the list of affected blocks.
 ```
 
 - `EntityArrayList getAffectedEntities()`
@@ -82,13 +86,9 @@ Gets a list of all entities affected by the explosion.
 Remove all blocks from the list of affected blocks.
 ```
 
-- `void removeAffectedBlock(BlockContainerJS var0)`
-
-  Parameters:
-  - var0: BlockContainerJS
-
+- `void removeAllAffectedEntities()`
 ```
-Remove a block from the list of affected blocks.
+Remove all entities from the list of affected entities.
 ```
 
 - `Object exit(Object var0)`

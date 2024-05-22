@@ -1,9 +1,9 @@
 {
 	"darkOverworld": true,
 	"darkDefault": true,
-	"darkNether": true,
+	"darkNether": false,
 	"darkNetherFog": 0.5,
-	"darkEnd": true,
+	"darkEnd": false,
 	"darkEndFog": 0.0,
 	"darkSkyless": true,
 	"blockLightOnly": false,

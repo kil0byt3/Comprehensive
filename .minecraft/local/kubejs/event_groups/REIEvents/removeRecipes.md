@@ -20,10 +20,10 @@ Note: Even if no fields are listed above, some methods are still available as fi
 | Name | Parameters | Return type | Static? |
 | ---- | ---------- | ----------- | ------- |
 | remove | ResourceLocation, class_2960[] |  | void | ✘ |
-| getDisplays |  |  | DisplayRegistry | ✘ |
 | getCategories |  |  | CategoryRegistry | ✘ |
-| getDisplaysFor | ResourceLocation |  | List<?> | ✘ |
+| getDisplays |  |  | DisplayRegistry | ✘ |
 | getCategoryIds |  |  | Collection<ResourceLocation> | ✘ |
+| getDisplaysFor | ResourceLocation |  | List<?> | ✘ |
 | removeFromAll | class_2960[] |  | void | ✘ |
 | exit | Object |  | Object | ✘ |
 | exit |  |  | Object | ✘ |

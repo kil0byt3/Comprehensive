@@ -328,7 +328,12 @@
 					"herbalbrews:tea_kettle_display",
 					"herbalbrews:cauldron_display",
 					"brewery:brewing_station_display",
-					"brewery:silo_display"
+					"brewery:silo_display",
+					"roughlyenoughresources:otherside_worldgen_category",
+					"betterend:alloying_fuel",
+					"betterend:alloying",
+					"betterend:infusion",
+					"betterend:smithing"
 				],
 				"hiddenCategories": [
 					"minecraft:plugins/tag"
@@ -340,7 +345,8 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
 			]
 		}
 	},

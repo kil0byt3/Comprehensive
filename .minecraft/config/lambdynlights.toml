@@ -103,6 +103,7 @@ mode = "fancy"
 				trader_llama = true
 				llama_spit = true
 				husk = true
+				shulker = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
@@ -183,6 +184,8 @@ mode = "fancy"
 				nether_wastes_enderman = true
 				end_enderman = true
 				end_islands_enderman = true
+				crimson_pearl = true
+				soulsand_valley_enderman = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true
@@ -234,6 +237,9 @@ mode = "fancy"
 
 			[light_sources.settings.entities.bosses_of_mass_destruction]
 				charged_ender_pearl = true
+				soul_star = true
+				lich = true
+				void_blossom = true
 
 			[light_sources.settings.entities.immersive_aircraft]
 				airship = true
@@ -275,4 +281,28 @@ mode = "fancy"
 
 			[light_sources.settings.entities.supplementaries]
 				rope_arrow = true
+
+			[light_sources.settings.entities.botania]
+				babylon_weapon = true
+				mana_burst = true
+
+			[light_sources.settings.entities.items_displayed]
+				item_display = true
+
+			[light_sources.settings.entities.vinery]
+				wandering_winemaker = true
+				mule = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
+				naga = true
+				jungle_skeleton = true
+				skull = true
+
+			[light_sources.settings.entities.terraform]
+				boat = true
+
+			[light_sources.settings.entities.smallships]
+				cog = true
 

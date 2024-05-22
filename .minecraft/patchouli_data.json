@@ -2,11 +2,23 @@
   "bookGuiScale": 0,
   "clickedVisualize": false,
   "bookData": {
+    "betterend:guidebook": {
+      "viewedEntries": [
+        "betterend:rituals/eternal_ritual",
+        "betterend:rituals/infusion_ritual"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "botania:lexicon": {
       "viewedEntries": [
         "botania:basics/black_lotus",
         "botania:tools/overgrowth_seed",
-        "botania:baubles/item_finder"
+        "botania:baubles/item_finder",
+        "botania:alfhomancy/flugel_eye",
+        "botania:ender/flight_tiara",
+        "botania:alfhomancy/gaia_ritual",
+        "botania:ender/ender_air"
       ],
       "bookmarks": [],
       "completedManualQuests": []

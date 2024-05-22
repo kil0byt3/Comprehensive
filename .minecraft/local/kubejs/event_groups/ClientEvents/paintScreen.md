@@ -36,15 +36,15 @@ Note: Even if no fields are listed above, some methods are still available as fi
 | scale | float, float |  | void | ✘ |
 | scale | float |  | void | ✘ |
 | text | Component, int, int, int, boolean |  | void | ✘ |
-| translate | double, double |  | void | ✘ |
 | rectangle | float, float, float, float, float, int |  | void | ✘ |
 | rectangle | float, float, float, float, float, int, float, float, float, float |  | void | ✘ |
+| translate | double, double |  | void | ✘ |
 | alignX | float, float, AlignMode |  | float | ✘ |
-| rawText | FormattedCharSequence, int, int, int, boolean |  | void | ✘ |
-| rotateDeg | float |  | void | ✘ |
-| rotateRad | float |  | void | ✘ |
 | alignY | float, float, AlignMode |  | float | ✘ |
 | getVariables |  |  | VariableSet | ✘ |
+| rotateDeg | float |  | void | ✘ |
+| rotateRad | float |  | void | ✘ |
+| rawText | FormattedCharSequence, int, int, int, boolean |  | void | ✘ |
 | blend | boolean |  | void | ✘ |
 | scale | float, float, float |  | void | ✘ |
 | end |  |  | void | ✘ |
@@ -52,20 +52,20 @@ Note: Even if no fields are listed above, some methods are still available as fi
 | multiply | Quaternionf |  | void | ✘ |
 | push |  |  | void | ✘ |
 | pop |  |  | void | ✘ |
-| setPositionColorShader |  |  | void | ✘ |
-| setPositionColorTextureShader |  |  | void | ✘ |
-| getMatrix |  |  | Matrix4f | ✘ |
-| translate | double, double, double |  | void | ✘ |
 | setShaderColor | float, float, float, float |  | void | ✘ |
-| bindTextureForSetup | ResourceLocation |  | void | ✘ |
 | setShaderTexture | ResourceLocation |  | void | ✘ |
 | vertex | Matrix4f, float, float, float, int |  | void | ✘ |
 | vertex | Matrix4f, float, float, float, int, float, float |  | void | ✘ |
+| getMatrix |  |  | Matrix4f | ✘ |
+| translate | double, double, double |  | void | ✘ |
+| setPositionColorTextureShader |  |  | void | ✘ |
+| setPositionColorShader |  |  | void | ✘ |
+| resetShaderColor |  |  | void | ✘ |
 | multiplyWithMatrix | Matrix4f |  | void | ✘ |
 | setShaderInstance | Supplier<ShaderInstance> |  | void | ✘ |
-| resetShaderColor |  |  | void | ✘ |
 | beginQuads | VertexFormat |  | void | ✘ |
 | beginQuads | boolean |  | void | ✘ |
+| bindTextureForSetup | ResourceLocation |  | void | ✘ |
 | getEntity |  |  | Entity | ✘ |
 | getPlayer |  |  | LocalPlayer | ✘ |
 | hasGameStage | String |  | boolean | ✘ |

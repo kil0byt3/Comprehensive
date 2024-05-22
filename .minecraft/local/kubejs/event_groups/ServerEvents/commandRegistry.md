@@ -25,9 +25,9 @@ Note: Even if no fields are listed above, some methods are still available as fi
 | register | LiteralArgumentBuilder<CommandSourceStack> |  | LiteralCommandNode<CommandSourceStack> | ✘ |
 | getArguments |  |  | ClassWrapper<ArgumentTypeWrappers> | ✘ |
 | getCommands |  |  | ClassWrapper<Commands> | ✘ |
-| getRegistry |  |  | CommandBuildContext | ✘ |
 | isForSinglePlayer |  |  | boolean | ✘ |
 | isForMultiPlayer |  |  | boolean | ✘ |
+| getRegistry |  |  | CommandBuildContext | ✘ |
 | getBuiltinSuggestions |  |  | ClassWrapper<SharedSuggestionProvider> | ✘ |
 | exit | Object |  | Object | ✘ |
 | exit |  |  | Object | ✘ |

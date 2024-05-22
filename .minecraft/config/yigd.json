@@ -194,7 +194,7 @@
       "consumeOnUse": false
     },
     "graveCompass": {
-      "receiveOnRespawn": true,
+      "receiveOnRespawn": false,
       "consumeOnUse": true,
       "deleteWhenUnlinked": true,
       "cloneRecoveryCompassWithGUI": false,

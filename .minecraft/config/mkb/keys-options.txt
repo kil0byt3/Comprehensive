@@ -48,7 +48,6 @@ key_key.autohud.toggle-hud:key.keyboard.left.bracket:NONE
 key_key.autohud.peek-hud:key.keyboard.semicolon:NONE
 key_keybinds.bettercombat.feint:key.keyboard.unknown:NONE
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown:NONE
-key_key.botania_corporea_request:key.keyboard.unknown:NONE
 key_key.carry.desc:key.keyboard.unknown:NONE
 key_keybinds.combatroll.roll:key.keyboard.r:NONE
 key_key.craftingtweaks.rotate:key.keyboard.unknown:NONE
@@ -72,6 +71,7 @@ key_key.craftingtweaks.transfer_stack:key.keyboard.unknown:NONE
 key_key.crawl:key.keyboard.x:NONE
 key_create.keyinfo.toolmenu:key.keyboard.left.alt:NONE
 key_create.keyinfo.toolbelt:key.keyboard.left.alt:NONE
+key_key.deftulib.player_action:key.keyboard.u:NONE
 key_key.diet.open.desc:key.keyboard.unknown:NONE
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i:NONE
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown:NONE
@@ -85,7 +85,7 @@ key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown:NONE
 key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w:NONE
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown:NONE
 key_dsurround.text.keybind.modConfigurationMenu:key.keyboard.semicolon:ALT
-key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown:NONE
+key_dsurround.text.keybind.individualSoundConfig:key.keyboard.minus:CONTROL
 key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift:NONE
@@ -99,14 +99,13 @@ key_key.fastmove.up:key.keyboard.unknown:NONE
 key_key.fastmove.down:key.keyboard.unknown:NONE
 key_key.jetpack.toggle_active.description:key.keyboard.g:NONE
 key_key.jetpack.toggle_hover.description:key.keyboard.h:NONE
-key_key.freecam.toggle:key.keyboard.f4:NONE
+key_key.freecam.toggle:key.keyboard.f6:NONE
 key_key.freecam.playerControl:key.keyboard.unknown:NONE
 key_key.freecam.tripodReset:key.keyboard.unknown:NONE
 key_key.freecam.configGui:key.keyboard.unknown:NONE
 key_genshinstrument.keymaps.transpose_up_modifier:key.keyboard.right.alt:NONE
 key_genshinstrument.keymaps.transpose_down_modifier:key.keyboard.left.alt:NONE
 key_key.heracles.open_quests:key.keyboard.j:NONE
-key_hiddenrecipebook.key.togglebook:key.keyboard.0:NONE
 key_key.immersive_aircraft.multi_control_left:key.keyboard.a:NONE
 key_key.immersive_aircraft.multi_control_right:key.keyboard.d:NONE
 key_key.immersive_aircraft.multi_control_forward:key.keyboard.w:NONE
@@ -116,8 +115,8 @@ key_key.immersive_aircraft.multi_control_down:key.keyboard.left.shift:NONE
 key_key.immersive_aircraft.multi_control_pull:key.keyboard.s:NONE
 key_key.immersive_aircraft.multi_control_push:key.keyboard.w:NONE
 key_key.immersive_aircraft.multi_use:key.mouse.right:NONE
-key_key.immersive_aircraft.multi_dismount:key.keyboard.r:NONE
-key_key.immersive_aircraft.multi_boost:key.keyboard.left.control:NONE
+key_key.immersive_aircraft.dismount:key.keyboard.r:NONE
+key_key.immersive_aircraft.boost:key.keyboard.b:NONE
 key_key.inventoryessentials.single_transfer:key.mouse.left:NONE
 key_key.inventoryessentials.single_transfer_modifier:key.keyboard.left.control:NONE
 key_key.inventoryessentials.bulk_transfer_modifier:key.keyboard.left.shift:NONE
@@ -160,11 +159,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.c:NONE
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.b:NONE
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown:NONE
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:NONE
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.z:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt:NONE
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown:NONE

@@ -36,26 +36,26 @@ Note: Even if no fields are listed above, some methods are still available as fi
 | remove | RecipeFilter |  | void | ✘ |
 | stage | RecipeFilter, String |  | void | ✘ |
 | custom | JsonObject |  | RecipeJS | ✘ |
-| printExamples | String |  | void | ✘ |
-| setItemErrors | boolean |  | void | ✘ |
-| addRecipe | RecipeJS, boolean |  | RecipeJS | ✘ |
-| customFilter | Predicate<RecipeKJS> |  | RecipeFilter | ✘ |
-| takeId | RecipeJS, String, String |  | ResourceLocation | ✘ |
+| recipeStream | RecipeFilter |  | Stream<RecipeJS> | ✘ |
 | replaceInput | RecipeFilter, ReplacementMatch, InputReplacement |  | void | ✘ |
 | replaceOutput | RecipeFilter, ReplacementMatch, OutputReplacement |  | void | ✘ |
 | getRecipes |  |  | Map<String, Object> | ✘ |
-| recipeStream | RecipeFilter |  | Stream<RecipeJS> | ✘ |
-| printTypes |  |  | void | ✘ |
-| findRecipes | RecipeFilter |  | Collection<RecipeJS> | ✘ |
-| handler$mag000$sliceanddice$injectRecipes | RecipeManager, Map, CallbackInfo |  | void | ✘ |
-| printAllTypes |  |  | void | ✘ |
-| runInParallel | Runnable |  | void | ✔ |
+| takeId | RecipeJS, String, String |  | ResourceLocation | ✘ |
 | runInParallel | Callable<T> |  | T | ✔ |
+| runInParallel | Runnable |  | void | ✔ |
 | getRecipeFunction | String |  | RecipeTypeFunction | ✘ |
-| forEachRecipe | RecipeFilter, Consumer<RecipeJS> |  | void | ✘ |
-| findRecipeIds | RecipeFilter |  | Collection<ResourceLocation> | ✘ |
-| countRecipes | RecipeFilter |  | int | ✘ |
 | containsRecipe | RecipeFilter |  | boolean | ✘ |
+| findRecipeIds | RecipeFilter |  | Collection<ResourceLocation> | ✘ |
+| forEachRecipe | RecipeFilter, Consumer<RecipeJS> |  | void | ✘ |
+| countRecipes | RecipeFilter |  | int | ✘ |
+| printAllTypes |  |  | void | ✘ |
+| printExamples | String |  | void | ✘ |
+| setItemErrors | boolean |  | void | ✘ |
+| printTypes |  |  | void | ✘ |
+| addRecipe | RecipeJS, boolean |  | RecipeJS | ✘ |
+| customFilter | Predicate<RecipeKJS> |  | RecipeFilter | ✘ |
+| handler$mbl000$sliceanddice$injectRecipes | RecipeManager, Map, CallbackInfo |  | void | ✘ |
+| findRecipes | RecipeFilter |  | Collection<RecipeJS> | ✘ |
 | exit | Object |  | Object | ✘ |
 | exit |  |  | Object | ✘ |
 | cancel | Object |  | Object | ✘ |
