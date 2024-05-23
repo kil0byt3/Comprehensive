@@ -1,6 +1,7 @@
 {
 	"favorites": [
-		"{type:\"heracles:heracles\"}"
+		"{type:\"heracles:heracles\"}",
+		"{data:{Count:1b,Favorite:0b,id:\"recovery_plus:smart_recovery_compass\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

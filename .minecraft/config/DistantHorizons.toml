@@ -557,7 +557,7 @@ _version = 2
 				# True: a red flower will tint the grass below it red. 
 				# False: skipped blocks will not change color of surface below them. 
 				# 
-				tintWithAvoidedBlocks = true
+				tintWithAvoidedBlocks = false
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.

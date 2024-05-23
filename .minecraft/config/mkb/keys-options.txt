@@ -41,6 +41,8 @@ key_key.ad_astra.toggle_suit_flight:key.keyboard.unknown:NONE
 key_key.ad_astra.open_radio:key.keyboard.unknown:NONE
 key_key.antighost.reveal:key.keyboard.g:NONE
 key_key.antique_atlas.open:key.keyboard.m:NONE
+key_jecalculation.key.gui_craft:key.keyboard.unknown:NONE
+key_jecalculation.key.gui_math:key.keyboard.unknown:NONE
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown:NONE
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown:NONE
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown:NONE
@@ -49,6 +51,7 @@ key_key.autohud.peek-hud:key.keyboard.semicolon:NONE
 key_keybinds.bettercombat.feint:key.keyboard.unknown:NONE
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown:NONE
 key_key.carry.desc:key.keyboard.unknown:NONE
+key_key.climbladdersfast.toggle:key.keyboard.backslash:NONE
 key_keybinds.combatroll.roll:key.keyboard.r:NONE
 key_key.craftingtweaks.rotate:key.keyboard.unknown:NONE
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown:NONE
@@ -74,7 +77,7 @@ key_create.keyinfo.toolbelt:key.keyboard.left.alt:NONE
 key_key.deftulib.player_action:key.keyboard.u:NONE
 key_key.diet.open.desc:key.keyboard.unknown:NONE
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i:NONE
-key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown:NONE
+key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.b:ALT
 key_key.do_a_barrel_roll.open_config:key.keyboard.unknown:NONE
 key_key.do_a_barrel_roll.pitch_up:key.keyboard.unknown:NONE
 key_key.do_a_barrel_roll.pitch_down:key.keyboard.unknown:NONE
@@ -159,11 +162,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.c:NONE
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.b:NONE
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.z:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:NONE
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.z:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt:NONE
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown:NONE

@@ -31,7 +31,6 @@ event.remove({ output: 'sophisticatedbackpacks:chipped/mason_table_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/alchemy_bench_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/tinkering_table_upgrade' })
 
-
 // Sophisticated Backpacks rebalance
 event.remove({ output: 'sophisticatedbackpacks:iron_backpack' })
 event.shaped('sophisticatedbackpacks:iron_backpack', [// arg 1: output

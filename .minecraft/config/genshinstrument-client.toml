@@ -20,7 +20,7 @@ zither_sound_type = "NEW"
 drum_label_type = "KEYBOARD_LAYOUT"
 midi_enabled = true
 #Range: > -1
-midi_device_index = 1
+midi_device_index = -1
 #Range: 0.0 ~ 1.0
 midi_in_sensitivity = 0.5
 #When a note that is higher/lower than the usual octave range is played, will automatically adjust the pitch to match your playings. Can only extend up to 1 octave per side: high and low C.

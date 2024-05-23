@@ -104,6 +104,8 @@ mode = "fancy"
 				llama_spit = true
 				husk = true
 				shulker = true
+				warden = true
+				shulker_bullet = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
@@ -164,6 +166,7 @@ mode = "fancy"
 				swamp_creeper = true
 				spruce_creeper = true
 				snowy_creeper = true
+				dark_oak_creeper = true
 
 			[light_sources.settings.entities.ecologics]
 				coconut_crab = true
@@ -186,6 +189,7 @@ mode = "fancy"
 				end_islands_enderman = true
 				crimson_pearl = true
 				soulsand_valley_enderman = true
+				dark_oak_enderman = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true
@@ -248,6 +252,7 @@ mode = "fancy"
 				gyrodyne = true
 				quadrocopter = true
 				biplane = true
+				warship = true
 
 			[light_sources.settings.entities.railways]
 				benchcart = true
@@ -305,4 +310,18 @@ mode = "fancy"
 
 			[light_sources.settings.entities.smallships]
 				cog = true
+				brigg = true
+
+			[light_sources.settings.entities.betterend]
+				dragonfly = true
+				end_fish = true
+				end_slime = true
+				shadow_walker = true
+				cubozoa = true
+
+			[light_sources.settings.entities.deeperdarker]
+				sculk_leech = true
+				shattered = true
+				sculk_centipede = true
+				sculk_snapper = true
 

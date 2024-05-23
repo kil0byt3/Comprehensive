@@ -1,6 +1,13 @@
 .git
 .gitattributes
 .gitignore
+.minecraft/.vscode
+.minecraft/hs_err_pid17852.log
+.minecraft/hs_err_pid48632.log
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/usercache.json
+.minecraft/usernamecache.json
 Comprehensive.code-workspace
 Launcher
 assets
