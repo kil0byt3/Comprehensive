@@ -1,6 +1,7 @@
 .git
 .gitattributes
 .gitignore
+.minecraft/.mixin.out
 .minecraft/.vscode
 .minecraft/hs_err_pid17852.log
 .minecraft/hs_err_pid48632.log
@@ -9,6 +10,8 @@
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 Comprehensive.code-workspace
+Comprehensive.zip
 Launcher
 ServerPackCreator
+_ServerPack
 assets
