@@ -1,0 +1,97 @@
+{
+  "dependencies": [
+    "15402DCFAC7CC56A"
+  ],
+  "tasks": {
+    "1458865ACC4EFFB5": {
+      "title": "Click Here!",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "2B52865B1A2AB9EB": {
+      "item": {
+        "id": "minecraft:lantern",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "spyglass": {
+      "item": {
+        "id": "minecraft:spyglass",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Discover the world around you"
+    },
+    "description": [
+      "<subtitle id=\"7840EB3C8B8048EF\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1458865ACC4EFFB5\" quest=\"7840EB3C8B8048EF\"/>",
+      "<hr/>",
+      "In Comprehensive, we try to keep the focus on the &&6game, not the user interface.&&r",
+      "<br/>",
+      "See below for some helpful information keybinds. Read them all and you'll be better equipped for everything. ",
+      "<br/>",
+      "<hr/>",
+      "&&5Minimaps take away from the fun!&&r",
+      "<br/>",
+      "&&7[Antique Atlas]&&r Press &&7[&&r&&6M&&r&&7]&&r to open a map of your surroundings! ",
+      "- Take a look at the tabs to discover how to make custom waypoints. ",
+      "- Death markers will appear automatically, should you happen to fall in battle (or fall off of a cliff). ",
+      "- Markers are automatically added for notable structures and active Nether portals. ",
+      "- Keep in mind that structures will only appear automatically on the map after you've physically LOOKED at them in-game (or been inside of them!)",
+      "- You can chare your exploration progress with your teammates by using the command &&6 /surveyor share [playerNameGoesHere]&&r",
+      "- This will also show you their icon on the map! ",
+      "",
+      "Always remember: The best view of the world is in-game - not the atlas!",
+      "<br/>",
+      "<hr/>",
+      "/5/Other useful exploration tools:/5/",
+      "",
+      "&&7[Spyglass Improvements]&&r When you have a spyglass in your inventory, hold &&7[&&r&&6Z&&r&&7]&&r to zoom in on far away objects. You can use the mouse wheel to zoom in and out! Also, note that you can use a spyglass if it's anywhere in your inventory, not just on your hotbar. There's also a Trinket slot for it!",
+      "<br/>",
+      "&&7[PicoHUD/WTHIT]&&r Press &&7[&&r&&6ALT&&r&&7]&&r to get a small UI showing your coordinates, biome, and direction. If you prefer to not always see what you're looking at at the top of your screen, you can change the way the \"What Am I Looking At\" UI appears by pressing Numpad 0, or searching for \"wthit\" in the Mod Settings. ",
+      "<br/>",
+      "<hr/>",
+      "/5/Other useful UI changes:/5/",
+      "<br/>",
+      "&&7[LambDynamicLights]&&r Held items like &&3Torches&&r will &&dlight up their surroundings&&r. Press &&7[&&r&&6F&&r&&7]&&r to swap one to your &&3off-hand&&r, where it can't be placed accidentally.",
+      "<br/>",
+      "&&7[AutoHUD]&&r For ultimate immersion, press &&7[&&r&&6[&&r&&7]&&r (Left Square Bracket) to hide your entire UI unless something changes on it - like scrolling through your hotbar, or your health or food bar changing. You can bind a key for \"Toggle HUD while held\" to show your UI while holding the button. ",
+      "<hr/>",
+      "<reward reward=\"2B52865B1A2AB9EB\" quest=\"7840EB3C8B8048EF\"/>",
+      "<reward reward=\"spyglass\" quest=\"7840EB3C8B8048EF\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          -95,
+          -43
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:spyglass",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "title": {
+      "translate": "Pack Controls - Information"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}
