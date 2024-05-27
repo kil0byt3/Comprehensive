@@ -2,17 +2,10 @@
     "minimumVersion": 1,
     "packages": [
         {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
-            "version": "20100223",
-            "location": "lightpack.json",
-            "priority": 1
-        },
-        {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
-            "version": "20100223",
-            "location": "monsterpack.json",
+            "name": "Comprehensive",
+            "title": "Comprehensive",
+            "version": "0.1",
+            "location": "comprehensive.json",
             "priority": 1
         }
     ]
