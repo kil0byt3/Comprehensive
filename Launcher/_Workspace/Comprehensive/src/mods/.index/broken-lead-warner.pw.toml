@@ -1,0 +1,13 @@
+filename = 'brokenleadwarner-1.1.1+1.20.x.jar'
+name = 'Broken Lead Warner'
+side = 'client'
+
+[download]
+hash = '22d167f78c61cbcf143b48f002518e9ce0627e8211ba1d4ee57444da96c408d8f4294bffcb1d4ee8d59d9c6c8eb9d632dd30a341aa31d68746d0324500456184'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/29RFArLV/versions/Fl4qbR4c/brokenleadwarner-1.1.1%2B1.20.x.jar'
+
+[update.modrinth]
+mod-id = '29RFArLV'
+version = 'Fl4qbR4c'

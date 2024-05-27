@@ -1,0 +1,13 @@
+filename = 'better-trim-tooltips-1.0.1.jar'
+name = 'Better Trim Tooltips'
+side = 'client'
+
+[download]
+hash = '10c9be97adf6f1ffe10698ceea953bc3219d5043b86aa995bdd0e4e72353ab618462ab9da97b830d6ec679763c204e482176ef2b6b75c117589b3efd569d245d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WMoUFmXc/versions/azD5oArr/better-trim-tooltips-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'WMoUFmXc'
+version = 'azD5oArr'

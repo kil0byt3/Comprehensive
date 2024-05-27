@@ -1,0 +1,13 @@
+filename = 'diet-fabric-2.1.1+1.20.1.jar'
+name = 'Diet'
+side = 'both'
+
+[download]
+hash = '839bb29fbeab7301fa93115c19c4f6dc2fa20b49806eb21809f273f19eca0b22d35904cdaa741d81c5b61a4ca1bdc35ec712b42a2c12bc4e731b2f626c3fdca9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SsIkH9rZ/versions/ZHwy8qdO/diet-fabric-2.1.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'SsIkH9rZ'
+version = 'ZHwy8qdO'

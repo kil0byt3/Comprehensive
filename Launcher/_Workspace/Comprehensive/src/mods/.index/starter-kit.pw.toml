@@ -1,0 +1,13 @@
+filename = 'starterkit-1.20.1-6.7.jar'
+name = 'Starter Kit'
+side = 'both'
+
+[download]
+hash = '9c3f027062c87bca22e014f04eca67c84b2f471bfe18827297c91b34d5c4beb1e510e28d6d3ca98d83ca548118c7ae87cd5f326586c26310e3713d7c567ac3f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6L3ydNi8/versions/OD40UAl0/starterkit-1.20.1-6.7.jar'
+
+[update.modrinth]
+mod-id = '6L3ydNi8'
+version = 'OD40UAl0'

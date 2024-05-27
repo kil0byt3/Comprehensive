@@ -1,0 +1,13 @@
+filename = 'Jade-1.20-fabric-11.9.2.jar'
+name = 'Jade 🔍'
+side = 'both'
+
+[download]
+hash = '8d316762e4790060d25b1e13408b1e58af9719612925745146034d38a56e5a02fd5d2527c6f06e938ae585181caf94c870e22e9504d50527e6148fbe938ce562'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/re9m40O9/Jade-1.20-fabric-11.9.2.jar'
+
+[update.modrinth]
+mod-id = 'nvQzSEkH'
+version = 're9m40O9'

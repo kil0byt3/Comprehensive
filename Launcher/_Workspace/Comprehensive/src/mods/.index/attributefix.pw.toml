@@ -1,0 +1,13 @@
+filename = 'AttributeFix-Fabric-1.20.1-21.0.4.jar'
+name = 'AttributeFix'
+side = 'both'
+
+[download]
+hash = '5b14861407ec024e6dfcc2a42917c88f674f57a77dda456541cac2610e63b7a66b00a4ef52f1d8cf86967aa9ed96b52bfa2de1808275010f9744689c3bb3b6b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lOOpEntO/versions/B5XgR60E/AttributeFix-Fabric-1.20.1-21.0.4.jar'
+
+[update.modrinth]
+mod-id = 'lOOpEntO'
+version = 'B5XgR60E'

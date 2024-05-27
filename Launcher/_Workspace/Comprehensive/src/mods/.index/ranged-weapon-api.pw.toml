@@ -1,0 +1,13 @@
+filename = 'ranged_weapon_api-1.1.1+1.20.1.jar'
+name = 'Ranged Weapon API'
+side = 'both'
+
+[download]
+hash = 'ca722b081df25966d3739acbb8730adbee022e71241b2d6d53394458bde4f0213675d016578dbd7d9ca4fa4f25cf291a8ec088e1d9b9548b8c046e0fadc2b7c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AqaIIO6D/versions/oEjSAqNj/ranged_weapon_api-1.1.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'AqaIIO6D'
+version = 'oEjSAqNj'

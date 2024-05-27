@@ -1,0 +1,13 @@
+filename = 'UrkazMoonTools-2.0.33-1.20.1-fabric.jar'
+name = 'Urkaz Moon Tools'
+side = 'both'
+
+[download]
+hash = 'e766455dc400a0a9ae356ff81fa423852e485b08a6a2ac47a7d4f4e2363d94f2c3035cbc8d72d63707e78145f467984242c567ef70a475e042bfb87d4a826bfe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1sxtqgoT/versions/Df6F4XHK/UrkazMoonTools-2.0.33-1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = '1sxtqgoT'
+version = 'Df6F4XHK'

@@ -1,0 +1,13 @@
+filename = 'villagersffh-0.5.1.jar'
+name = 'Villagers: Far From Home'
+side = 'server'
+
+[download]
+hash = 'dab93cda026010c756df48db6771db68e0f5aac864598fbd771f4adb8f8e04b1215b768ae435e0858e42aed12ff041e4f7b968652462eb7119501b83c423c3f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UZJuyOGB/versions/NYSlZH3b/villagersffh-0.5.1.jar'
+
+[update.modrinth]
+mod-id = 'UZJuyOGB'
+version = 'NYSlZH3b'

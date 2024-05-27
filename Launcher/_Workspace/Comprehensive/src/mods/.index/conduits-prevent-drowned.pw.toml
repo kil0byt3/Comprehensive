@@ -1,0 +1,13 @@
+filename = 'conduitspreventdrowned-1.20.1-3.6.jar'
+name = 'Conduits Prevent Drowned'
+side = 'server'
+
+[download]
+hash = '7f3234a3f112d992045335b7ad09b3781ddaf7f2a34f844449587e47dac9670f7fbe6e34762bbec4b1efd0f8d1f5021495895b76a95eb621a81ba068c111bb09'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kpKchl4x/versions/r8ERZPfi/conduitspreventdrowned-1.20.1-3.6.jar'
+
+[update.modrinth]
+mod-id = 'kpKchl4x'
+version = 'r8ERZPfi'

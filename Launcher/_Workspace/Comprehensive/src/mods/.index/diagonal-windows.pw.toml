@@ -1,0 +1,13 @@
+filename = 'DiagonalWindows-v8.1.4-1.20.1-Fabric.jar'
+name = 'Diagonal Windows'
+side = 'both'
+
+[download]
+hash = '7d13fa6be3d80e9a2869814e0d6627895298aa15da5d27e2d8331400f061003b4ad113edba755623fbb759ba70731114c4962a57049c83d6e1ad628687c394a2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oOi0CKes/versions/hrygyCMp/DiagonalWindows-v8.1.4-1.20.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'oOi0CKes'
+version = 'hrygyCMp'

@@ -1,0 +1,13 @@
+filename = 'extra_trinkets.jar'
+name = 'Extra Trinkets'
+side = 'both'
+
+[download]
+hash = '9c223fe6bad1908e965f29fb98534861314fe2fbce305b378e98a8bc4721cb187f69905e2868832e9b57513d36212a10ad6b77f586227cb8a19da1411f116a2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JLpavzxe/versions/ULXixLKt/extra_trinkets.jar'
+
+[update.modrinth]
+mod-id = 'JLpavzxe'
+version = 'ULXixLKt'

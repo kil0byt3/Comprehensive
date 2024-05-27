@@ -1,0 +1,13 @@
+filename = 'RoughlyEnoughItems-12.1.725-fabric.jar'
+name = 'Roughly Enough Items'
+side = 'both'
+
+[download]
+hash = '94ba50c69dae12415d587f3718ba52aad3bd4a26acf715c7f949dee5de7be561b69a9d2ed92f5a3ace66b505a7d35d36444c55ece636274b0647c680578cca3a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nfn13YXA/versions/tewJX3lm/RoughlyEnoughItems-12.1.725-fabric.jar'
+
+[update.modrinth]
+mod-id = 'nfn13YXA'
+version = 'tewJX3lm'

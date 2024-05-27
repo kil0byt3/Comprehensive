@@ -1,0 +1,13 @@
+filename = 'Boids-1.1.1.jar'
+name = 'Boids'
+side = 'server'
+
+[download]
+hash = 'd83152eb15a477524f1c3bbc2ab0b3b17a9c2d80769bc89f91ec6bc4ed94988764d680cfde83eb3ced4e7558c319dcf1c031fb93e68d0e22247d21564a56a733'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2OckSy74/versions/DN7XVrdN/Boids-1.1.1.jar'
+
+[update.modrinth]
+mod-id = '2OckSy74'
+version = 'DN7XVrdN'

@@ -1,0 +1,13 @@
+filename = 'straighten-up-1.2.0+fabric-mc1.20.jar'
+name = 'Straighten Up'
+side = 'client'
+
+[download]
+hash = 'c85674db41b35fb197b78213cd5145ee31adeac00390310a425e3d9dd6a0acb227d8cf90eabf952699c0f29f8066249d7c5f22945754f3f0d214c7009870e569'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gbit8m82/versions/yOYDvj0u/straighten-up-1.2.0%2Bfabric-mc1.20.jar'
+
+[update.modrinth]
+mod-id = 'gbit8m82'
+version = 'yOYDvj0u'

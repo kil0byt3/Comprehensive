@@ -1,0 +1,13 @@
+filename = 'Hatchways-1.4-1.20.1.jar'
+name = 'Hatchways'
+side = 'both'
+
+[download]
+hash = '63d07a239c15a71a837ef93faeb153f17f469e56d2545db104a5a118829d5e887498ced0596ef5137f5730ec18d9331f018cb168eca48a5196feb59844fd8070'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MqXX7ssZ/versions/26W1wFyl/Hatchways-1.4-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'MqXX7ssZ'
+version = '26W1wFyl'

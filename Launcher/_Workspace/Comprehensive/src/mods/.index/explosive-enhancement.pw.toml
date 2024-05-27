@@ -1,0 +1,13 @@
+filename = 'explosive-enhancement-1.2.2-1.20.x.jar'
+name = 'Explosive Enhancement'
+side = 'client'
+
+[download]
+hash = 'f946a5ba189a5d0fdeb64a1d3f9b7cbc8daeaa4ab94fc4b07d0904e3c9883233a1fae9e3e7040cf2e9d9262be06241614e3933b9ca720619164b95f6af15ae22'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OSQ8mw2r/versions/LLkiKipc/explosive-enhancement-1.2.2-1.20.x.jar'
+
+[update.modrinth]
+mod-id = 'OSQ8mw2r'
+version = 'LLkiKipc'

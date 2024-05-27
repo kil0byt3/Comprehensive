@@ -1,0 +1,13 @@
+filename = 'autohud-6.3.5+1.20.1-fabric.jar'
+name = 'Auto HUD'
+side = 'both'
+
+[download]
+hash = '57a996906e7a8243ba463030178b1d0954884e62d9a9244b2283f8f081c3f09c76822077960e12915e6bd172fb0695fe452248f8ea4b6f76283e909fb9e6a190'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/temczoTQ/versions/GyQI10EF/autohud-6.3.5%2B1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'temczoTQ'
+version = 'GyQI10EF'

@@ -1,0 +1,13 @@
+filename = 'simplemenu-1.20.1-1.1.jar'
+name = 'Simple Menu'
+side = 'client'
+
+[download]
+hash = '551f065caa98300fc4d3b60049e8a0ece3bb7286e9409144e66a8571ebb95da2562bfe4813aa0194661defb510440c86406cb7afd15eb9c1eef98b68c4d549dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6pdhya1q/versions/xPRJSEyO/simplemenu-1.20.1-1.1.jar'
+
+[update.modrinth]
+mod-id = '6pdhya1q'
+version = 'xPRJSEyO'

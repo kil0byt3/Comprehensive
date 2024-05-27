@@ -1,0 +1,13 @@
+filename = 'DripSounds-1.19.4-0.3.2.jar'
+name = 'Drip Sounds (Fabric)'
+side = 'client'
+
+[download]
+hash = '6210b85d06241456340266f19e89877ab5160741d29cc12fb9a3fc678f64a0b4591ca10fe1daf2ddfa98c3e6a7c6fdde6fffc23cb3df12023cbca069d5a2c5b2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T8MMXTpr/versions/7GB1hLrr/DripSounds-1.19.4-0.3.2.jar'
+
+[update.modrinth]
+mod-id = 'T8MMXTpr'
+version = '7GB1hLrr'

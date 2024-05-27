@@ -1,0 +1,13 @@
+filename = 'fastentitytransfer-fabric-1.20.x-1.3.1.jar'
+name = 'Fast Entity Transfer'
+side = 'both'
+
+[download]
+hash = 'c44fe154ab5fa407e93bbf625371f899a9161c88c3124d072b774a846bc3d64dd8b7150e6677640ad7a2f933967f60f0eeedba78023b40c482d9adf2d0d95588'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/inmPbeHN/versions/deDlApb4/fastentitytransfer-fabric-1.20.x-1.3.1.jar'
+
+[update.modrinth]
+mod-id = 'inmPbeHN'
+version = 'deDlApb4'

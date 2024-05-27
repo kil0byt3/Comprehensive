@@ -1,0 +1,13 @@
+filename = 'ctov-wizards-compat-2.0a.jar'
+name = 'CTOV - Wizards Compat'
+side = 'server'
+
+[download]
+hash = 'c9332137914774b15fa2bc691ffb9661b9b3d67570d3f8c007a393d184a7a4dd1315737b8d3db21aaa32cec3811582d8e0ca130cd38be1e025503c64b969a5ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uZAJ8Zy7/versions/OH89Yynl/ctov-wizards-compat-2.0a.jar'
+
+[update.modrinth]
+mod-id = 'uZAJ8Zy7'
+version = 'OH89Yynl'

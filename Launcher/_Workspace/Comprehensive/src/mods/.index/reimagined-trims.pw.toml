@@ -1,0 +1,13 @@
+filename = 'reimagined-trims-1.0.3.jar'
+name = 'Reimagined Trims'
+side = 'server'
+
+[download]
+hash = '3de44326d349474ac3445a085bc568e976c424a1efa917aeb895c1f20c27276c3240d3b9373fe0ffbf3938a6394f0913facbbe2780e36f3ec65c28d40eada34e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Go9Vr0TE/versions/HpOkp0sa/reimagined-trims-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'Go9Vr0TE'
+version = 'HpOkp0sa'

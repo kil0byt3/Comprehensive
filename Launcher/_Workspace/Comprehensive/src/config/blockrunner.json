@@ -1,0 +1,13 @@
+{
+  "schema_version": "2",
+  "#c:sand": 0.75,
+  "natures_spirit:sandy_soil": 0.75, 
+  "minecraft:snow": 0.75,
+  "minecraft:snow_block": 0.75,
+  "minecraft:grass_block": 0.85,
+  "minecraft:podzol": 0.85,
+  "#minecraft:dirt": 1.0,
+  "#minecraft:stone": 1.2,
+  "#minecraft:stone_bricks": 1.2,
+  "minecraft:dirt_path": 1.35
+}

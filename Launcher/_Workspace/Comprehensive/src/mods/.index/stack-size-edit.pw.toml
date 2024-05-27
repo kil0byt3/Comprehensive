@@ -1,0 +1,13 @@
+filename = 'stacksizeedit-1.0.0-fabric.jar'
+name = 'Stack Size Edit'
+side = 'both'
+
+[download]
+hash = '9b620db9004ca30e883d0beb184da7bf4808bb74753d0adcdb7cd6c25e65e7cb6e1abc8097bac62cb9aee96c58054ba256d7d5b4db090cad1b1da1f430fcf1e3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Drdcgicd/versions/f3f6S4Uu/stacksizeedit-1.0.0-fabric.jar'
+
+[update.modrinth]
+mod-id = 'Drdcgicd'
+version = 'f3f6S4Uu'

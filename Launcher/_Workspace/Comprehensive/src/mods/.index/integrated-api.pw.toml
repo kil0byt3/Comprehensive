@@ -1,0 +1,13 @@
+filename = 'integrated_api-1.5.1+1.20.1-fabric.jar'
+name = 'Integrated API'
+side = 'both'
+
+[download]
+hash = 'e24282bd0c767fa622406ee310bc134c4a569fa936bfc00ed6c5f852cfa84ff259a0ea68a3e43300a313c608fccdec72e6a1805a1ad955521548222d39bdd40b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V6fKbpBN/versions/QxGJmu0m/integrated_api-1.5.1%2B1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'V6fKbpBN'
+version = 'QxGJmu0m'

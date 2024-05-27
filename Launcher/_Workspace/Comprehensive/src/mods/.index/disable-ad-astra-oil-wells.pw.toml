@@ -1,0 +1,13 @@
+filename = 'disable-ad-astra-oil-wells-1.0.jar'
+name = 'Disable Ad Astra Oil Wells'
+side = 'server'
+
+[download]
+hash = '0a69d30ba65fc37bb5c0350d92f5ac1cdf58fa60d7ed04d4c64e7f6808d8f873e5436270b2cfe29389bf3837d7c525d49846d54e8d6f53f5290bf69ffb255363'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EuuIRUEF/versions/2HVdajc5/disable-ad-astra-oil-wells-1.0.jar'
+
+[update.modrinth]
+mod-id = 'EuuIRUEF'
+version = '2HVdajc5'

@@ -1,0 +1,13 @@
+filename = 'blur-3.1.0.jar'
+name = 'Blur (Fabric)'
+side = 'client'
+
+[download]
+hash = 'c2e8d0bc87eb8bb5d36f4e980ef1a680e6238043f79553fa13248f6c9d46d18fce209ed57c66e1d1ce7aff04a397dd0ec907c3e07ff02c2c94c20998c6a22768'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NK39zBp2/versions/dki8Ab2D/blur-3.1.0.jar'
+
+[update.modrinth]
+mod-id = 'NK39zBp2'
+version = 'dki8Ab2D'

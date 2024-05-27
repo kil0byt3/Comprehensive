@@ -1,0 +1,13 @@
+filename = 'sawmill-1.20-1.3.14-fabric.jar'
+name = 'Universal Sawmill'
+side = 'both'
+
+[download]
+hash = 'ea6b3fc79700eb5160e5a633b112336667985613500a60d975671a592af569464c30d20f879d791e6e1b64ddb387c64f845fb2d5803f174db8cf0fe1a035c65b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WRaRZdTd/versions/LlcWb93H/sawmill-1.20-1.3.14-fabric.jar'
+
+[update.modrinth]
+mod-id = 'WRaRZdTd'
+version = 'LlcWb93H'

@@ -1,0 +1,13 @@
+filename = 'now-playing-fabric-1.4.4-blanketcon.jar'
+name = 'Now Playing'
+side = 'client'
+
+[download]
+hash = '9748c8a02fcc23bd42fabcac7ce8ce728ac4b05aee3a8f01b712c907f809f7b567ea3f230a686f9dc5d3d7151ec749692f4e8dc645782c6579a5d00e3ceb2bc0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eNF4Bfla/versions/aJrIHaRL/now-playing-fabric-1.4.4-blanketcon.jar'
+
+[update.modrinth]
+mod-id = 'eNF4Bfla'
+version = 'aJrIHaRL'

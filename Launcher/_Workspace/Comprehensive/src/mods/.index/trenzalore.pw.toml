@@ -1,0 +1,13 @@
+filename = 'trenzalore-fabric-3.3.10+mc1.20.1.jar'
+name = 'Trenzalore'
+side = 'both'
+
+[download]
+hash = '35a5f279d7de5eda456846ab238dc40c73da27b4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4848243
+project-id = 870210

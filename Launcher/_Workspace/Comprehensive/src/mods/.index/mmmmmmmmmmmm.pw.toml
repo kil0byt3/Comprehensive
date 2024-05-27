@@ -1,0 +1,13 @@
+filename = 'dummmmmmy-1.20-1.8.17b-fabric.jar'
+name = 'MmmMmmMmmMmm'
+side = 'both'
+
+[download]
+hash = '91838728fc568fb94955077c1450ba329814ced16905f0e0f02240e5c26f64e3b453695ca1ed5c0d1591684c67003e24d536bb6cf16da96dfcbb2fd7be52a969'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Adega8YN/versions/rbotmafd/dummmmmmy-1.20-1.8.17b-fabric.jar'
+
+[update.modrinth]
+mod-id = 'Adega8YN'
+version = 'rbotmafd'

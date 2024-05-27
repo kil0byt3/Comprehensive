@@ -1,0 +1,13 @@
+filename = 'sparsestructures-2.1.2.jar'
+name = 'Sparse Structures'
+side = 'server'
+
+[download]
+hash = 'd307ea144e0e9727854a63fdc1bedb6b0c82b9ccab66ae5efa89bee08271834f502074e1f8e379e34afd514f4c55544fe6b3e1d047cd2a7be7e63d213a84e3f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qwvI41y9/versions/jIL7tzWW/sparsestructures-2.1.2.jar'
+
+[update.modrinth]
+mod-id = 'qwvI41y9'
+version = 'jIL7tzWW'

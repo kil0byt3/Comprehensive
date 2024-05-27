@@ -1,0 +1,13 @@
+filename = 'PigPen-Fabric-1.20.1-15.0.2.jar'
+name = 'Pig Pen Cipher'
+side = 'both'
+
+[download]
+hash = '9bf12e7df647d78f6dd8b4ddc6674e481e9e1bd20a2ac98ce0e470dd77e8df8aa50e2d40db33be0b902d2512c87a40427f7ba0a433ebaba8e9efaef32be9b476'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2xZPITh8/versions/lhfkHQku/PigPen-Fabric-1.20.1-15.0.2.jar'
+
+[update.modrinth]
+mod-id = '2xZPITh8'
+version = 'lhfkHQku'

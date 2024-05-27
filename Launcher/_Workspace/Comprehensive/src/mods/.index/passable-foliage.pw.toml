@@ -1,0 +1,13 @@
+filename = 'PassableFoliage-1.20.1-fabric-8.2.1.jar'
+name = 'Passable Foliage 🌳'
+side = 'both'
+
+[download]
+hash = 'f6891f171bba5ebb63621671b7801dfaf8df9c1dc3387633f91a6f59950100ae86679bcaea298589140c01f9ef1f391ccb50f2db65c7a81ede6e5e61c6f4861e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uaLW6JVR/versions/1xNaGFdB/PassableFoliage-1.20.1-fabric-8.2.1.jar'
+
+[update.modrinth]
+mod-id = 'uaLW6JVR'
+version = '1xNaGFdB'

@@ -1,0 +1,13 @@
+filename = 'createdieselgenerators-2.1.4.jar'
+name = 'Create: Diesel Generators [Fabric]'
+side = 'both'
+
+[download]
+hash = '2fbadaaa54b17a5194a34493de109fe1e15b03b8b65c2676c71f590fae471dcce8d3657cdf6767f1696fa0658482fbbf919a4186bbd04e218d1e81f17a24e56e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/reiRz8zO/versions/cgeIYny5/createdieselgenerators-2.1.4.jar'
+
+[update.modrinth]
+mod-id = 'reiRz8zO'
+version = 'cgeIYny5'

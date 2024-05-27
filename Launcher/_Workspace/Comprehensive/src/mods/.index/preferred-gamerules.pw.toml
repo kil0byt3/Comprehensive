@@ -1,0 +1,13 @@
+filename = 'preferred-gamerules-1.1.0+1.19.4.jar'
+name = 'Preferred Gamerules'
+side = 'server'
+
+[download]
+hash = 'a1801927f756f0ff2f33ec790ae2e8d1949a8ed7adbcabeeb0d4962050c221534bc2ad8d1f87623261309734665adb75b20f33e8b92b2eb21e77858727287a59'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kKib77nY/versions/52Ea4Tb2/preferred-gamerules-1.1.0%2B1.19.4.jar'
+
+[update.modrinth]
+mod-id = 'kKib77nY'
+version = '52Ea4Tb2'

@@ -1,0 +1,13 @@
+filename = 'gag-fabric-3.0.0-build.10.jar'
+name = 'Gadgets Against Grind'
+side = 'both'
+
+[download]
+hash = '3a63a20bc495862489b0c0e1a0131f2858d4c3dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5175793
+project-id = 694962

@@ -1,0 +1,13 @@
+filename = 'Structory_Towers_1.20.x_v1.0.7.jar'
+name = 'Structory: Towers'
+side = 'both'
+
+[download]
+hash = 'fa147459b82e1c0a774c19b598a55a9ca0d7b0ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5351596
+project-id = 783522

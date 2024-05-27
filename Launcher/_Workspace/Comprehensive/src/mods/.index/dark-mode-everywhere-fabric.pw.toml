@@ -1,0 +1,13 @@
+filename = 'DarkModeEverywhere-1.20.1-1.2.2.jar'
+name = 'Dark Mode Everywhere (Fabric)'
+side = 'client'
+
+[download]
+hash = '4e98ec151a8f0b3086886f248f49e27d5ff27d8abbadb6d4fcf949fb111db88b40a75c19f372a61916db8c4a1b3d391170e67cf5d294888b9b1839cfda0cca09'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bJF8eNMy/versions/fJBoR9FK/DarkModeEverywhere-1.20.1-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'bJF8eNMy'
+version = 'fJBoR9FK'

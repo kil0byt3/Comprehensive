@@ -1,0 +1,13 @@
+filename = 'superbsteeds-1.20-4.jar'
+name = 'Superb Steeds'
+side = 'both'
+
+[download]
+hash = 'bf13d5bc13d34c0934607695a36041ca82e8bbbefd2ed477e2b07f0af4534009cf33942b5227e012e98f46acc78cff695581d8bfec710986993a36b954facaed'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UIZkbR3j/versions/Lac9HjXE/superbsteeds-1.20-4.jar'
+
+[update.modrinth]
+mod-id = 'UIZkbR3j'
+version = 'Lac9HjXE'

@@ -1,0 +1,13 @@
+filename = 'areas-1.20.1-5.6.jar'
+name = 'Areas'
+side = 'client'
+
+[download]
+hash = 'f23fba7599dc9129513dc9db0dc87216009c3df213ab63dd45750fc84fd10fb994326061c3f4fea517cb5eeff724eb027adcdc1c03bd157f769f50b36593b91e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NWvsqJ2Z/versions/FWeckZWH/areas-1.20.1-5.6.jar'
+
+[update.modrinth]
+mod-id = 'NWvsqJ2Z'
+version = 'FWeckZWH'

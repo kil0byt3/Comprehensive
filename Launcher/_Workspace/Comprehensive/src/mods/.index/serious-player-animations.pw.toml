@@ -1,0 +1,13 @@
+filename = 'seriousplayeranimations-1.1.1.jar'
+name = 'Serious Player Animations'
+side = 'client'
+
+[download]
+hash = '258326fdd90ff3314d3ff5297fda46dea5247a8db1d7e83a46e7cada5679e37a5ff8ac3993556572d6b78b0fee11ade62dc74ee4a143acd2f63efde2376b07e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Fq4tBIiz/versions/2eSpG905/seriousplayeranimations-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'Fq4tBIiz'
+version = '2eSpG905'

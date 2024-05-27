@@ -1,0 +1,13 @@
+filename = 'catalogue-fabric-1.20.1-1.8.0.jar'
+name = 'Catalogue (Fabric)'
+side = 'both'
+
+[download]
+hash = 'b36cf65a0e250e0e805f01c460cbb770398babca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4766089
+project-id = 667377

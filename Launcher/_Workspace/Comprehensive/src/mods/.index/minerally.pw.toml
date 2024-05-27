@@ -1,0 +1,13 @@
+filename = 'minerally-1.20.2-1.1.jar'
+name = 'Minerally'
+side = 'both'
+
+[download]
+hash = 'd74adc782cb1c053b0ff1dc9902b842d922d98204b03df6d946f8d615bb3af0bb7e3b94179fc5a301c7bd1ea1b225fbed41c053dc31c4022aa0c81f0b0bc8a04'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DKG1CVAt/versions/F11CV1Cm/minerally-1.20.2-1.1.jar'
+
+[update.modrinth]
+mod-id = 'DKG1CVAt'
+version = 'F11CV1Cm'

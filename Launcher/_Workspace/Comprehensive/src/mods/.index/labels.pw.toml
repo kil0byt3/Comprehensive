@@ -1,0 +1,13 @@
+filename = 'labels-1.20-1.20.2-fabric.jar'
+name = 'labels'
+side = 'both'
+
+[download]
+hash = 'bc8f6f3b38f158d2fd15b1d9a5a7f8de5be72b3b718dd75dc6f3c5b4c6082256db7708c58b34f38283c04ceb6026fd03fa879b3f1e472e7754e3fbdce02a7ee7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/x6r7yhfi/versions/LjVhvfJG/labels-1.20-1.20.2-fabric.jar'
+
+[update.modrinth]
+mod-id = 'x6r7yhfi'
+version = 'LjVhvfJG'

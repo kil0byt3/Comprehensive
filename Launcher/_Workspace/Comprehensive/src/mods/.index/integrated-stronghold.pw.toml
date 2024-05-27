@@ -1,0 +1,13 @@
+filename = 'integrated_stronghold-1.1.1+1.20.1-fabric.jar'
+name = 'Integrated Stronghold'
+side = 'both'
+
+[download]
+hash = '0a6df470d33bda123c7c0c0dc9b85162e63e0cd9918705b701e77f6c4ccc2314af60015a3ca2026634a5827ef2dbf21cba895dfa47907fa4b92074a46d24b6d5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KUJdfPQz/versions/Lti02S2N/integrated_stronghold-1.1.1%2B1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'KUJdfPQz'
+version = 'Lti02S2N'

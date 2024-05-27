@@ -1,0 +1,13 @@
+filename = 'DeftuLib-1.7.0+1.20.1-fabric.jar'
+name = 'DeftuLib'
+side = 'both'
+
+[download]
+hash = '4721280d0e1643c033ff93fc5bb3b1be075d0159b30054db6f8499d17332946438bbdb1912811578031ab404ebeb79f9757db376d9e8eaa53c6998ee336f38ca'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WfhjX9sQ/versions/TxiRiGVY/DeftuLib-1.7.0%2B1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'WfhjX9sQ'
+version = 'TxiRiGVY'

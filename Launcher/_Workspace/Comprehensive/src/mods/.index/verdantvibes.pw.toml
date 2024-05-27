@@ -1,0 +1,13 @@
+filename = 'verdantvibes-1.0.1-1.20.1.jar'
+name = 'VerdantVibes'
+side = 'both'
+
+[download]
+hash = 'dc3d591dd88f9c12b3cb8f6be06047ae21fb1ec5fc622deb9af6d8e25a561e17ba64f8739d4bf03bb676620e9c1d5695ad25d41dfc0e7fa5c3d7935a44d2cb2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NmDRyAF4/versions/OYdUuS76/verdantvibes-1.0.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'NmDRyAF4'
+version = 'OYdUuS76'
