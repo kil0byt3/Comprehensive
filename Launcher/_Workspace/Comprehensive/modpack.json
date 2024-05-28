@@ -19,7 +19,6 @@
       "-XX:+UnlockDiagnosticVMOptions",
       "-XX:+AlwaysPreTouch",
       "-XX:+DisableExplicitGC",
-      "-XX:+UseNUMA",
       "-XX:NmethodSweepActivity=1",
       "-XX:ReservedCodeCacheSize=400M",
       "-XX:NonNMethodCodeHeapSize=12M",
