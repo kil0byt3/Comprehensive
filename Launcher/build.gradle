@@ -15,7 +15,7 @@ subprojects {
     apply plugin: 'java'
 
     group = 'com.skcraft'
-    version = '0.1.0'
+    version = '4.6-SNAPSHOT'
 
     java {
         toolchain {
