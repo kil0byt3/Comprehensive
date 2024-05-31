@@ -1,0 +1,13 @@
+name = "Comprehensive"
+author = "kilo"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b51d628ca3db5845d05a671e83ca639a4eca4230d72fd05b498082485759f33a"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"

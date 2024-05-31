@@ -1,0 +1,40 @@
+{
+  "horde": {
+    "enabled": false,
+    "cooldownMin": 300,
+    "cooldownMax": 600,
+    "distanceMin": 64,
+    "distanceMax": 128,
+    "ZombieAmountMin": 8,
+    "ZombieAmountMax": 16,
+    "PersistentZombies": true
+  },
+  "zombie": {
+    "attackSpeed": 1.2,
+    "burnsInDaylight": true,
+    "avoidSunlight": false,
+    "pathThroughDoors": true,
+    "enablePounce": true,
+    "pounceVelocity": 0.2,
+    "pouncePriority": 14,
+    "revengeEnabled": false,
+    "groupRevengeEnabled": false,
+    "revengePriority": 1,
+    "targets": [
+      "minecraft:player,2,false,false",
+      "minecraft:villager,2,false,false",
+      "minecraft:wandering_trader,3,false,false",
+      "minecraft:iron_golem,3,false,false"
+    ],
+    "enableDigging": true,
+    "blockBreakPriority": 2,
+    "dropBrokenBlocks": true,
+    "instantDoorBreak": false,
+    "climbEachOther": true,
+    "climbingVelocity": 0.2,
+    "instantDoorBreakHardness": 5.0,
+    "diggingProgressTick": 0.02,
+    "maximumTargetHardness": 20,
+    "modifyPiglins": true
+  }
+}
