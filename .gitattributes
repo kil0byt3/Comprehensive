@@ -2,4 +2,7 @@
 * text=auto
 *.jar filter=lfs diff=lfs merge=lfs -text
 /.minecraft/mods/timm-1.0.3[[:space:]]for[[:space:]]1.20.1.jar filter=lfs diff=lfs merge=lfs -text
+
+# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
+* -text
 . !text !filter !merge !diff
