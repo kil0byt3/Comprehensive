@@ -1,7 +1,0 @@
-{
-  "enabled": true,
-  "warningMethodEnum": "HOTBAR",
-  "playSound": true,
-  "showText": true,
-  "soundVolume": 100.0
-}

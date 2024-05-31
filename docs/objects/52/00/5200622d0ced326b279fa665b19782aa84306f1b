@@ -1,6 +1,0 @@
-#Iron Chests Default Files
-#Setting a value will recopy the default files.
-#Sun May 26 14:37:08 PDT 2024
-barrels=true
-chests=true
-chest_upgrades=true
