@@ -13,4 +13,3 @@ fabric = "0.15.11"
 minecraft = "1.20.1"
 
 [options]
-no-internal-hashes = true
