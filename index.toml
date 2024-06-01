@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/deploy.yml"
-hash = "7fbb001701ba3498df4bfdc2413ba9cdffa2a6efe9e26225697fa88145fd9fa4"
-
-[[files]]
 file = ".minecraft/Deftu/deftulib.toml"
 hash = "1a5b08f002958561118894cd930da4abb2270ee84e3a8eb579cbe492254c0214"
 
