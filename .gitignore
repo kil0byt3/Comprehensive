@@ -18,4 +18,4 @@
 /.minecraft/data/surveyor
 /.minecraft/.mixin.out
 /.minecraft/.fabric/remappedJars
-unLFS_dryRun.ps1
+*.ps1
