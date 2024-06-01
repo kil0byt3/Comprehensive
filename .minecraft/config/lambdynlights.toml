@@ -106,6 +106,7 @@ mode = "fancy"
 				shulker = true
 				warden = true
 				shulker_bullet = true
+				boat = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true

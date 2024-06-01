@@ -21,3 +21,6 @@ _ServerPack
 assets
 docs
 .fabric/processedMods
+.minecraft/data/surveyor
+.minecraft/.mixin.out
+.minecraft/.fabric/remappedJars
