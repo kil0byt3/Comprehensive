@@ -1,5 +1,3 @@
-hash-format = "sha256"
-
 [[files]]
 file = "Deftu/deftulib.toml"
 
