@@ -2,10 +2,12 @@
 .github
 .gitattributes
 .gitignore
+.fabric/processedMods
+.minecraft/data/surveyor
 .minecraft/.mixin.out
+.minecraft/.fabric/remappedJars
 .minecraft/.vscode
-.minecraft/hs_err_pid17852.log
-.minecraft/hs_err_pid48632.log
+.minecraft/logs
 .minecraft/saves
 .minecraft/screenshots
 .minecraft/usercache.json
@@ -14,6 +16,7 @@
 .minecraft/debug
 .minecraft/local
 .minecraft/kubejs/probe
+.minecraft/crash-reports
 Comprehensive.code-workspace
 Comprehensive.zip
 Launcher
@@ -21,7 +24,3 @@ ServerPackCreator
 _ServerPack
 assets
 docs
-.fabric/processedMods
-.minecraft/data/surveyor
-.minecraft/.mixin.out
-.minecraft/.fabric/remappedJars
