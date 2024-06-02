@@ -10,7 +10,7 @@
     "PersistentZombies": true
   },
   "zombie": {
-    "attackSpeed": 1.2,
+    "attackSpeed": 1.0,
     "burnsInDaylight": true,
     "avoidSunlight": false,
     "pathThroughDoors": true,

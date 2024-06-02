@@ -191,6 +191,7 @@ mode = "fancy"
 				crimson_pearl = true
 				soulsand_valley_enderman = true
 				dark_oak_enderman = true
+				windswept_hills_enderman = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true

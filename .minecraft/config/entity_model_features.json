@@ -15,6 +15,6 @@
   "animationLODDistance": 20,
   "retainDetailOnLowFps": true,
   "retainDetailOnLargerMobs": true,
-  "preventFirstPersonHandAnimating": false,
+  "preventFirstPersonHandAnimating": true,
   "onlyClientPlayerModel": false
 }

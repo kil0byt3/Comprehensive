@@ -1,0 +1,16 @@
+{
+	// The influence of separation on the overall velocity
+	"separationInfluence": 0.5,
+	// The range within which separation affects the boids
+	"separationRange": 0.8999999761581421,
+	// The influence of alignment on the overall velocity
+	"alignmentInfluence": 0.4000000059604645,
+	// The influence of cohesion on the overall velocity
+	"cohesionInfluence": 0.05000000074505806,
+	// The minimum speed of the boids
+	"minSpeed": 0.30000001192092896,
+	// The maximum speed of the boids
+	"maxSpeed": 0.800000011920929,
+	// Exclude entities, e.g. 'entity.minecraft.salmon'
+	"excludeEntities": []
+}

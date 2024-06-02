@@ -7,6 +7,7 @@ data/surveyor
 .mixin.out
 .fabric/remappedJars
 .vscode
+mods/.index
 logs
 saves
 screenshots

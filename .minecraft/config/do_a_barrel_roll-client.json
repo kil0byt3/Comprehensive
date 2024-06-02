@@ -17,7 +17,9 @@
     "banking": {
       "enable_banking": true,
       "banking_strength": 20.0,
-      "simulate_control_surface_efficacy": false
+      "simulate_control_surface_efficacy": false,
+      "automatic_righting": false,
+      "righting_strength": 50.0
     },
     "thrust": {
       "enable_thrust": false,

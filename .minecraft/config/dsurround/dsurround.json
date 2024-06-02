@@ -35,7 +35,7 @@
     "firefliesEnabled": true,
     "waterfallsEnabled": true,
     "enableWaterfallSounds": true,
-    "enableWaterfallParticles": true,
+    "enableWaterfallParticles": false,
     "waterRippleStyle": "PIXELATED_CIRCLE"
   },
   "entityEffects": {
