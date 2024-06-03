@@ -59,4 +59,5 @@ REIEvents.hide('item', event => {
     event.hide('ad_astra:iron_rod' )
     event.hide('ad_astra:compressor' )
     event.hide('ad_astra:coal_generator' )
+    event.hide({mod: 'grapplemod'} )
 })
