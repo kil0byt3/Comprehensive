@@ -521,6 +521,18 @@ file = "config/defaultoptions-common.toml"
 hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "c2d71ac0a743fa36785c57cd1681a15a2f3fb1a6fa1966b771f9535dd72c7b7a"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "2f1ab1335d1e83bc9dd9a0bf93e86573c0912234c6322f6ce2e29609315582f9"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
+
+[[files]]
 file = "config/diet-client.toml"
 hash = "ad0791917ab715807da21c6a60f79dc7a4a2d07683f05e905cee1d427ca10e46"
 
@@ -670,7 +682,7 @@ hash = "df960b15b137715a2c512cba5b9941e85f2f9475ba74fb33a98d6bcc1047b8bb"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "92964399e38ff0ed84dc61dd380a9f41b79f688227c202bf53c4c7763d6177f2"
+hash = "dfc8b8f67c0b84de8cab88258df1985db87f006cc6e0f710ab550fd84c4c099c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -698,7 +710,7 @@ hash = "6fdd4c296d951150b7522283fb9bc03992d5025af8a106462e3d196dc5143abe"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "78659c02dea6790cca3cce54e3fcda4abe10bacbc9ff8f3e41d8d8dcb34c152e"
+hash = "6fdd4c296d951150b7522283fb9bc03992d5025af8a106462e3d196dc5143abe"
 
 [[files]]
 file = "config/farmersrespite-common.toml"
@@ -842,7 +854,7 @@ hash = "9395098692de312ae8a2a84519e7d334dbacf1cd2ae84d4c5ae0e23ae105057f"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "9fac5903a0901710171519b57d2046625eb0fc2b566260021873e5b45a46b0ae"
+hash = "6cd73eca04cc3856564e70032bb6e05f90a2a6d3ecde375cc81ee0c850bb39d9"
 
 [[files]]
 file = "config/infinity-buttons-config.json5"
@@ -866,7 +878,7 @@ hash = "02063610a0145943b4bc3fb580074bd44618615aba4565b704a1ecb5d240ae24"
 
 [[files]]
 file = "config/iris.properties"
-hash = "8dcbcd4daa2e3924e92da15a3bb69e1f8ee63bdb4eef38f563bc96cf9bd4ab44"
+hash = "19a411c535832401282529034a1751204ec4cee753afb8d0589848c6a4dda299"
 
 [[files]]
 file = "config/ironchests/chests/barrels/copper.json"
@@ -930,7 +942,7 @@ hash = "89f297cf6f1f8b36ca54e414d3c434949799568a989417908fb5af9cea5fb43f"
 
 [[files]]
 file = "config/ironchests/defaults.properties"
-hash = "ef4a9b54b8611b61b9aa08c44413a949f54ce21a3ee2e722268cb1cc9e772c44"
+hash = "7f9d39daa1f52909135bb4ecee5c65262dc034f1383ec4e397ca481df38322a6"
 
 [[files]]
 file = "config/ironchests/upgrade_types/copper.json"
@@ -1086,7 +1098,7 @@ hash = "196623cabbee0a351d94f6d02f56fbd28b875c81434e77a03af13598a209275c"
 
 [[files]]
 file = "config/mkb/keys-options.txt"
-hash = "291ccff02bfacc5da3a14cea1bbcf5229377d3e54c823410c4349385bcee8e34"
+hash = "d03e0f52d130820f248080b0e7de4ba5c3ed58d3f07f5eb97a86316f3056e9ee"
 
 [[files]]
 file = "config/mobtimizations/features-customization.toml"
@@ -1310,11 +1322,11 @@ hash = "9df15b06647c4a0aa4ec2a896dc9ae48d5ee6ce71d9491816e884c3dfd72952a"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "fb3c5fa89821672382a55fd8f4ef98f67ee02056a2db97687379859858d6e0e1"
+hash = "599b860e3a8b17461824901ae19142baf17a7011e8ed0ef247922d7b61994baa"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "78a869fb25ea0473633240219a996634daa06b123c5ba571db99f3450a611aaa"
+hash = "7eaa2d09be8c44ed8ad64d232cf2d0865b3cc30b7850ac6b588a1d469a500ad1"
 
 [[files]]
 file = "config/rpg_series/loot.json"
@@ -1350,7 +1362,7 @@ hash = "483f1a0209c8509c1505b15bed44108ee57e8b233152dafa1be0311c686d941a"
 
 [[files]]
 file = "config/showmeyourskin.json"
-hash = "3bf91cfa9b08a20eb3251df3716efa6c7bfc68eaf5aa150f71793672be547009"
+hash = "d8b485c8ed9e23aeb9fb4b19f5ca93b4fe68086605657bab56f2a046a7fca3c8"
 
 [[files]]
 file = "config/shulkercharm.json5"
@@ -1550,11 +1562,11 @@ hash = "48f00bb6182e4df69c5dd9c4ff2c46400e67ef33e697683501902cf279590fa2"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "b5d4fd5cc518d9e51ff3bcc62aae9067bb479bba094c633b71030e8503494710"
+hash = "67501e6d26cd5a559e56eead96955357ced4436e56dff45262dae2cd6b7e788d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "65babe914a6330bdfe304a30c39390abdfa057b0563b6752c5eedb2665fc25b7"
+hash = "387111bec4c0ec0753a5946615e2ce5707d344fda4f49574fc7fdc804473b21f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1842,7 +1854,7 @@ hash = "2ae3d55c9841b7dd3a610bbdfcbba81f40003f6ef942942fbf1aef100fbb73e7"
 
 [[files]]
 file = "knownkeys.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "bd061c87b889a55ad0c930a9a7d580a965cc8730891dccf724b593e25592452a"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -3665,10 +3677,6 @@ file = "mods/youre-in-grave-danger-2.0.0-beta.13.jar"
 hash = "8e7dab247fd47eab8023c61b255876924dfbb7c7e2e5e70ca814077206e58b46"
 
 [[files]]
-file = "options.txt"
-hash = "7c2839f2ab1e57441f8ec3aeb788e8f27cf0cfa94920af8b13d5131c78b759d5"
-
-[[files]]
 file = "patchouli_data.json"
 hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
 
@@ -3689,16 +3697,12 @@ file = "rhino.local.properties"
 hash = "092f73309cc1ef8e5b82e4553e0b3cf9b36a415eb483f8bee1e6723e7c84f690"
 
 [[files]]
-file = "servers.dat"
-hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
-
-[[files]]
 file = "shaderpacks/Bliss.zip"
 hash = "1e08fda7853018d23947c2e65490adb6f4e744f2d1d8fe32ac93647b01e04286"
 
 [[files]]
 file = "shaderpacks/Bliss.zip.txt"
-hash = "b2d3d0b6fb0f1c130c57214a50b8d363786c1e7d9467cd913de9a99bd6dd006d"
+hash = "e6d2d62e250da5c6b9dc026c8763cb468628f2c3442838f9bbcd2e7c1b904686"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined-DH.zip.txt"
