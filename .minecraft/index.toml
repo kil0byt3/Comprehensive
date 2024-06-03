@@ -670,7 +670,7 @@ hash = "df960b15b137715a2c512cba5b9941e85f2f9475ba74fb33a98d6bcc1047b8bb"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "22d0d09cb10a298d984777fa48760d38394902f949f1c85259e4d101cb7030d0"
+hash = "92964399e38ff0ed84dc61dd380a9f41b79f688227c202bf53c4c7763d6177f2"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -842,7 +842,7 @@ hash = "9395098692de312ae8a2a84519e7d334dbacf1cd2ae84d4c5ae0e23ae105057f"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "d2ae147b307fd72469045980d45644e8b231a1334cf21b0d46478b29ba292843"
+hash = "9fac5903a0901710171519b57d2046625eb0fc2b566260021873e5b45a46b0ae"
 
 [[files]]
 file = "config/infinity-buttons-config.json5"
@@ -866,7 +866,7 @@ hash = "02063610a0145943b4bc3fb580074bd44618615aba4565b704a1ecb5d240ae24"
 
 [[files]]
 file = "config/iris.properties"
-hash = "e02f86d22155d5acdc42844cf1c6f845f97d88213c2c298d7c119f2976ffeedb"
+hash = "8dcbcd4daa2e3924e92da15a3bb69e1f8ee63bdb4eef38f563bc96cf9bd4ab44"
 
 [[files]]
 file = "config/ironchests/chests/barrels/copper.json"
@@ -930,7 +930,7 @@ hash = "89f297cf6f1f8b36ca54e414d3c434949799568a989417908fb5af9cea5fb43f"
 
 [[files]]
 file = "config/ironchests/defaults.properties"
-hash = "5bd8a2bc0edd33fa4b4fe1d016dc7c9f28d31c9ac9ee81558c7e8821e5ce0e7a"
+hash = "ef4a9b54b8611b61b9aa08c44413a949f54ce21a3ee2e722268cb1cc9e772c44"
 
 [[files]]
 file = "config/ironchests/upgrade_types/copper.json"
@@ -1310,11 +1310,11 @@ hash = "9df15b06647c4a0aa4ec2a896dc9ae48d5ee6ce71d9491816e884c3dfd72952a"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "47f6a2022aa8eb2c3084ca41270ef1ab46aef8f2c835e99e7336d4ac30fcdacf"
+hash = "fb3c5fa89821672382a55fd8f4ef98f67ee02056a2db97687379859858d6e0e1"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "78a4abf02af8e7d77a9fe16b3ba595a13995388b6c7a086c9875835218ce6b27"
+hash = "78a869fb25ea0473633240219a996634daa06b123c5ba571db99f3450a611aaa"
 
 [[files]]
 file = "config/rpg_series/loot.json"
@@ -1350,7 +1350,7 @@ hash = "483f1a0209c8509c1505b15bed44108ee57e8b233152dafa1be0311c686d941a"
 
 [[files]]
 file = "config/showmeyourskin.json"
-hash = "77ab6f68802a5864fe3d630ec49ad0d518a48f61491311cb0c2bee13f2a07f2f"
+hash = "3bf91cfa9b08a20eb3251df3716efa6c7bfc68eaf5aa150f71793672be547009"
 
 [[files]]
 file = "config/shulkercharm.json5"
@@ -1550,11 +1550,11 @@ hash = "48f00bb6182e4df69c5dd9c4ff2c46400e67ef33e697683501902cf279590fa2"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "de92cdba4cfe090823e194775b154ca46a4ddaf180606868e7d2834c728b774a"
+hash = "b5d4fd5cc518d9e51ff3bcc62aae9067bb479bba094c633b71030e8503494710"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "2e81dca2a9bea27e722fe6284b3f6f02fcafdaa7d10b996cc87235542b8d1612"
+hash = "65babe914a6330bdfe304a30c39390abdfa057b0563b6752c5eedb2665fc25b7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -2157,10 +2157,6 @@ file = "mods/Measurements-fabric-1.20.1-2.0.0.jar"
 hash = "19ce47bd203c8a3f8be35bdbf39a37cea5072518c532764da72d65c1ee521bc5"
 
 [[files]]
-file = "mods/ModernKeyBinding-Fabric-1.20-1.2.0.jar"
-hash = "1a3612a089babf08cc7ae2736150cad9e328b13edd03551b851cf45438d7c857"
-
-[[files]]
 file = "mods/ModernKeyBinding-Fabric-1.20-1.2.1.jar"
 hash = "557bee10f419f09eb9370a4cb819c39e671b4ac9a9772d981be542ad98caa640"
 
@@ -2463,10 +2459,6 @@ hash = "fce2256c095afda2415598a711448281871d53ed3315bb9c01fc50b38190212d"
 [[files]]
 file = "mods/badpackets-fabric-0.4.3.jar"
 hash = "4a6b84ce20d7a35d17ef86fe29417de6f25704f478ee2f5f92c7c2ee76ea899e"
-
-[[files]]
-file = "mods/balm-fabric-1.20-7.0.7.jar"
-hash = "add800a9b638a7a19e32cc3d10c56021011b34c46de0b5d63df3ccf3f2877d3f"
 
 [[files]]
 file = "mods/balm-fabric-1.20.1-7.2.2.jar"
@@ -2855,10 +2847,6 @@ hash = "253398850f0a85936de6b2cbcc7b889d4a84433cee5fb782ca3b205689183d4f"
 [[files]]
 file = "mods/extra_trinkets.jar"
 hash = "f874fa86d25c98bf17f6a0f234909884be26f4820afcd9707093dd78baf4bd1d"
-
-[[files]]
-file = "mods/fabric-api-0.92.1+1.20.1.jar"
-hash = "b7b0350f42a0c04db5422924218c960b8e478ebe7036c49d99489b70a310906c"
 
 [[files]]
 file = "mods/fabric-api-0.92.2+1.20.1.jar"
@@ -3710,7 +3698,7 @@ hash = "1e08fda7853018d23947c2e65490adb6f4e744f2d1d8fe32ac93647b01e04286"
 
 [[files]]
 file = "shaderpacks/Bliss.zip.txt"
-hash = "c1f4a3ccb86546f44e20ebdb03005b37be6ddb49efcb01256947bd7c78613dfe"
+hash = "b2d3d0b6fb0f1c130c57214a50b8d363786c1e7d9467cd913de9a99bd6dd006d"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined-DH.zip.txt"
