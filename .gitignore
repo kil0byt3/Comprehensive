@@ -19,3 +19,4 @@
 /.minecraft/.mixin.out
 /.minecraft/.fabric/remappedJars
 *.ps1
+/_ServerPack
