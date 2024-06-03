@@ -82,7 +82,7 @@ hash = "d930415774b4b7bdaaaa5461609ec0058cd6859c5580c71182f85ab13d740826"
 
 [[files]]
 file = "config/ad_astra-client.jsonc"
-hash = "eff1be886673bc30e4dde7030f6970915c5c1c648d671f81bae5c941025705b3"
+hash = "86a21595c0474b1682ab5aab09ec40bfebd1804d9c3c2e9088e4ac5a7c48d0cf"
 
 [[files]]
 file = "config/ad_astra.jsonc"
@@ -94,7 +94,7 @@ hash = "73efcccc1de51b429af43e6cfd7520478f765a5dfc49fcad57a903b598f105b1"
 
 [[files]]
 file = "config/amendments-client.json"
-hash = "da0795a8437cc026cdd58b936c1f247399e2e08738af58ee93436ffd43f98809"
+hash = "fe96e820f271f6f09218d358fef29a950bde9e3e315c489cf3d12bcccdfd87b4"
 
 [[files]]
 file = "config/amendments-common.json"
@@ -106,11 +106,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "37c8e4fde149cb6e25dcd5ec89208244904ef8efc8e54101ae511145d44009d9"
+hash = "87d50d9f156405071c6cc7a0ceb2d35982e2c1f316be2e1bb8d44e6f4950da7e"
 
 [[files]]
 file = "config/apocalypse.json"
-hash = "1d0b9b8a5d541bb297d95bc34dc25be415bb3a1ed8cdb6b9b4b04452651c9831"
+hash = "216432912916419a007966de89617b10e8a82f827164032362f0b650cf70b449"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -289,6 +289,10 @@ file = "config/blur.json"
 hash = "31630cbfac65cc24f9cd6d11838bd12109a58dc01cb7c8980545bec7a14c9132"
 
 [[files]]
+file = "config/boids.json5"
+hash = "557cc3f7cd3a8325f202502522d817193160c7b0beb0622e5cba1c7a60c959ec"
+
+[[files]]
 file = "config/bosses_of_mass_destruction.json5"
 hash = "6bf64126b4f95b7f41c468ed61851b823a9fd02c6cb4b4cdf4736530af5bb820"
 
@@ -449,6 +453,10 @@ file = "config/createaddition-common.toml"
 hash = "4928a0a00d0b8f25c84645724b8945b20633c79e96a09022bcca9dfb0c32c0d1"
 
 [[files]]
+file = "config/createcobblestone-common.toml"
+hash = "48ca69914be09b581873eb0cdca8625cfbd9f3dfcccd836066ec9720f507125f"
+
+[[files]]
 file = "config/createdieselgenerators-client.toml"
 hash = "536d16ca2b0e9131923cd659977232a66a1beb833d5af5e0eae89c43374f5a40"
 
@@ -463,6 +471,14 @@ hash = "68918aeea1ff71d7102b6554fd60a3111a7bb6601431aa1dbcdf50750e6df4dd"
 [[files]]
 file = "config/createoreexcavation-server.toml"
 hash = "6f87b94a576156b979d7106dece6261257c027b3bcabfbce112ab77424a48c95"
+
+[[files]]
+file = "config/createrailwaysnavigator-client.toml"
+hash = "1ecd967e9e82b15cb8365b369c3605de8434a0b63ef64891be8b61c1c7dc6c4c"
+
+[[files]]
+file = "config/createrailwaysnavigator-common.toml"
+hash = "92ca581761c5130fe252746bf57ea3dc8fad99356a11d89e72cd1b4042a54f57"
 
 [[files]]
 file = "config/creeperoverhaul.jsonc"
@@ -514,7 +530,7 @@ hash = "19e818ae5f048fe5d7e84364dc7043f39111fd86f2f3fce4af48980f2e0d3c24"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.json"
-hash = "720a68823073b44073de52c39b91842eadbcc242a7d4d4edf118a3a6a375b2b5"
+hash = "20f461f96f02ba003c26217a118a66a3e0f07bcf20b434af12566ebf1fb2e010"
 
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
@@ -526,7 +542,7 @@ hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "2eec263dbcacc22405db577f8ec7a36fa3751e45512d1c2a916adad9d1b5ef57"
+hash = "ceddefcde806b2c127219a951daf96eb3f49ff7b146e1a5639c0e716e565119a"
 
 [[files]]
 file = "config/dsurround/soundconfig.json"
@@ -614,11 +630,11 @@ hash = "794d204bd0f2d682eafd5e086e777aa1277370a9b9b229ee006b30d737472cb4"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "0103610444b018e2af9c622a4750df5dcc8fc020ff5b80b497345c689325023a"
+hash = "392a955315c034ca833d8163ac8d525eda212c3454308e6c5cf52e3f6acb9f44"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "a78b708622316646134ae1e7b80e52d6ed8ca43ffd9a5239fd22b619a0b4c283"
+hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
 
 [[files]]
 file = "config/entityculling.json"
@@ -654,7 +670,7 @@ hash = "df960b15b137715a2c512cba5b9941e85f2f9475ba74fb33a98d6bcc1047b8bb"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "0d4962367949d54a4db54c2c9a51d0af1f52cfe71097a9ac03a538d2186b27c2"
+hash = "22d0d09cb10a298d984777fa48760d38394902f949f1c85259e4d101cb7030d0"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -666,7 +682,7 @@ hash = "582b93ab2b24e82e6d904f7030d95269d7b0326495d19017b63d58ebea2ac15b"
 
 [[files]]
 file = "config/fallingleaves.json"
-hash = "5ecdb13465f88d18ab11d46f1f94dfea11c6418755fb9ca6dd63ab6676e083dd"
+hash = "3e9799eac7743f833cadeb180fb3f8d976405d7ef3b935e889eb1fe5f140e3f6"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -674,6 +690,10 @@ hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
 
 [[files]]
 file = "config/farmersdelight-common-1.toml.bak"
+hash = "6fdd4c296d951150b7522283fb9bc03992d5025af8a106462e3d196dc5143abe"
+
+[[files]]
+file = "config/farmersdelight-common-2.toml.bak"
 hash = "6fdd4c296d951150b7522283fb9bc03992d5025af8a106462e3d196dc5143abe"
 
 [[files]]
@@ -729,12 +749,28 @@ file = "config/fsb-interop.json"
 hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
 
 [[files]]
+file = "config/fzzy_core/README.txt"
+hash = "bb7b4b3029da1e6408cd27dd11e2d94a710cc178b9cf84336c45f01185be72bc"
+
+[[files]]
+file = "config/fzzy_core/flavors_v0.json"
+hash = "4948d372bd930552682c4a975e972bb1e876a19fb87e2a3fbdb466887a9aa9a6"
+
+[[files]]
 file = "config/gag.snbt"
 hash = "f55d97f2c584f10524455a942e9797d1b165b46e769e778bc8a01a03a6015e9a"
 
 [[files]]
+file = "config/gearifiers/config.toml"
+hash = "d9f80b0bb33b7706d83eab5a2bf3a28149392c39dba8eb200be16526be6468f2"
+
+[[files]]
 file = "config/genshinstrument-client.toml"
 hash = "116d093d176396ac34e24c5ef476842cbdcb3d36c7cd395ca626392597ac3c39"
+
+[[files]]
+file = "config/grapplemod.json"
+hash = "3d887f05b1dcd84cfa372d88563d25b5faaafccfc431b43feb615b1b29279abe"
 
 [[files]]
 file = "config/guardvillagers.json"
@@ -743,6 +779,10 @@ hash = "fafe46cca2462296a4e37111db77ed8f8fc4e8078bbcaa04ce2785049bdc8552"
 [[files]]
 file = "config/handoveryouritems.json5"
 hash = "793dd29112341a3751e7d42bc8c2329fdd4971e271e0d58d4a3952250849bd68"
+
+[[files]]
+file = "config/hardcorerevival-common.toml"
+hash = "696009023c909848df2d5f8b6e64b2cd551b3ff5d63ef703adb1f44d7503763b"
 
 [[files]]
 file = "config/harvestwithease-common.toml"
@@ -778,11 +818,11 @@ hash = "3e13d61ea7fdb925a45bf4d23895419ba2dd6f4714838dbb4d7598c02c505fd6"
 
 [[files]]
 file = "config/heracles/quests/introduction/controls-movement.json"
-hash = "d37146389f9468145de736e54e89fb1d21a725473d904bb2aab7468895546497"
+hash = "1b9ad6c350a5c846c482cd8b6305ff77abadd7d1b48da3161cfc54f60b430772"
 
 [[files]]
 file = "config/heracles/quests/introduction/pack-controls-building.json"
-hash = "d94fbd8ccc2fc2b21b5a052932a0a203de99bb690549cfd1475744992a005d58"
+hash = "4b0233e37de2eb37e58b17842298d033030688a5e93ed898f51dfd570e97e1e5"
 
 [[files]]
 file = "config/heracles/quests/introduction/world.json"
@@ -802,7 +842,7 @@ hash = "9395098692de312ae8a2a84519e7d334dbacf1cd2ae84d4c5ae0e23ae105057f"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "b19478cca60b86f11b608fbc086b2f0d1ff65ce56b3ccc86c2c13266f4fc649c"
+hash = "d2ae147b307fd72469045980d45644e8b231a1334cf21b0d46478b29ba292843"
 
 [[files]]
 file = "config/infinity-buttons-config.json5"
@@ -826,7 +866,7 @@ hash = "02063610a0145943b4bc3fb580074bd44618615aba4565b704a1ecb5d240ae24"
 
 [[files]]
 file = "config/iris.properties"
-hash = "337745bd96ebbfc5e7b965dc4c5ba17c642f6bd2a606b25023f1adfdd5a8114f"
+hash = "e02f86d22155d5acdc42844cf1c6f845f97d88213c2c298d7c119f2976ffeedb"
 
 [[files]]
 file = "config/ironchests/chests/barrels/copper.json"
@@ -890,7 +930,7 @@ hash = "89f297cf6f1f8b36ca54e414d3c434949799568a989417908fb5af9cea5fb43f"
 
 [[files]]
 file = "config/ironchests/defaults.properties"
-hash = "85a0c5cf66c32941f27680eb890bd270cf25f794b112722d85f97fa570d0d595"
+hash = "5bd8a2bc0edd33fa4b4fe1d016dc7c9f28d31c9ac9ee81558c7e8821e5ce0e7a"
 
 [[files]]
 file = "config/ironchests/upgrade_types/copper.json"
@@ -994,7 +1034,7 @@ hash = "bd4b88a98aec1426b6c79c43ddf6438c7d58569d0d43d42ff0d9d24a7195acae"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "b715a4b28a880d0fe80cd4110f1f4fae30c8a1a1102d275eae045425ea5e8324"
+hash = "8a652c98314534ebc9411d52c7067c1b53d84c4c3e500335d5577ecb75ba85a6"
 
 [[files]]
 file = "config/leahs-immersive-thunder.toml"
@@ -1046,7 +1086,7 @@ hash = "196623cabbee0a351d94f6d02f56fbd28b875c81434e77a03af13598a209275c"
 
 [[files]]
 file = "config/mkb/keys-options.txt"
-hash = "011f33c0afc326dac52c1330179febf1d38ba7b0e4928680c189a542ab0aa0af"
+hash = "291ccff02bfacc5da3a14cea1bbcf5229377d3e54c823410c4349385bcee8e34"
 
 [[files]]
 file = "config/mobtimizations/features-customization.toml"
@@ -1063,10 +1103,6 @@ hash = "b55936928438ab49ebc8086579cd2218faf14d777fd15ec6eee895dbcadb667d"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "af054f520f07231943b710d544524ca64fb7670160d09d2eba2bb9dd658ac4e1"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "3aaca18532fb3311def970b79759a518775792d176ba8d26e4227d77e33613b8"
 
 [[files]]
 file = "config/moonlight-client.json"
@@ -1153,12 +1189,20 @@ file = "config/openloader/data/intstrong_endrem-1.0.0-1.18.2-1.19.2.zip"
 hash = "8e41b8cc5e0e255f8639c0a1ee76aa37486fa0c7d406976983c53a6c56438bbb"
 
 [[files]]
+file = "config/packetfixer.properties"
+hash = "228c5f295fe7317007703af260e0bfb1db9b9c177c5f1585480248520779d4a2"
+
+[[files]]
 file = "config/pal.properties"
 hash = "f72a0fa553e385ee40b0c52f24c43214c0e95a687f6fa8f9f4972469b300dcb2"
 
 [[files]]
 file = "config/particlerain.json5"
-hash = "f95cd7ae91530eb8f4721c1d620de8fb416bf4805317af9825c63df124a27f43"
+hash = "be6790b067c6824360a262155c4dcf967de2404d13587f396bc300e3af4f2c99"
+
+[[files]]
+file = "config/particular.json5"
+hash = "1f907e2cbfc463cd08f6ee9ace57c9d026f93868f7375be51e2d6f34b3867487"
 
 [[files]]
 file = "config/passablefoliage-common.yaml"
@@ -1191,6 +1235,10 @@ hash = "f76140972e67be40163cef21ff46d8e2a22adf05aff2eea725f89d9fa29c1b7f"
 [[files]]
 file = "config/ping-wheel.server.json"
 hash = "a3366fedad532497b18d7426ace43957ac1c7ae075832b5c74699bc0592c9416"
+
+[[files]]
+file = "config/polymorph-integrations.toml"
+hash = "f3d96811394c9360cc3a4cc671e3ad15625e99701cdbfdae7dbc9d2fbfd5d428"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
@@ -1262,11 +1310,11 @@ hash = "9df15b06647c4a0aa4ec2a896dc9ae48d5ee6ce71d9491816e884c3dfd72952a"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "c3842f77d69c9979489cc3b0e0e3cf0f3c06bac39ef8a34c6ca8538c5af14b10"
+hash = "47f6a2022aa8eb2c3084ca41270ef1ab46aef8f2c835e99e7336d4ac30fcdacf"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "3c53dde4b752c21880f7dd1dc4a0d4e28852f8e03b2175b64fc290501a3234c2"
+hash = "78a4abf02af8e7d77a9fe16b3ba595a13995388b6c7a086c9875835218ce6b27"
 
 [[files]]
 file = "config/rpg_series/loot.json"
@@ -1282,7 +1330,7 @@ hash = "83f3b42d6876040c1ea69643f3765b680cef3cc45a2cf2fe656bee4bf77d8468"
 
 [[files]]
 file = "config/sawmill-common.json"
-hash = "1c6729daabbbadf8974ecb883764570b0a98f76ea9a31c7f999a28f38171d03c"
+hash = "d42a2a0c4ba310fb5d3b79f8932acb54972b83ed51accaa1f933021217af074b"
 
 [[files]]
 file = "config/scribe.client.json"
@@ -1302,7 +1350,7 @@ hash = "483f1a0209c8509c1505b15bed44108ee57e8b233152dafa1be0311c686d941a"
 
 [[files]]
 file = "config/showmeyourskin.json"
-hash = "1b9e61c80230612f16c96129975fcd150640d14238320903ead2622861e16598"
+hash = "77ab6f68802a5864fe3d630ec49ad0d518a48f61491311cb0c2bee13f2a07f2f"
 
 [[files]]
 file = "config/shulkercharm.json5"
@@ -1449,6 +1497,10 @@ file = "config/smallships-common.toml"
 hash = "4d71d9e92280b985b03d8430000bdfc7497aa4f42ca96762b06b54cf7d56fa43"
 
 [[files]]
+file = "config/smart_recipes.properties"
+hash = "fa64b513ed634e1e1b26b0b37594b901c382c51b207a66103f2b1a6e99b10908"
+
+[[files]]
 file = "config/snowundertrees.config.json"
 hash = "cbf90ff4f413d906473d8724ed22a03b09a4e00a7c4cba0469fcee6b2beee4ba"
 
@@ -1494,15 +1546,15 @@ hash = "a71ebe6119d672a7c8cf6eceb0eacd613fc068f409bb7dcf6f1fff2e6f490b48"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "9ca901aa22af90a3e234a58ee9865000811d952ba94e8e71cc037e1edf42b009"
+hash = "48f00bb6182e4df69c5dd9c4ff2c46400e67ef33e697683501902cf279590fa2"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8191f86ee127718affaa5b76d0d143be790072643860281bcb771c110b15964b"
+hash = "de92cdba4cfe090823e194775b154ca46a4ddaf180606868e7d2834c728b774a"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "d2cacdeaab070fd721bdbca2dd7c3f8598462f7c613cc5502fe4966c59ee4acb"
+hash = "2e81dca2a9bea27e722fe6284b3f6f02fcafdaa7d10b996cc87235542b8d1612"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1582,7 +1634,11 @@ hash = "bb9d6386442efdfaa77cb454d0556c77fbb5abb93039dce6d3b7e4064f88e956"
 
 [[files]]
 file = "config/surveyor.toml"
-hash = "249c02f87650ac0b4034abbab5f15d7d0bb3bbe651ee5cc30495630e89f1c3ac"
+hash = "eaab3ccee6decac57b6d70abd8938cff2b0b39da3fcab8e87a4036a03f8f9105"
+
+[[files]]
+file = "config/teams.json5"
+hash = "a63199550de315dc75f8e2b33a82ff176705250b063083b7abb0dfc0a0e2fe05"
 
 [[files]]
 file = "config/tectonic.json"
@@ -1686,7 +1742,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/wakes.json"
-hash = "ffbde610897fbdf8542c707c0a90de0079e0ef532367b1bcd45bba63ec25b6ee"
+hash = "3acf7e978478b72cba4bde9c7d465f2fa87b85612f6f99cbd134372a8cd03124"
 
 [[files]]
 file = "config/waterdripsound.json"
@@ -1738,7 +1794,7 @@ hash = "eb9772826e24df9bbb9c5954eea6ba70213aa0adaa90ce7d471149a58588c0c5"
 
 [[files]]
 file = "config/yigd.json"
-hash = "bce485ba372c3d7dab31e488bd202afe6c27a76d12d564ca88534c01a7e11bea"
+hash = "61e786f735f37a452c626f93e6ece7569c971d3f4ba749811101f58225d2c0fc"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
@@ -1794,7 +1850,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "2f7c432c7cf297ad31db91667332322156aefcecb349ffe9c36c3ad1111e47c8"
+hash = "53ac5d8e2d159c62a5e02299d6176b308fdebc31b4fb9e7322ccfd28d4f13682"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1814,11 +1870,1559 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "878d6df14f70520f6274c9bbf25f17443939418917b6d166db836ac5744ff333"
+hash = "c37dd428080df60cd1fff7c9266e9547530b7fc3f1bfba8a85ddc40040191831"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "modernfix/structureCacheV1/aquamirae_ice_maze_arch_fe9ae96cd7.nbt"
+hash = "994da2ce14181ea577a97894ef3f7a7b762a5a338b4d69fb29131f6092f226a2"
+
+[[files]]
+file = "modernfix/structureCacheV1/aquamirae_ice_maze_common_e57d723819.nbt"
+hash = "8ba4eeada4b0a0ce80c3a657ce4e629523416385138887f3b9f29d36d65e458d"
+
+[[files]]
+file = "modernfix/structureCacheV1/aquamirae_ice_maze_spiral_d416329426.nbt"
+hash = "887d07d6c9db07ec384dc88b119912aebab1f2679d9d7f394327d28d998d83af"
+
+[[files]]
+file = "modernfix/structureCacheV1/aquamirae_lore_outpost_9ad6a404df.nbt"
+hash = "15881fa796fdf8ecafe97adba8ad397d2d7702c0a126819b4c5e4b527e9e8d50"
+
+[[files]]
+file = "modernfix/structureCacheV1/aquamirae_lore_shelter_tunnel_top_484eb51b71.nbt"
+hash = "d3944cf88f6598cb3c2dfa3206e5f3de9fc49cec5ac393acf83a86414d597174"
+
+[[files]]
+file = "modernfix/structureCacheV1/aquamirae_lore_ship_6b391b7515.nbt"
+hash = "1b0c104fcecfbbef5ea60c9fbe6efa1fe04321d5e9c8880091f5a9fbdddb06d1"
+
+[[files]]
+file = "modernfix/structureCacheV1/beautify_botanist_house_plains_166bb7d2c5.nbt"
+hash = "97d8759db06062f0716853be84314075b9327f8d0fc49a6f540f765d068d03a1"
+
+[[files]]
+file = "modernfix/structureCacheV1/bosses_of_mass_destruction_lich_tower_bottom_b5a5d11881.nbt"
+hash = "37980d8c35c6bdb9a46cc3517bf5db6658415e89ce7d3691e9d3395edf649c6d"
+
+[[files]]
+file = "modernfix/structureCacheV1/bountiful_village_common_bounty_gazebo_9ef0558c54.nbt"
+hash = "2fe1f3d5988d44923d18e15f69fc4effab97413a4aee8b648d6d519993c7cf1d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_badlands_base_plate_e65ed1d67e.nbt"
+hash = "83c4d87fb7f12a259c78639af43bf9d9f8b081c95d076f5fa292b628c4227e53"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_beach_base_plate_f22832e1e7.nbt"
+hash = "b00318dd3c71a48325c41396b6a0acb141aef809442daa0b97c4cae29291733d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_dark_forest_base_plate_1bb85056d7.nbt"
+hash = "09190bede5c05edf7be59bb4d46735a1e49d260e80bb3b014396e5cbad946f89"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_desert_base_plate_cda69f6003.nbt"
+hash = "663df019cbcd46b3520e7561294b7453494f452a5fa33b4f9ec48f96e2b9829c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_jungle_base_plate_eb84ecf5de.nbt"
+hash = "de3abcef9e67237db055acee2a1a45c825e02e68c6991e36fb8b5553a29ead0b"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_mountain_base_plate_d2bceff59f.nbt"
+hash = "995c220e7ff73b02b4b1e86b17328db79052a90c01001e8c8f8607ada24fdf43"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_plains_base_plate_7b5ce3ab48.nbt"
+hash = "6611a805847eebeac854f1a5126e4a1b4cd80a8faa1c24d94a6a6ee4e4e20faf"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_savanna_base_plate_6b9ec12b50.nbt"
+hash = "a689ce8e2aeee9e51d4072821efe9a18b26c95ce390016f2bc8ee2ff689741ae"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_snowy_base_plate_aaa612a9e3.nbt"
+hash = "0d86c409661e01a1e2d265bf265d6bdf7145c277762beccd1a98a22a9bbdcec7"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_swamp_base_plate_1c91b923ea.nbt"
+hash = "2c0e160cea144256f957b59a4527f38ab133547fe02e5119034e7836d88c1180"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_pillager_outpost_taiga_base_plate_cb5b179d83.nbt"
+hash = "b0973ef27ae5f05440e50a629208404696c2db20226c83f375a600de9260afca"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_deco_bench_77b1acdf72.nbt"
+hash = "ac1c38ad951dc0044f45a888680ab1dddc4de4dd30f2f34f4f5202a888cc14c1"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_deco_boat_bd449d6b06.nbt"
+hash = "e137a7ed4689a68030a809684d981ba316d2218b7a12631c543e7e889205f0df"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_deco_lamp_0_77b21f5ca1.nbt"
+hash = "c7151e1c7a37568de026c368f191cf96b0547439a4f617af5919cae6272c9ead"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_deco_lamp_1_a742078c1e.nbt"
+hash = "45755ef59f9033123903321b2eb20871888f7e3f132d926e3937b1b893ddb46f"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_deco_lamp_2_e89955eedd.nbt"
+hash = "ea7e62cd57ed7492e0573139d95118838f4b65f12020aa305fe229783dc28632"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_deco_lamp_3_323b788d9c.nbt"
+hash = "fd3b66cc2a875c00f5233101a483fc943c6af667d392c89fc6852cd57624c6ba"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_deco_lamp_4_a31f22e3f8.nbt"
+hash = "11a61c56393494e1ea755d580ede2790e1490c73c26827c0cb0548da3f0157ef"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_deco_lamp_5_1dc8f0d7ee.nbt"
+hash = "d4588c2532c0dae42fa0a15526b5fa28a3614d3e95916da3f35ea33a1e5b880d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_deco_well_e96de773e2.nbt"
+hash = "f952fc2bc2edb61c08b26c610ef2da8e990f532c28aa3809ec0e076c74b3cbf2"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_house_big_1_3c663e3513.nbt"
+hash = "4705fd5827653962e284ffb1b41615d31743d6553c097de69f6d7be9a6576db2"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_house_big_2_908ee942c2.nbt"
+hash = "d0a60ff27736a0ef644faecbd566e3d9bab485d38522e98c18ed35420280fa41"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_house_big_3_80c5853c58.nbt"
+hash = "512607af840c9a9a2924910167d9855dfc268bbb3b172dfa9c6313bcdf803c55"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_house_mid_1_5a9572bd51.nbt"
+hash = "645f6c863aa1cdbddbb694a8f55230621becb2b7fb4d8c10299744335e64da1c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_house_mid_2_970169706a.nbt"
+hash = "e6aa218c1e139082dfe25e60904a44309ef305b15c1e313a6f52f0341a1b5a7d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_house_small_1_530fbe4fc1.nbt"
+hash = "607fecd9ec31fabb812456acc5bf1b8d6c860c062f1dbccfb74c5e9ea3c2f639"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_house_small_2_84b5c48b59.nbt"
+hash = "53dfbf2eec359aa50020e8c6ecf392057844d242cf4595be2eb90deae15c789c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_house_small_3_877641db5b.nbt"
+hash = "90c8e7a2cd3f27404db562c9ba57a7a299bb604d00cba284ff77b917dbe1bc7f"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_house_small_4_0c73a29892.nbt"
+hash = "ffc1bad31ef4e1cf1b8ac1ee5df72fb08957f839ed32b128d7584b9cc32ae087"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_butcher_54402bc38f.nbt"
+hash = "f6cdaec911084ae570e4f7801be39d29a69342ee3e3cb0d9e4e6139405c23ef9"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_cartographer_b80ada6b8d.nbt"
+hash = "38807361e7649934d1ecf5509ce745d17eb18e3ae24c5591181c953d72348e3f"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_chemist_48e4c8e15c.nbt"
+hash = "7da4d615b430ef3ace360c114f91b17d709773eb8da110a0c85830587b84111e"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_farm_d834b87cd4.nbt"
+hash = "00c1b7bc1618e0e385a8724cfc40631d3b9e853c3c0cf2933416f97f4f6b6bf7"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_fd_farm_0721bf1796.nbt"
+hash = "de51608813c9a0925bed749c3839a2faa74243761511f02f0a28b1184fafe688"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_fishing_hut_3459fe90b4.nbt"
+hash = "82c61cb66d27e9ac0f3c8753c8a6032794ab2ff4c99c6e8e9c41e952ba267675"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_library_de376cf06f.nbt"
+hash = "d8d64a214c48a60678da7feb05b0d181a64a7e0db8fe3ed69da1d35752f30ccd"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_mason_90effc8020.nbt"
+hash = "203ce65a834f5bf1249972add177eeee1b548cf8f6162a4e407adb8dc628f8e2"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_pen_388300e638.nbt"
+hash = "1fb9b86283a0d40494677a72474875a2da5ace97042e5bbcf44d54e12df98e5b"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_shepherd_57a3c1590d.nbt"
+hash = "c9152ea1ddf9a77ed0431c789c7887fd3d379a34ccdfc8d80c223fe61ee953b0"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_smith_51a9f7311e.nbt"
+hash = "ca720273bca0709608ace1bfb271f58a605c68c3547533bfbafa07a3106d97f5"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_jobsite_wizard_tower_326b4f1bc4.nbt"
+hash = "657201dace95acf53cbee5b8436fd919f74b0ddac5aacf35b352237d233808fe"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_roads_bent_2_faa5b858e9.nbt"
+hash = "ece33f41e0e4c6a34e618e3d19b5453efb479e7b9bb15d5590b5e0e00b5fa14a"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_roads_inter_5c291aa99a.nbt"
+hash = "a79fc57242ab910dcff62e0fe07bdce55883f6ca48a2683a3aef303e0558ce13"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_roads_straight_ac6355e2e9.nbt"
+hash = "2a1705471bf61170808a114b0a77bf40e407a6a63c27e87c3e98910325d37547"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_roads_t_2_d09fa61dfc.nbt"
+hash = "7bb2cd73205beed3dc72272c5d3779251c4d6557430043fefa048197fad5d2c4"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_roads_t_3_9d7e17a488.nbt"
+hash = "4505c4e654aa6960c968805ed13ab6e59b764130b829b9551c97f63c5db7046a"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_beach_roads_terminator_f6405405e6.nbt"
+hash = "96b5137c1926955f28c7801cc319918303be1a5bbdf0d554607faadf2ec461a3"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_common_chicken_28eabea863.nbt"
+hash = "8fc554c8a5902b0a2cdf0fbdf1e05df7fbba988a90009f9e780cb95ca1649eba"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_common_cow_a8cf975491.nbt"
+hash = "25618cb32dedd1d6cbf09e058739c0acca20d8e4a139c1bcf0b0457e3ddc183f"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_common_pig_000d6fd979.nbt"
+hash = "ba1961fb94986281594fbd417e291a5a5c64e1cc0b5ed5eec03e62597fc75289"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_common_sheep_5888896a7b.nbt"
+hash = "1b613432e90c6935569528cd2916d06dc790d6f854c81f155994d30598af6386"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_common_villager_swamp_d511108ec7.nbt"
+hash = "160f817ff0b62d61c4727114590b72fec72f1c423a7226a658c97774a7e92597"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_decos_hay_bale_97bbddd221.nbt"
+hash = "67401d604faa899c12fd547a3577a378bd247631d1d81d215f87245e5e05799f"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_decos_lamp_1_1d85a52565.nbt"
+hash = "583ef7f40d2558e9fb495e9808e47c37576c6bfa5813c6f69090f3367d8a1d87"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_decos_lamp_2_df0fbc6738.nbt"
+hash = "0946328b30b89266e715089f9401536a20f87020e4b302241c715f076efe1f80"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_decos_lamp_3_4bcf0c1f41.nbt"
+hash = "169e2cb3a9a7fbef1f3a15a1fd083501f89c29c21950f08fd2f48209b739d605"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_decos_lamp_4_13d92b7599.nbt"
+hash = "046be8648ba913c0b0b33edaae6b40fd0e4a11002d25c3892ed9e3464e9f6a42"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_decos_wagon_32ad3dd02b.nbt"
+hash = "2a0bb1e1557a5e2e7c1eb11853760608f68bb0c73e4ff34a0aebcec072031435"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_decos_well_282a1bd44b.nbt"
+hash = "5ac853c64fe24b52485ec34ace2ea65b4c261dfc8ed598190686e9822ec7286a"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_house_big_1_0f34c6d68c.nbt"
+hash = "224170338e1687bd2317178e7d40b88ba53d0efd87d81fbb02b4a7a712b33f72"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_house_big_2_ab1bf5427e.nbt"
+hash = "c73eea11b01d6a14edf69d90b32c5a5c81322ee9abbeb72d50c483f43cbd141d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_house_med_1_eb20b56ec8.nbt"
+hash = "9d7ccc05880996d3c6acee648eb9b17ac5d85bbf4794dd0b474911443cd45235"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_house_med_2_a32cf05941.nbt"
+hash = "5a6ad4a5ae4aa71488cf451b0c49003d1acf9d826ce12b891fbb19881913dea4"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_house_small_1_db344a2e60.nbt"
+hash = "d5540dc2d95705f6e077ee408a30114085dc7584abfe9a45e83c6b76643034e5"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_house_small_2_6f341960d0.nbt"
+hash = "0331b4a3ceb16f576076b5cc3980b82d77b40e95a1362b9361111bb9a85262ad"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_house_small_3_ed6d2c0532.nbt"
+hash = "0921bb56f710b120fc4387a52cb2395bb679d1b2979c2cf53bc3e0d90dcfe638"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_house_small_4_04e97f7557.nbt"
+hash = "154908973ed70c4d7d6d900b92474816b72fc57505f5ea43bc2d12ca99358098"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_house_small_5_248d421ed9.nbt"
+hash = "61631f82b262bd437ca2324893b4e3e3d883ed62b5af634dca7cbff1da99e670"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_botanist_1272109d8b.nbt"
+hash = "0455f19dfb1fbf5e06c4635b9ab1ae6ac3413ccf68054a9babb97224cfae6bd5"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_butcher_2a330613a7.nbt"
+hash = "3801db8741a24e634e8fe6219a977f914ea164249cc182078ae3bdb6d73fed9d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_cartography_c953930958.nbt"
+hash = "05716ea9a4af9fcf91c89c44ee18e242c3507498638f87c1ef7634ac193fea30"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_chemist_ce969ce074.nbt"
+hash = "bf5e6dfcff36c0bde97d3727c9a1d8040c564da25d32f13bf7248ac28d2cabd8"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_farm_fe5c6c43f7.nbt"
+hash = "69983164fd87960f95c384e3cb27c5c279ff8e50593e248b6b53c8d45155c077"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_fd_farm_c9f68415d1.nbt"
+hash = "8b2a51be2af36424b29963cb37c8f59c7293743cb71520d8a4393e594179a84e"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_fishing_hut_4953fac1cd.nbt"
+hash = "cca5c8d654e1aff6810b2525974ede19414cbc28bc30efa89a28eb11a45583f6"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_library_760d1d8152.nbt"
+hash = "b578effc26e10332c87ec7b0d636f2358d38d14c3bd3b4bf335aa0efafe8fc07"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_mason_800a3ca19c.nbt"
+hash = "f79c3966f6e0df714fb7f72dcd8c9d5482b9c1fc5ebb8c87899bda6273486d00"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_pen_53011de757.nbt"
+hash = "006a55d01f00f00d61eabddef2af4eb9770a7c08bcbd16a334368bcc5295464d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_shepherd_d99e8ff41c.nbt"
+hash = "7e77f88e5aa6eaaf24a5e3c3f933ebdebd42d2f03656ed6b71627ff4a3b4ffe5"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_smith_d0fa18b498.nbt"
+hash = "8713ec5c729d259f449c61f68a4b21d7d199d9522680ce9cc8dfb721e20889ef"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_jobsite_wizard_tower_12a8a16d40.nbt"
+hash = "1710561385fbcc112dfcd8b007a0c601d90b61d213af33124c891dbe0a65b8e0"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_roads_bent_1_db61f1b2e9.nbt"
+hash = "39f449ebcada8964e3071ac554800ee57a2accd7b94dab68eba59fecdbaf0670"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_roads_bent_2_4eb747496b.nbt"
+hash = "3e820d68e89c4a0013b9e13e7e3d032d794bb0d42572d00de946890b4a3297e4"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_roads_inter_00fcd404e0.nbt"
+hash = "f805648cd053a1fb3013a3baa5bdc8722eb3dd02ef87ee3c624aa0b71dd8c024"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_roads_straight_7d924f75bf.nbt"
+hash = "d0d6f9edaa90d3a1ccf582082707fb77a3bbedfa259f0a61546f4627038c4bed"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_roads_t_1_d1987f2eeb.nbt"
+hash = "2cdd41225bef79aff911b185fbb176d816c1393d0c6cf1f1c87adf364b8f1003"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_roads_t_2_c13bc2e0c6.nbt"
+hash = "d429b81eeaf63e60291b7b2f821e1bdeec465cb2fb8d126d98b4a4a9c44ad903"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_roads_t_3_c72e12af03.nbt"
+hash = "2785e6189d5235a4ba930c699569e415bc212786177ae10ddd4270ae11ca1e72"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_plains_roads_terminator_4a9df8529e.nbt"
+hash = "d169cc9fc18e7cbefd31f0b134df500a41a32921620e3a8b4ea7b5463c41aeea"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_deco_bush_daff98cfab.nbt"
+hash = "afa3a14e0c94a821320f3306960afc2a4e4e2e21ebcd32e5a3b3dd0259bae4c1"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_deco_lamp_1_eef10ca67b.nbt"
+hash = "558c5e6c779d9354eac1c6443c580bb42e6913c67040a6d457b29fc101b363e9"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_deco_lamp_2_cafb4c2516.nbt"
+hash = "50d4096e7b82994bb9b1c44a222c11f26f1ac7892000e6180e0940f1130ddea5"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_deco_lamp_3_d2903888b4.nbt"
+hash = "4d7bb1151ea8b899eb849b8884086605a6ea8d288d82a7ca6fee74e328cc0b3c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_deco_lamp_4_6fe77fc5ff.nbt"
+hash = "c3ffce0227239f732461399d42d1082ffaab0de664095db1c500ee9e42bbf389"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_deco_lamp_5_126209eece.nbt"
+hash = "4be3f9d41560ab6a745a5b77e46fef12674a5b600448abd39c48ec7aebaa1048"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_deco_orchid_ab02571a7f.nbt"
+hash = "2f62e571702910e8450342b56e6d3407baba3eb42269f36fdaf31d537e7fb6f3"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_deco_tree_e9c0d2e827.nbt"
+hash = "a82c9dee3ae81876a973e125560e39fda86dbff860930d651592b01c4b399ca0"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_house_big_1_46d9bf7ff2.nbt"
+hash = "b263d714d7edd0aea60144c1c8b1357a358a7f9df87b1c3f2a7b1191fd60c886"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_house_big_2_ef6a8f168d.nbt"
+hash = "746f73cde3e643bcde8f2f7182a8b14d0b40283db7293e75caa9198691cef518"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_house_med_1_5054725894.nbt"
+hash = "7bfdc2fe856e8182cbe69216159f7604cd74382f035d6a654724e3c739eedf42"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_house_med_2_069a6decc5.nbt"
+hash = "17c74704268ab51557bd7c43e7d3fcadd717a0f9d0d6ce53443a425d025ed65e"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_house_med_3_d576f0a8df.nbt"
+hash = "0c9a74638ec800a5ac6887bc61f22a863d6c84fcde44b5db901da29add10aab3"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_house_med_4_27792eff0b.nbt"
+hash = "9634c0e52c22e3c2071e89c89d364abb0e5a3ed4071faad6b9486c290beaa376"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_house_small_1_c59a6181c8.nbt"
+hash = "d14318918c19879c4be37bf42ced83f968eba0d2ce2f05b1e11bc20d99c18565"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_house_small_2_f23b1380b5.nbt"
+hash = "19122f6d0a04180733bd3508ffb845dabe3c557bb62a790c46d9ecbe6beb43e1"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_botanist_92e92363e1.nbt"
+hash = "f888463471249f1295c68973481d830489ee6faa3449aa0eb93df92aa6d00016"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_butcher_de4fbe72c8.nbt"
+hash = "446c82b68fc4b5282a6ca34682932af4e14f86ac4896198a08ce6bf2ed0fd734"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_cartographer_92c4a8643e.nbt"
+hash = "e6722143127ed347dab2e05990c2745aacb7e97a775ece6329b61ec5dea0570f"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_chemist_f642663712.nbt"
+hash = "cf054236eda19cee2963748038cbaa6225fcd7878ed4aee70f1d0bd5f5c31354"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_farm_ca2aadef0d.nbt"
+hash = "2365d16a04d5158c95c4893f076a42af4cbd02add6441c51ce63e24808c20d91"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_fd_farm_b904420ebf.nbt"
+hash = "a49c9630c63330df6d23857676fa2395b6ad24b8307b4e37b3280c61aaa4ba8c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_fishing_hut_cbd322761e.nbt"
+hash = "e12c04d4b3589e0807cf87eb7d8e88d802a9099ce194c0edc4d858e409aa0f91"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_library_20a774109b.nbt"
+hash = "8b0e05babf4faf2c80e02be58a72768654addfed820c5ab4b457af30453867f1"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_loomhouse_45846fc3bd.nbt"
+hash = "5b1e84b5b52b94b445952b49621da730e8d986dcf1da2fa8cf636cde5e2ec92b"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_mason_fe21cef073.nbt"
+hash = "58446e27e925bea8edf3c0680bac3dc26b005a83b2193e92abe64ab7c9fef6f7"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_pen_dd6fdc3b18.nbt"
+hash = "3452f76fba8a435d4fc48cb88f3a9538b9fcf852a31ced3a34c6a0259e208d5a"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_smith_5115875d8d.nbt"
+hash = "8f24dae3566d6417e06b11a6a63775ecbc599e5420cbcae1ff564bec4e62f38c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_tannery_8b2d09e3dc.nbt"
+hash = "46c73c21301ee4e5759cea44aabff68675ea80c257ed0a29123a268574872449"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_jobsite_wizard_tower_cc863d27d9.nbt"
+hash = "b27887501711cd72f20dde43af8dbc01ceca8a3add8b1b9f795e57060cc1fa1f"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_roads_inter_c5f0b5077e.nbt"
+hash = "06284c544a8cf1f52815ddf00c4b8827c96a0aa08660ac65444ef6c9dbbb9f19"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_roads_straight_bbe88cc036.nbt"
+hash = "d674f3f5bfc5e31b18ae966ce4074917ef165f61e5463a27079f743fd705a404"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_roads_t_1_91df5cdc31.nbt"
+hash = "5842a873103731388229c374c6889bcd64bf9061140df606eb33790b4b050a2d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_swamp_fortified_roads_terminator_82f46c693a.nbt"
+hash = "01ccc1943d6e996c194251c886882e362e8400a9c32eedc6c22cf36311412559"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_bench_f01041b432.nbt"
+hash = "5cf7e0947a4382d331bf8298c7ac252f5dfcd309b29a6cf6a90f7235a052193d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_campfire_1_43c55fe758.nbt"
+hash = "89977252ed48f6902ea9bc91b7d18d9ce7093b3ed9d4814435c0e90365ffeaf0"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_campfire_2_28eced180d.nbt"
+hash = "868d9edac7002bb3e2d02d511d6298c916237758836db6fa99ab0637056a76f6"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_flowerbed_ee78d84ba0.nbt"
+hash = "f5f6f578dba3a7b49ca9db50ccab728b4f80b46c29ca36a1c8740532de324f2c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_fountain_6cef4de081.nbt"
+hash = "4437b7f19ffde5a0e68eedab30a4d44897ea7e3bb66b4b8ecfc73d6bbc249868"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_lamp_1_e30486eb4f.nbt"
+hash = "950065d7eb8f33c6b7460f0b7afa06f968ff09ef8a4239d69d9ec5ef38635eaa"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_lamp_2_5410e4a49d.nbt"
+hash = "a53d82d78c94b1742b6b8de46ea02db31de7e3a16deeabd5bd316a08cf97941b"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_lamp_3_65cf775349.nbt"
+hash = "5f65547b3485fbd226fb190ae97049dce1e38231e283875a0fc28041e664081c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_lamp_4_d27ac2411b.nbt"
+hash = "048c330ce5c7243452b773f896585259a0224ab8caf81b1e8d72d7668825091e"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_lamp_5_e771361b0c.nbt"
+hash = "5deab7d67c7bb8ae89d2cdb63fe1e87d4b4d6dc082340b611498847c6048e4f3"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_deco_well_d7ad90007c.nbt"
+hash = "523211d4123f15595392f25bf1ea072b9f1257cca94fb6b01fae3bf1676d84fd"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_house_big_1_95e4830661.nbt"
+hash = "623308643d228d3430884dc8478360b035ace206f4b9f0eefade7ffd24004b76"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_house_big_2_e57bb4aa28.nbt"
+hash = "64490a6c0ee8386605519f783789317fa3ac5530eea96ff21f40bd0d51a85f9d"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_house_med_1_23cd5d1044.nbt"
+hash = "548cc8efbd2bf14f61d065de33db9d38d48c811128e366b5aa03a0d9a92c5d06"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_house_med_2_58d0ab3f68.nbt"
+hash = "ae51426d6ae1f8accd55fdd6a4f51752fb8ba30fdd06585b44b36a59704b4d77"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_house_med_3_20f2693a97.nbt"
+hash = "a67a940172c30e204d398226492e54250367dce7de144aca6cb4ed2ce7a0e54b"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_house_small_1_e1fafd7c29.nbt"
+hash = "70c7e6796f7962d4399942a39738aed193babf868d0510050a407db44f1a4e11"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_house_small_2_004c256526.nbt"
+hash = "e51ecc7117ed489495174883cbef8b266caf6887abd6143b512f21a3b563d60e"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_house_small_3_0d421c9155.nbt"
+hash = "507e1b468db050e3c828fc839e5000ff7c379701508c9ac54c47fee600a27c9e"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_botanist_62e4d72778.nbt"
+hash = "13bdec86fc5da10b9bef1a70ee69c140a5b54be69ca72e2a3e7ecfbb1bd2abee"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_butcher_2b0276daaa.nbt"
+hash = "aed227cee6f7e51b0aac0e884e6fa79c4c5991e69e6518a172619bf1797b33fe"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_cartography_3e3f66351a.nbt"
+hash = "763eebb1b08fabee49fd7d413e5bf071800fb175c57a7b3b6790e7740c300890"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_chemist_aec687f4cf.nbt"
+hash = "78a75cf20b5c7df512433b6f2f1d7cc4faa2049566995b5987429e98e09e70f8"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_farm_8d8944cbdf.nbt"
+hash = "d0e5a831bac52c6f5301189fdaa5e24f186989930e69f48fb4bcb946bf71ee41"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_fd_farm_8c05334d28.nbt"
+hash = "6d98e04bf2b1e80093ba2237ec945891af02e8151f3f02e545e946403e56085f"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_fishing_hut_c2b609aeb0.nbt"
+hash = "f8d925fdc0c9f8d32545293eb40bd57a327be6f0f1c85c413f76f8b12b8ea358"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_library_4fbd938be4.nbt"
+hash = "d7e6dfc05f1e66a848ee48e3390473ec147ee34fa98d5a3a76fa9ba96616345e"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_loomhouse_db7383ba88.nbt"
+hash = "f11141a98ad747b89856d7c42259f93c5d182e5613e5daf08c7d5b19dd4212f7"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_mason_d748ed7e93.nbt"
+hash = "449166b4fd765255b3e894a9335fc0be786a757b5639a896be1ec447442cc0cc"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_smith_2f5f0528b9.nbt"
+hash = "23d0f0eb4d1d2d0590cd0e002ad3107f37a9d63e49f80380f47da10b13624a77"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_jobsite_wizard_tower_a18febc07b.nbt"
+hash = "fdfeaad4a7f1a9d14861519d03c3471bdcbe74a07298e9c1979cd8de8b778d62"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_roads_bent_1_23d9b28066.nbt"
+hash = "09eee7e9e48e6fd8c8b4118fb8ab1a36a591eec5f669f9e4f70d5452cd4617a2"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_roads_bent_2_c852e527ce.nbt"
+hash = "297f9394df993edcfaa68f2af905c3628f739760a84653093a222b19fd7baf42"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_roads_inter_c684ea7dad.nbt"
+hash = "257fcc0566aa953d70483bd03404b78b0ddd480e58e76a370a67a90110d99a2c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_roads_straight_13118231f9.nbt"
+hash = "60938fbbe60681a2246555da248d68c9421d9bd594ece6ea4a442f82251e6a16"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_roads_t_1_0af745ae4d.nbt"
+hash = "22f1d7a55a19063490136bf58be0c589ada9cd6d9787fd4bf17c09900e2c709c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_roads_t_2_fd4c887b42.nbt"
+hash = "7ee90541e09111b2a57f62be5801251014e8a602f3c6ee0192582d6160e25e23"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_roads_t_3_33a7ec3280.nbt"
+hash = "b5e58634dce5045781cecdd675310c58869eac6d74245e3f230d292ff4ec6bc2"
+
+[[files]]
+file = "modernfix/structureCacheV1/ctov_village_taiga_fortified_roads_terminator_bee797acc1.nbt"
+hash = "8232e95939135f48604b606013971010043d2289ce2e65c8c6c794f844a4c148"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_road_0_cd59cca472.nbt"
+hash = "f4df01549ebab2373faac1f85a2802e990df4a584282d083ffdcbb14dc1a4630"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_road_1_fc7cf9b339.nbt"
+hash = "6ea80c576de9a6d0f618c66aada0d05fd0ba070d8747804519a45cbe4a832d26"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_road_entrance_05f8cd9492.nbt"
+hash = "3ae303e0f8279eb39aff2dc704b6fa3d4c1cfcb19a4ac85ab4922514af01a05a"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_0_509ef07905.nbt"
+hash = "742e6cccb524bdb5da77f616c5a7d84da11ca66c986c8fc31b4d69ed42ea7603"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_1_e05cb017ec.nbt"
+hash = "c752dc11fedd76636feb62f52525d3291c11d0c8be52af2b994362aaa36257cc"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_deco_0_3150906bac.nbt"
+hash = "7352baf9256b7a24be9766899d8362a9848d353f0c1a7ce602da96be85a682f5"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_deco_1_061faa8196.nbt"
+hash = "466a49cfde99efc207e7c6be99ac81ed62746cd5deb189be5c6bde002deae9f3"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_deco_2_4877d9540f.nbt"
+hash = "27d27a5fcd7b873fbc5ba06a54683942f7266526a09f9a48b3b0b0c82bed9b1f"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_illusioner_normal_0_6f23502f1c.nbt"
+hash = "7cfff6f2969e6409efb3d5c8a20a8a93cbbf18f5cffe032689cbb4044930fd88"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_skeleton_armored_0_0b114af481.nbt"
+hash = "5c725feb9bc3094f26b3756e76c413e4617a21d1c016a5e5584f8a2df2868dce"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_skeleton_armored_1_496ef0a3e5.nbt"
+hash = "2260a519ec2bd4c98f2013782fbd0f3adc39e11749f897aa89fe93f783f25e7c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_aviary_aviary_part_13_0d47188f34.nbt"
+hash = "26b6f0adec1328311917c4ac04e1c599a6fed6ed073ed49937836051c2813f5d"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bandit_towers_bandit_towers_crossing_0_682a9ab05e.nbt"
+hash = "44f33ba6fe986163c454451db6302c01d2638300778d55f03abe768a6b896efd"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bandit_village_bandit_village_street_2_a022039109.nbt"
+hash = "8f026341181c585fa87441ce31ab29efa6f4e78feb62c963ba01f59492b75bc2"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_0_f4fd272fc0.nbt"
+hash = "b493c3c57ca3422183788b8acaaf197aed6badb94a67bc1c344c4de38895690a"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_1_bf1fe6d05f.nbt"
+hash = "b3902d6757b3e7036b00ded387c3c49500b0f494fbe822187fda9a5c648fd54f"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_2_fef74d5a67.nbt"
+hash = "0d99c77ed1043f3a283a4a8696ebea34bd54f5fb137365b5aee6856fb7e1576f"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_3_1fb1f3a011.nbt"
+hash = "19c77bed1c7f413ed2a17c2b99eb1cedf59667bcb1074ad73a6c05eb68b72f5d"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_4_b659f3c982.nbt"
+hash = "6b6f77c4bf4fbec9ba982036c37e1ddf4846efc0cff58ff671c1faaaa2d1a65f"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_5_f51dae16c5.nbt"
+hash = "4252151f0bd1af9810ac311b4fa709ada4a073102c1f65d211a0b4d9481711aa"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_0_d9aa0b9cab.nbt"
+hash = "7c04016d31c99cecbdb172be58da37a18a95ac838344db23bc077233878adbc5"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_1_fe672689b2.nbt"
+hash = "7bbddd8c499d178204115a307f93f519b95f5ad187b2362c4f853f0ca8922926"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_2_b4e6d6f8ad.nbt"
+hash = "b6753dbf25d18e1243fc35acd92ecb85c188bd83592cb656e97d8d9a3e7b6935"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_3_baeffdbe67.nbt"
+hash = "9d361d85b8f5291af337457a2346f1cf6b956f510c0deb489eb0c26d8448a6cf"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_spawner_0_b96961558d.nbt"
+hash = "29363474e81982296bf1d29b09289636d5026b087978124a20a2040ed8c96659"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_spawner_1_ab9d22b463.nbt"
+hash = "d1dec3f55e7f2b0bf0be67bd3afb6dbb9cc2afbf2a7766d9f0c47584e39e5084"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_spawner_2_9d4e9f0575.nbt"
+hash = "af0200913782eb62679780348ab180c6eb6ddd586a464f7d3bb06951fcb6c859"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_4_9a325c1c61.nbt"
+hash = "35c8871c5325ed37a85fc788bb3756f72e5c22ba58314a2a34dcfe71631af90b"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_6_fc412bc441.nbt"
+hash = "712ed354ae2c8846d0c714c19f2b76dc3cb8c02304e79eb82f7ac3875d4f75e1"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_ceryneian_hind_ceryneian_hind_part_1_8d1e717f7f.nbt"
+hash = "6af0cca08b9351c6b7130f05c0b82f62c43f0eae8e64a7dbbb6fdc209beab827"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_coliseum_coliseum_part_0_325a5da046.nbt"
+hash = "db3fe84b8128d8aff1446c62d599cbff8a3ce8a832e9a71f4a95fc8d0e52b20d"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_fishing_hut_fishing_hut_main_8f26c2abd3.nbt"
+hash = "834b4171288d4702506623b6b03e59466cd7a46bea4ad92d5e1a6d12648737d9"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_foundry_foundry_crossing_start_0_5508fdbbe2.nbt"
+hash = "e3f176fa308ecd721b3f05dd78199c2d7aff26aa664c5e79aee59c9e33276c71"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_0_8fa188369b.nbt"
+hash = "025d8a319d1025d5e81cb1d8c1a26798ae4d4f64379bdddb46b778a13c4de2fd"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_hoglin_rider_0_8e22f1995d.nbt"
+hash = "c98685188f0791902a54ab1929e9fea5e4537cf0c632561788db2c0ca44fc1c2"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_part_0_115b537d7d.nbt"
+hash = "6191c81e14300778219f4dd17cd532f956df04d7a400a8e8495b6e7120058783"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_part_1_ab8c67af0e.nbt"
+hash = "9455ff13d8e0e6d74d6a970d6ea4d8810a680c44718a6a6af2f8e66ee62b2ec0"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_part_2_5356c0191c.nbt"
+hash = "b6b1c5aa85d8024d1dbc0f58ffdd08e980f9261cc7d2f59ef1a71fcb471429b3"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_part_3_eb477c83a6.nbt"
+hash = "f8a71db8e226290f8561122851a8b7c51ef6e661f0ccd34ebaf9d7996f08bf43"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_part_4_78c773c124.nbt"
+hash = "5222090e66c9ec4ce91540868564dfda78723fe5ea5494a16178e545bda6bf15"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_part_5_a11f3cb96d.nbt"
+hash = "6e269d55cee3a3aa73bff6b60670856911dba343f4e96dcab50b654c695619ae"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_phantom_rider_0_8fa5a44dba.nbt"
+hash = "d9ccccf6c5aaf5dfad68222ab730d9631765fb776b8459ebc124551c1cc40603"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_phantom_rider_1_d73979b820.nbt"
+hash = "9ae6ae2608ed53ebb8ab713d4dce2bd59596dba5ccf8a16a375cd96959ff1c4d"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_skeleton_juggernaut_0_182b7b0c03.nbt"
+hash = "165c1b30b3dac2f53d0809b6ab7019c5078d0ad2f222007ff16d749ab8f82e87"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_skeleton_juggernaut_1_f4b3a59727.nbt"
+hash = "e4b363c836f6a9fe26a13b7176a94ff6b448898c96555a5f2f11683ffbb73df6"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_skeleton_theater_0_032ce8fbfe.nbt"
+hash = "12db4af61b3111c40bd9b6d3e85396c9ba6aa8b69ce6d244e92ffdb06b775444"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_skeleton_theater_2_c4fc7d3a63.nbt"
+hash = "7fa0af765cb9bc6386233c3b8ca2af4b8b11ce592f874b80021274559e5d43fa"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_challenger_heavenly_challenger_skeleton_theater_3_main_ac776f2a58.nbt"
+hash = "ac45e8d108e18d7e302844405683c24a4bead899065c9fd9a8002a3ba4893067"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_conqueror_heavenly_conqueror_part_0_e4d498c251.nbt"
+hash = "730be62a033bad22f04be0ffdf631fa3c83c45af4d0310cc955863f2f0456dcb"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_heavenly_rider_heavenly_rider_part_0_743b98ed67.nbt"
+hash = "9a78d8fc7441b7a13dd8f488913ed2d87a366ac9c18af3f535402866a8bfa03e"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_street_6_main_95b2db72dc.nbt"
+hash = "a883c4d99d3de32c14abd8349d863f5c0aa14dd824f96794b34f1d28aa9b8278"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_part_0_0ffa0ef9ae.nbt"
+hash = "b7105689ad072b396f34387f6c51522f064dc82c80d675173e7a3c62faa6f753"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_0_ddfd5f5b30.nbt"
+hash = "b6cf5b7a01f9974f51042a1358ddb474ae5cc6617c589bac312f2277276de31c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_galley_illager_galley_part_0_2c9ffcc34c.nbt"
+hash = "90cfe7499109cc63a32a2f0b59139cd273af3de04a6d4261a8c04aa26f923388"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_windmill_illager_windmill_part_0_ed8131990a.nbt"
+hash = "49ae97f997108528bfd88af57678f08b709726e634f5e86ac0b3e0d817afaf49"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_infested_temple_infested_temple_layout_part_1_middle_e4b60f0c9f.nbt"
+hash = "c4fa3eeb7818d8df7bd410714bde267b6a5dd5274110748688c8657c3fe79b75"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_jungle_tree_house_jungle_tree_house_0_main_fdaaae3527.nbt"
+hash = "c23701857e8fcaaa643f6b6acac6a54542fd35d658864382be2cd92ba5bdd903"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_jungle_tree_house_jungle_tree_house_1_roots_1fcf0be772.nbt"
+hash = "249ec6142562cfbc675e08e03ccd668661700312d893d268c45f02535b5c9f8b"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_keep_kayra_keep_kayra_main_0_ffa0135529.nbt"
+hash = "70b79e1166e61f4b11d8ae887bc7678df55b2883e5b9006799e5e27cca7ec041"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_lighthouse_lighthouse_part_1_f33348679c.nbt"
+hash = "c7b00357bcdd78259ee528ecc19987660f9fb691098b10abf643431b9185b2ca"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mechanical_nest_mechanical_nest_start_0_82efdd0b4c.nbt"
+hash = "cb90cb9836fe29673f6ef015e0621f4147307b627bcd483e7f62fcdf9328b6c1"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_merchant_campsite_merchant_campsite_street_4_main_cccebbf668.nbt"
+hash = "6f2066bee99af8b25ed54390bec85b9b792d91b54e5d1af3d767070c18dbc902"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mining_system_mining_system_triple_0_b7d207f9e9.nbt"
+hash = "5486950a803a36e8df95e02153b15a5e1091c74479f9d29a52990eea68a4e10e"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_iron_golem_normal_0_ea3049e475.nbt"
+hash = "f00cecc1da87c9d4b07f4fbc080dae6ade7ee8ec3f0dbaad5301b9a7433da5a3"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridor_0_c8f71d1dda.nbt"
+hash = "4ac761c42578c4b2f9a3f71825bdacc2147ebef23fd576da0edc2b2a0185faec"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridor_crossing_3813f1a2eb.nbt"
+hash = "6565949e813ef3661dc415818ba5531b7fdfa435fd06c2d7f8666e5551699721"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_corridor_terminator_a5275b92a2.nbt"
+hash = "cb246ec05a5dd3262f740794102c27e37dc514105f4731801796f860cf83a0d6"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_room_0_3e9ef2e548.nbt"
+hash = "76aa54d26b1a47802b318a693b70bfd2b9c9671f5f3dd0e32dfa9047fb48a85f"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_room_1_54f4162981.nbt"
+hash = "3655205c2eaf2ac9e990e5f4ab137e0e690d21dc32899d471cc16ee1c71c2e99"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_room_2_37563f2941.nbt"
+hash = "e6f48e7f2fe553bad71257605c8c34204a48afd8b8f6f4dbd6aaabc33827e405"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_room_3_stairs_a15c1f69f2.nbt"
+hash = "96f2bb1018705986b190fe0b67ed2559570f3e11ff710cfd193b4f26d7b2408f"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_start_6cb69eaf62.nbt"
+hash = "1f23976e7f738e0b3507ee08184c3289b9238080d6ad84182cae991e24e9a1b0"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_monastery_top_0_c5c2d7fdd8.nbt"
+hash = "1b47d9ee32f6e0b48327d407753f264e8fa6f721494d9eb8f97cc7f62d66c271"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_monastery_villager_normal_0_d2ae134ac6.nbt"
+hash = "cbc8eb834b4d72f9068d4b600b7924886348ba885d9305f601f4890016a30f28"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_0_66c7942fe4.nbt"
+hash = "0768d627bd62b17dde15e0fe0ea53b1ded0edda9751647a0cdce505b94f5b082"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_1_f4f52708cd.nbt"
+hash = "4b0b6bdc84ba88f7edb0d3ba8fa735b86597e472be36bc57852e4ef4a53f8f07"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_2_6d894f474b.nbt"
+hash = "7a2bcfca17119e9e161a8a2dd92b8ca8bd26272a13df4d5e28bddcda53c702ec"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_3_3ac376c9a2.nbt"
+hash = "3a32f1ccced57cc7d7196a0693cf0e2f9e9a5d99223b9d3db59314a91aa63858"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_piglin_0_9cc06412e7.nbt"
+hash = "203f6d9544bf7dc5a2aa567c84b8270a8ad570ff1b9a2fce0cf5a83081f2a980"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_piglin_1_4b0d122034.nbt"
+hash = "18be00f2b6c020fb9cc9080fe8f5d13899507d8732b17083bb891bac9ed53dff"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_piglin_2_0b6bd83133.nbt"
+hash = "827fab457d6b1acd0e24d71718cd4fe54ad3092dbcfc4b739c5ac08c68d38190"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_roots_0_962578fc77.nbt"
+hash = "40a4a3cfa2d98cc238f2b08490fd0ddaaede331cc9b2cfba0fa6f440f870f3b5"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_top_0_e8b079de93.nbt"
+hash = "35b02fe87838350e9e9f7be7c075538a6a2fa7ea38f2bcf15baeb0eab0c29754"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_top_1_7b21fdffa7.nbt"
+hash = "c5e95959ba29d84eb3e98a904c780f55b869011e9b3cb85a87b925df1fe389c3"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_top_2_21e83b1170.nbt"
+hash = "0902e03ea5bab0953ef8ca7ee22c5dc8d3629d348b997ce3bcefc7d856161171"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_top_3_dc7ad5f772.nbt"
+hash = "9d563f7460776bbe316957cffb75b67b96bd53866617e53e5b73c1be3168f8f0"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_top_4_5b88508f03.nbt"
+hash = "507f283c611948d8313373242a183746bb71b5f43c26f69bd7cae214b8639a5c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_mines_mushroom_mines_part_0_1497612195.nbt"
+hash = "b32f52e017577d3487562785f5004650f7ff18130d7794d01a70899f5ce3c921"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_village_mushroom_village_house_big_0_97ca3567cb.nbt"
+hash = "b125702c1dbb27cfe9d15b978bdeba08f13ada642e8172996e5dccab519940d1"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_plague_asylum_plague_asylum_corridor_4_crossing_pit_dae2d72b19.nbt"
+hash = "30b6bb4af6d8db5defaf0ae6ca7cec37b15b660ce8eac4a70634217bf20ade35"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_scorched_mines_scorched_mines_well_0_f2c98b62ae.nbt"
+hash = "f78aa08a01d46f3909441d81db6bd4bdcf552acfec0eab25e8eb5f4e7bd9cae2"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_seven_seas_corsair_corvette_corsair_corvette_0_f518fd41fc.nbt"
+hash = "395f65b33bc2b797d23a57c6807ae45d1472a04c468b967caa628ebdc4472abf"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_seven_seas_pirate_junk_pirate_junk_0_ce08d91a0a.nbt"
+hash = "03dc2458b339057df8a8579ad15f42550364ddd47217bb581f0fb8c5343e29e5"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_seven_seas_small_yacht_small_yacht_0_027e5ac370.nbt"
+hash = "d57832af6341e79e10ff5114ca6ab58c713f2e4b035c623345dfc0cc1a77ce04"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_seven_seas_unicorn_galleon_unicorn_galleon_0_0fc2e5041b.nbt"
+hash = "b86a5930771308296296baeebff71b888f564b6b1e21ab620b790b6565b04171"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_seven_seas_victory_frigate_victory_frigate_0_481f1751e2.nbt"
+hash = "851bd5b87964639b7619c2a164e45fd51ab4eaa8cbc4ca1c1cc7d544b2301c0a"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_shiraz_palace_shiraz_palace_part_13_33537b6242.nbt"
+hash = "ca1e325a5d063589ff42aa8e0a289c75eebd1b40cd9b6e3a947e5c12166234c9"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_small_blimp_small_blimp_part_0_4dd72dca68.nbt"
+hash = "93ece21a44022686a0fd50ae091b2d51f9f80eacaa34fdad53c97682bfd5710c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_thornborn_towers_thornborn_towers_part_0_main_bd7c55b1bb.nbt"
+hash = "a9b2dce87873f6c0d7a525d2620a9d28d07860f87933722f5408bb218352e441"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_typhon_typhon_part_1_b7db42b337.nbt"
+hash = "0ae1eac609cd3c87c007ddb47e2c79c193c613b330df76209ca6c97237041eb5"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_undead_pirate_ship_undead_pirate_ship_part_0_ba25d48fb6.nbt"
+hash = "c7aa1fceaefb9847522b4190cb5264992e8a749f43ef83ea5081e89a45aa75a7"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_wishing_well_wishing_well_0_36e5928c5f.nbt"
+hash = "f77b7eeeea0bbe8653f4444a994fb7ce0a36e9609f00f109451831457ab5c8a4"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_badlands_pyramid_whole_8fc67ac9bc.nbt"
+hash = "5a90a616e89badd64a8673ccaaa3fd3a9f800b994a82fcf041329a97fda79191"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_desert_shrine_whole_a0732045af.nbt"
+hash = "dc8a4e5d760fefd2e5c326722988bc83b1ca88cf707120f008b86f675a4c7c5f"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_guide_post_cold_whole_2f4e8b8428.nbt"
+hash = "298be11fbc63bf4ca44c8c001d3cb79e042ff88f351e17f4812e6bea7058c434"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_guide_post_warm_whole_859694af07.nbt"
+hash = "65c60cc67895747ef061d1628123c7db500b32737b0f8cdb1da0c128eba2a11f"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_mausoleum_whole_8873667597.nbt"
+hash = "e8a1779860b0e95e1d06b4b1a9429df955460d44d8f193a67b59f7600efa2fc4"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_plains_base_plate_whole_2ef0518a19.nbt"
+hash = "02d48083fc6504db63b5105af226450537434245856bb2ea90d95b58dc970749"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_plains_feature_plate_whole_b55355b199.nbt"
+hash = "c80924c0d2cb9ab45324075709a3f8d5947d48f5187e17ec0268669ee020b217"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_plains_features_hay_pile_29db688980.nbt"
+hash = "32ee3ae3e8b8b8f95a1d864eb3908b3dd5f67f53a766a37be23ce7b86901d046"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_plains_features_logs_818882ef51.nbt"
+hash = "8ab07f94fd72e757c341a189870b9465b40a4b625a233ee4298105f7f7482f21"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_plains_tower_whole_3c8bb3ed7a.nbt"
+hash = "a970849b37e8232bbf409eac65147e41869ba3fb0eb50a3081190bb600ac4861"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_savanna_base_plate_whole_2eb99a76bf.nbt"
+hash = "86a656f82ac0b3fab107fcf2eb22403a6f609078e7a78095ee3cfb284ab46c7e"
+
+[[files]]
+file = "modernfix/structureCacheV1/explorify_watchtower_taiga_base_plate_whole_04e09f225f.nbt"
+hash = "b7326bfbc8443f076e4332718232903c933c247a855b1f4102d91a25aa8ffd31"
+
+[[files]]
+file = "modernfix/structureCacheV1/joshie_blossom_blade_3a5d6b1ea2.nbt"
+hash = "24d61ec6d546b6dc05bee71790d391fd8c86f5d40bfb5bc47e2456671ab3c962"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_common_iron_golem_bfa919f54a.nbt"
+hash = "16784c43d9dd6ca1928e355eb7c998a520beae5277d707b3bbb054491f3281f9"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_plains_houses_plains_windmill_1_b565030081.nbt"
+hash = "1347349993af7d6dcb5715874990286cb93d43182c08efab41b6a07d2a97c42d"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_wisteria_houses_wisteria_temple_1_f68fadea8a.nbt"
+hash = "da95e7ebedadb71eee63fa3b16dff26cb01db6b66405e33397fdb04627a98c32"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_wisteria_houses_wisteria_temple_2_c6decaa439.nbt"
+hash = "82c747bf1fb23f5d85ee33d1be263ea549414af4089282791982ac241eaa737a"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_wisteria_town_centers_wisteria_meeting_point_1_edcda77ed7.nbt"
+hash = "eaa51fc6abc2f1c3e705230586c5d06f8aa84fed1472c7613f4734bba2fd764e"
+
+[[files]]
+file = "modernfix/structureCacheV1/minecraft_village_wisteria_town_centers_wisteria_meeting_point_2_ac7f5e8544.nbt"
+hash = "8435b9446e409b18f295770a285adea51e03e11bb60d6dccdc9de5b68ce63caa"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_decoration_jungle_well_89dfa852de.nbt"
+hash = "1de7c22817a261373f317634eac6fbffbaf04bd543c0963233e381223c64c1fd"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_harvest_camp_scarecrow_091653853e.nbt"
+hash = "62568c23ec2548305216f690a1b3e04c746747f9efb636dd741c2701560e97cc"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_harvest_chapel_church_9a7a833f4d.nbt"
+hash = "df1621436e4d0fb76b7c42822a31da0eed995a29e572f841483b6b141f561d06"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_harvest_chapel_graveyard1_975a3b5cbd.nbt"
+hash = "6431fd11af7a43723399679e6d7dbaca1c777cb5426afd4adf46a32f1557f26c"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_harvest_chapel_graveyard2_ca73f7bbc1.nbt"
+hash = "ebec31079ba110a86a999194fc7dcd101a5baff4c1a92b8be44ed953777441f8"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_harvest_manor2_graveyard_large_92ba7a2ed2.nbt"
+hash = "4530f53a97aaaff2cfd551efcae3888e38578ee0ea4ab60051a9231200fceb77"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_harvest_manor2_spider_spawner_b92522f1e2.nbt"
+hash = "7d020c4149e23abd863355e10eb482116dbac48aa8c17ea7d44d4ff503dd40cd"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_harvest_manor2_which_witch_is_which_352ed1de20.nbt"
+hash = "dfb6c9232e13e3c56e1e8f80b59fde8d409ea656de37f9ca2442c7abd4451da8"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_harvest_manor_large1_84c64893dd.nbt"
+hash = "58ff5e87ff6934cd5130af6f898b6847473dd02053e30e6322e99d3a2e58d845"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_barn1_ad28773bef.nbt"
+hash = "e09330c6f366f168ddb35a66438a0eb957997f71b9b38f29fad78975e6b8cedc"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_boat_1_top_dd739bcfe6.nbt"
+hash = "a9fb275721a5e80387e9a963255bac510a3468e5d07adf438bcb6ccdd2e00854"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_boat_3_top_650d409914.nbt"
+hash = "63d331373314a9cdeeae50357a9bf77cf29bc17183492e4fcd98391fa20f3d19"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_desert_copper_house1_fed06bd7a8.nbt"
+hash = "e8cd02ce87bc31e6d233fe06a7e2c6011e02463278157bd9ae3262ad1339c3d2"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_desert_rock_house1_c5b6416286.nbt"
+hash = "c744e99a5d49e57bc865c5a8c0af8aca79b6a0487acce555e1450ca0a332bb5a"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_farm_ruin_main_2a433cc8a3.nbt"
+hash = "127e7fbc790a6759c47aa2804362c053878cf407df46b637a02bbec78381fb71"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_graveyard_main1_894cb9e146.nbt"
+hash = "467cf1f5577aeb08932c37aa6d3882e8ca11cc5590abec46adaabfb4c457754a"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_mossy_ruin_connector_37d78c3590.nbt"
+hash = "0f341110a5736033e6ba58dbb47c25141f9db8684217cf90a56a65bea53894d6"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_mossy_ruin_main_5756eba6d6.nbt"
+hash = "218e9fe96f7a9a14fbb895c271c6bf9d4ebf893964bc8aa5d84328c76eac1d19"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_outcast_villager_tower_grassy_small2_1947104119.nbt"
+hash = "22d838f5e1db73e71876dd5c78d57783d05548c4303eed515bdfed4f439db704"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_castle1_d6f83c568a.nbt"
+hash = "22077dfd2e2867eab582ddfaf2bccee4441ccb3ea3b54dc13c07329415dd4a06"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_castle2_c22a69be89.nbt"
+hash = "6bbc0bcb845586d723d4e3c9321fd49c5172d0aebee58a59bf3c4b09557328bf"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_circle_small_d0690b6ecf.nbt"
+hash = "b80c89c33eddc646b81f30c2cab5eed1bf0663679020bc6af6dcc60a8c0be5cd"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_circle_tall_88a7a1210e.nbt"
+hash = "e509fdb878a46a5c866911edbe4dfc93ecd52e82709732b4afcec82ddb524b81"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_connector1_0d6e1d457d.nbt"
+hash = "2fec94dc42c862542f9d10befd0b852bebb96e9b928cadf57581bacf87e5f455"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_connector2_76473eea6a.nbt"
+hash = "6a0792653b98b9be819004b854e4e8c252fbc8a411f77dc027c2ab7e9bb8917d"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_connector3_9049d197d4.nbt"
+hash = "13b2666ed8bb3cc756393bd65c36481d0c2c26849b2c98c2446a78ca11878b94"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_connector4_03986ad10a.nbt"
+hash = "7905b2ebfbd0bd36331a5e61b52bdd06741990860cbee39a1c57e4255b9b3142"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_connector5_726083d169.nbt"
+hash = "859247b7f27b78be1dadcceb7c2a4490fe34ab9957129921edcb24fccabe1569"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_doorway_b587f912b1.nbt"
+hash = "81cc8049d3f37a94f5ce5cf1639173e74100116b180d6bc0a87a2236c4d05b8b"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_house1_5fe5d20657.nbt"
+hash = "8f6a30a9cfdb3e5ebb16538832c892515069930243542ea376e7bcb9b42336a3"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_house2_7f0f0b61ae.nbt"
+hash = "56bdf2ec5bb72fcc108274368691969efa728cac2c3225c6dd53cefe7b2f06c0"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_house3_cede5f78d3.nbt"
+hash = "81893a90c6a73398dde69701321478a8d8c31bfd160d612e7c2aec997f02d73f"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_mound1_ccb239572c.nbt"
+hash = "85a97ec8ac219b93f8ca3d8d1d513e3c3a8f03684c046bce46e098d329e7ae23"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_mound_castle_small_4b86819124.nbt"
+hash = "45a81244d764cab99b484260c2fc89e16b9d98b2a684a19590b9f22814811b8a"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_mound_tabletwall_3e3948ecdd.nbt"
+hash = "296330d8ad591384a01d89fae665b8a3fddb7f4002b8be183f79b8aee7143f67"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_northern_ruins_mound_watchtower_136bd9aaf5.nbt"
+hash = "78c5be45fc55f093deeb05d2edbf24811673f3577b8d8defb9a955969a971dc4"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_fountain1_8a061738c1.nbt"
+hash = "d381b62c1266dee9df06693616309004529dbc662e3533195c66847ec45afd43"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_frog_statue1_fa1b8f771f.nbt"
+hash = "42945cd07ebffbab7a26ddfab8546bf33a011161870aff22fcd28c22fd5c77bf"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_frog_statue2_fecac60c65.nbt"
+hash = "e8feb72b9a302d78effb06739f529fa64409edb0efe2c593eac79159c40254b5"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_frog_statue_small_9fcc0d3ba1.nbt"
+hash = "dacadb76b00c08ceba713f579a7a101a7090849fe4621a1f783ce004d18d973e"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_obelisk1_b0c411d671.nbt"
+hash = "0240131dec31a93090eb7de8f01ff7624f296af13f4d3c5a02386519d1bde92c"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_pillar1_72e23966bb.nbt"
+hash = "5a77b193e08e7c66e66b6a86b072c37b239b102f1ace8914e541bc9c3e471e8c"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_pond1_6a2dbffb06.nbt"
+hash = "ffd332a484d1652817662e0cd909527b3992b5bd5836fec28246d5756d1174a8"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_pool1_dfddb602e9.nbt"
+hash = "d6630126023cbf5036812efa5c8c381fb34b2f86e52957e937ebe56e81b926bd"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_pool3_9cd8c78fe7.nbt"
+hash = "bf6f603897528c2ffcb3994d34cce7b0833880371b6730cf369283e814bb5ace"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_ring2_5c7479e0b7.nbt"
+hash = "d219b3894ca584da7f37015e38d31ba3a1d656d1f4d4035ee0762796278d508f"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_ruin1_5eb7ef901f.nbt"
+hash = "06766694921b9adbc78cddedd37c2b07efac6d039c69e5d5a631505eaf226784"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_ruin3_4d0b7b2bef.nbt"
+hash = "2a4537cd2a018c66628aaa4fe392b4a1a5240a907dc068fea4d247029767600f"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_ruin4_a939c6cd2d.nbt"
+hash = "9d306f27d8a4aedecc7771774b1b12a92e8ddfca02129357de78bba0ef359b78"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_staircase1_477f25bf24.nbt"
+hash = "fae4c9a2ef1fa9e210e7a3c20c4cb4b34dfa1dcbb0996ab319ddd325d4082fb1"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_star1_ff2801eed7.nbt"
+hash = "d7b7e8ab341ac6bfcd181cb210d6775c2e0bfecab3030bf88e48c6030c936343"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_t1_dd4d7992af.nbt"
+hash = "da9dc17cac6fc4f1be6163d3adc0a80225daa02fdd2bdf2b0c84a0e44fe7f72a"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_swamp_table2_98c44ac53a.nbt"
+hash = "9c2e13fc57fe325ed31d5239087ede439605c653c2bb12e38ef36b27997818db"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_taiga_surface_bridge1_a8fe1374f6.nbt"
+hash = "b7f7e9a54b1cf32e2714a16c3b7139e3a27bb5f1dcfd11735e0fca49c0a9babb"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_taiga_surface_ruin1_589fb81c88.nbt"
+hash = "40b415b2891275f295f3cb216cc8e6f2643e24ec5776fada81bd81ed5bb59c91"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_taiga_surface_ruin3_d6237c3d3d.nbt"
+hash = "d553d0004e15497b421a40185a32d773a433a15be6eaff63f484dc6b7882af0f"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_taiga_surface_tower1_5f8cd286c9.nbt"
+hash = "515be732dea62d195182c1ae413f1ef3dbe3c7bba7b244c03176c5669b403d76"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_taiga_surface_tower2_c8dfad228f.nbt"
+hash = "90ec470a16bf8eac083d81e0d6e98dae0701bd17f41815360c4e236f71cf56dd"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_ruin_taiga_underground_main_piece_81506d7ca4.nbt"
+hash = "a861dc9ce405ae9117aea2d6aa3c4bfb91552ba0524b688003a5fa192d33fa92"
+
+[[files]]
+file = "modernfix/structureCacheV1/structory_temple_temple_ruin_50c4d5c960.nbt"
+hash = "89c5b496259d1f03335fdb91e77d4435ca52cb7585c371f26fa786a2ed288098"
+
+[[files]]
+file = "modernfix/structureCacheV1/supplementaries_way_sign_5afeece7b2.nbt"
+hash = "670e3938572e5e29a74581b2bc38887cabc1d3a2b400d94d09edce3cf7b637c1"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_catwalk_corridor_0_b4fa77ff01.nbt"
+hash = "865459100d26fb80e3e534983301e5268d0dc9161aa0cc158ecab6bf04d386c7"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_catwalk_corridor_1_606752872a.nbt"
+hash = "fc984a6ba7b6cb5a607655446fa139c07b29667ba45bb2cbc74810784374cb8b"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_catwalk_corridor_2_abda38ea0c.nbt"
+hash = "1d175a6e094e44de216e6485b71518ce74e8381a7041d08d4cbb0867a0ecf7ae"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_catwalk_corridor_3_534e8a729a.nbt"
+hash = "2e28c5c2d72c8aa8f81ed4b607acf663a832662b339800a47e927cf8c4b89177"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_catwalk_corridor_4_fa95e7e2fb.nbt"
+hash = "f60d37676124bbe510dae03e5b7f38d71d73ec7fa6bd1b4dfe18e5285988f8cb"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_corridor_0_3df61e4724.nbt"
+hash = "40e9408cea0be39e7ba8455141bbee1236d765155e4342ca98410d6dd8393ef5"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_corridor_1_d44ae211b6.nbt"
+hash = "feea18d3532112425f018f2d61184ac72b89ad1c29bbc9789ea5bb43a976addf"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_corridor_2_f7abb155f6.nbt"
+hash = "f6a2580b4d21990e3260d62a66934d21e44441fc48b4ef29423e765d746dddaf"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_corridor_3_a831c4ec8f.nbt"
+hash = "367bdd0743844dac76cf19d41b478246f6ecbb462e0660982bed4a0ff18cb762"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_corridor_4_ab63a4d736.nbt"
+hash = "0b32ef010402954b68fc89b80100e103dca712dd744f919702c66d56c6351df3"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_corridor_terminator_0_eb03e415ec.nbt"
+hash = "93366e188df04165386d5e300aa0a0a99fbd208568a2d7c810de932cc2bb9663"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_corridor_terminator_1_c3bbae9ecc.nbt"
+hash = "06e1a1927fafedb1cafa65c27ab132b1271837c820006e0c8265675a5fb5449e"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_entrance_0_4025d689f8.nbt"
+hash = "fbc4c1a5a4440e21e58061fc7141a10ebb1e3780272a8b363664c335e68ada12"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_large_room_0_9fc45453f7.nbt"
+hash = "aaed55410bea4242ede4d9c1a6f42875edfe07149ca3a4a7f998d7c6f25eae95"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_large_room_1_19d4269c2d.nbt"
+hash = "b445dba84465cbd1bb71975d51e33bc87444537caa8638d537f3a9392ad80d61"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_large_room_2_eda056fa65.nbt"
+hash = "7a59015f29d1d7423e33515cdd7e128c699449471b4906644782e8ea12396552"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_passage_0_7fd27252e7.nbt"
+hash = "bad5b32b4f1aad69bfb19c979f4a0d81d8b2456b2d7e109980be2f7c0a6aab0d"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_passage_1_da43eb30f1.nbt"
+hash = "3ece4e060a75c38942b73880abe4720824294dd15253242d968010d70e340b2d"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_passage_2_08fd85744d.nbt"
+hash = "af06796dcf453ed2e3ebb277ab4f1f761bacafba4bcad289af9d9396c4b380d1"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_passage_3_3b342905d8.nbt"
+hash = "b9ba12b02b15ed51f2438c020d09cd0f863d7ac83dd8d5b6af70a35a8e4d1aa3"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_passage_4_06e0215c33.nbt"
+hash = "541878723c8816cb34331274cc105064622024b4a903ced08299194aeecba82d"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_0_7f53106a6b.nbt"
+hash = "3e0d8689fdff0b9580d50b380905246b4874e2badc03be338eebaeb8e7d61164"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_1_108f5e2f39.nbt"
+hash = "f0dd5cada576e1dbe1508ba6706901c8ba2b7d45f9e677f95bc2fd3d52d69f89"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_2_f88ca9f325.nbt"
+hash = "dbc7a33242367807130ca48128a2735ad5e2700dc2774f55f1bceca380181075"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_3_1c94fef49c.nbt"
+hash = "5d43b5e38fb6ab360f407565d0df7c9a28472caac4a0fb192bb5fcb04803e3e3"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_4_6361820f71.nbt"
+hash = "14e105c9bf53497b968540413c4d3e29a658673b173b91b2959cd59bf1377d5c"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_5_b4446b83c8.nbt"
+hash = "0b37e00e4d2bba3e044ec308cfd06e35183750d881e97c10953ac92e162d287b"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_6_4b00b62838.nbt"
+hash = "3c611dd7de497c115a2e5816d8836d7e1247f342d58ceb9c36753d587f5c455a"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_7_bf7d8c5bde.nbt"
+hash = "187e16ad6be5ba6961bae44435dd271bda439850166c9b60bbfc0e872a833fdf"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_8_8d19a44aef.nbt"
+hash = "004cd1191fb00efe1cc9c50f16e4fc3450899f631f06b0eb73a5e8aecee236e3"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_room_9_9920431e8f.nbt"
+hash = "f588fe6c58a5ff81003d6556ae34478a876e660e2ff1a0b85e028e7a1934c19f"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_spawner_0_02e4f14572.nbt"
+hash = "d1b8a55271a8ebe688d9d2f8f82c0eb2c51ec4bb824bd3caba35f658e72d93d7"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_spawner_1_6fc2f48a9d.nbt"
+hash = "b1a01284e0488b6a8184a6981301964a9fea776371b8bcbd9111fee21ec637f1"
+
+[[files]]
+file = "modernfix/structureCacheV1/underground_bunkers_underground_bunker_underground_bunkers_spawner_2_7dd8e5ae6e.nbt"
+hash = "adb53bc368fb63bcfbbab761e22c13c0ad5e2fd754d2434e0851a0fe840f2190"
 
 [[files]]
 file = "mods/1.7.11-1.20.1.jar"
@@ -2141,8 +3745,8 @@ file = "mods/OnlyHammersAndExcavators-1.20.1-0.2-Fabric.jar"
 hash = "2610c8f14820fd1668e8c019f36d4b5cd2b2ae4314ad9d10ab7d5287b668f532"
 
 [[files]]
-file = "mods/OpenLoader-Fabric-1.20.1-19.0.4.jar"
-hash = "c887b6cb300d40e2571ddfaae6cac4197b4b9f80d131e43119db9e6c0cdf04c1"
+file = "mods/OpenLoader-Fabric-1.20.1-19.0.3.jar"
+hash = "752b39655e93178e49fdf7e2b1f176ce740b00b4715025676d82526d6c0cbee2"
 
 [[files]]
 file = "mods/OpenSauceToastKiller.jar"
@@ -2253,8 +3857,8 @@ file = "mods/TeamsHUD-fabric-1.20.1-3.jar"
 hash = "f1b9136332e97b578ea26844c94a0d7c3e3a8a2aafec8131055a32c9cf4e9ec9"
 
 [[files]]
-file = "mods/TerraBlender-fabric-1.20.1-3.0.1.7.jar"
-hash = "c51f7718e55fa071071e065d91264916f4665fd46fc3972c0921515dd7813468"
+file = "mods/TerraBlender-fabric-1.20.1-3.0.1.6.jar"
+hash = "a84d79dcf621b74a5fccfc581212e428389038cbedc9cc4fbecd363b58b94760"
 
 [[files]]
 file = "mods/Thoroughfabric-1.0.jar"
@@ -2621,6 +4225,10 @@ file = "mods/createaddition-fabric+1.20.1-1.2.3.jar"
 hash = "5c28cd268dc0f68626eed0d326f1b3b7b35b8a0f14e5ccbce9aa3ce293055acf"
 
 [[files]]
+file = "mods/createcobblestone-1.2.0+fabric-1.20.1-22.jar"
+hash = "6b6478990842ae1f04c1bd1c5206e5350a12151308bf4f3a252a729576bea1ac"
+
+[[files]]
 file = "mods/createdeco-2.0.2-1.20.1-fabric.jar"
 hash = "59fb9ce554bfdb43fdd24b6bd08ca5b930ce16a5fadc78df254d18b6ce3901f3"
 
@@ -2631,6 +4239,10 @@ hash = "5ee15c4143889bd86e207b048ac190806d2a1949f122b70cdf23b8b96bf9c621"
 [[files]]
 file = "mods/createoreexcavation-fabric-1.20-1.4.5.jar"
 hash = "89049049553a4d0102f9e6350a06982ef221970f678b40a657f3f5f68c904207"
+
+[[files]]
+file = "mods/createrailwaysnavigator-0.5.3-beta-1.20.1-fabric.jar"
+hash = "2303e2063a949d80f441dc588eb555287edda0bf536abc1a19598ed957fb98a2"
 
 [[files]]
 file = "mods/creeperoverhaul-3.0.2-fabric.jar"
@@ -2753,6 +4365,10 @@ file = "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
 hash = "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0"
 
 [[files]]
+file = "mods/enchanted-vertical-slabs-1.9.1.jar"
+hash = "15980090366721e616de3315251153b00d6f539bd1eaf8d2c4b8679d4e137b65"
+
+[[files]]
 file = "mods/endermanoverhaul-fabric-1.20.1-1.0.4.jar"
 hash = "4d967523b7ffcffe6acd0e995390a69dd9af5e6dd3e3573dd43ca42c32157bc0"
 
@@ -2869,8 +4485,24 @@ file = "mods/fusion-1.1.1-fabric-mc1.20.1.jar"
 hash = "d771da81f03a08cf3eaf9a474e4b44f197a6bf5d91051c03ac1ba7c07c55b3d5"
 
 [[files]]
+file = "mods/fzzy_config-0.3.3+1.20.1.jar"
+hash = "e9f3df3c85b532335d9d047f54cb9ada6fa1c29e1721cbb74e5dd850d3d504b8"
+
+[[files]]
+file = "mods/fzzy_core-0.5.1+1.20.1.jar"
+hash = "d02a167cf70fd24d4a5e4848bb934585e3e3d279a0fd4d852b90ab21e134f94c"
+
+[[files]]
 file = "mods/gag-fabric-3.0.0-build.10.jar"
 hash = "2312ed01340cfced4c483097ab7b7abe6c65da730b10e1150b62a0e0fb935433"
+
+[[files]]
+file = "mods/gear_core-0.3.8+1.20.1.jar"
+hash = "3270eeaeb49e8bd17f0c28ae197f6cbde180fac0799b1b8c687fd3a3267a3681"
+
+[[files]]
+file = "mods/gearifiers-0.7.0+1.20.1.jar"
+hash = "d93dc74463f9e17000e828900d425df4a2ade11afcc57c584e0a06d4b92e17c4"
 
 [[files]]
 file = "mods/geckolib-fabric-1.20.1-4.4.5.jar"
@@ -2893,12 +4525,20 @@ file = "mods/go-fish-1.6.3+1.20.1.jar"
 hash = "f4fbe5b10944cf36e0bd0d7399d1f0b2be0909c782e3233caf8515c9f89daced"
 
 [[files]]
+file = "mods/grapplemod-1.99.0+1.20.1.beta.fabric.jar"
+hash = "5ba39a69266c8676974e4c26cb1d9bd5e2b94ef815dc451920f5026e443dd6da"
+
+[[files]]
 file = "mods/guardvillagers-2.0.9-1.20.1.jar"
 hash = "a18f60127cfc8f0f75867738255a98026ae53a3f4a02b5ce4901baaecfcab502"
 
 [[files]]
 file = "mods/handoveryouritems-1.20.1-3.3.jar"
 hash = "901a3886c5938f0fcfec752cfb395f636b21609a49bae37501737eb43239c019"
+
+[[files]]
+file = "mods/hardcorerevival-fabric-1.20.1-12.0.2.jar"
+hash = "981f71452b817e770d392d9c016730502c9bc90d0270427f7f64d8fd139d7f36"
 
 [[files]]
 file = "mods/harvestwithease-1.20.1-8.0.1.0-fabric.jar"
@@ -3021,8 +4661,8 @@ file = "mods/letsdo-vinery-fabric-1.4.19.jar"
 hash = "8ef0ce064ba4fec9616f0e2176a8eeccc0d9eee10d46402582ad929465a91ed9"
 
 [[files]]
-file = "mods/liberty-villagers-mod-1.0.15+fabric+1.20.6.jar"
-hash = "5d47689d3efb0b99562c5b26f948985411dd6dc276b0a8a3fb4307b7ff4fadb8"
+file = "mods/libertyvillagers-2.0.0+fabric+1.20.1.jar"
+hash = "1fd49978de07c0e3f9ec3fe3093b87679884287032a212b683a2e4b3faa66317"
 
 [[files]]
 file = "mods/lithium-fabric-mc1.20.1-0.11.2.jar"
@@ -3061,6 +4701,10 @@ file = "mods/mcw-bridges-3.0.0-mc1.20.1fabric.jar"
 hash = "7a1480216b58ee60f0ca663b661f196f3c7626928675240348d486abd4a446f0"
 
 [[files]]
+file = "mods/mcw-windows-2.2.1-mc1.20.1fabric.jar"
+hash = "1445de29b90d39eeff5be1546ed4645b888ef46e14be49f2f13124cd6061caeb"
+
+[[files]]
 file = "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
 hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
 
@@ -3091,10 +4735,6 @@ hash = "f6a7b7b6787d3aea9e48964f4abc763a7a09f9c108fb01f6d183be54953b26ba"
 [[files]]
 file = "mods/modernfix-fabric-5.17.0+mc1.20.1.jar"
 hash = "8ff6d76e2f949b7eda46c84223b815c2d0acd570ae0b504e3b7e6b2dc7f8c50b"
-
-[[files]]
-file = "mods/modmenu-7.2.2.jar"
-hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
 
 [[files]]
 file = "mods/moonlight-1.20-2.11.30-fabric.jar"
@@ -3179,6 +4819,14 @@ hash = "80524b2824d366422782446c010dfe3a994ced0e38e00f529bb282653f5be36a"
 [[files]]
 file = "mods/paginatedadvancements-2.3.0.jar"
 hash = "2c720d10ba4f17a89492b7fd7b2786486ea1e4060f912ee0d0fb46a50e621348"
+
+[[files]]
+file = "mods/particle-rain-2.0.8.jar"
+hash = "64a97276527a4d9cc4b97e6c49de4e692b78706f0cc490b5975f3d4ced93536b"
+
+[[files]]
+file = "mods/particular-1.0.3.jar"
+hash = "2c7748377c92c77a695f5c2d8382f31f01c51c2b471a8037c96b0e0c2a5f6ce2"
 
 [[files]]
 file = "mods/passiveshield-1.20.1-3.4.jar"
@@ -3317,6 +4965,10 @@ file = "mods/shulkercharm-1.2.2.jar"
 hash = "99cc27ed2b046be214f02d5a87b3905a1daf7abf5eebdc3fd8af14530d8cec1f"
 
 [[files]]
+file = "mods/shutter-2.0.4-fabric-1.20.4.jar"
+hash = "396822ea8757dc2e5b1772646a3b2a5dbe3c45ff8db513cfcee2379e691fd897"
+
+[[files]]
 file = "mods/sihywtcamd-1.10.1+1.20.1.jar"
 hash = "2691e8c2148acfad16a4750e78bb7133d2999940fce5d0a1fd25ce6c818cae56"
 
@@ -3395,6 +5047,10 @@ hash = "75609f385a77bbd26a3338d62abaf30007b248811260810e0c3ef2fd38676ea1"
 [[files]]
 file = "mods/stacksizeedit-1.0.0-fabric.jar"
 hash = "87d52b3729051898a28b4620d11d2a5b1ad55f0b9b494bf064063592038d2ccd"
+
+[[files]]
+file = "mods/stairdoors-1.0.0.jar"
+hash = "6dbbfdb8883b26646fe8274a559dfcc5dd021f7b1a8250350b73da3a684dad04"
 
 [[files]]
 file = "mods/starlight-1.1.2+fabric.dbc156f.jar"
@@ -3570,7 +5226,7 @@ hash = "8e7dab247fd47eab8023c61b255876924dfbb7c7e2e5e70ca814077206e58b46"
 
 [[files]]
 file = "options.txt"
-hash = "74c30df215c0bacd365fb7df22e06ab0e281ce56badac4c8b3e4f40db8e62597"
+hash = "7c2839f2ab1e57441f8ec3aeb788e8f27cf0cfa94920af8b13d5131c78b759d5"
 
 [[files]]
 file = "patchouli_data.json"
@@ -3582,7 +5238,7 @@ hash = "9f9b1671c18336557fcb3bd7dd3cf1a1004f39473bf97bdd88296a0aa8c13e10"
 
 [[files]]
 file = "resourcepacks/Comprehensified.zip"
-hash = "3f883d049fb9a3a2df535c9dd025d1e8674970c85f1b4566af105869a9a97760"
+hash = "c6263d04daf22f10f7d960f2c41a9bc3999de7f8e1e2184698ced9831bb58cfc"
 
 [[files]]
 file = "resourcepacks/Stay_True_1.20.zip"
@@ -3602,7 +5258,7 @@ hash = "1e08fda7853018d23947c2e65490adb6f4e744f2d1d8fe32ac93647b01e04286"
 
 [[files]]
 file = "shaderpacks/Bliss.zip.txt"
-hash = "606c7c3f896de1f8616c99096707dd6366655fadab8c094c4ab75322be614ff6"
+hash = "c1f4a3ccb86546f44e20ebdb03005b37be6ddb49efcb01256947bd7c78613dfe"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined-DH.zip.txt"
