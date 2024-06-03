@@ -8,6 +8,7 @@ data/surveyor
 .fabric/remappedJars
 .vscode
 mods/.index
+modernfix/structureCacheV1
 logs
 saves
 screenshots
