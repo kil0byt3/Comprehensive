@@ -45,7 +45,8 @@
       "damping": 0.525
     },
     "lantern_item_size": 0.625,
-    "lantern_item_holding": true
+    "lantern_item_holding": true,
+    "lantern_item_holding_up": false
   },
   "cauldron": {
     "potion_texture": true
@@ -55,6 +56,9 @@
     "disc_spin": true
   },
   "misc": {
+    "torch_item_holding": true,
+    "handle_holder_item_holding": true,
+    "fixed_holding_animations": false,
     "sign_text_color_multiplier": 1.2
   }
 }

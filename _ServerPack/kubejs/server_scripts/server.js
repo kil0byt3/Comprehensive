@@ -25,6 +25,31 @@ event.remove({ output: 'ad_astra:iron_plate' })
 event.remove({ output: 'ad_astra:iron_rod' })
 event.remove({ output: 'ad_astra:compressor' })
 event.remove({ output: 'ad_astra:coal_generator'})
+event.remove({ output: 'ad_astra:water_pump' })
+event.remove({ type: 'adastra:compressing' }) // remove all ad astra compressing recipes
+event.remove({ output: 'farmersdelight:rope' })
+event.remove({ output: 'brewery:rope' })
+event.remove({ output: 'ad_astra:jet_suit_helmet' })
+event.remove({ output: 'ad_astra:jet_suit' })
+event.remove({ output: 'ad_astra:jet_suit_pants' })
+event.remove({ output: 'ad_astra:jet_suit_boots' })
+
+// Create Trains earlier/worse recipe
+
+event.shaped('create:railway_casing', [
+    'CBC', 
+    'BAB',
+    'CBC'  
+  ], {
+    A: 'create:zinc_ingot', 
+    B: 'createdeco:industrial_iron_sheet',
+    C: 'minecraft:iron_ingot'
+  }
+)
+
+// Grapplemod
+event.remove({ mod: 'grapplemod' })
+event.shapeless('grapplemod:grappling_hook', ["minecraft:iron_pickaxe", "minecraft:lead"])
 
 // Remove OP/broken SB upgrades
 event.remove({ output: 'sophisticatedbackpacks:inception_upgrade' })
@@ -83,50 +108,8 @@ event.shaped('gag:hearthstone', [// arg 1: output
   }
 )
 
-/*/ removed for now
-
-Frostiful fur recipe changes
-
-event.shaped('frostiful:fur_helmet', [// arg 1: output
-    '   ', 
-    'ABA', // arg 2: the shape (array of strings)
-    'A A'  
-  ], {
-    A: 'minecraft:string',  //arg 3: the mapping object
-    B: '#minecraft:wool'
-  }
-)
-
-event.shaped('frostiful:fur_chestplate', [// arg 1: output
-    'A A', 
-    'ABA', // arg 2: the shape (array of strings)
-    'ABA'  
-  ], {
-    A: 'minecraft:string',  //arg 3: the mapping object
-    B: '#minecraft:wool'
-  }
-)
-
-event.shaped('frostiful:fur_leggings', [// arg 1: output
-    'BBB', 
-    'A A', // arg 2: the shape (array of strings)
-    'A A'  
-  ], {
-    A: 'minecraft:string',  //arg 3: the mapping object
-    B: '#minecraft:wool'
-  }
-)
-
-event.shaped('frostiful:fur_boots', [// arg 1: output
-    '   ', 
-    'B B', // arg 2: the shape (array of strings)
-    'A A'  
-  ], {
-    A: 'minecraft:string',  //arg 3: the mapping object
-    B: '#minecraft:wool'
-  }
-)
-/*/
+event.remove({ output: 'farmersdelight:safety_net' })
+event.shapeless('farmersdelight:safety_net', ["supplementaries:rope", "supplementaries:rope", "supplementaries:rope", "supplementaries:rope"])
 
 // Comforts tweak recipe
 
@@ -138,6 +121,19 @@ event.shaped('comforts:rope_and_nail', [// arg 1: output
   ], {
     A: 'supplementaries:rope',  //arg 3: the mapping object
     B: 'minecraft:iron_ingot'
+  }
+)
+
+event.remove({ output: 'shulkercharm:shulker_charm' })
+event.shaped('shulkercharm:shulker_charm', [// arg 1: output
+    'DAD', 
+    'CBC', // arg 2: the shape (array of strings)
+    'DAD'  
+  ], {
+    A: 'minecraft:shulker_shell',  //arg 3: the mapping object
+    B: 'create_jetpack:jetpack',
+    C: 'ad_astra:etrionic_capacitor',
+    D: 'minecraft:netherite_ingot'
   }
 )
 
@@ -225,6 +221,185 @@ event.shaped("phonos:satellite_station", [
 ], {
   A: "simpleradio:transmitting_module",  
   B: "phonos:radio_transceiver"
+}
+)
+
+// Ad Astra (endgame)
+
+event.remove({ output: 'ad_astra:etrionic_blast_furnace' })
+event.shaped('ad_astra:etrionic_blast_furnace', [
+  'AAA', 
+  'BCB',
+  'AAA'  
+], {
+  A: "createdeco:netherite_sheet",  
+  B: "endermanoverhaul:ancient_pearl",
+  C: "minecraft:blast_furnace"
+}
+)
+
+// Immersive Aircraft
+
+event.remove({ output: 'immersive_aircraft:boiler' })
+event.shaped('immersive_aircraft:boiler', [
+  'AAA', 
+  'ABA',
+  'AAA'  
+], {
+  A: 'ad_astra:desh_plate',  
+  B: 'minecraft:furnace'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:engine'})
+event.shaped('immersive_aircraft:engine', [
+  'ADA',
+  'BAB',
+  'ACA'
+], {
+  A: 'ad_astra:desh_plate',
+  B: 'create:precision_mechanism',
+  C: 'immersive_aircraft:boiler',
+  D: 'immersive_aircraft:steel_boiler'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:steel_boiler'})
+event.shaped('immersive_aircraft:steel_boiler', [
+  'AAA',
+  'ABA',
+  'ACA'
+], {
+  A: 'ad_astra:steel_plate',
+  B: 'immersive_aircraft:boiler',
+  C: 'minecraft:blast_furnace'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:hull' })
+event.shaped('immersive_aircraft:hull', [
+  'AAA',
+  'BBB',
+  'AAA'
+], {
+  A: 'create:andesite_casing',
+  B: 'create:iron_sheet'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:hull_reinforcement' })
+event.shaped('immersive_aircraft:hull_reinforcement', [
+  'AAA',
+  'BBB',
+  'AAA'
+], {
+  A: 'ad_astra:steel_plate',
+  B: 'immersive_aircraft:hull'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:sail' })
+event.shaped('immersive_aircraft:sail', [
+  'AAA',
+  'AAA',
+  'BBB'
+], {
+  A: 'create:white_sail',
+  B: 'supplementaries:rope'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:propeller' })
+event.shaped('immersive_aircraft:propeller', [
+  ' B ',
+  'BAB',
+  ' B '
+], {
+  A: 'create:propeller',
+  B: 'ad_astra:steel_plate'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:enhanced_propeller' })
+event.shaped('immersive_aircraft:enhanced_propeller', [
+  ' B ',
+  'BAB',
+  ' B '
+], {
+  A: 'immersive_aircraft:propeller',
+  B: 'ad_astra:calorite_plate'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:rotary_cannon' })
+event.shaped('immersive_aircraft:rotary_cannon', [
+  'AAA',
+  'ABA',
+  ' C '
+], {
+  A: 'create:potato_cannon',
+  B: 'immersive_aircraft:industrial_gears',
+  C: 'ad_astra:steel_plate'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:bomb_bay' })
+event.shaped('immersive_aircraft:bomb_bay', [
+  'AAA',
+  'ABA',
+  ' C '
+], {
+  A: 'ad_astra:steel_plate',
+  B: 'minecraft:tnt',
+  C: 'create:precision_mechanism'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:industrial_gears' })
+event.shaped('immersive_aircraft:industrial_gears', [
+  ' AA',
+  'BCA',
+  'BB '
+], {
+  A: 'ad_astra:desh_plate',
+  B: 'ad_astra:steel_plate',
+  C: 'create:precision_mechanism'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:sturdy_pipes' })
+event.shaped('immersive_aircraft:sturdy_pipes', [
+  ' AA',
+  'BCA',
+  'BB '
+], {
+  A: 'create:fluid_pipe',
+  B: 'ad_astra:steel_plate',
+  C: 'ad_asra:desh_plate'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:gyroscope'})
+event.shaped('immersive_aircraft:gyroscope', [
+  'DBA',
+  'ACB',
+  '   '
+], {
+  A: 'createaddition:redstone_relay',
+  B: 'minecraft:comparator',
+  C: 'minecraft:compass',
+  D: 'simpleradio:receiving_module'
+}
+)
+
+event.remove({ output: 'immersive_aircraft:improved_landing_gear'})
+event.shaped('immersive_aircraft:improved_landing_gear', [
+  'AAA',
+  'ABA',
+  '   '
+], {
+  A: 'ad_astra:steel_plate',
+  B: 'ad_astra:wheel'
 }
 )
 

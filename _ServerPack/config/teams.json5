@@ -1,0 +1,13 @@
+{
+	"showInvisibleTeammates": true,
+	"friendlyFireEnabled": false,
+	"nameTagVisibility": "ALWAYS",
+	"colour": "BOLD",
+	"deathMessageVisibility": "ALWAYS",
+	// Note that 'push own team' and 'push other teams' are swapped.
+	"collisionRule": "PUSH_OWN_TEAM",
+	"enableCompassHUD": true,
+	"enableStatusHUD": true,
+	// How long teams toast notifications should last
+	"toastDuration": 5
+}

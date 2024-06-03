@@ -1,7 +1,7 @@
 {
   "version": 1,
   "displayDebugData": false,
-  "enabled": true,
+  "enabled": false,
   "leafSize": 5,
   "leafLifespan": 200,
   "leafSpawnRate": 10,

@@ -1,7 +1,7 @@
 {
     "showOxygenDistributorArea": false,
     "showGravityNormalizerArea": false,
-    "jetSuitEnabled": true,
+    "jetSuitEnabled": false,
     // Type: Integer
     "oxygenBarX": 5,
     // Type: Integer
@@ -17,7 +17,7 @@
     "spaceMuffler": true,
     "radio": {
         // Range: 0 - 100
-        "volume": 50,
+        "volume": 3,
         "favorites": []
     }
 }

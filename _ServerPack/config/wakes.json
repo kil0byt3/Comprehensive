@@ -3,7 +3,7 @@
 		"mobs": "SIMULATION_AND_PLANES",
 		"other_players": "SIMULATION_AND_PLANES",
 		"items": "SIMULATION_AND_PLANES",
-		"boat": "DISABLED",
+		"boat": "SIMULATION_AND_PLANES",
 		"player": "SIMULATION_AND_PLANES"
 	},
 	"wakesInRunningWater": false,

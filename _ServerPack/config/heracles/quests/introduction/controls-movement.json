@@ -14,6 +14,23 @@
         "count": 64
       },
       "type": "heracles:item"
+    },
+    "controls-movement-reward3": {
+      "item": {
+        "id": "minecraft:torch",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "controls-movement-reward2": {
+      "item": {
+        "id": "supplementaries:slingshot",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
     }
   },
   "display": {
@@ -37,7 +54,9 @@
       "There are many other blocks and items to help with movement and traversal as well. Here's some Rope as a reward - take a look through your REI for more. ",
       "<hr/>",
       "",
-      "<reward reward=\"controls-movement-reward\" quest=\"controls-movement\"/>"
+      "<reward reward=\"controls-movement-reward\" quest=\"controls-movement\"/>",
+      "<reward reward=\"controls-movement-reward2\" quest=\"controls-movement\"/>",
+      "<reward reward=\"controls-movement-reward3\" quest=\"controls-movement\"/>"
     ],
     "groups": {
       "Introduction": {

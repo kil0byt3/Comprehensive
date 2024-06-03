@@ -106,6 +106,7 @@ mode = "fancy"
 				shulker = true
 				warden = true
 				shulker_bullet = true
+				boat = true
 
 			[light_sources.settings.entities.bewitchment]
 				toad = true
@@ -190,6 +191,7 @@ mode = "fancy"
 				crimson_pearl = true
 				soulsand_valley_enderman = true
 				dark_oak_enderman = true
+				windswept_hills_enderman = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true
@@ -201,6 +203,7 @@ mode = "fancy"
 				super_glue = true
 				stationary_contraption = true
 				potato_projectile = true
+				carriage_contraption = true
 
 			[light_sources.settings.entities.sihywtcamd]
 				cobweb = true
@@ -236,6 +239,8 @@ mode = "fancy"
 				tier_1_rover = true
 				tier_1_rocket = true
 				lander = true
+				tier_4_rocket = true
+				air_vortex = true
 
 			[light_sources.settings.entities.twigs]
 				pebble = true
@@ -325,4 +330,7 @@ mode = "fancy"
 				shattered = true
 				sculk_centipede = true
 				sculk_snapper = true
+
+			[light_sources.settings.entities.grapplemod]
+				grapplehook = true
 
