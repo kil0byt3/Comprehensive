@@ -203,6 +203,7 @@ mode = "fancy"
 				super_glue = true
 				stationary_contraption = true
 				potato_projectile = true
+				carriage_contraption = true
 
 			[light_sources.settings.entities.sihywtcamd]
 				cobweb = true
@@ -238,6 +239,8 @@ mode = "fancy"
 				tier_1_rover = true
 				tier_1_rocket = true
 				lander = true
+				tier_4_rocket = true
+				air_vortex = true
 
 			[light_sources.settings.entities.twigs]
 				pebble = true

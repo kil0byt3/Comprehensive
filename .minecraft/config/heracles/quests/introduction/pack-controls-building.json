@@ -8,6 +8,13 @@
     }
   },
   "rewards": {
+    "inventory_reward2": {
+      "item": {
+        "id": "supplementaries:sack",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
     "controls-building-reward": {
       "item": {
         "id": "minecraft:bundle",
@@ -46,7 +53,8 @@
       "",
       "<hr/>",
       "",
-      "<reward reward=\"controls-building-reward\" quest=\"pack-controls-building\"/>"
+      "<reward reward=\"controls-building-reward\" quest=\"pack-controls-building\"/>",
+      "<reward reward=\"inventory_reward2\" quest=\"pack-controls-building\"/>"
     ],
     "groups": {
       "Introduction": {

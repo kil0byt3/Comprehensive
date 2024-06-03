@@ -39,8 +39,9 @@ key_key.emotecraft.stop:key.keyboard.unknown:NONE
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown:NONE
 key_key.ad_astra.toggle_suit_flight:key.keyboard.unknown:NONE
 key_key.ad_astra.open_radio:key.keyboard.unknown:NONE
-key_key.antighost.reveal:key.keyboard.g:NONE
+key_key.antighost.reveal:key.keyboard.unknown:NONE
 key_key.antique_atlas.open:key.keyboard.m:NONE
+key_key.createrailwaysnavigator.route_overlay_options:key.keyboard.r:NONE
 key_jecalculation.key.gui_craft:key.keyboard.unknown:NONE
 key_jecalculation.key.gui_math:key.keyboard.unknown:NONE
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown:NONE
@@ -162,7 +163,7 @@ key_key.presencefootsteps.settings:key.keyboard.p:ALT
 key_key.presencefootsteps.toggle:key.keyboard.unknown:NONE
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt:NONE
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt:NONE
-key_seamless_loading_screen.keybind.config:key.keyboard.g:NONE
+key_seamless_loading_screen.keybind.config:key.keyboard.unknown:NONE
 key_key.showmeyourskin.open_settings:key.keyboard.o:NONE
 key_key.showmeyourskin.global_toggle:key.keyboard.unknown:NONE
 key_simplemagnets.keys.toggle:key.keyboard.h:NONE
@@ -171,11 +172,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.c:NONE
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.b:NONE
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown:NONE
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:NONE
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.z:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt:NONE
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown:NONE
