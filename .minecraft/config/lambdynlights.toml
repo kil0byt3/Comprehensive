@@ -330,7 +330,3 @@ mode = "fancy"
 				shattered = true
 				sculk_centipede = true
 				sculk_snapper = true
-
-			[light_sources.settings.entities.grapplemod]
-				grapplehook = true
-

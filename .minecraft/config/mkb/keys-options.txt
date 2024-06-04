@@ -188,9 +188,9 @@ key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown:NONE
 key_key.spyglass-improvements.use:key.keyboard.z:NONE
-key_key.teams.accept:key.keyboard.right.bracket:NONE
-key_key.teams.reject:key.keyboard.left.bracket:NONE
-key_key.teams.toggle_hud:key.keyboard.b:NONE
+key_key.teams.accept:key.keyboard.unknown:NONE
+key_key.teams.reject:key.keyboard.unknown:NONE
+key_key.teams.toggle_hud:key.keyboard.unknown:NONE
 key_key.toms_storage.open_terminal:key.keyboard.unknown:NONE
 key_key.trashslot.toggle:key.keyboard.t:NONE
 key_key.trashslot.toggleLock:key.keyboard.unknown:NONE

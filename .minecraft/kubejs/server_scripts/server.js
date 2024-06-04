@@ -47,10 +47,6 @@ event.shaped('create:railway_casing', [
   }
 )
 
-// Grapplemod
-event.remove({ mod: 'grapplemod' })
-event.shapeless('grapplemod:grappling_hook', ["minecraft:iron_pickaxe", "minecraft:lead"])
-
 // Remove OP/broken SB upgrades
 event.remove({ output: 'sophisticatedbackpacks:inception_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/botanist_workbench_upgrade' })
