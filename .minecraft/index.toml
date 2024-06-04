@@ -309,10 +309,6 @@ file = "config/bwncr.toml"
 hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
 
 [[files]]
-file = "config/c2me.toml"
-hash = "2371384d41beb56321830857a0789f5c609ce6fb1aea9ffafed0a2da301ab113"
-
-[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
@@ -2539,10 +2535,6 @@ hash = "e847e4943f1e4c0a1951016998891dd769b415bfc6fc83db353c7e0e9f02d19b"
 [[files]]
 file = "mods/bwncr-fabric-1.20.1-3.17.0.jar"
 hash = "b9e988c1eaec888e51246530747908f47bc1193f74bf5a89ea86d1377a5793fd"
-
-[[files]]
-file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar"
-hash = "16a91977a48bfd1fc93e361204fdc95a5a8b3a261a136630bfde229f54b589ab"
 
 [[files]]
 file = "mods/cardinal-components-api-5.2.2.jar"
