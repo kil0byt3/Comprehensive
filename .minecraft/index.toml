@@ -521,6 +521,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "c2d71ac0a743fa36785c57cd1681a15a2f3fb1a6fa1966b771f9535dd72c7b7a"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "2f1ab1335d1e83bc9dd9a0bf93e86573c0912234c6322f6ce2e29609315582f9"
+
+[[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
 
