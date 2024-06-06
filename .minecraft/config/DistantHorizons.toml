@@ -457,7 +457,7 @@ _version = 2
 				# 
 				# Increasing the vanilla render distance increases the effectiveness of this setting.
 				# 
-				overdrawPrevention = "0.4"
+				overdrawPrevention = "0.1"
 				# Buggy experimental option that will attempt to match up 
 				# Distant Horizons' and Minecraft's near/far clip planes, 
 				# reducing overdraw. 

@@ -22,7 +22,7 @@ hash = "c30b745ebbd4902145714571b91864208a567d7074f7a9bbc80acdf04c722849"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "c57ae6a3871486d5072a8d0af618ab2c2597bb64800d73d1e2e524c4335a3a9d"
+hash = "107c011b760a32edc2956ebd73e57eac6564eff0c46385b9dd56342fee130d09"
 
 [[files]]
 file = "config/HorseBuff.toml"
@@ -526,7 +526,7 @@ hash = "c2d71ac0a743fa36785c57cd1681a15a2f3fb1a6fa1966b771f9535dd72c7b7a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "2f1ab1335d1e83bc9dd9a0bf93e86573c0912234c6322f6ce2e29609315582f9"
+hash = "18997de0fcb9dcf6b8ea82c4fe87b2908d8bbb0134fe070efef1d36b5ad4dc97"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
