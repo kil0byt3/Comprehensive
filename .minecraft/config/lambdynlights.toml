@@ -331,3 +331,6 @@ mode = "fancy"
 				sculk_centipede = true
 				sculk_snapper = true
 
+			[light_sources.settings.entities.simplyswords]
+				battlestandarddark = true
+

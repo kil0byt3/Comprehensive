@@ -1042,7 +1042,7 @@ hash = "bd4b88a98aec1426b6c79c43ddf6438c7d58569d0d43d42ff0d9d24a7195acae"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "09edc5a9b07b3b492cd7aa0f8fab6b64bc1172a9006a28207d4924e49fb457be"
+hash = "cc3efdc17a723df8b9638a4d9241f887858241f00719e90927e84be2088c18de"
 
 [[files]]
 file = "config/leahs-immersive-thunder.toml"
@@ -1094,7 +1094,7 @@ hash = "196623cabbee0a351d94f6d02f56fbd28b875c81434e77a03af13598a209275c"
 
 [[files]]
 file = "config/mkb/keys-options.txt"
-hash = "623fca1ee0f2f4bb18f8befa4fa04525db53e7ae0b096766255cce4e8c5ca88f"
+hash = "755b5a90080d0e6828310077489de56f079eb84f214176b21081387041530694"
 
 [[files]]
 file = "config/mobtimizations/features-customization.toml"
@@ -1158,7 +1158,7 @@ hash = "a1b491e006b73c17761a763b307592632ea13a9861ea312881cb7aca17f3d345"
 
 [[files]]
 file = "config/numismatic-overhaul.json5"
-hash = "dedd3c136687743b1a8b6464f6eab1d598338937ae575da3a4da110126b5c217"
+hash = "dbec612781926fb59978646976b41432d8ec7eaf1c094979439fb65dd0b1146a"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -1858,7 +1858,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "cd9daa88fffd91d9b412b958699a380e99ece67c77de996e58e2349b25737271"
+hash = "3497fe1b31da728c4789cd9ac133d2c14d0fe45bd3d3e723d8904902e0d006bb"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1878,7 +1878,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "ef15ac23b1045035675c6ffe107db999fd994b8608794a95cc9daf1682809de4"
+hash = "f8582b11171054925b83dde0851b3a06c32c1211bbffe673b0b72fed7b01eb93"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"

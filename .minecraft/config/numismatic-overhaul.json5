@@ -6,7 +6,7 @@
 	// Where the notification for adding/removing money from the purse should be (requires rejoining to apply)
 	"moneyMessageLocation": "ACTIONBAR",
 	"purseOffsets": {
-		"survivalX": 0,
+		"survivalX": -20,
 		"survivalY": 0,
 		"creativeX": 0,
 		"creativeY": 0,

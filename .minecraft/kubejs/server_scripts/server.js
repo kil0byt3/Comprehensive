@@ -33,6 +33,9 @@ event.remove({ output: 'ad_astra:jet_suit_helmet' })
 event.remove({ output: 'ad_astra:jet_suit' })
 event.remove({ output: 'ad_astra:jet_suit_pants' })
 event.remove({ output: 'ad_astra:jet_suit_boots' })
+event.remove({ output: 'darkutils:vector_plate_fast' })
+event.remove({ output: 'darkutils:vector_plate_extreme' })
+event.remove({ output: 'darkutils:vector_plate_ultra' })
 
 // Create Trains earlier/worse recipe
 
