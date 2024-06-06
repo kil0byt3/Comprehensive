@@ -2313,8 +2313,8 @@ file = "mods/TeamsHUD-fabric-1.20.1-3.jar"
 hash = "f1b9136332e97b578ea26844c94a0d7c3e3a8a2aafec8131055a32c9cf4e9ec9"
 
 [[files]]
-file = "mods/TerraBlender-fabric-1.20.1-3.0.1.6.jar"
-hash = "a84d79dcf621b74a5fccfc581212e428389038cbedc9cc4fbecd363b58b94760"
+file = "mods/TerraBlender-fabric-1.20.1-3.0.1.7.jar"
+hash = "c51f7718e55fa071071e065d91264916f4665fd46fc3972c0921515dd7813468"
 
 [[files]]
 file = "mods/Thoroughfabric-1.0.jar"
@@ -2645,8 +2645,8 @@ file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
 hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
 
 [[files]]
-file = "mods/create-train-perspective-0.4.0.jar"
-hash = "2fb1a7ed5dc22300781c754341488239ffe5dabd87bc22b0098ec29a15e36866"
+file = "mods/create-train-perspective-0.4.1+mc1.20.1.jar"
+hash = "b3291aef225e08dc65a60cae05bb2f587e9b152c15b5598514088d0463968ff3"
 
 [[files]]
 file = "mods/create_connected-0.7.4-mc1.20.1+FABRIC+HOTFIX.jar"
@@ -3081,8 +3081,8 @@ file = "mods/legacies-and-legends-1.20-v1.3.7.jar"
 hash = "7e09b9c1b7d45a856f3e461c1fb3a4df4677d5a2a697898be15f3d8f3cdc4803"
 
 [[files]]
-file = "mods/letsdo-API-fabric-1.2.12-fabric.jar"
-hash = "ada9f5fe854fb30e86414258e9fd9de75c96379addfb27467508488c2e8da23e"
+file = "mods/letsdo-API-fabric-1.2.13-fabric.jar"
+hash = "86d9e20353c08a627a1d15a0c6ae7336003690ea02ce4766c1538770ff13b8e2"
 
 [[files]]
 file = "mods/letsdo-addon-compat-fabric-1.4.2.jar"
@@ -3093,8 +3093,8 @@ file = "mods/letsdo-brewery-fabric-1.1.8.jar"
 hash = "74cde857b242b13f7286801b7c0e209e239fc20bbdb65fd482c1ed0dc0fe6481"
 
 [[files]]
-file = "mods/letsdo-herbalbrews-fabric-1.0.8.jar"
-hash = "ae7643471ff61a18ef4f4bc89986f0ba0590dfe7d6104962ab671141fe8bc884"
+file = "mods/letsdo-herbalbrews-fabric-1.0.8.1.jar"
+hash = "ceeb9c0bf598a22898454d12ed735201f25a3fffea24c26ce06f4b899e220453"
 
 [[files]]
 file = "mods/letsdo-vinery-fabric-1.4.19.jar"
@@ -3293,8 +3293,8 @@ file = "mods/polymorph-fabric-0.49.5+1.20.1.jar"
 hash = "7dd06f560b44173d9254a0a9edb7f8ba4156c963dcc378ccf432440441b53938"
 
 [[files]]
-file = "mods/polytone-1.20-1.20.2-fabric.jar"
-hash = "0266e14a9ac6106265ed7cc8383afbac98ed56d8c230ddcff02f3293855bd5c6"
+file = "mods/polytone-1.20-1.20.3-fabric.jar"
+hash = "971f6526399b9aae0e494fc132a02dcd7393f4e3dba9cffa8f419253e84f3729"
 
 [[files]]
 file = "mods/preferred-gamerules-1.1.0+1.19.4.jar"
