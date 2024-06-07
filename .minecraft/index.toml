@@ -337,6 +337,10 @@ file = "config/chatpatches.json"
 hash = "dc1038d3242d65e5e3391753519367efe80f9d90bc17c6791512a84894a51bb3"
 
 [[files]]
+file = "config/chestedcompanions.json"
+hash = "71e44335b0b09b019f22d40645de3b117246463baa05c6d2ee5dee892a02e17a"
+
+[[files]]
 file = "config/chickensshed-common.toml"
 hash = "d018c9a688da135ef954b6b276d0a3f3ed42fb99dad0a89959473e415c7be0ed"
 
@@ -735,6 +739,10 @@ hash = "0e8ac36e41880a3715f6891a9f4a8f22febc0b20c75a2d757c6e82e19bad2b18"
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "5cb2998eb0d990a42be344c3d9193d3c2b2c2c9d1d100a5d6cf8a95773b642f3"
+
+[[files]]
+file = "config/findme.json"
+hash = "4e0913a2fef137b2ba6345a2ce3e6104fb0872efe194c5eb7cbb75782b933fc6"
 
 [[files]]
 file = "config/firstjoinmessage.json5"
@@ -1878,7 +1886,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "f8582b11171054925b83dde0851b3a06c32c1211bbffe673b0b72fed7b01eb93"
+hash = "d767a8bdea3de0d5106261293b6e4a8d83a6bbd295ed2448b803ac1d16cb476d"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -2573,6 +2581,10 @@ file = "mods/chatpatches-201.5.6.jar"
 hash = "db9a08de54eec18ce67e344cfa831207e20f270b6635bbde1b6f1bd1f2e6111e"
 
 [[files]]
+file = "mods/chestedcompanions-1.3.1-1.20.1-FABRIC.jar"
+hash = "d7164fbe9ce2167f8e2e86aaa1866b737a1ec7fa23e4c10ed7b451f1bdb8aed8"
+
+[[files]]
 file = "mods/chickensshed-fabric-1.6.0+mc1.20.1.jar"
 hash = "69faa6d20ffebedf03b34436bd3862fd00feeddd4d5d323be8aaf90d7a17b6cf"
 
@@ -2895,6 +2907,10 @@ hash = "6c07d505a7c7435c9813edf68103c8320e37c20daf95418d508aac2681212a78"
 [[files]]
 file = "mods/ferritecore-6.0.1-fabric.jar"
 hash = "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24"
+
+[[files]]
+file = "mods/findme-3.2.1-fabric.jar"
+hash = "e76d76cee0c358670aaeb88e40e9ca96f0204e0042883fa28f12af5655093fc6"
 
 [[files]]
 file = "mods/firstjoinmessage-1.20.1-3.5.jar"
@@ -3673,6 +3689,10 @@ file = "mods/youre-in-grave-danger-2.0.0-beta.13.jar"
 hash = "8e7dab247fd47eab8023c61b255876924dfbb7c7e2e5e70ca814077206e58b46"
 
 [[files]]
+file = "options.txt"
+hash = "18997de0fcb9dcf6b8ea82c4fe87b2908d8bbb0134fe070efef1d36b5ad4dc97"
+
+[[files]]
 file = "patchouli_data.json"
 hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
 
@@ -3693,12 +3713,16 @@ file = "rhino.local.properties"
 hash = "092f73309cc1ef8e5b82e4553e0b3cf9b36a415eb483f8bee1e6723e7c84f690"
 
 [[files]]
+file = "servers.dat"
+hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
+
+[[files]]
 file = "shaderpacks/Bliss.zip"
 hash = "1e08fda7853018d23947c2e65490adb6f4e744f2d1d8fe32ac93647b01e04286"
 
 [[files]]
 file = "shaderpacks/Bliss.zip.txt"
-hash = "32ef7b4fd58e6ea77fdf9b3beefdc583b8ad61b3cdac619b9d73cf1f8f709333"
+hash = "ec41d98177627e9e0ccee921065cfed922abbc3b0dbcbd4e1a969ca4e499ec8b"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined-DH.zip.txt"
