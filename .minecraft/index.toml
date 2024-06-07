@@ -134,7 +134,7 @@ hash = "3ff4111bc53c4ff5508e763257f98d82afb8aad06ccb10e243eae3b9b9587437"
 
 [[files]]
 file = "config/areas.json5"
-hash = "55aa4e69109598219f5b0d6d88ad9edce4ffff5733f2ce243efcdcc4c26196db"
+hash = "4d157bb07989f703c5a1ba7e69a5550516f4f78b2b6398e66f33e097effef090"
 
 [[files]]
 file = "config/artifacts/client.json5"
@@ -1238,7 +1238,7 @@ hash = "0197655ec91e8856fb2ff5a4392730241247a60c970cf4051dcef7dd265a2137"
 
 [[files]]
 file = "config/ping-wheel.json"
-hash = "f76140972e67be40163cef21ff46d8e2a22adf05aff2eea725f89d9fa29c1b7f"
+hash = "8f7d00f6625cc84829227f5e416d7a70c5e39e12d64b44febe7d592d01fef790"
 
 [[files]]
 file = "config/ping-wheel.server.json"
@@ -3027,6 +3027,10 @@ hash = "2f0724ad52e7d6b79eb1e99bf24298213ab2846f27341805ec635aa2c5344c0e"
 [[files]]
 file = "mods/iris-1.7.0+mc1.20.1.jar"
 hash = "a2ca9ca56265abd5f44a001e437bd4c9f3abed7cd8dae058208dd1c93488e131"
+
+[[files]]
+file = "mods/iris-flywheel-compat-1.20.1-0.2.5.jar"
+hash = "55ac2af22956ee6fe37d860edf54dea5118a27f73e4e5c4abc87fd6a5b32fba4"
 
 [[files]]
 file = "mods/ironchests-5.0.2-fabric.jar"
