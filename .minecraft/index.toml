@@ -3689,10 +3689,6 @@ file = "mods/youre-in-grave-danger-2.0.0-beta.13.jar"
 hash = "8e7dab247fd47eab8023c61b255876924dfbb7c7e2e5e70ca814077206e58b46"
 
 [[files]]
-file = "options.txt"
-hash = "18997de0fcb9dcf6b8ea82c4fe87b2908d8bbb0134fe070efef1d36b5ad4dc97"
-
-[[files]]
 file = "patchouli_data.json"
 hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
 
@@ -3713,16 +3709,12 @@ file = "rhino.local.properties"
 hash = "092f73309cc1ef8e5b82e4553e0b3cf9b36a415eb483f8bee1e6723e7c84f690"
 
 [[files]]
-file = "servers.dat"
-hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
-
-[[files]]
 file = "shaderpacks/Bliss.zip"
 hash = "1e08fda7853018d23947c2e65490adb6f4e744f2d1d8fe32ac93647b01e04286"
 
 [[files]]
 file = "shaderpacks/Bliss.zip.txt"
-hash = "ec41d98177627e9e0ccee921065cfed922abbc3b0dbcbd4e1a969ca4e499ec8b"
+hash = "32ef7b4fd58e6ea77fdf9b3beefdc583b8ad61b3cdac619b9d73cf1f8f709333"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined-DH.zip.txt"
