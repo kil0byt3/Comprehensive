@@ -19,7 +19,7 @@
   },
   "player": {
     "min_sleep_level": 1.0,
-    "sleep_timeout": 400,
+    "sleep_timeout": 90000,
     "wake_up_effects": [
       {
         "ambient": true,

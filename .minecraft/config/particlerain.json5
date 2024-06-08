@@ -1,6 +1,6 @@
 {
-	"particleDensity": 200,
-	"particleStormDensity": 800,
+	"particleDensity": 50,
+	"particleStormDensity": 70,
 	"particleRadius": 15,
 	"rainDropGravity": 1.0,
 	"snowFlakeGravity": 0.10000000149011612,

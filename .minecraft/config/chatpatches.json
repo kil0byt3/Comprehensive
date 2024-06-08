@@ -17,7 +17,7 @@
   "boundaryColor": 5636095,
   "chatLog": true,
   "chatHidePacket": true,
-  "chatWidth": 0,
+  "chatWidth": 500,
   "chatMaxMessages": 16384,
   "chatNameFormat": "\u003c$\u003e",
   "shiftChat": 10,

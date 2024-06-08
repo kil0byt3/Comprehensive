@@ -35,6 +35,6 @@
     "instantDoorBreakHardness": 5.0,
     "diggingProgressTick": 0.02,
     "maximumTargetHardness": 20,
-    "modifyPiglins": true
+    "modifyPiglins": false
   }
 }

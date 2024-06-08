@@ -20,3 +20,7 @@
 /.minecraft/.fabric/remappedJars
 *.ps1
 /_ServerPack
+/.minecraft/emojiful/cache
+.minecraft/config/fabric/indigo-renderer.properties
+.minecraft/config/indium-renderer.properties
+.minecraft/config/iris.properties

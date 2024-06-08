@@ -1,0 +1,9 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "highlight": {
+    "color": "#00FF68CF",
+    "enabled": true,
+    "distance": 20,
+    "duration": 100
+  }
+}
