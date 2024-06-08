@@ -1062,7 +1062,7 @@ hash = "bd4b88a98aec1426b6c79c43ddf6438c7d58569d0d43d42ff0d9d24a7195acae"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "a421a73780dc94abfca546290caf1f616884be80f45c3bbe5493f09b7613633b"
+hash = "a512f355642c5e7e02cbcaee140c7110673de547c204d604ed14b41e38303c68"
 
 [[files]]
 file = "config/leahs-immersive-thunder.toml"
