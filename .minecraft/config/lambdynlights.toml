@@ -341,3 +341,6 @@ mode = "fancy"
 				variant_bee = false
 				beehemoth = false
 
+			[light_sources.settings.entities.shield_overhaul]
+				shield_bash_entity = true
+

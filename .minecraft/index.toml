@@ -22,7 +22,7 @@ hash = "c30b745ebbd4902145714571b91864208a567d7074f7a9bbc80acdf04c722849"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "c57ae6a3871486d5072a8d0af618ab2c2597bb64800d73d1e2e524c4335a3a9d"
+hash = "6eed2fee88757e3e2b3d05045c70b958495655898140475cde98e550f68af6df"
 
 [[files]]
 file = "config/HorseBuff.toml"
@@ -325,6 +325,10 @@ file = "config/carryon-common.json"
 hash = "8405882d4b590e9b4af5bbd99d0596f33b11b5dedae26ddf8af54dc279e01950"
 
 [[files]]
+file = "config/chalk.properties"
+hash = "a7204a67feac23416608d2c5d54afd2a9f827db52c34af9f6666ec9abb543617"
+
+[[files]]
 file = "config/charmofundying-server.toml"
 hash = "23263df6eb7a739dd95fc2e45908115d3f49d976f8299103d6da415223cda998"
 
@@ -523,18 +527,6 @@ hash = "32f97e5ec5b7ccd6ecaa72714a269bf28b30e33b637fde60a1fe90e261d1e5bf"
 [[files]]
 file = "config/defaultoptions-common.toml"
 hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "c2d71ac0a743fa36785c57cd1681a15a2f3fb1a6fa1966b771f9535dd72c7b7a"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "18997de0fcb9dcf6b8ea82c4fe87b2908d8bbb0134fe070efef1d36b5ad4dc97"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
 
 [[files]]
 file = "config/diet-client.toml"
@@ -1062,7 +1054,7 @@ hash = "bd4b88a98aec1426b6c79c43ddf6438c7d58569d0d43d42ff0d9d24a7195acae"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "675d330b8be2d1c7b3456c5a5a7003d820f4ca48ccf894d98aed938ad6fca216"
+hash = "e2cc7a3423c2c50f0087a21a29704f15ffa7cb7aaa26bfd045b20bb0b3542721"
 
 [[files]]
 file = "config/leahs-immersive-thunder.toml"
@@ -1379,6 +1371,10 @@ hash = "748bca841b6c39d99089cb67d537cdfdc993283b047c60e70cb0a4849c41b672"
 [[files]]
 file = "config/seamless_loading_screen.json"
 hash = "11709f830f3d33ed6407a05fbffc3161713b194005e1c97b2cddab457689aac8"
+
+[[files]]
+file = "config/shield_overhaul.json"
+hash = "bdf151720a669306950ceab16b9661768b6ec414786cb357b3a809721c1f055e"
 
 [[files]]
 file = "config/showmeyourskin-server.json"
@@ -2057,8 +2053,8 @@ file = "mods/DiagonalWindows-v8.1.4-1.20.1-Fabric.jar"
 hash = "26254ffd989dbc9e30c65c99cee7aad6b969160aaa1be1cba3402b815dba2104"
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
-hash = "0f4f1f8993e06cb8fd143dde0271ee92fc11b2f51b944982e265f23646a86409"
+file = "mods/DistantHorizons-2.1.0-a-1.20.1.jar"
+hash = "c709f8a9433d26dc3addb048d95d61dd880aa45a7c82ff22f54ade8c8ad81e42"
 
 [[files]]
 file = "mods/DramaticDoors-QuiFabrge-1.20.1-3.2.2.jar"
@@ -2313,6 +2309,10 @@ file = "mods/Searchables-fabric-1.20.1-1.0.3.jar"
 hash = "f32e0b0c9bebc99944ddc6a9dba8f8336af666aaba151c6839b8353a2acdd53a"
 
 [[files]]
+file = "mods/Shield_Overhaul-FABRIC-MC1.20.1-1.0.4.jar"
+hash = "23f40d30f9b4531d799e0f244517ae806badf355134f23d70c663facb2030e3d"
+
+[[files]]
 file = "mods/ShowMeWhatYouGot-1.20-1.1.1.jar"
 hash = "e2149f73148e4fff866800225db121088178252c468894f65cc5c628e2e68ac8"
 
@@ -2485,6 +2485,10 @@ file = "mods/areas-1.20.1-5.6.jar"
 hash = "738b6c457789df7a1063603da85fce899b5d685d7445f5764dc901328a592f21"
 
 [[files]]
+file = "mods/armorrack-1.1.1.jar"
+hash = "ccd877d77d89cf6580f9853272b70dd3518d058433db46472f3616598b7b3ab3"
+
+[[files]]
 file = "mods/artifacts-fabric-9.5.9.jar"
 hash = "e988af260cb8ea519560b219afb39b11be73e880ee411e124b1f333d4c852fb7"
 
@@ -2599,6 +2603,10 @@ hash = "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd"
 [[files]]
 file = "mods/catalogue-fabric-1.20.1-1.8.0.jar"
 hash = "3da71e8a466987b702c7920abdb738b2a03418051d22d4ff86a08bf1f29e460b"
+
+[[files]]
+file = "mods/chalk-2.2.4.jar"
+hash = "9993f2e5d645e3c834fbdfbea2fc626980ea50d1fb766f12837bc73390a12174"
 
 [[files]]
 file = "mods/charmofundying-fabric-6.5.0+1.20.1.jar"
@@ -3758,7 +3766,7 @@ hash = "9f9b1671c18336557fcb3bd7dd3cf1a1004f39473bf97bdd88296a0aa8c13e10"
 
 [[files]]
 file = "resourcepacks/Comprehensified.zip"
-hash = "c6263d04daf22f10f7d960f2c41a9bc3999de7f8e1e2184698ced9831bb58cfc"
+hash = "d87fb72fb9a7a24456a143c880db7c79df58f16e668c534761539cb6b7e89fd7"
 
 [[files]]
 file = "resourcepacks/Stay_True_1.20.zip"

@@ -318,6 +318,9 @@ _version = 2
 				# Render render data file status?
 				# 
 				showRenderDataFileStatus = false
+				# Render Quad Tree Rendering status?
+				# 
+				showQuadTreeRenderStatus = false
 				# If enabled, various wireframes for debugging internal functions will be drawn. 
 				# 
 				# NOTE: There WILL be performance hit! 
