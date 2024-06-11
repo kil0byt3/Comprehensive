@@ -1,0 +1,103 @@
+{
+  "dependencies": [
+    "322528062359C5A9"
+  ],
+  "tasks": {
+    "154B36532DA2223D": {
+      "type": "heracles:item",
+      "item": "minecraft:piston",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "092F75816E5B1F60": {
+      "item": {
+        "id": "minecraft:piston",
+        "count": 3
+      },
+      "type": "heracles:item"
+    },
+    "10FAA401E153B5A8": {
+      "item": {
+        "id": "minecraft:iron_trapdoor",
+        "count": 6
+      },
+      "type": "heracles:item"
+    },
+    "14B58E2635453524": {
+      "item": {
+        "id": "minecraft:sticky_piston",
+        "count": 8
+      },
+      "type": "heracles:item"
+    },
+    "2BE6AB4D8AFF5767": {
+      "item": {
+        "id": "minecraft:slime_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "156C9AB09D17BD00": {
+      "item": {
+        "id": "minecraft:redstone_lamp",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Piston"
+    },
+    "description": [
+      "<subtitle id=\"29358767A696B164\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"154B36532DA2223D\" quest=\"29358767A696B164\"/>",
+      "<hr/>",
+      "&&3Functional Components&&r will &&3activate&&r when weakly or strongly powered, or when &&dadjacent to weakly powered blocks&&r.",
+      "<br/>",
+      "When activated, a &&ePiston&&r &&3extends&&r, &&dpushing up to 16 blocks in front of them&&r forward. ",
+      "<br/>",
+      "When deactivated, they &&3retract&&r - A &&eSticky Piston&&r will &&dpull the block in front of it backwards&&r.",
+      "<br/>",
+      "&&eSlime Blocks&&r will &&3attach blocks together&&r, causing piston movements to &&dmove all at once&&r.",
+      "<br/>",
+      "&&3Doors and Trapdoors&&r can &&dalso be toggled by redstone&&r. &&eIron Variants&&r of these can only be opened this way.",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"156C9AB09D17BD00\" quest=\"29358767A696B164\"/>",
+      "<reward reward=\"14B58E2635453524\" quest=\"29358767A696B164\"/>",
+      "<reward reward=\"092F75816E5B1F60\" quest=\"29358767A696B164\"/>",
+      "<reward reward=\"10FAA401E153B5A8\" quest=\"29358767A696B164\"/>",
+      "<reward reward=\"2BE6AB4D8AFF5767\" quest=\"29358767A696B164\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          368,
+          -368
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:piston",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Functional Components"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

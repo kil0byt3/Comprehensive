@@ -1,0 +1,86 @@
+{
+  "dependencies": [
+    "09874FF0F69D98F0"
+  ],
+  "tasks": {
+    "3A1BD6DEB90F7E2D": {
+      "title": "Enter a Savanna Village",
+      "icon": {
+        "item": {
+          "id": "minecraft:acacia_log",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "#ctov:village_savanna",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "36361E75C99FC81F": {
+      "item": {
+        "id": "minecraft:fletching_table",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Visit a Savannah Village"
+    },
+    "description": [
+      "<subtitle id=\"2591980163249EF1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"3A1BD6DEB90F7E2D\" quest=\"2591980163249EF1\"/>",
+      "<hr/>",
+      "Employed &&aVillagers&&r restock from a bound &&3Job Site&&r block up to twice a day. ",
+      "<br/>",
+      "A villager without any &&3trade experience&&r can &&dchange professions&&r if their Job Site block is broken and another one is placed.",
+      "<br/>",
+      "A &&dlist of professions&&r and their Job Sites can be found over the page.",
+      "{@pagebreak}",
+      "&&aArmorer&&r - &&3Blast Furnace&&r ",
+      "&&aButcher&&r - &&3Smoker&&r",
+      "&&aCartographer&&r - &&3Cartography Table&&r",
+      "&&aCleric&&r - &&3Brewing Stand&&r",
+      "&&aFarmer&&r - &&3Composter&&r",
+      "&&aFisherman&&r - &&3Barrel&&r",
+      "&&aFletcher&&r - &&3Fletching Table&&r",
+      "&&aLeatherworker&&r - &&3Cauldron&&r",
+      "&&aLibrarian&&r - &&3Lectern&&r",
+      "&&aMason&&r - &&3Stonecutter&&r",
+      "&&aShepherd&&r - &&3Loom&&r",
+      "&&aToolsmith&&r - &&3Smithing Table&&r",
+      "&&aWeaponsmith&&r - &&3Grindstone&&r",
+      "<hr/>",
+      "<reward reward=\"36361E75C99FC81F\" quest=\"2591980163249EF1\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -352,
+          -272
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:acacia_log",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Madagascar 2"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

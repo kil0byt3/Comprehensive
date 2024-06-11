@@ -1,0 +1,169 @@
+{
+  "dependencies": [
+    "039E822D32DC0A9B",
+    "56FFE5307AA82DCD",
+    "471B71E3199030AC",
+    "56E8B3168203AA6F",
+    "51AC2E4D1053FC19",
+    "3D5694CCE8F191BC",
+    "4E780825E91BA9CA"
+  ],
+  "tasks": {
+    "7D62C1C889EBCCF0": {
+      "title": "Tag along [Click]",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "42C0FC5578746887": {
+      "item": {
+        "id": "minecraft:diamond_horse_armor",
+        "count": 1,
+        "nbt": {
+          "RepairCost": 31,
+          "display": {
+            "Lore": [
+              "{\"text\":\"Gift of Hermes\"}"
+            ],
+            "Name": "{\"text\":\"Pegasus Barding\", \"color\":\"dark_aqua\"}"
+          },
+          "Enchantments": [
+            {
+              "lvl": 5,
+              "id": "minecraft:feather_falling"
+            },
+            {
+              "lvl": 3,
+              "id": "minecraft:depth_strider"
+            }
+          ]
+        }
+      },
+      "type": "heracles:item"
+    },
+    "11148912213C7C5F": {
+      "item": {
+        "id": "minecraft:white_banner",
+        "count": 1,
+        "nbt": {
+          "RepairCost": 0,
+          "BlockEntityTag": {
+            "Patterns": [
+              {
+                "Pattern": "ts",
+                "Color": 6
+              },
+              {
+                "Pattern": "tt",
+                "Color": 3
+              },
+              {
+                "Pattern": "cr",
+                "Color": 0
+              },
+              {
+                "Pattern": "ms",
+                "Color": 15
+              },
+              {
+                "Pattern": "bt",
+                "Color": 0
+              },
+              {
+                "Pattern": "cbo",
+                "Color": 3
+              },
+              {
+                "Pattern": "bts",
+                "Color": 0
+              }
+            ]
+          },
+          "display": {
+            "Name": "{\"text\":\"Hermes\"}"
+          }
+        }
+      },
+      "type": "heracles:item"
+    },
+    "6D70B93E29F89580": {
+      "item": {
+        "id": "minecraft:diamond_boots",
+        "count": 1,
+        "nbt": {
+          "RepairCost": 31,
+          "Trim": {
+            "material": "minecraft:gold",
+            "pattern": "minecraft:wild"
+          },
+          "display": {
+            "Lore": [
+              "{\"text\":\"Gift of Hermes\"}"
+            ],
+            "Name": "{\"text\":\"Messenger Treads\", \"color\":\"dark_aqua\"}"
+          },
+          "Enchantments": [
+            {
+              "lvl": 5,
+              "id": "minecraft:feather_falling"
+            },
+            {
+              "lvl": 3,
+              "id": "minecraft:soul_speed"
+            },
+            {
+              "lvl": 3,
+              "id": "minecraft:depth_strider"
+            }
+          ],
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Embrace the fastest travel"
+    },
+    "description": [
+      "<subtitle id=\"3347D4D672927CA6\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"7D62C1C889EBCCF0\" quest=\"3347D4D672927CA6\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"11148912213C7C5F\" quest=\"3347D4D672927CA6\"/>",
+      "<reward reward=\"6D70B93E29F89580\" quest=\"3347D4D672927CA6\"/>",
+      "<reward reward=\"42C0FC5578746887\" quest=\"3347D4D672927CA6\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -320,
+          -368
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:netherite_boots",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
+    "title": {
+      "translate": "Hermes"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

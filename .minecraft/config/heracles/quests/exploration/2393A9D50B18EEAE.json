@@ -1,0 +1,71 @@
+{
+  "dependencies": [
+    "10CFFE20ABD36803"
+  ],
+  "tasks": {
+    "3A8EA4DA6B1CD11A": {
+      "block": "minecraft:amethyst_block",
+      "state": {},
+      "title": "Find an Amethyst Block",
+      "icon": {
+        "item": {
+          "id": "minecraft:amethyst_block",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:block_interaction"
+    }
+  },
+  "rewards": {
+    "6BFD9A2D48C54DCF": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Geode"
+    },
+    "description": [
+      "<subtitle id=\"2393A9D50B18EEAE\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"3A8EA4DA6B1CD11A\" quest=\"2393A9D50B18EEAE\"/>",
+      "<hr/>",
+      "&&3Amethyst&&r grows in large &&2Geodes&&r lined with &&3Basalt&&r and &&3Calcite&&r underground.",
+      "<br/>",
+      "Budding Amethyst Blocks &&dcan't be removed&&r! Only &&3Clusters&&r can be renewably broken.",
+      "<br/>",
+      "&&3Amethyst Shards&&r can be used to make &&3Tinted Glass&&r which blocks light.",
+      "<hr/>",
+      "<reward reward=\"6BFD9A2D48C54DCF\" quest=\"2393A9D50B18EEAE\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -272,
+          144
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:amethyst_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Come on, P!"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

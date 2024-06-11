@@ -1,0 +1,80 @@
+{
+  "dependencies": [
+    "20E2938DD7365207"
+  ],
+  "tasks": {
+    "3185D01BB3B3A323": {
+      "type": "heracles:item",
+      "item": "minecraft:heart_of_the_sea",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "3A3C4FDE5BDFF070": {
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "lvl": 2,
+              "id": "minecraft:luck_of_the_sea"
+            }
+          ]
+        }
+      },
+      "type": "heracles:item"
+    },
+    "7BD813AE660B2A00": {
+      "item": {
+        "id": "minecraft:prismarine_shard",
+        "count": 16
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Heart of the Sea"
+    },
+    "description": [
+      "<subtitle id=\"4FA802A874FC1A24\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"3185D01BB3B3A323\" quest=\"4FA802A874FC1A24\"/>",
+      "<hr/>",
+      "A &&3Heart of the Sea&&r can be found as buried treasure &&2underwater&&r and under &&2beaches&&r. ",
+      "<br/>",
+      "&&3Cartographers&&r can sell &&3Maps&&r to buried treasure, or you can &&3feed raw fish to a dolphin&&r and &&dfollow it&&r.",
+      "<hr/>",
+      "<reward reward=\"7BD813AE660B2A00\" quest=\"4FA802A874FC1A24\"/>",
+      "<reward reward=\"3A3C4FDE5BDFF070\" quest=\"4FA802A874FC1A24\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -64,
+          -320
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:heart_of_the_sea",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Friend of the Mer"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

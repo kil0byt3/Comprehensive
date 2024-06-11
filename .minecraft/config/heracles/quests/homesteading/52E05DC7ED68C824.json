@@ -1,0 +1,106 @@
+{
+  "dependencies": [
+    "29358767A696B164"
+  ],
+  "tasks": {
+    "1F606E3FDB50CED9": {
+      "type": "heracles:item",
+      "item": "minecraft:dispenser",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "0616041E8113D26A": {
+      "item": {
+        "id": "minecraft:shears",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "658F62BCBC99A1FA": {
+      "item": {
+        "id": "minecraft:stick",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "759706E6D69FE6F8": {
+      "item": {
+        "id": "minecraft:bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "65C59DBDB23F27FA": {
+      "item": {
+        "id": "minecraft:cactus",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Dispenser"
+    },
+    "description": [
+      "<subtitle id=\"52E05DC7ED68C824\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1F606E3FDB50CED9\" quest=\"52E05DC7ED68C824\"/>",
+      "<hr/>",
+      "When powered, &&3Dispensers&&r will &&dperform a variety of actions&&r depending on the item in their first non-empty slot.",
+      "<br/>",
+      "Dispensers can:",
+      " - Fire &&3Arrows&&r/&&3Fire Charges&&r/&&3Fireworks&&r",
+      " - Throw all &&3throwables&&r",
+      " - Ignite and drop &&3TNT&&r straight down",
+      " - Use &&3Flint and Steel&&r",
+      " - Use empty and filled &&eBuckets&&r",
+      " - Place &&3Boats&&r and &&3Minecarts&&r",
+      " - Place &&3Shulker Boxes&&r",
+      " - Equip &&3Armor&&r or &&3Saddles&&r",
+      " - Complete &&aGolems&&r and &&cWithers&&r",
+      " - &&eShear&&r &&3Beehives&&r and &&aSheep&&r",
+      " - Bottle &&3Honey&&r and &&3Water&&r",
+      " - Use &&3Bone Meal&&r on &&3crops&&r",
+      " - Charge &&3Respawn Anchors&&r",
+      "<br/>",
+      "The dispenser is very powerful! &&dgive it a try ^^&&r",
+      "<hr/>",
+      "<reward reward=\"759706E6D69FE6F8\" quest=\"52E05DC7ED68C824\"/>",
+      "<reward reward=\"65C59DBDB23F27FA\" quest=\"52E05DC7ED68C824\"/>",
+      "<reward reward=\"0616041E8113D26A\" quest=\"52E05DC7ED68C824\"/>",
+      "<reward reward=\"658F62BCBC99A1FA\" quest=\"52E05DC7ED68C824\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          416,
+          -384
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:dispenser",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Advanced Functional Components"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

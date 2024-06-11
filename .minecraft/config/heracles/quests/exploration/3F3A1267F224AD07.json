@@ -1,0 +1,70 @@
+{
+  "dependencies": [
+    "09874FF0F69D98F0"
+  ],
+  "tasks": {
+    "34CCB8903E66DB2B": {
+      "title": "Enter a Plains Village",
+      "icon": {
+        "item": {
+          "id": "minecraft:oak_planks",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "#ctov:village_plains",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "5F91BA9B5A136015": {
+      "item": {
+        "id": "minecraft:emerald",
+        "count": 4
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Visit a Plains Village"
+    },
+    "description": [
+      "<subtitle id=\"3F3A1267F224AD07\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"34CCB8903E66DB2B\" quest=\"3F3A1267F224AD07\"/>",
+      "<hr/>",
+      "&&aVillagers&&r can &&3level up&&r their profession if you &&3trade&&r with them, &&dunlocking better trades&&r.",
+      "<br/>",
+      "&&7[Fabrication]&&r Villagers will have &&dnew trades every day&&r, or whenever they restock.",
+      "<hr/>",
+      "<reward reward=\"5F91BA9B5A136015\" quest=\"3F3A1267F224AD07\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -304,
+          -320
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:oak_planks",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Plain and Simple"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

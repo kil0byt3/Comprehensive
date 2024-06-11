@@ -1,0 +1,78 @@
+{
+  "dependencies": [
+    "789344ADD80A6FFA"
+  ],
+  "tasks": {
+    "0FB37F4ABF69F503": {
+      "title": "Find a Lush Cave",
+      "icon": {
+        "item": {
+          "id": "minecraft:moss_block",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "minecraft:lush_caves",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {
+    "47E2F798DB2525BA": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    },
+    "42C6047CBB7C0A61": {
+      "item": {
+        "id": "minecraft:bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Lush Cave"
+    },
+    "description": [
+      "<subtitle id=\"0305A29ECBFA79FA\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"0FB37F4ABF69F503\" quest=\"0305A29ECBFA79FA\"/>",
+      "<hr/>",
+      "&&2Lush Caves&&r are indicated by the presence of a flowering &&3Azalea Tree&&r on the surface above.",
+      "<br/>",
+      "&&2Lush Caves&&r contain &&aAxolotls&&r, &&3Moss&&r, &&3Azalea Plants&&r, and &&3Glow Berries&&r.",
+      "<br/>",
+      "&&3Glow Berries&&r are a food that can be &&dgrown underneath blocks&&r, and &&demit light&&r while growing.",
+      "<hr/>",
+      "<reward reward=\"47E2F798DB2525BA\" quest=\"0305A29ECBFA79FA\"/>",
+      "<reward reward=\"42C6047CBB7C0A61\" quest=\"0305A29ECBFA79FA\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -496,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:moss_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Where's my Ivy Whip"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

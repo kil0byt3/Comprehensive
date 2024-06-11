@@ -193,6 +193,9 @@ mode = "fancy"
 				soulsand_valley_enderman = false
 				dark_oak_enderman = false
 				windswept_hills_enderman = false
+				bubble_pearl = true
+				summoner_pearl = true
+				icy_pearl = true
 
 			[light_sources.settings.entities.duckling]
 				duck = false

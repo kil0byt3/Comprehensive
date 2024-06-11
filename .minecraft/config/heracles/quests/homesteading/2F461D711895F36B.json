@@ -1,0 +1,92 @@
+{
+  "dependencies": [
+    "20E2938DD7365207"
+  ],
+  "tasks": {
+    "1B0C87963A2673AE": {
+      "type": "heracles:item",
+      "item": "minecraft:lantern",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "30FE445CAB4EB5B8": {
+      "item": {
+        "id": "minecraft:cobblestone_wall",
+        "count": 8
+      },
+      "type": "heracles:item"
+    },
+    "13ACC7277BC1898F": {
+      "item": {
+        "id": "minecraft:lever",
+        "count": 8
+      },
+      "type": "heracles:item"
+    },
+    "3EBA24A48CFB4618": {
+      "item": {
+        "id": "minecraft:redstone_lamp",
+        "count": 8
+      },
+      "type": "heracles:item"
+    },
+    "6075422D11F4102E": {
+      "item": {
+        "id": "minecraft:oak_fence",
+        "count": 8
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Lantern"
+    },
+    "description": [
+      "<subtitle id=\"2F461D711895F36B\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1B0C87963A2673AE\" quest=\"2F461D711895F36B\"/>",
+      "<hr/>",
+      "&&3Lanterns&&r provide &&dmore light than torches&&r, and can be &&3placed on walls&&r or &&3hung from ceilings&&r.",
+      "<br/>",
+      "They also &&dwork underwater&&r!",
+      "<br/>",
+      "Lights prevents &&3mob spawning&&r in a radius - essential for &&dbuilding a safe base&&r!",
+      "<br/>",
+      "&&eRedstone Lamps&&r can create great streetlights.",
+      "<hr/>",
+      "<reward reward=\"3EBA24A48CFB4618\" quest=\"2F461D711895F36B\"/>",
+      "<reward reward=\"13ACC7277BC1898F\" quest=\"2F461D711895F36B\"/>",
+      "<reward reward=\"30FE445CAB4EB5B8\" quest=\"2F461D711895F36B\"/>",
+      "<reward reward=\"6075422D11F4102E\" quest=\"2F461D711895F36B\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -112,
+          -368
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:lantern",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Lit"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

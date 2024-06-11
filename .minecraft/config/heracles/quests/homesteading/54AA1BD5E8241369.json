@@ -1,0 +1,60 @@
+{
+  "dependencies": [
+    "6B1E74EF171BFD5E"
+  ],
+  "tasks": {
+    "4E96545334B04D98": {
+      "title": "Farmed! [Click]",
+      "type": "heracles:check"
+    },
+    "03646A14192AD73C": {
+      "type": "heracles:item",
+      "item": "minecraft:nether_wart",
+      "amount": 64,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Farm 64 Nether Wart"
+    },
+    "description": [
+      "<subtitle id=\"54AA1BD5E8241369\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"03646A14192AD73C\" quest=\"54AA1BD5E8241369\"/>",
+      "<task task=\"4E96545334B04D98\" quest=\"54AA1BD5E8241369\"/>",
+      "<hr/>",
+      "&&3Nether Wart&&r can be planted on &&3Soul Sand&&r in &&2any dimension&&r. ",
+      "<br/>",
+      "It &&3doesn't even require light to grow&&r - simple!",
+      "<br/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          80,
+          -560
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:nether_wart",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Nether Wart Farming"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

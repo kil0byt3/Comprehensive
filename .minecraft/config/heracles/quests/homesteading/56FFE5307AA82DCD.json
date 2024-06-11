@@ -1,0 +1,81 @@
+{
+  "dependencies": [
+    "423E897DEB76653D"
+  ],
+  "tasks": {
+    "193B528A78694A90": {
+      "type": "heracles:item",
+      "item": "minecraft:soul_sand",
+      "amount": 64,
+      "collection": "AUTOMATIC"
+    },
+    "2071C293A277F0B7": {
+      "type": "heracles:item",
+      "item": "minecraft:soul_soil",
+      "amount": 64,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "586193A0EA230FBE": {
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "lvl": 2,
+              "id": "minecraft:soul_speed"
+            }
+          ]
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Gather Soul Speed Highway materials"
+    },
+    "description": [
+      "<subtitle id=\"56FFE5307AA82DCD\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"193B528A78694A90\" quest=\"56FFE5307AA82DCD\"/>",
+      "<task task=\"2071C293A277F0B7\" quest=\"56FFE5307AA82DCD\"/>",
+      "<hr/>",
+      "&&3Soul Sand&&r slows the player down, &&3Soul Soil&&r does not. With &&eSoul Speed&&r, you &&dmove faster on both&&r.",
+      "<br/>",
+      "&&aPiglins&&r can be thrown &&3Gold Ingots&&r to &&3Barter&&r with them, rarely yielding &&dSoul Speed -enchanted Books or Boots&&r.",
+      "<br/>",
+      "If a Piglin puts on the boots instead, they can be bartered back for &&3Golden Boots&&r",
+      "<hr/>",
+      "<reward reward=\"586193A0EA230FBE\" quest=\"56FFE5307AA82DCD\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -272,
+          -368
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:map",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Olympic Highway"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

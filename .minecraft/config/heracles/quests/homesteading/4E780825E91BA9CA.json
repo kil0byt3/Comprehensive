@@ -1,0 +1,86 @@
+{
+  "dependencies": [
+    "423E897DEB76653D"
+  ],
+  "tasks": {
+    "0343D01EE4CED033": {
+      "type": "heracles:item",
+      "item": "minecraft:magma_block",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "01AB8E607E758E63": {
+      "type": "heracles:item",
+      "item": "minecraft:soul_sand",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "48F6931772905D71": {
+      "type": "heracles:item",
+      "item": "minecraft:water_bucket",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "062569DA6AD87480": {
+      "item": {
+        "id": "minecraft:spruce_trapdoor",
+        "count": 10
+      },
+      "type": "heracles:item"
+    },
+    "5DF53F8015B9942B": {
+      "item": {
+        "id": "minecraft:spruce_fence_gate",
+        "count": 10
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Gather Bubble Elevator materials"
+    },
+    "description": [
+      "<subtitle id=\"4E780825E91BA9CA\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"0343D01EE4CED033\" quest=\"4E780825E91BA9CA\"/>",
+      "<task task=\"01AB8E607E758E63\" quest=\"4E780825E91BA9CA\"/>",
+      "<task task=\"48F6931772905D71\" quest=\"4E780825E91BA9CA\"/>",
+      "<hr/>",
+      "&&3Magma Blocks&&r and &&3Soul Sand&&r under water create \"Bubble Columns\" in either direction, which both provide air and pull/push the mobs and the player down/up in the water",
+      "<br/>",
+      "These can be used to &&dmake elevators&&r for your home. &&eFence gates&&r work great as blocks that prevent water flow.",
+      "<hr/>",
+      "<reward reward=\"5DF53F8015B9942B\" quest=\"4E780825E91BA9CA\"/>",
+      "<reward reward=\"062569DA6AD87480\" quest=\"4E780825E91BA9CA\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -176,
+          -416
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:lingering_potion",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Glub Glub"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

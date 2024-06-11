@@ -1,0 +1,77 @@
+{
+  "dependencies": [
+    "55783EE248BAC550"
+  ],
+  "tasks": {
+    "7F0EA1048654217D": {
+      "type": "heracles:item",
+      "item": "#minecraft:signs",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Craft a Sign",
+      "icon": {
+        "item": {
+          "id": "minecraft:oak_sign",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "00EBA8DA6E3F263C": {
+      "item": {
+        "id": "minecraft:item_frame",
+        "count": 8
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Sign"
+    },
+    "description": [
+      "<subtitle id=\"0342FEBA88E3AF0E\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"7F0EA1048654217D\" quest=\"0342FEBA88E3AF0E\"/>",
+      "<hr/>",
+      "&&3Signs&&r can be used to help &&dlabel&&r &&3chests&&r, &&3rooms&&r, &&3machines&&r, and more. Different kinds of &&3Wood&&r change the background, and the &&dtext color can be dyed&&r!",
+      "<br/>",
+      "After placing, &&6Right-Click&&r can be used to &&dedit text on either side&&r of the sign. &&3Honeycomb&&r can be used to prevent this.",
+      "<br/>",
+      "&&eItem frames&&r can also be used to help &&dorganize&&r - a &&3single item&&r can be placed in them for display.",
+      "<br/>",
+      "For longer notes, craft a &&3Book and Quill&&r to write and store passages. &&3Signing&&r a book prevents it from being edited further.",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"00EBA8DA6E3F263C\" quest=\"0342FEBA88E3AF0E\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          272,
+          -400
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:oak_sign",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Organization"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

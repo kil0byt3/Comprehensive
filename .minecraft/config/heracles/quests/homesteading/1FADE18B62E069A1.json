@@ -1,0 +1,148 @@
+{
+  "dependencies": [
+    "55783EE248BAC550"
+  ],
+  "tasks": {
+    "3A8FF31B49C83CB6": {
+      "type": "heracles:item",
+      "item": "minecraft:loom",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "1AB47C5DBDFE0A43": {
+      "item": {
+        "id": "minecraft:green_dye",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "2280ECB485E70195": {
+      "item": {
+        "id": "minecraft:piglin_banner_pattern",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "7BB131F81CE0EE05": {
+      "item": {
+        "id": "minecraft:white_dye",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "240752E0B3758DDD": {
+      "item": {
+        "id": "minecraft:blue_dye",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "6F48D4D4BCE46394": {
+      "item": {
+        "id": "minecraft:yellow_dye",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "794E4D2D3C56C124": {
+      "item": {
+        "id": "minecraft:brown_dye",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "603A66AEFB21253E": {
+      "item": {
+        "id": "minecraft:black_dye",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "7CD45A7D585FF971": {
+      "item": {
+        "id": "minecraft:red_dye",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "00B4C19857875706": {
+      "item": {
+        "id": "minecraft:flower_banner_pattern",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "60C7D7B8FC33486F": {
+      "item": {
+        "id": "minecraft:globe_banner_pattern",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "7444D5FD1B81724D": {
+      "item": {
+        "id": "minecraft:skull_banner_pattern",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Loom"
+    },
+    "description": [
+      "<subtitle id=\"1FADE18B62E069A1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"3A8FF31B49C83CB6\" quest=\"1FADE18B62E069A1\"/>",
+      "<hr/>",
+      "&&3Looms&&r allow you to create &&dcustom banner designs&&r, which can be &&dhung or emblazoned on shields&&r.",
+      "<br/>",
+      "&&3Special designs&&r for pictures, pride flags, and other patterns are &&davailable online&&r.",
+      "<br/>",
+      "All &&d16 colors of dye&&r can be crafted from &&e7 base dyes&&r.",
+      "<br/>",
+      "&&3Banners&&r and dyed &&3Leather Armor&&r can be &&dwashed clean&&r by throwing them in a &&3Water Cauldron&&r.",
+      "<hr/>",
+      "<reward reward=\"7444D5FD1B81724D\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"00B4C19857875706\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"2280ECB485E70195\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"60C7D7B8FC33486F\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"7BB131F81CE0EE05\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"240752E0B3758DDD\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"603A66AEFB21253E\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"7CD45A7D585FF971\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"1AB47C5DBDFE0A43\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"6F48D4D4BCE46394\" quest=\"1FADE18B62E069A1\"/>",
+      "<reward reward=\"794E4D2D3C56C124\" quest=\"1FADE18B62E069A1\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          288,
+          -304
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:loom",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Represent"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

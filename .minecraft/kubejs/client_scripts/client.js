@@ -15,6 +15,7 @@ ClientEvents.lang('en_us', event => {
     rename ( 'deeperdarker:warden_leggings', "Echo Leggings" )
     rename ( 'deeperdarker:warden_boots', "Echo Boots" )
     rename ( 'beautify:rope', "Decorative String" )
+    rename ( 'heartstone:heartstone', "Connecting Crystal" )
 })
 
 REIEvents.hide('item', event => {

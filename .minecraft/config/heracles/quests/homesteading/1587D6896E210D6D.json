@@ -1,0 +1,139 @@
+{
+  "dependencies": [
+    "68BCEE273A77F4DA",
+    "0FC2E6F08F772324",
+    "2D74603197C7629C",
+    "6E20F24C33A627DC",
+    "4E2B415A2E99BCF6",
+    "5BF7F408031029E9",
+    "1254376D14A00E56",
+    "54AA1BD5E8241369",
+    "531358BD1C258F99",
+    "74001D2726E7133D"
+  ],
+  "tasks": {
+    "39DC4F3432624CFD": {
+      "title": "Chill out over tea [Click]",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "30817A1DB77C9DFD": {
+      "item": {
+        "id": "minecraft:wooden_hoe",
+        "count": 1,
+        "nbt": {
+          "RepairCost": 31,
+          "Enchantments": [
+            {
+              "lvl": 3,
+              "id": "minecraft:fortune"
+            }
+          ],
+          "display": {
+            "Lore": [
+              "{\"text\":\"Gift of Gaia\"}",
+              "{\"text\":\"Unbreakable\"}"
+            ],
+            "Name": "{\"text\":\"Earth Tiller\", \"color\":\"dark_green\"}"
+          },
+          "unbreakable": 1,
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "4BBCD767172D1A8B": {
+      "item": {
+        "id": "minecraft:black_banner",
+        "count": 1,
+        "nbt": {
+          "BlockEntityTag": {
+            "Patterns": [
+              {
+                "Pattern": "ss",
+                "Color": 12
+              },
+              {
+                "Pattern": "hh",
+                "Color": 15
+              },
+              {
+                "Pattern": "tts",
+                "Color": 13
+              },
+              {
+                "Pattern": "bts",
+                "Color": 15
+              },
+              {
+                "Pattern": "flo",
+                "Color": 13
+              },
+              {
+                "Pattern": "mr",
+                "Color": 12
+              },
+              {
+                "Pattern": "mc",
+                "Color": 5
+              },
+              {
+                "Pattern": "mc",
+                "Color": 13
+              },
+              {
+                "Pattern": "sku",
+                "Color": 12
+              }
+            ]
+          },
+          "display": {
+            "Name": "{\"text\":\"Gaia\"}"
+          }
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Keep the world renewed"
+    },
+    "description": [
+      "<subtitle id=\"1587D6896E210D6D\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"39DC4F3432624CFD\" quest=\"1587D6896E210D6D\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"4BBCD767172D1A8B\" quest=\"1587D6896E210D6D\"/>",
+      "<reward reward=\"30817A1DB77C9DFD\" quest=\"1587D6896E210D6D\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          80,
+          -592
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:fern",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
+    "title": {
+      "translate": "Gaia"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "dependencies": [
+    "47ED4204DD0D65C4"
+  ],
+  "tasks": {
+    "435CAB1F15E19EF0": {
+      "title": "Ring of Fire",
+      "icon": {
+        "item": {
+          "id": "minecraft:suspicious_gravel",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "minecraft:trail_ruins",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "40DF3187582CB82D": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    },
+    "5C5F93AC44A64FE9": {
+      "item": {
+        "id": "minecraft:copper_ingot",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "0298ECBAD725CA6D": {
+      "item": {
+        "id": "minecraft:feather",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find Trail Ruins"
+    },
+    "description": [
+      "<subtitle id=\"008B27BCA21B2D06\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"435CAB1F15E19EF0\" quest=\"008B27BCA21B2D06\"/>",
+      "<hr/>",
+      "&&2Trail Ruins&&r are full of &&3Suspicious Gravel&&r, which can be &&eBrushed&&r to obtain loot - including rare &&dpottery decorations, armor trims, and a music disc&&r.",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"40DF3187582CB82D\" quest=\"008B27BCA21B2D06\"/>",
+      "<reward reward=\"5C5F93AC44A64FE9\" quest=\"008B27BCA21B2D06\"/>",
+      "<reward reward=\"0298ECBAD725CA6D\" quest=\"008B27BCA21B2D06\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -64,
+          -80
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:suspicious_gravel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Ring of Fire"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

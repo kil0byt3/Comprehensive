@@ -1,0 +1,75 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "6B61580BF4D462A5": {
+      "icon": {
+        "item": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "nbt": {
+            "Damage": 0
+          }
+        },
+        "type": "heracles:item"
+      },
+      "stat": "minecraft:sprint_one_cm",
+      "target": 50000,
+      "title": "Sprint 500 Blocks",
+      "type": "heracles:stat"
+    }
+  },
+  "rewards": {
+    "184E8B07DD980340": {
+      "item": {
+        "id": "minecraft:compass",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Walk 500 Blocks"
+    },
+    "description": [
+      "<subtitle id=\"789344ADD80A6FFA\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"6B61580BF4D462A5\" quest=\"789344ADD80A6FFA\"/>",
+      "<hr/>",
+      "A &&3Compass&&r visually points towards the &&2Overworld Spawn&&r &&7(X:0 Z:0)&&r. ",
+      "<br/>",
+      "This can help you return to a familiar location if you get lost.",
+      "<hr/>",
+      "<reward reward=\"184E8B07DD980340\" quest=\"789344ADD80A6FFA\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -304,
+          64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:leather_boots",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Leaping Lateral [Naturalist]"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "dependencies": [
+    "423E897DEB76653D"
+  ],
+  "tasks": {
+    "581C4156E009B165": {
+      "type": "heracles:item",
+      "item": "minecraft:slime_block",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "3218F9009FCE1D9F": {
+      "type": "heracles:item",
+      "item": "minecraft:sticky_piston",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "2946ECA038C2E873": {
+      "item": {
+        "id": "minecraft:honey_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "3181FD8D6DCF864A": {
+      "item": {
+        "id": "minecraft:stone_button",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft Bounce-Elevator materials"
+    },
+    "description": [
+      "<subtitle id=\"039E822D32DC0A9B\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"581C4156E009B165\" quest=\"039E822D32DC0A9B\"/>",
+      "<task task=\"3218F9009FCE1D9F\" quest=\"039E822D32DC0A9B\"/>",
+      "<hr/>",
+      "Try placing a &&3Slime Block&&r above a &&3Sticky Piston&&r, and &&epowering&&r it while standing on top!",
+      "<br/>",
+      "The resulting launch could &&dreach another floor&&r - try adding a &&eHoney Block&&r to help &&dcatch you at the top&&r!",
+      "<hr/>",
+      "<reward reward=\"2946ECA038C2E873\" quest=\"039E822D32DC0A9B\"/>",
+      "<reward reward=\"3181FD8D6DCF864A\" quest=\"039E822D32DC0A9B\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -176,
+          -320
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:slime_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Keep an eye on gravity"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

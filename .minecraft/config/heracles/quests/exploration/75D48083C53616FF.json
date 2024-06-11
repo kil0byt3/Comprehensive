@@ -1,0 +1,68 @@
+{
+  "dependencies": [
+    "789344ADD80A6FFA"
+  ],
+  "tasks": {
+    "6A706B67651B7F1D": {
+      "title": "Find a Badlands",
+      "icon": {
+        "item": {
+          "id": "minecraft:orange_terracotta",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "minecraft:badlands",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {
+    "778D3D7F93D43770": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Badlands"
+    },
+    "description": [
+      "<subtitle id=\"75D48083C53616FF\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"6A706B67651B7F1D\" quest=\"75D48083C53616FF\"/>",
+      "<hr/>",
+      "&&2Badlands&&r are the main source of &&3Terracotta&&r, which can be crafted into &&dmany decorative blocks&&r.",
+      "<br/>",
+      "Their &&2Mineshafts&&r reach high up to the surface, and are &&drich with Gold Ore&&r.",
+      "<hr/>",
+      "<reward reward=\"778D3D7F93D43770\" quest=\"75D48083C53616FF\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -160,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:orange_terracotta",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Plenty big for both of us"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

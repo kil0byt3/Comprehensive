@@ -37,6 +37,24 @@ event.remove({ output: 'darkutils:vector_plate_fast' })
 event.remove({ output: 'darkutils:vector_plate_extreme' })
 event.remove({ output: 'darkutils:vector_plate_ultra' })
 
+// General small fixes for compat
+
+event.shaped('minecraft:chest', [
+  'AAA', 
+  'A A',
+  'AAA'  
+], {
+  A: '#minecraft:planks', 
+}
+)
+
+event.shapeless('minecraft:ender_pearl', ["#endermanoverhaul:ender_pearls"])
+
+event.recipes.createMixing('minecraft:dirt',[
+  Fluid.of('water',27000),
+  'minecraft:gravel'
+])
+
 // Create Trains earlier/worse recipe
 
 event.shaped('create:railway_casing', [
@@ -59,15 +77,6 @@ event.remove({ output: 'sophisticatedbackpacks:chipped/loom_table_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/mason_table_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/alchemy_bench_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/tinkering_table_upgrade' })
-
-event.shaped('minecraft:chest', [
-    'AAA', 
-    'A A',
-    'AAA'  
-  ], {
-    A: '#minecraft:planks', 
-  }
-)
 
 // Sophisticated Backpacks rebalance
 event.remove({ output: 'sophisticatedbackpacks:iron_backpack' })
@@ -105,14 +114,25 @@ event.shaped('sophisticatedbackpacks:diamond_backpack', [// arg 1: output
 
 // GAG Recipes
 
+event.shaped('comprehensive:arcane_powder', [
+    'BAB', 
+    'ABA',
+    'BAB'  
+  ], {
+    A: 'create:powdered_obsidian', 
+    B: 'runes:arcane_stone'
+  }
+)
+
 event.remove({ output: 'gag:hearthstone' })
 event.shaped('gag:hearthstone', [// arg 1: output
-    ' B ', 
+    'CBC', 
     'BAB', // arg 2: the shape (array of strings)
-    ' B '  
+    'CBC'  
   ], {
-    A: 'botania:ender_hand',  //arg 3: the mapping object
-    B: 'botania:mana_pearl'
+    A: 'rootsclassic:attuned_standing_stone',  //arg 3: the mapping object
+    B: 'comprehensive:arcane_powder',
+    C: 'bosses_of_mass_destruction:soul_star'
   }
 )
 

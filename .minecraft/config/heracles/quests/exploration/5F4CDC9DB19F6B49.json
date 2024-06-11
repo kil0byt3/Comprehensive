@@ -1,0 +1,82 @@
+{
+  "dependencies": [
+    "47ED4204DD0D65C4",
+    "4B74AEAA4D30B428"
+  ],
+  "tasks": {
+    "734C2555CE2C2618": {
+      "title": "Find a Jungle Temple",
+      "icon": {
+        "item": {
+          "id": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "minecraft:jungle_pyramid",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "3EA710567373A797": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    },
+    "1F204BD684E29A2D": {
+      "item": {
+        "id": "minecraft:shears",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Jungle Temple"
+    },
+    "description": [
+      "<subtitle id=\"5F4CDC9DB19F6B49\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"734C2555CE2C2618\" quest=\"5F4CDC9DB19F6B49\"/>",
+      "<hr/>",
+      "&&2Jungle Temples&&r contain &&3Tripwire&&r-&&3Dispenser&&r dart traps and &&dvaluable loot&&r.",
+      "<br/>",
+      "&&3Tripwire&&r traps can only be safely dismantled using &&eShears&&r.",
+      "<br/>",
+      "Some loot is revealed by a &&3Lever&&r puzzle, but nothing stops you from &&dbreaking in instead&&r.",
+      "<hr/>",
+      "<reward reward=\"3EA710567373A797\" quest=\"5F4CDC9DB19F6B49\"/>",
+      "<reward reward=\"1F204BD684E29A2D\" quest=\"5F4CDC9DB19F6B49\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -400,
+          -80
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:mossy_cobblestone",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Come and have a go"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

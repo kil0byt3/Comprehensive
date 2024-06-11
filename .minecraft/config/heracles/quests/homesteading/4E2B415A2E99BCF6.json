@@ -1,0 +1,60 @@
+{
+  "dependencies": [
+    "6B1E74EF171BFD5E"
+  ],
+  "tasks": {
+    "11D4F63B25BA830B": {
+      "type": "heracles:item",
+      "item": "minecraft:vine",
+      "amount": 32,
+      "collection": "AUTOMATIC"
+    },
+    "3CFC2F1F445CC8ED": {
+      "title": "Farmed! [Click]",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Farm 32 Vines"
+    },
+    "description": [
+      "<subtitle id=\"4E2B415A2E99BCF6\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"11D4F63B25BA830B\" quest=\"4E2B415A2E99BCF6\"/>",
+      "<task task=\"3CFC2F1F445CC8ED\" quest=\"4E2B415A2E99BCF6\"/>",
+      "<hr/>",
+      "&&3Vines&&r will &&dgrow downwards&&r if unobstructed, and harvested using &&3Shears&&r.",
+      "<br/>",
+      "They're useful for climbing and decoration.",
+      "<br/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          96,
+          -528
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:vine",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Vine Farming"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

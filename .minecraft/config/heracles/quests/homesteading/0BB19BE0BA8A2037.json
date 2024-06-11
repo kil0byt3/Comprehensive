@@ -1,0 +1,84 @@
+{
+  "dependencies": [
+    "55783EE248BAC550"
+  ],
+  "tasks": {
+    "296F49FBB8B236FA": {
+      "type": "heracles:item",
+      "item": "minecraft:smoker",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "484F8FCB4B3A66BE": {
+      "item": {
+        "id": "minecraft:lava_bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "18573A5F8C328475": {
+      "item": {
+        "id": "minecraft:dried_kelp_block",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "0ACB3CC0E9B9D3F7": {
+      "item": {
+        "id": "minecraft:coal_block",
+        "count": 16
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Smoker"
+    },
+    "description": [
+      "<subtitle id=\"0BB19BE0BA8A2037\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"296F49FBB8B236FA\" quest=\"0BB19BE0BA8A2037\"/>",
+      "<hr/>",
+      "A &&3Smoker&&r is a specialized furnace variant that &&dcooks food at double speed&&r.",
+      "<br/>",
+      "All Furnaces accept many types of fuel. ",
+      "<br/>",
+      "&&3Smaller fuels&&r are less wasteful when processing smaller numbers of items. ",
+      "<br/>",
+      "&&eLarge fuels&&r are &&3only efficient for large loads&&r - with &&eLava Buckets&&r smelting &&d100 items&&r.",
+      "<hr/>",
+      "<reward reward=\"0ACB3CC0E9B9D3F7\" quest=\"0BB19BE0BA8A2037\"/>",
+      "<reward reward=\"18573A5F8C328475\" quest=\"0BB19BE0BA8A2037\"/>",
+      "<reward reward=\"484F8FCB4B3A66BE\" quest=\"0BB19BE0BA8A2037\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          272,
+          -336
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:smoker",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Roasty"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

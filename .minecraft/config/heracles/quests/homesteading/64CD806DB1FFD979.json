@@ -1,0 +1,98 @@
+{
+  "dependencies": [
+    "20E2938DD7365207",
+    "0953453F97BA921D",
+    "392E005585B652A4"
+  ],
+  "tasks": {
+    "04B0358DDE85654B": {
+      "title": "Rest by the fire [Click]",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "79594AF7E372EA9B": {
+      "item": {
+        "id": "minecraft:leather_leggings",
+        "count": 1,
+        "nbt": {
+          "RepairCost": 31,
+          "Trim": {
+            "material": "minecraft:amethyst",
+            "pattern": "minecraft:silence"
+          },
+          "Enchantments": [
+            {
+              "lvl": 5,
+              "id": "swift_sneak"
+            }
+          ],
+          "display": {
+            "Lore": [
+              "[{\"text\":\"Comfy\",\"italic\":false}]"
+            ],
+            "color": 15975899,
+            "Name": "[{\"text\":\"Pyjama Pants\",\"italic\":false}]"
+          },
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "31513DC7CDA6BC87": {
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "lvl": 1,
+              "id": "minecraft:silk_touch"
+            }
+          ]
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Settle hearth in three realms"
+    },
+    "description": [
+      "<subtitle id=\"64CD806DB1FFD979\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"04B0358DDE85654B\" quest=\"64CD806DB1FFD979\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"79594AF7E372EA9B\" quest=\"64CD806DB1FFD979\"/>",
+      "<reward reward=\"31513DC7CDA6BC87\" quest=\"64CD806DB1FFD979\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -64,
+          -480
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:campfire",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
+    "title": {
+      "translate": "Vesta"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

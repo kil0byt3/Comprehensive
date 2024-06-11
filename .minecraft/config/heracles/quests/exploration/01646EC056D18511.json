@@ -1,0 +1,101 @@
+{
+  "dependencies": [
+    "51415C8C88AA350B",
+    "65DADF56E2AB01DF",
+    "0B63891D4F70167D",
+    "2591980163249EF1",
+    "3F3A1267F224AD07"
+  ],
+  "tasks": {},
+  "rewards": {
+    "17DAFF23D966A7D8": {
+      "item": {
+        "id": "minecraft:iron_block",
+        "count": 4
+      },
+      "type": "heracles:item"
+    },
+    "7464DF60ADE26E4B": {
+      "item": {
+        "id": "minecraft:emerald_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "443294621BF1DF97": {
+      "item": {
+        "id": "minecraft:emerald_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "3838C1067FEF0042": {
+      "item": {
+        "id": "minecraft:emerald_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "37BEFF87E8E3C39B": {
+      "item": {
+        "id": "minecraft:carved_pumpkin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "5F533ACB0CD57C46": {
+      "item": {
+        "id": "minecraft:emerald_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Become a familiar face"
+    },
+    "description": [
+      "<subtitle id=\"01646EC056D18511\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "Large enough &&2Villages&&r are protected by &&3Iron Golems&&r.",
+      "<br/>",
+      "Iron Golems can also be built with a 4-block T of &&eIron Blocks&&r topped with a &&eCarved Pumpkin&&r.",
+      "<br/>",
+      "Iron Golems are &&dcombat allies&&r and will fight hostile mobs, including &&cIllagers&&r.",
+      "<hr/>",
+      "<reward reward=\"5F533ACB0CD57C46\" quest=\"01646EC056D18511\"/>",
+      "<reward reward=\"7464DF60ADE26E4B\" quest=\"01646EC056D18511\"/>",
+      "<reward reward=\"3838C1067FEF0042\" quest=\"01646EC056D18511\"/>",
+      "<reward reward=\"443294621BF1DF97\" quest=\"01646EC056D18511\"/>",
+      "<reward reward=\"17DAFF23D966A7D8\" quest=\"01646EC056D18511\"/>",
+      "<reward reward=\"37BEFF87E8E3C39B\" quest=\"01646EC056D18511\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -304,
+          -368
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:filled_map",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
+    "title": {
+      "translate": "Well-Travelled"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

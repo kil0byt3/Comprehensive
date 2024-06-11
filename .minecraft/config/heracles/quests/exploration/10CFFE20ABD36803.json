@@ -1,0 +1,69 @@
+{
+  "dependencies": [
+    "789344ADD80A6FFA"
+  ],
+  "tasks": {
+    "2D7A058F67957E97": {
+      "block": "minecraft:deepslate",
+      "state": {},
+      "title": "Find Deepslate",
+      "icon": {
+        "item": {
+          "id": "minecraft:deepslate",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:block_interaction"
+    }
+  },
+  "rewards": {
+    "24C742924575F435": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find Deepslate"
+    },
+    "description": [
+      "<subtitle id=\"10CFFE20ABD36803\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"2D7A058F67957E97\" quest=\"10CFFE20ABD36803\"/>",
+      "<hr/>",
+      "Deep &&2Underground&&r &&7(around y:0)&&r, all stone is replaced with &&3Deepslate&&r, which is harder to mine.",
+      "<br/>",
+      "&&3Cobbled Deepslate&&r can be &&dused like Cobblestone&&r in crafting.",
+      "<hr/>",
+      "<reward reward=\"24C742924575F435\" quest=\"10CFFE20ABD36803\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -304,
+          112
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:deepslate",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Sleeping in the cold below"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

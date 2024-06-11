@@ -1,0 +1,87 @@
+{
+  "dependencies": [
+    "687ED1196101F48D",
+    "47ED4204DD0D65C4"
+  ],
+  "tasks": {
+    "4332DE476304087F": {
+      "type": "heracles:item",
+      "item": "minecraft:turtle_helmet",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "256FDDB934BF6FDE": {
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:strong_turtle_master"
+        }
+      },
+      "type": "heracles:item"
+    },
+    "777F2EAF4C750945": {
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "lvl": 1,
+              "id": "minecraft:aqua_affinity"
+            }
+          ]
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Turtle Shell"
+    },
+    "description": [
+      "<subtitle id=\"56295946AF0DD074\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"4332DE476304087F\" quest=\"56295946AF0DD074\"/>",
+      "<hr/>",
+      "&&3Turtle Shells&&r are helmets that provide additional &&dBreath Capacity&&r, similar to the &&3Respiration&&r enchantment. ",
+      "<br/>",
+      "They can also be brewed into three &&ePotion of the Turtle Master&&r - a specialized &&3Combat Potion&&r that &&dslows you&&r.",
+      "<hr/>",
+      "<reward reward=\"777F2EAF4C750945\" quest=\"56295946AF0DD074\"/>",
+      "<reward reward=\"256FDDB934BF6FDE\" quest=\"56295946AF0DD074\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -336,
+          -192
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:turtle_helmet",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Cowabunga!"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

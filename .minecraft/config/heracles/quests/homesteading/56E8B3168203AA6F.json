@@ -1,0 +1,95 @@
+{
+  "dependencies": [
+    "423E897DEB76653D"
+  ],
+  "tasks": {
+    "1989BBAD04C1D853": {
+      "icon": {
+        "item": {
+          "id": "minecraft:tropical_fish_bucket",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "stat": "minecraft:swim_one_cm",
+      "target": 50000,
+      "type": "heracles:stat"
+    }
+  },
+  "rewards": {
+    "42737083D92865C9": {
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "lvl": 1,
+              "id": "minecraft:respiration"
+            }
+          ]
+        }
+      },
+      "type": "heracles:item"
+    },
+    "300CCD3C108FB644": {
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "lvl": 1,
+              "id": "minecraft:depth_strider"
+            }
+          ]
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Swim 500 Blocks"
+    },
+    "description": [
+      "<subtitle id=\"56E8B3168203AA6F\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1989BBAD04C1D853\" quest=\"56E8B3168203AA6F\"/>",
+      "<hr/>",
+      "By combining any amount of &&3Depth Strider&&r boots, &&3Soul Speed&&r highways, and &&3Dolphin's Grace&&r (granted by &&aDolphins&&r) - the player can &&dswim at unfathomable speeds&&r.",
+      "<br/>",
+      "By using a renamed &&3Name Tag&&r on a mob, it gains that custom name. Named mobs &&dcan't despawn&&r, which can help with the population of rare mobs like Dolphins - just pretend you're a marine biologist!",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"42737083D92865C9\" quest=\"56E8B3168203AA6F\"/>",
+      "<reward reward=\"300CCD3C108FB644\" quest=\"56E8B3168203AA6F\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -240,
+          -336
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:tropical_fish_bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Olympic Underwater Highway"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

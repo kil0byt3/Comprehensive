@@ -1,0 +1,95 @@
+{
+  "dependencies": [
+    "789344ADD80A6FFA"
+  ],
+  "tasks": {
+    "2180A88C978A8C70": {
+      "title": "Find a Crimson Forest",
+      "icon": {
+        "item": {
+          "id": "minecraft:crimson_nylium",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "minecraft:crimson_forest",
+      "type": "heracles:biome"
+    },
+    "235FD333274DE457": {
+      "title": "Find a Warped Forest",
+      "icon": {
+        "item": {
+          "id": "minecraft:warped_nylium",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "minecraft:warped_forest",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {
+    "1A886DF1D1C3675E": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    },
+    "1007B8702881D9D9": {
+      "item": {
+        "id": "minecraft:music_disc_pigstep",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find both Nether Forests"
+    },
+    "description": [
+      "<subtitle id=\"522B247B10CCF04E\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"235FD333274DE457\" quest=\"522B247B10CCF04E\"/>",
+      "<task task=\"2180A88C978A8C70\" quest=\"522B247B10CCF04E\"/>",
+      "<hr/>",
+      "The two &&2Nether Forests&&r are home to unique &&3Wood Types&&r and &&3Fungus&&r.",
+      "<br/>",
+      "&&2Warped Forests&&r are a &&dvery safe biome&&r - spawning only &&cEndermen&&r.",
+      "<br/>",
+      "&&2Crimson Forests&&r are more dangerous, housing &&cPiglins&&r and &&cHoglins&&r.",
+      "<br/>",
+      "&&3Nether Wood Types&&r are &&dcompletely non-flammable&&r.",
+      "<br/>",
+      "&&3Warped Fungus&&r can be put on a &&3Fishing Rod&&r to ride saddled &&aStriders&&r.",
+      "<hr/>",
+      "<reward reward=\"1A886DF1D1C3675E\" quest=\"522B247B10CCF04E\"/>",
+      "<reward reward=\"1007B8702881D9D9\" quest=\"522B247B10CCF04E\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -208,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:warped_nylium",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Red Vs Blue"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

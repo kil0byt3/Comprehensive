@@ -1,0 +1,87 @@
+{
+  "dependencies": [
+    "0305A29ECBFA79FA"
+  ],
+  "tasks": {
+    "372E5994E7E2ABAB": {
+      "type": "heracles:item",
+      "item": "minecraft:axolotl_bucket",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "55F85E84106E9EE7": {
+      "item": {
+        "id": "minecraft:tropical_fish_bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "6EC735EE10ADF7A1": {
+      "item": {
+        "id": "minecraft:tropical_fish_bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "6ED6A0A24EC1C4FB": {
+      "item": {
+        "id": "minecraft:tropical_fish_bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Bucket an Axolotl"
+    },
+    "description": [
+      "<subtitle id=\"3602D52A78391BFA\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"372E5994E7E2ABAB\" quest=\"3602D52A78391BFA\"/>",
+      "<hr/>",
+      "&&aAxolotls&&r can be both &&dtamed and transported&&r using a &&3Bucket&&r - where they can also be &&drenamed&&r at an &&3Anvil&&r.",
+      "<br/>",
+      "Axolotls are &&dunderwater combat allies&&r - attacking enemies, cleansing fatigue, and even healing!",
+      "<br/>",
+      "They're very hardy, and even &&dplay dead to regenerate&&r when low on health.",
+      "<br/>",
+      "Their favourite food is a &&3Bucket of Tropical Fish&&r.",
+      "<br/>",
+      "Axolotls &&ddon't follow the player&&r! Use &&3Buckets&&r or &&3Leads&&r to keep them close by.",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"6EC735EE10ADF7A1\" quest=\"3602D52A78391BFA\"/>",
+      "<reward reward=\"55F85E84106E9EE7\" quest=\"3602D52A78391BFA\"/>",
+      "<reward reward=\"6ED6A0A24EC1C4FB\" quest=\"3602D52A78391BFA\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -544,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:axolotl_bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Underwater Fighting Team!"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

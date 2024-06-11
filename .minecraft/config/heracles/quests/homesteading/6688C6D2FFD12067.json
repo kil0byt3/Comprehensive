@@ -1,0 +1,82 @@
+{
+  "dependencies": [
+    "1BCC72C060356F02"
+  ],
+  "tasks": {
+    "15D8310BE6D8AF1D": {
+      "type": "heracles:item",
+      "item": "minecraft:flower_pot",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "4D968DE433464BB5": {
+      "item": {
+        "id": "minecraft:decorated_pot",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "3E2C96AF9DB9DEC7": {
+      "item": {
+        "id": "minecraft:oak_hanging_sign",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "7786BEACC5855DE7": {
+      "item": {
+        "id": "minecraft:chiseled_bookshelf",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Flower Pot"
+    },
+    "description": [
+      "<subtitle id=\"6688C6D2FFD12067\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"15D8310BE6D8AF1D\" quest=\"6688C6D2FFD12067\"/>",
+      "<hr/>",
+      "&&3Flower Pots&&r can be used to &&ddisplay one small flower&&r for decoration.",
+      "<br/>",
+      "&&eChiseled Bookshelves&&r can &&dstore up to 6 books of any kind&&r, for decoration and storage.",
+      "<br/>",
+      "&&eHanging Signs&&r are another crafted decoration. They hang &&dperpendicular to the face they're placed on&&r, which can help with indicating locations and directions.",
+      "<hr/>",
+      "<reward reward=\"7786BEACC5855DE7\" quest=\"6688C6D2FFD12067\"/>",
+      "<reward reward=\"4D968DE433464BB5\" quest=\"6688C6D2FFD12067\"/>",
+      "<reward reward=\"3E2C96AF9DB9DEC7\" quest=\"6688C6D2FFD12067\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -128,
+          -304
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:flower_pot",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Inefficient Storage"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

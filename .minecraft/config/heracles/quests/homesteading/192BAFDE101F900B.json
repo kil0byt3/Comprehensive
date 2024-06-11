@@ -1,0 +1,66 @@
+{
+  "dependencies": [
+    "5C7110BA96ECA231"
+  ],
+  "tasks": {
+    "40348E6A122D7614": {
+      "type": "heracles:item",
+      "item": "minecraft:wheat_seeds",
+      "amount": 32,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "4CB4E7F6893DB29C": {
+      "item": {
+        "id": "minecraft:composter",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Farm some Wheat"
+    },
+    "description": [
+      "<subtitle id=\"192BAFDE101F900B\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"40348E6A122D7614\" quest=\"192BAFDE101F900B\"/>",
+      "<hr/>",
+      "&&3Wheat&&r is the easiest crop to acquire - Just break some &&3Tall Grass&&r and get hoeing!",
+      "<br/>",
+      "Don't just grow wheat forever though - farms &&dgrow faster if they're diverse&&r, so try planting crops in rows!",
+      "<br/>",
+      "Farming creates many excess &&3Seeds&&r - a &&eComposter&&r can turn those into useful &&3Bone Meal&&r!",
+      "<hr/>",
+      "<reward reward=\"4CB4E7F6893DB29C\" quest=\"192BAFDE101F900B\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          32,
+          -368
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:wheat_seeds",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Farmer"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

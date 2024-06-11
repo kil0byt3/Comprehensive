@@ -1,0 +1,68 @@
+{
+  "dependencies": [
+    "6B1E74EF171BFD5E"
+  ],
+  "tasks": {
+    "7F11AFC27592F6A8": {
+      "type": "heracles:item",
+      "item": "minecraft:lava_bucket",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "75F8F5572007CD42": {
+      "title": "Farmed! [Click]",
+      "type": "heracles:check"
+    },
+    "5A02D956E22116A1": {
+      "type": "heracles:item",
+      "item": "minecraft:water_bucket",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Gather Generator materials"
+    },
+    "description": [
+      "<subtitle id=\"74001D2726E7133D\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"5A02D956E22116A1\" quest=\"74001D2726E7133D\"/>",
+      "<task task=\"7F11AFC27592F6A8\" quest=\"74001D2726E7133D\"/>",
+      "<task task=\"75F8F5572007CD42\" quest=\"74001D2726E7133D\"/>",
+      "<hr/>",
+      "&&3Cobblestone&&r can be generated wherever flowing water meets flowing lava.",
+      "<br/>",
+      "Try creating your own convenient configuration for mining &&dlines of Cobblestone&&r easily!",
+      "",
+      "Use Create!"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          128,
+          -464
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:cobblestone",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Cobblestone Farming"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

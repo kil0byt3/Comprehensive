@@ -1,0 +1,164 @@
+{
+  "dependencies": [
+    "7164FFFB3AFAFEF3",
+    "03CF663BF52022CB",
+    "1E92A6BE31198EF3",
+    "52E05DC7ED68C824"
+  ],
+  "tasks": {
+    "2739CE44EC749396": {
+      "title": "Forge-heated spa day [Click]",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "05CA8ACF859674AA": {
+      "item": {
+        "id": "minecraft:sculk_sensor",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "1C13B73B235357E9": {
+      "item": {
+        "id": "minecraft:slime_block",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "0B58257D7FB203A7": {
+      "item": {
+        "id": "minecraft:hopper",
+        "count": 64
+      },
+      "type": "heracles:item"
+    },
+    "7F031284957C81EE": {
+      "item": {
+        "id": "minecraft:redstone_block",
+        "count": 64
+      },
+      "type": "heracles:item"
+    },
+    "03A9AC11B72065CF": {
+      "item": {
+        "id": "minecraft:black_banner",
+        "count": 1,
+        "nbt": {
+          "RepairCost": 0,
+          "BlockEntityTag": {
+            "Patterns": [
+              {
+                "Pattern": "cre",
+                "Color": 8
+              },
+              {
+                "Pattern": "hhb",
+                "Color": 15
+              },
+              {
+                "Pattern": "mc",
+                "Color": 7
+              },
+              {
+                "Pattern": "bt",
+                "Color": 15
+              },
+              {
+                "Pattern": "sc",
+                "Color": 12
+              },
+              {
+                "Pattern": "ms",
+                "Color": 8
+              },
+              {
+                "Pattern": "bo",
+                "Color": 15
+              },
+              {
+                "Pattern": "ts",
+                "Color": 15
+              },
+              {
+                "Pattern": "tts",
+                "Color": 14
+              }
+            ]
+          },
+          "display": {
+            "Name": "{\"text\":\"Hephaestus\"}"
+          }
+        }
+      },
+      "type": "heracles:item"
+    },
+    "5292D4AF7705340C": {
+      "item": {
+        "id": "minecraft:chest",
+        "count": 64
+      },
+      "type": "heracles:item"
+    },
+    "2ECE07CDA1C0B837": {
+      "item": {
+        "id": "minecraft:stone",
+        "count": 256
+      },
+      "type": "heracles:item"
+    },
+    "2C27467EDAE5BE86": {
+      "item": {
+        "id": "minecraft:piston",
+        "count": 32
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Forge great machines"
+    },
+    "description": [
+      "<subtitle id=\"0E3858BCFECB6862\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"2739CE44EC749396\" quest=\"0E3858BCFECB6862\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"03A9AC11B72065CF\" quest=\"0E3858BCFECB6862\"/>",
+      "<reward reward=\"05CA8ACF859674AA\" quest=\"0E3858BCFECB6862\"/>",
+      "<reward reward=\"0B58257D7FB203A7\" quest=\"0E3858BCFECB6862\"/>",
+      "<reward reward=\"7F031284957C81EE\" quest=\"0E3858BCFECB6862\"/>",
+      "<reward reward=\"2ECE07CDA1C0B837\" quest=\"0E3858BCFECB6862\"/>",
+      "<reward reward=\"5292D4AF7705340C\" quest=\"0E3858BCFECB6862\"/>",
+      "<reward reward=\"1C13B73B235357E9\" quest=\"0E3858BCFECB6862\"/>",
+      "<reward reward=\"2C27467EDAE5BE86\" quest=\"0E3858BCFECB6862\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          480,
+          -368
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:redstone_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
+    "title": {
+      "translate": "Hephaestus"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

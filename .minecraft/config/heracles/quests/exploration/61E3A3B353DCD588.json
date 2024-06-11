@@ -1,0 +1,225 @@
+{
+  "dependencies": [
+    "08398FBBB792C742",
+    "7FC50C764AF1D65A",
+    "0EFAB7B8A93FB8BB",
+    "55DDA9D21E24AF10",
+    "10D348A5529DCBAC",
+    "3D08C518610A72F1",
+    "3E19CC5752F07CF9",
+    "50C5FC2ED5BF1A83",
+    "008B27BCA21B2D06",
+    "1932327D56163D18",
+    "0C42AC52CDDEF4BB",
+    "5F4CDC9DB19F6B49",
+    "19FF00BA5161FE04",
+    "02D9B5C70D9D6007",
+    "01646EC056D18511",
+    "2393A9D50B18EEAE",
+    "5DC1E9DC98895E6F",
+    "75D48083C53616FF",
+    "30EEC5B4C5178E93",
+    "7CEE48A412C94320",
+    "1EA97FD583A20884",
+    "5CF8EB5303569739",
+    "522B247B10CCF04E",
+    "6FB48CC24D3230F5",
+    "28AFD314DDDE3FC4",
+    "4B74AEAA4D30B428",
+    "0305A29ECBFA79FA"
+  ],
+  "tasks": {
+    "63DE6483F0A04B81": {
+      "title": "Observatory high tea [Click]",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "35EF258CE7DA207D": {
+      "item": {
+        "id": "minecraft:copper_block",
+        "count": 32
+      },
+      "type": "heracles:item"
+    },
+    "4AF0E01CB24EB481": {
+      "item": {
+        "id": "minecraft:light_blue_stained_glass",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "78BEDB58DB379044": {
+      "item": {
+        "id": "minecraft:nether_star",
+        "count": 3
+      },
+      "type": "heracles:item"
+    },
+    "69C9A06A42299AEF": {
+      "item": {
+        "id": "minecraft:emerald",
+        "count": 3
+      },
+      "type": "heracles:item"
+    },
+    "259FC60D45DEDA9F": {
+      "item": {
+        "id": "minecraft:purple_banner",
+        "count": 1,
+        "nbt": {
+          "RepairCost": 0,
+          "BlockEntityTag": {
+            "Patterns": [
+              {
+                "Pattern": "hhb",
+                "Color": 10
+              },
+              {
+                "Pattern": "hh",
+                "Color": 10
+              },
+              {
+                "Pattern": "rud",
+                "Color": 10
+              },
+              {
+                "Pattern": "tt",
+                "Color": 0
+              },
+              {
+                "Pattern": "ld",
+                "Color": 10
+              },
+              {
+                "Pattern": "gru",
+                "Color": 1
+              },
+              {
+                "Pattern": "bts",
+                "Color": 5
+              },
+              {
+                "Pattern": "bts",
+                "Color": 12
+              }
+            ]
+          },
+          "display": {
+            "Name": "{\"text\":\"Mercury\"}"
+          }
+        }
+      },
+      "type": "heracles:item"
+    },
+    "10D6B7356A2AD29B": {
+      "item": {
+        "id": "minecraft:turtle_helmet",
+        "count": 1,
+        "nbt": {
+          "RepairCost": 31,
+          "Trim": {
+            "material": "minecraft:iron",
+            "pattern": "minecraft:wayfinder"
+          },
+          "Enchantments": [
+            {
+              "lvl": 1,
+              "id": "minecraft:aqua_affinity"
+            },
+            {
+              "lvl": 20,
+              "id": "minecraft:respiration"
+            },
+            {
+              "lvl": 1,
+              "id": "minecraft:mending"
+            }
+          ],
+          "display": {
+            "Lore": [
+              "{\"text\":\"Gift of Mercury\"}"
+            ],
+            "Name": "{\"text\":\"Explorer's Helmet\", \"color\":\"dark_purple\"}"
+          },
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "35FDF1F93AFA33C3": {
+      "item": {
+        "id": "minecraft:white_stained_glass",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "41FB1A8C265AF4A6": {
+      "item": {
+        "id": "minecraft:gold_block",
+        "count": 14
+      },
+      "type": "heracles:item"
+    },
+    "7DD08B86F7FF6997": {
+      "item": {
+        "id": "minecraft:pink_stained_glass",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Explore the worlds"
+    },
+    "description": [
+      "<subtitle id=\"61E3A3B353DCD588\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"63DE6483F0A04B81\" quest=\"61E3A3B353DCD588\"/>",
+      "<hr/>",
+      "&&3Beacons&&r beams can be coloured with &&3Stained Glass&&r.",
+      "<br/>",
+      "Beacons can be placed adjacent to eachother to &&duse less pyramid materials&&r.",
+      "<br/>",
+      "As an example, three level 2 beacons can be arranged in a line using only &&e46 Pyramid Blocks&&r.",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"259FC60D45DEDA9F\" quest=\"61E3A3B353DCD588\"/>",
+      "<reward reward=\"10D6B7356A2AD29B\" quest=\"61E3A3B353DCD588\"/>",
+      "<reward reward=\"41FB1A8C265AF4A6\" quest=\"61E3A3B353DCD588\"/>",
+      "<reward reward=\"35EF258CE7DA207D\" quest=\"61E3A3B353DCD588\"/>",
+      "<reward reward=\"78BEDB58DB379044\" quest=\"61E3A3B353DCD588\"/>",
+      "<reward reward=\"69C9A06A42299AEF\" quest=\"61E3A3B353DCD588\"/>",
+      "<reward reward=\"7DD08B86F7FF6997\" quest=\"61E3A3B353DCD588\"/>",
+      "<reward reward=\"35FDF1F93AFA33C3\" quest=\"61E3A3B353DCD588\"/>",
+      "<reward reward=\"4AF0E01CB24EB481\" quest=\"61E3A3B353DCD588\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -304,
+          -48
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:spyglass",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
+    "title": {
+      "translate": "Mercury"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

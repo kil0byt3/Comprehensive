@@ -1,0 +1,68 @@
+{
+  "dependencies": [
+    "47ED4204DD0D65C4"
+  ],
+  "tasks": {
+    "49C795AA701ECB2D": {
+      "title": "Find a Bastion Remnant",
+      "icon": {
+        "item": {
+          "id": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "minecraft:bastion_remnant",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "5E9BB26ADED7D3B7": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Bastion Remnant"
+    },
+    "description": [
+      "<subtitle id=\"08398FBBB792C742\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"49C795AA701ECB2D\" quest=\"08398FBBB792C742\"/>",
+      "<hr/>",
+      "A &&2Bastion Remnant&&r is a high-level fortress full of well-equipped &&cPiglin Brutes&&r - and a &&dlarge variety of loot&&r.",
+      "<br/>",
+      "Brutes can also aggravate normally-neutral &&aPiglins&&r - which can lead to being quickly overrun.",
+      "<hr/>",
+      "<reward reward=\"5E9BB26ADED7D3B7\" quest=\"08398FBBB792C742\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -208,
+          -80
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:polished_blackstone_bricks",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "A Proper Story"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

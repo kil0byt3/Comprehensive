@@ -1,0 +1,59 @@
+{
+  "dependencies": [
+    "6B1E74EF171BFD5E"
+  ],
+  "tasks": {
+    "1BB6AE5F94644FA4": {
+      "type": "heracles:item",
+      "item": "minecraft:cocoa_beans",
+      "amount": 32,
+      "collection": "AUTOMATIC"
+    },
+    "159E7DDB22E9FCD3": {
+      "title": "Farmed! [Click]",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Farm 32 Cocoa Beans"
+    },
+    "description": [
+      "<subtitle id=\"5BF7F408031029E9\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1BB6AE5F94644FA4\" quest=\"5BF7F408031029E9\"/>",
+      "<task task=\"159E7DDB22E9FCD3\" quest=\"5BF7F408031029E9\"/>",
+      "<hr/>",
+      "&&3Cocoa Beans&&r can be grown on the side of any &&3Jungle Log&&r - including trees.",
+      "<br/>",
+      "Enjoy your cookies!"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          32,
+          -496
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:cocoa_beans",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Cocoa Farming"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

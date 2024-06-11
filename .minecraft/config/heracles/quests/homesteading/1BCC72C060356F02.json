@@ -1,0 +1,118 @@
+{
+  "dependencies": [
+    "20E2938DD7365207"
+  ],
+  "tasks": {
+    "4562EEDCA84EE3E3": {
+      "type": "heracles:item",
+      "item": "minecraft:bookshelf",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "54F3A94B2D57B561": {
+      "item": {
+        "id": "minecraft:soul_soil",
+        "count": 2
+      },
+      "type": "heracles:item"
+    },
+    "0A01CD625EAE398C": {
+      "item": {
+        "id": "minecraft:netherrack",
+        "count": 2
+      },
+      "type": "heracles:item"
+    },
+    "4D54DDEB3C7D5DCE": {
+      "item": {
+        "id": "minecraft:cyan_carpet",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "789FEED8C9205907": {
+      "item": {
+        "id": "minecraft:oak_trapdoor",
+        "count": 8
+      },
+      "type": "heracles:item"
+    },
+    "062F45C29C656DA6": {
+      "item": {
+        "id": "minecraft:iron_bars",
+        "count": 2
+      },
+      "type": "heracles:item"
+    },
+    "2A30AFEC57A4D34F": {
+      "item": {
+        "id": "minecraft:barrel",
+        "count": 4
+      },
+      "type": "heracles:item"
+    },
+    "0E51BAD15DF368DD": {
+      "item": {
+        "id": "minecraft:oak_stairs",
+        "count": 8
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Bookshelf"
+    },
+    "description": [
+      "<subtitle id=\"1BCC72C060356F02\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"4562EEDCA84EE3E3\" quest=\"1BCC72C060356F02\"/>",
+      "<hr/>",
+      "Decorative blocks like &&3Bookshelves&&r can help fill a house's interior, but most indoor furniture &&disn't crafted&&r.",
+      "<br/>",
+      "Instead, facsimiles are created by arranging &&eunrelated blocks&&r into familiar-looking shapes.",
+      "<br/>",
+      "&&dClosets, dressers, and cabinets&&r can all be created by placing &&3Doors&&r and &&eTrapdoors&&r in front of functional blocks like &&3Chests&&r and &&eBarrels&&r or decorative blocks like &&3Stairs&&r and &&3Bookshelves&&r.&&l",
+      "<br/>",
+      "&&eStairs&&r with &&3Signs&&r on either side can serve as &&dArmchairs&&r, especially when facing &&dTables&&r made of &&3Inverted Stairs&&r, &&3Floating Slabs&&r, or &&3Fences&&r with &&3Pressure Plates&&r on top.",
+      "<br/>",
+      "&&dFireplaces&&r can be made of non-flammable blocks with &&eNetherrack&&r as the flammable base. Fire can spread up to &&dtwo blocks away, and four blocks up&&r. If space is limited, use &&eSoul Soil&&r instead for a &&dnon-spreading blue flame&&r.",
+      "<hr/>",
+      "<reward reward=\"2A30AFEC57A4D34F\" quest=\"1BCC72C060356F02\"/>",
+      "<reward reward=\"789FEED8C9205907\" quest=\"1BCC72C060356F02\"/>",
+      "<reward reward=\"0E51BAD15DF368DD\" quest=\"1BCC72C060356F02\"/>",
+      "<reward reward=\"0A01CD625EAE398C\" quest=\"1BCC72C060356F02\"/>",
+      "<reward reward=\"54F3A94B2D57B561\" quest=\"1BCC72C060356F02\"/>",
+      "<reward reward=\"062F45C29C656DA6\" quest=\"1BCC72C060356F02\"/>",
+      "<reward reward=\"4D54DDEB3C7D5DCE\" quest=\"1BCC72C060356F02\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          -96,
+          -336
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:bookshelf",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Cozy"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

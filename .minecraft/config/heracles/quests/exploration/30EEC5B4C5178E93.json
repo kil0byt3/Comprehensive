@@ -1,0 +1,70 @@
+{
+  "dependencies": [
+    "47ED4204DD0D65C4"
+  ],
+  "tasks": {
+    "19B47DDA285B5750": {
+      "title": "Find a Pillager Outpost",
+      "icon": {
+        "item": {
+          "id": "minecraft:spruce_stairs",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "minecraft:pillager_outpost",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "3167F3EE675CA950": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find an Outpost"
+    },
+    "description": [
+      "<subtitle id=\"30EEC5B4C5178E93\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"19B47DDA285B5750\" quest=\"30EEC5B4C5178E93\"/>",
+      "<hr/>",
+      "&&2Outposts&&r are structures defended by many &&3Crossbow&&r-wielding &&cPillagers&&r.",
+      "<br/>",
+      "Killing a &&3Banner&&r-bearing &&cCaptain Pillager&&r inflicts &&3Bad Omen&&r, initiating a &&4Raid&&r at the next village visited unless cleansed.",
+      "<br/>",
+      "Basic loot and &&3Goat Horns&&r can be found here.",
+      "<hr/>",
+      "<reward reward=\"3167F3EE675CA950\" quest=\"30EEC5B4C5178E93\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -256,
+          -80
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:spruce_stairs",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Wrong Neighbourhood"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

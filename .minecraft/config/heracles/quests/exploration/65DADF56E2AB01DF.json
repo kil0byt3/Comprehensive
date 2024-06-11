@@ -1,0 +1,70 @@
+{
+  "dependencies": [
+    "09874FF0F69D98F0"
+  ],
+  "tasks": {
+    "0996CC3858DEAB84": {
+      "title": "Enter a Taiga Village",
+      "icon": {
+        "item": {
+          "id": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "#ctov:village_taiga",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "2AD2C6E2B556E672": {
+      "item": {
+        "id": "minecraft:bread",
+        "count": 21
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Visit a Taiga Village"
+    },
+    "description": [
+      "<subtitle id=\"65DADF56E2AB01DF\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"0996CC3858DEAB84\" quest=\"65DADF56E2AB01DF\"/>",
+      "<hr/>",
+      "Villagers &&drepopulate naturally&&r by farming when an &&3enough houses&&r with doors and beds are built nearby.",
+      "<br/>",
+      "When a villager has &&33 Bread&&r, or &&312 carrots&&r, &&3Potatoes&&r, or &&3Beetroots&&r, they can do this - but also &&dgain more experience while trading&&r!",
+      "<hr/>",
+      "<reward reward=\"2AD2C6E2B556E672\" quest=\"65DADF56E2AB01DF\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -256,
+          -272
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:spruce_planks",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Mane Street"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

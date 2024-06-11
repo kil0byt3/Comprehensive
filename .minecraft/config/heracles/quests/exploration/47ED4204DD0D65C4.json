@@ -1,0 +1,67 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "318791BA274D0278": {
+      "icon": {
+        "item": {
+          "id": "minecraft:ladder",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "stat": "minecraft:jump",
+      "target": 75,
+      "title": "Jump 75 Times",
+      "type": "heracles:stat"
+    }
+  },
+  "rewards": {
+    "05B359937A79F3EF": {
+      "item": {
+        "id": "minecraft:hay_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Jump 75 Times"
+    },
+    "description": [
+      "<subtitle id=\"47ED4204DD0D65C4\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"318791BA274D0278\" quest=\"47ED4204DD0D65C4\"/>",
+      "<hr/>",
+      "&&eHay Bales&&r can &&dbreak high falls&&r, or instead be used for &&3Bread&&r.",
+      "<hr/>",
+      "<reward reward=\"05B359937A79F3EF\" quest=\"47ED4204DD0D65C4\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -304,
+          -160
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:ladder",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Vying Vertical [Sightseer]"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

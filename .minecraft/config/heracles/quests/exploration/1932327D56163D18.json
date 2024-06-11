@@ -1,0 +1,86 @@
+{
+  "dependencies": [
+    "10CFFE20ABD36803"
+  ],
+  "tasks": {
+    "50E52E8C54CF6323": {
+      "title": "Find a Dripstone Cave",
+      "icon": {
+        "item": {
+          "id": "minecraft:dripstone_block",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "minecraft:dripstone_caves",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {
+    "688EDB1BF3BFE7FB": {
+      "item": {
+        "id": "minecraft:lava_bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "6DC6F16FCEF30131": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    },
+    "34E94170F5478DC5": {
+      "item": {
+        "id": "minecraft:cauldron",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Dripstone Cave"
+    },
+    "description": [
+      "<subtitle id=\"1932327D56163D18\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"50E52E8C54CF6323\" quest=\"1932327D56163D18\"/>",
+      "<hr/>",
+      "&&2Dripstone Caves&&r, found deep underground, is full of &&3Pointed Dripstone&&r that &&dgrows over time&&r.",
+      "<br/>",
+      "Careful! pointed dripstone &&dhurts when landing on it&&r!",
+      "<br/>",
+      "If a &&3Dripstone Block&&r with a stalactite has &&3lava&&r above it, the resulting drips can &&drenewably fill cauldrons with lava&&r.",
+      "<hr/>",
+      "<reward reward=\"6DC6F16FCEF30131\" quest=\"1932327D56163D18\"/>",
+      "<reward reward=\"34E94170F5478DC5\" quest=\"1932327D56163D18\"/>",
+      "<reward reward=\"688EDB1BF3BFE7FB\" quest=\"1932327D56163D18\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -336,
+          144
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:dripstone_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Minecraft Drip"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

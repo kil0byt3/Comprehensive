@@ -1,0 +1,82 @@
+{
+  "dependencies": [
+    "789344ADD80A6FFA"
+  ],
+  "tasks": {
+    "47AE4D2F39DC80E2": {
+      "title": "Find a Bamboo Jungle",
+      "icon": {
+        "item": {
+          "id": "minecraft:bamboo",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "minecraft:bamboo_jungle",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {
+    "48566F7A2C868EE0": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    },
+    "31ABC4FFDCAC21FD": {
+      "item": {
+        "id": "minecraft:bamboo_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Bamboo Jungle"
+    },
+    "description": [
+      "<subtitle id=\"3D08C518610A72F1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"47AE4D2F39DC80E2\" quest=\"3D08C518610A72F1\"/>",
+      "<hr/>",
+      "Strewn with &&3Bamboo&&r and rarely &&aPandas&&r, &&2Bamboo Jungles&&r can be recognised from a great distance.",
+      "<br/>",
+      "&&3Bamboo&&r can be combined into &&eBlocks&&r, whose planks can be used to craft &&dfurniture and boats&&r with a unique look.",
+      "<br/>",
+      "Climbable &&3Scaffolding&&r, crafted from &&3Bamboo&&r, can support &&dtemporary towers&&r up to six blocks wide, &&dbreaking instantly&&r when unsupported.",
+      "<br/>",
+      "&&aPandas&&r are neutral animals that like &&3Bamboo&&r, with &&3varying personality&&r types shown on their face.",
+      "<br/>",
+      "Pandas can only be bred &&3among bamboo&&r, and can't be &&dtoo close together&&r or they'll instead become angered.",
+      "<hr/>",
+      "<reward reward=\"48566F7A2C868EE0\" quest=\"3D08C518610A72F1\"/>",
+      "<reward reward=\"31ABC4FFDCAC21FD\" quest=\"3D08C518610A72F1\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -352,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:bamboo",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Coconut Gun"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

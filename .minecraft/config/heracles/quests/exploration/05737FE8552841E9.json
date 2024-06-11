@@ -1,0 +1,103 @@
+{
+  "dependencies": [
+    "789344ADD80A6FFA"
+  ],
+  "tasks": {
+    "1FF73E768B241641": {
+      "block": "minecraft:bee_nest",
+      "state": {},
+      "title": "Find a Bee Nest",
+      "icon": {
+        "item": {
+          "id": "minecraft:bee_nest",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:block_interaction"
+    }
+  },
+  "rewards": {
+    "7EA2277E0F687304": {
+      "item": {
+        "id": "minecraft:campfire",
+        "count": 3
+      },
+      "type": "heracles:item"
+    },
+    "31CBD024A14767EF": {
+      "item": {
+        "id": "minecraft:shears",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "510A8473FAD36C9F": {
+      "item": {
+        "id": "minecraft:moss_carpet",
+        "count": 3
+      },
+      "type": "heracles:item"
+    },
+    "04820B107B3798DA": {
+      "item": {
+        "id": "minecraft:flint_and_steel",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Bee Nest"
+    },
+    "description": [
+      "<subtitle id=\"05737FE8552841E9\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1FF73E768B241641\" quest=\"05737FE8552841E9\"/>",
+      "<hr/>",
+      "&&3Bee Nests&&r house wild &&aBees&&r! They can't be moved, but produce &&3Honeycomb&&r that can be used to craft a moveable &&3Beehive&&r.",
+      "<br/>",
+      "To &&dsafely shear a full hive or nest&&r, a &&eCampfire&&r must be lit underneath. Otherwise, Bees will become angered.",
+      "<br/>",
+      "&&eCarpet&&r can be placed over Campfires to &&dprevent fire damage&&r.",
+      "<hr/>",
+      "<reward reward=\"510A8473FAD36C9F\" quest=\"05737FE8552841E9\"/>",
+      "<reward reward=\"7EA2277E0F687304\" quest=\"05737FE8552841E9\"/>",
+      "<reward reward=\"31CBD024A14767EF\" quest=\"05737FE8552841E9\"/>",
+      "<reward reward=\"04820B107B3798DA\" quest=\"05737FE8552841E9\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -352,
+          112
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:bee_nest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Farm Favourites!"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

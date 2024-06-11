@@ -1,0 +1,83 @@
+{
+  "dependencies": [
+    "10CFFE20ABD36803"
+  ],
+  "tasks": {
+    "1A15F24B8D29BF11": {
+      "title": "Find an Ancient City",
+      "icon": {
+        "item": {
+          "id": "minecraft:reinforced_deepslate",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "minecraft:ancient_city",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "68238F218B413962": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    },
+    "58CDEF403BDAA4A6": {
+      "item": {
+        "id": "minecraft:snowball",
+        "count": 64
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find an Ancient City"
+    },
+    "description": [
+      "<subtitle id=\"562E842E71B5725B\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1A15F24B8D29BF11\" quest=\"562E842E71B5725B\"/>",
+      "<hr/>",
+      "&&2Ancient Cities&&r are full of &&chostile vibration-sensing organisms&&r, and &&drare loot&&r.",
+      "<br/>",
+      "&&3Sculk Sensors&&r are able to detect vibrations, including walking and &&dinteracting with blocks and items&&r.",
+      "<br/>",
+      "They trigger &&3Sculk Shriekers&&r, which spawn &&cWardens&&r.",
+      "<br/>",
+      "&&cWardens&&r are large, &&3near-unkillable&&r monsters that can &&dblind players and deal high damage&&r. ",
+      "<br/>",
+      "However, their vision is &&dbased on vibrations&&r - &&eSnowballs&&r can be used to distract them.",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"68238F218B413962\" quest=\"562E842E71B5725B\"/>",
+      "<reward reward=\"58CDEF403BDAA4A6\" quest=\"562E842E71B5725B\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -304,
+          160
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:reinforced_deepslate",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Forgotten Depths"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

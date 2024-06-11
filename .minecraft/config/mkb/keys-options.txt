@@ -146,10 +146,10 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.c:NONE
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.b:NONE
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.z:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:NONE
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.z:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt:NONE
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown:NONE
@@ -162,8 +162,6 @@ key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown:NONE
 key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown:NONE
 key_key.spyglass-improvements.use:key.keyboard.z:NONE
-key_key.the_bumblezone.beehemoth_up:key.keyboard.space:NONE
-key_key.the_bumblezone.beehemoth_down:key.keyboard.caps.lock:NONE
 key_key.toms_storage.open_terminal:key.keyboard.unknown:NONE
 key_key.trashslot.toggle:key.keyboard.t:NONE
 key_key.trashslot.toggleLock:key.keyboard.unknown:NONE

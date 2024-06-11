@@ -1,0 +1,89 @@
+{
+  "dependencies": [
+    "47ED4204DD0D65C4"
+  ],
+  "tasks": {
+    "5D59AF700C3FD338": {
+      "title": "Find some Ocean Ruins",
+      "icon": {
+        "item": {
+          "id": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "#minecraft:ocean_ruin",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "2FE51CCB8EF07E74": {
+      "item": {
+        "id": "minecraft:trident",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "7EF5AC1DA0E9B764": {
+      "item": {
+        "id": "minecraft:feather",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "400C030A828BCD26": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find Ocean Ruins"
+    },
+    "description": [
+      "<subtitle id=\"6FB48CC24D3230F5\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"5D59AF700C3FD338\" quest=\"6FB48CC24D3230F5\"/>",
+      "<hr/>",
+      "&&2Ocean Ruins&&r are guarded by &&cDrowned&&r and contain &&dloot chests - including Buried Treasure Maps&&r!",
+      "<br/>",
+      "Ruins are either made of &&3Stone Brick&&r in the &&2Colder Ocean Biomes&&r (with deeper blue water), or &&3Sandstone Bricks&&r in &&2Warmer Ocean Biomes&&r (like those with &&3Coral&&r)!",
+      "<br/>",
+      "Each ruin is scattered with &&3Suspicious Gravel&&r or &&3Suspicious Sand&&r respectively, which can be looted with a &&3Brush&&r.",
+      "<hr/>",
+      "<reward reward=\"400C030A828BCD26\" quest=\"6FB48CC24D3230F5\"/>",
+      "<reward reward=\"2FE51CCB8EF07E74\" quest=\"6FB48CC24D3230F5\"/>",
+      "<reward reward=\"7EF5AC1DA0E9B764\" quest=\"6FB48CC24D3230F5\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -496,
+          -80
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:mossy_stone_bricks",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Sleeping with the Fishes"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

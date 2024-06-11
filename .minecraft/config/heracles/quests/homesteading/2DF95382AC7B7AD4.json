@@ -1,0 +1,80 @@
+{
+  "dependencies": [
+    "5C7110BA96ECA231"
+  ],
+  "tasks": {
+    "5A8BF1DC3D8BAEA7": {
+      "type": "heracles:item",
+      "item": "minecraft:fishing_rod",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "758977765A6FA05B": {
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "lvl": 2,
+              "id": "minecraft:luck_of_the_sea"
+            }
+          ]
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft a Fishing Rod"
+    },
+    "description": [
+      "<subtitle id=\"2DF95382AC7B7AD4\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"5A8BF1DC3D8BAEA7\" quest=\"2DF95382AC7B7AD4\"/>",
+      "<hr/>",
+      "&&3Fishing Rods&&r can cast a line into a body of water with &&7[&&r&&6Right-Click&&r&&7]&&r. Eventually, a line of bubbles will appear and the lure will be pulled down - &&7[&&r&&6Right-Click&&r&&7]&&r again to reel the catch in!",
+      "<br/>",
+      "Catches include fish, junk, and, with a large enough pool - &&dtreasure&&r! including enchantments, nautilus shells, saddles, and name tags.  ",
+      "<br/>",
+      "Fishing rods can also be used to &&d\"yank\" mobs&&r at a 5x durability cost.",
+      "<br/>",
+      "Fishing rods can be &&3enchanted&&r to increase &&3durability&&r, increase &&dcatch speed&&r, and &&eimprove luck&&r.",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"758977765A6FA05B\" quest=\"2DF95382AC7B7AD4\"/>"
+    ],
+    "groups": {
+      "Homesteading": {
+        "position": [
+          48,
+          -320
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:fishing_rod",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "WOMEN FEAR ME"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

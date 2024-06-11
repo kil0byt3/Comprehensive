@@ -1,5 +1,2 @@
-#Thu Jun 06 11:35:30 PDT 2024
-Hand_Held_lights=false
-LPV_ENABLED=true
-moon_illuminance=50.0
+#Tue Jun 11 12:36:03 PDT 2024
 MIN_LIGHT_AMOUNT=0.0

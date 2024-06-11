@@ -1,0 +1,89 @@
+{
+  "dependencies": [
+    "7840EB3C8B8048EF"
+  ],
+  "tasks": {
+    "hearthstone": {
+      "type": "heracles:item",
+      "item": "gag:hearthstone",
+      "nbt": {
+        "Damage": 0
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "icon": {
+        "item": {
+          "id": "gag:hearthstone",
+          "count": 1,
+          "nbt": {
+            "Damage": 0
+          }
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "hearthstone_reward": {
+      "item": {
+        "id": "minecraft:amethyst_shard",
+        "count": 32
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Fly away, fly away home"
+    },
+    "description": [
+      "<subtitle id=\"hearthstone\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"hearthstone\" quest=\"hearthstone\"/>",
+      "<hr/>",
+      "In Comprehensive, there is /5/very little teleportation/5/ and most travel is done in realistic and fun ways. ",
+      "<br/>",
+      "However, not having a quick way to get home is unfun. ",
+      "<br/>",
+      "<hr/>",
+      "&&5The Hearthstone is a quick way to return to your spawn point.&&r",
+      "<br/>",
+      "",
+      "Keep in mind that the Hearthstone has a /5/moderately complex crafting recipe/5/, has only 16 uses, and has a /4/very long cooldown time/4/. It also takes 15 seconds to cast. ",
+      "",
+      "Make sure that you're only using it when you NEED to get home, not just when you're at someplace near your base - that would be just a waste and then it might not be ready when you truly need it. ",
+      " ",
+      "<hr/>",
+      "<reward reward=\"hearthstone_reward\" quest=\"hearthstone\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          -142,
+          -43
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "gag:hearthstone",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Home and Hearth"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "dependencies": [
+    "47ED4204DD0D65C4"
+  ],
+  "tasks": {
+    "2D8CC208859BC15D": {
+      "icon": {
+        "item": {
+          "id": "minecraft:scute",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "entity": "minecraft:turtle",
+      "title": "Find a Turtle",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "57BADD860E69CFA5": {
+      "item": {
+        "id": "minecraft:oak_fence",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "7C89F52AB86043C4": {
+      "item": {
+        "id": "minecraft:seagrass",
+        "count": 10
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find a Turtle"
+    },
+    "description": [
+      "<subtitle id=\"687ED1196101F48D\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"2D8CC208859BC15D\" quest=\"687ED1196101F48D\"/>",
+      "<hr/>",
+      "&&3Turtles&&r can be found roaming on &&2Beaches&&r. ",
+      "<br/>",
+      "Their favourite food is &&eSeagrass&&r.",
+      "<br/>",
+      "Bred turtles lay &&3Turtle Eggs&&r, which hatch after many days if not &&3trampled&&r by mobs - build a &&eFence&&r!",
+      "<br/>",
+      "When it grows into an adult, a &&3Baby Turtle&&r drops a &&dScute&&r.",
+      "<hr/>",
+      "<reward reward=\"7C89F52AB86043C4\" quest=\"687ED1196101F48D\"/>",
+      "<reward reward=\"57BADD860E69CFA5\" quest=\"687ED1196101F48D\"/>"
+    ],
+    "groups": {
+      "Exploration": {
+        "position": [
+          -272,
+          -192
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:scute",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Hey, Little Blue!"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}
