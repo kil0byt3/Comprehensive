@@ -74,6 +74,9 @@
   "misc": {
     "dye_blocks": false
   },
+  "torch": {
+    "torch_fire": true
+  },
   "lily_pad": {
     "better_lilypads": true
   }
