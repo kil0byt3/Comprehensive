@@ -2345,6 +2345,10 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/comprehensive/textures/item/arcane_powder.png"
+hash = "04352235526c5867bb861bff94bd6de687eaa9cf516f6da0f0c323308801fba8"
+
+[[files]]
 file = "kubejs/client_scripts/client.js"
 hash = "bdbc74c6b77283950b3652b490f89404157cfc54a07b052509e485a57ea42a9c"
 
