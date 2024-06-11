@@ -86,4 +86,5 @@ REIEvents.hide('item', event => {
     event.hide('paladins:golden_claymore' )
     event.hide('paladins:diamond_claymore' )
     event.hide('paladins:netherite_claymore' )
+    event.hide('createaddition:zinc_sheet' )
 } )

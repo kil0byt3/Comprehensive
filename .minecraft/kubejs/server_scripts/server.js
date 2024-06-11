@@ -66,6 +66,19 @@ event.recipes.createMixing('minecraft:dirt',[
   'minecraft:gravel'
 ])
 
+event.remove({ output: 'createaddition:zinc_sheet' })
+event.remove({ output: 'createaddition:capacitor' })
+event.shaped('createaddition:capacitor', [  
+    ' A ', 
+    ' B ',
+    ' C '
+  ], {
+    A: 'create:copper_sheet', 
+    B: 'createdeco:zinc_sheet',
+    C: 'minecraft:redstone_torch'
+  }  
+)
+
 // Create Trains earlier/worse recipe
 
 event.shaped('create:railway_casing', [
