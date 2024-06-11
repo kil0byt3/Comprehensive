@@ -36,6 +36,17 @@ event.remove({ output: 'ad_astra:jet_suit_boots' })
 event.remove({ output: 'darkutils:vector_plate_fast' })
 event.remove({ output: 'darkutils:vector_plate_extreme' })
 event.remove({ output: 'darkutils:vector_plate_ultra' })
+event.remove({ output: 'paladins:wooden_great_hammer' })
+event.remove({ output: 'paladins:stone_great_hammer' })
+event.remove({ output: 'paladins:iron_great_hammer' })
+event.remove({ output: 'paladins:golden_great_hammer' })
+event.remove({ output: 'paladins:diamond_great_hammer' })
+event.remove({ output: 'paladins:netherite_great_hammer' })
+event.remove({ output: 'paladins:stone_claymore' })
+event.remove({ output: 'paladins:iron_claymore' })
+event.remove({ output: 'paladins:golden_claymore' })
+event.remove({ output: 'paladins:diamond_claymore' })
+event.remove({ output: 'paladins:netherite_claymore' })
 
 // General small fixes for compat
 

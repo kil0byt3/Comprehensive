@@ -1,0 +1,68 @@
+{
+  "dependencies": [
+    "7DCD80F80208292A"
+  ],
+  "tasks": {
+    "connectingcrystal_task": {
+      "type": "heracles:item",
+      "item": "heartstone:heartstone",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "connectingcrystal_reward": {
+      "item": {
+        "id": "create:rose_quartz",
+        "count": 32
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Find My Friends"
+    },
+    "description": [
+      "<subtitle id=\"connectingcrystal\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"connectingcrystal_task\" quest=\"connectingcrystal\"/>",
+      "<hr/>",
+      "",
+      "Craft a /d/Connecting Crystal/d/ to find your teammates easily.",
+      "",
+      "You'll receive 2 when you craft them. ",
+      "",
+      "Give one to your teammate, and /e/Right-Click/e/ to find them.",
+      "",
+      "",
+      "<reward reward=\"connectingcrystal_reward\" quest=\"connectingcrystal\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          47,
+          -118
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "heartstone:heartstone",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "title": {
+      "translate": "Connections Made"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS"
+  }
+}
