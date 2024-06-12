@@ -2350,7 +2350,7 @@ hash = "04352235526c5867bb861bff94bd6de687eaa9cf516f6da0f0c323308801fba8"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "bdbc74c6b77283950b3652b490f89404157cfc54a07b052509e485a57ea42a9c"
+hash = "ebc4ccf1998ca49691bbac02a6e3dd29c8985a87e7d5a45e956abab0d1f1cd26"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2370,7 +2370,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "d35d97916f7b7ed61d10f77aa00d20409d7e7f53a9e9e715edf3699cbd1c525d"
+hash = "932e3876e1193e79ed1eebf93d052bc8912e38560094829e560143de74d15d2b"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
