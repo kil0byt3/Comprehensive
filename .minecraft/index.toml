@@ -1301,10 +1301,6 @@ file = "config/indium-renderer.properties"
 hash = "f0cbbbb7c74fd7422efd8e047439351c4af78dd9fb0edb7c07906bcf29326a39"
 
 [[files]]
-file = "config/infinite-music-options.json"
-hash = "ec0330e559ec2c482cf11e35192e21ef4a0a1ba182848eb8ca7f1b065823d357"
-
-[[files]]
 file = "config/infinity-buttons-config.json5"
 hash = "a9f9e52d09c6c28871dfa9f8e3f165741bd7f4c634ba11ae0ffabf894310f696"
 
@@ -2363,6 +2359,34 @@ hash = "487f715e2d5b2c13fb3e8e3a8fdd6dccfb91d23f3652e359db6c8964527ea992"
 [[files]]
 file = "kubejs/config/probejs.json"
 hash = "bc54c73682ef6ce39361a126bff72b4e1c8c956440a787b1d98e991f859dac4c"
+
+[[files]]
+file = "kubejs/data/phonos/loot_tables/blocks/connection_hub.json"
+hash = "18c88f7d4db4cf288a38d62868a0eb29c9250444788b35e9fd39149074c5e59a"
+
+[[files]]
+file = "kubejs/data/phonos/loot_tables/blocks/electronic_jukebox.json"
+hash = "7c020dcd8e5878a1ba411cea93a728d267398dc3f7cd7546a20f8ef3269ad43e"
+
+[[files]]
+file = "kubejs/data/phonos/loot_tables/blocks/electronic_note_block.json"
+hash = "3e6388670e0315aa99fb324b492e733baae17b09dd5b7be1333e80beef08dbcf"
+
+[[files]]
+file = "kubejs/data/phonos/loot_tables/blocks/loudspeaker.json"
+hash = "ecb9b42f7e3f7690e0578ca45681b1a5b78b8fa6baea303943dc9432cc5a0581"
+
+[[files]]
+file = "kubejs/data/phonos/loot_tables/blocks/radio_loudspeaker.json"
+hash = "a90a168f521039fc7cce70457c21394c159d824fa42d65910ffa03ce59cc0c0f"
+
+[[files]]
+file = "kubejs/data/phonos/loot_tables/blocks/radio_transceiver.json"
+hash = "4060651dad01dbbf44cd2ac9bd11f38ba63804961d427ac4f9645c91731caa3e"
+
+[[files]]
+file = "kubejs/data/phonos/loot_tables/blocks/satellite_station.json"
+hash = "9c6412e64d37e99af80906cb9e45f68bf201e48a6a2f93387613e216d0d4ccf2"
 
 [[files]]
 file = "kubejs/jsconfig.json"
@@ -3537,10 +3561,6 @@ file = "mods/indium-1.0.31+mc1.20.4.jar"
 hash = "a6acf309f91886db6c66c1a8fce7937745053926fa114fe12cb3fdf174dfb57d"
 
 [[files]]
-file = "mods/infinite-music-0.3.0.jar"
-hash = "4f485ba92785e60019ff829c7e781d0cf999b39078435346019b34ca1dd73e6e"
-
-[[files]]
 file = "mods/infinitybuttons-4.0.5-mc1.20.1.jar"
 hash = "d7d6e1d1520adb6555704bf3a9a1e4db17752767283ebaa0bf327c809ee45c97"
 
@@ -3957,6 +3977,10 @@ file = "mods/seamless-loading-screen-2.0.3+1.20.1-fabric.jar"
 hash = "c187aab0b36703bc88050514a528c05eeb0f67a0def61d3fc2e10faee4c45fe6"
 
 [[files]]
+file = "mods/searchlight-1.20-fabric-1.1.11.jar"
+hash = "f3745d3e21602ddeac8087d60a48c415a6d208d5daf45e12acf44f1fce9663ba"
+
+[[files]]
 file = "mods/shifting-wares-2.1.1+1.20.2.jar"
 hash = "ef4a55dbc6e4d7f90b1c55431f8143ab202716d52d2155f9450fd6d8414ba7e5"
 
@@ -3983,6 +4007,10 @@ hash = "faaab5accd9f94a19d7df9b0bd9ce071d466dde3ed68f0c0963d3a153bba8a09"
 [[files]]
 file = "mods/simplemenu-1.20.1-1.1.jar"
 hash = "68eacd2e3709033b47354136d6f8182feaa40d793e758225a45710110494a714"
+
+[[files]]
+file = "mods/simplylight-fabric-1.20.1-1.4.5.jar"
+hash = "8ffecd103e463a8b21199c89710b4d52cbdb38b90ca9d14e122d7c6649e8e71b"
 
 [[files]]
 file = "mods/simplyswords-fabric-1.55.0-1.20.1.jar"
