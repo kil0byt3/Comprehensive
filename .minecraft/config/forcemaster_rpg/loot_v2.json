@@ -1,0 +1,39 @@
+{
+  "item_groups": {
+    "weapons_epic": {
+      "ids": [
+        "forcemaster_rpg:legendary_golden_knuckle",
+        "forcemaster_rpg:guardian_knuckle"
+      ],
+      "chance": 0.15,
+      "bonus_roll": 0.2,
+      "weight": 1
+    },
+    "weapons_legend": {
+      "ids": [
+        "forcemaster_rpg:bloody_knuckle"
+      ],
+      "chance": 0.1,
+      "bonus_roll": 0.2,
+      "weight": 1
+    }
+  },
+  "loot_tables": {
+    "minecraft:chests/bastion_treasure": [
+      "weapons_epic",
+      "weapons_legend"
+    ],
+    "minecraft:chests/end_city_treasure": [
+      "weapons_epic",
+      "weapons_legend"
+    ],
+    "minecraft:chests/ancient_city": [
+      "weapons_epic",
+      "weapons_legend"
+    ],
+    "minecraft:chests/stronghold_library": [
+      "weapons_epic",
+      "weapons_legend"
+    ]
+  }
+}

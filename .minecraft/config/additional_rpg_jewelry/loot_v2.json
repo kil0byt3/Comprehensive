@@ -1,0 +1,98 @@
+{
+  "loot_tables": {
+    "minecraft:chests/bastion_treasure": [
+      "jewelry_tier_3"
+    ],
+    "minecraft:chests/woodland_mansion": [
+      "jewelry_tier_2"
+    ],
+    "minecraft:chests/end_city_treasure": [
+      "jewelry_tier_4"
+    ],
+    "minecraft:chests/shipwreck_supply": [
+      "jewelry_tier_1"
+    ],
+    "minecraft:chests/underwater_ruin_big": [
+      "jewelry_tier_2"
+    ],
+    "minecraft:chests/nether_bridge": [
+      "jewelry_tier_3"
+    ],
+    "minecraft:chests/simple_dungeon": [
+      "jewelry_tier_2"
+    ],
+    "minecraft:chests/desert_pyramid": [
+      "jewelry_tier_1"
+    ],
+    "minecraft:chests/jungle_temple": [
+      "jewelry_tier_1"
+    ],
+    "minecraft:chests/ancient_city": [
+      "jewelry_tier_4"
+    ],
+    "minecraft:chests/stronghold_crossing": [
+      "jewelry_tier_2"
+    ],
+    "minecraft:chests/igloo_chest": [
+      "jewelry_tier_1"
+    ],
+    "minecraft:chests/stronghold_library": [
+      "jewelry_tier_2"
+    ],
+    "minecraft:chests/bastion_other": [
+      "jewelry_tier_3"
+    ]
+  },
+  "item_groups": {
+    "jewelry_tier_2": {
+      "ids": [
+        "additional_rpg_jewelry:ocean_ring",
+        "additional_rpg_jewelry:ocean_necklace",
+        "additional_rpg_jewelry:earth_necklace",
+        "additional_rpg_jewelry:earth_ring",
+        "additional_rpg_jewelry:rage_necklace",
+        "additional_rpg_jewelry:rage_ring"
+      ],
+      "chance": 0.2,
+      "bonus_roll_chance": 1.2,
+      "weight": 1
+    },
+    "jewelry_tier_3": {
+      "ids": [
+        "additional_rpg_jewelry:netherite_ocean_ring",
+        "additional_rpg_jewelry:netherite_ocean_necklace",
+        "additional_rpg_jewelry:netherite_earth_necklace",
+        "additional_rpg_jewelry:netherite_earth_ring",
+        "additional_rpg_jewelry:netherite_rage_necklace",
+        "additional_rpg_jewelry:netherite_rage_ring"
+      ],
+      "chance": 0.2,
+      "bonus_roll_chance": 1.2,
+      "weight": 1
+    },
+    "jewelry_tier_1": {
+      "ids": [
+        "additional_rpg_jewelry:cactea_ring",
+        "additional_rpg_jewelry:dripstone_necklace"
+      ],
+      "chance": 0.3,
+      "bonus_roll_chance": 1.2,
+      "weight": 1
+    },
+    "jewelry_tier_4": {
+      "ids": [
+        "additional_rpg_jewelry:unique_ocean_ring",
+        "additional_rpg_jewelry:unique_ocean_necklace",
+        "additional_rpg_jewelry:unique_earth_necklace",
+        "additional_rpg_jewelry:unique_earth_ring",
+        "additional_rpg_jewelry:unique_rage_necklace",
+        "additional_rpg_jewelry:unique_rage_ring",
+        "additional_rpg_jewelry:vampire_necklace",
+        "additional_rpg_jewelry:vampire_ring"
+      ],
+      "chance": 0.5,
+      "bonus_roll_chance": 1.2,
+      "weight": 1
+    }
+  }
+}

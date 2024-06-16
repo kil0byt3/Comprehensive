@@ -44,6 +44,28 @@
         "value": 2048
       }
     },
+    "more_rpg_classes:damage_reflect_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "more_rpg_classes:arcane_fuse_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "obscure_api:dodge": {
       "enabled": false,
       "min": {
@@ -297,6 +319,17 @@
         "value": 1
       }
     },
+    "more_rpg_classes:lifesteal_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "minecraft:generic.armor_toughness": {
       "enabled": true,
       "min": {
@@ -420,6 +453,17 @@
     },
     "minecraft:generic.attack_speed": {
       "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "more_rpg_classes:sign_intensity": {
+      "enabled": false,
       "min": {
         "default": 0,
         "value": 0
@@ -715,6 +759,17 @@
         "value": 2048
       }
     },
+    "more_rpg_classes:adrenaline_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "thermoo:generic.frost_resistance": {
       "enabled": false,
       "min": {
@@ -836,6 +891,17 @@
         "value": 200
       }
     },
+    "spell_power:air": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "minecraft:generic.attack_knockback": {
       "enabled": true,
       "min": {
@@ -891,6 +957,17 @@
         "value": 16
       }
     },
+    "spell_power:earth": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "dml-refabricated:poseidon_bless": {
       "enabled": false,
       "min": {
@@ -900,6 +977,17 @@
       "max": {
         "default": 16,
         "value": 16
+      }
+    },
+    "more_rpg_classes:rage_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "dml-refabricated:night_vision": {
@@ -1120,6 +1208,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "spell_power:water": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "combatroll:count": {
