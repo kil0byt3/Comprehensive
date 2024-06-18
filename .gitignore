@@ -21,6 +21,9 @@
 *.ps1
 /_ServerPack
 /.minecraft/emojiful/cache
-.minecraft/config/fabric/indigo-renderer.properties
-.minecraft/config/indium-renderer.properties
-.minecraft/config/iris.properties
+/.minecraft/config/fabric/indigo-renderer.properties
+/.minecraft/config/indium-renderer.properties
+/.minecraft/config/iris.properties
+/.minecraft/config/ironchests/defaults.properties
+/.minecraft/config/roughlyenoughitems/pinyin.properties
+/.minecraft/config/roughlyenoughitems/pinyin_double.properties
