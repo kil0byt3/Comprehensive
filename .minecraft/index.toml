@@ -1462,7 +1462,7 @@ hash = "57e5308e115e1338a3603ea153a591ac917e5802625407a94284576d73774f11"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b0c8f04ee08b297a8ca2bcb6608399a195469dde2a52f1887d1f38d237b7ad18"
+hash = "5c4297f3c470d784a36ec467717b8e15899207ec332ee1984ea6cc72bdd1dab1"
 
 [[files]]
 file = "config/items_displayed_config.properties"
@@ -2301,6 +2301,10 @@ file = "config/weaponmasterconfig.properties"
 hash = "66dd3386b2d6f99a9c47039d8f501f73c1124567cd721f48dc60d3354dec5532"
 
 [[files]]
+file = "config/wicked_paintings.json5"
+hash = "b8724eacf61d31cb060d51829bf519df77cadf71bfc4c5e8fa3cadc0fd61e2fc"
+
+[[files]]
 file = "config/wizards/effects.json"
 hash = "0b9dd9cc16344862977d2424a24a2b417f50f8d35960035a9a14609ffd805844"
 
@@ -2394,7 +2398,7 @@ hash = "04352235526c5867bb861bff94bd6de687eaa9cf516f6da0f0c323308801fba8"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "ebc4ccf1998ca49691bbac02a6e3dd29c8985a87e7d5a45e956abab0d1f1cd26"
+hash = "b785886da6f58afb62b278d5c1d10b3f95c26c52e898f93d1e63fdd8c18d8070"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2442,7 +2446,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "932e3876e1193e79ed1eebf93d052bc8912e38560094829e560143de74d15d2b"
+hash = "f84d069c0d55ef92ab9fb57acdcec334e8b6d78fdee773940a75ec0af138f280"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
@@ -2547,6 +2551,10 @@ hash = "52c37786ac819d72e10014abb9816fa89e9ef0b2e3f824f0c08bd08a35b28917"
 [[files]]
 file = "mods/Couplings-1.9.4+1.20.jar"
 hash = "beb79ec8e0cab24b817fabdbc475d109aea0929675ce2bdde153e48f00811e70"
+
+[[files]]
+file = "mods/Crystal-Clear-2.1-Beta-fabric.jar"
+hash = "5123cfdf67d74d29f88bd409bd8d7fd2b828f62654038860cf0138b62ca12f5f"
 
 [[files]]
 file = "mods/DarkModeEverywhere-1.20.1-1.2.2.jar"
@@ -3241,6 +3249,10 @@ file = "mods/crawl-0.12.0.jar"
 hash = "525a507735310278897b795989905a9f5c32937846495c39abec15cdf9ec2e40"
 
 [[files]]
+file = "mods/create-cards-1.2.jar"
+hash = "528f43bf3268c39a0f045abaf284beb424e59796597bcc2938d3fd1d1363176b"
+
+[[files]]
 file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
 hash = "11a850d3689b4771d5fa705ffa7dd711827c69b71082956597e5d051471cc1ee"
 
@@ -3553,6 +3565,10 @@ file = "mods/ftb-library-fabric-2001.2.2.jar"
 hash = "51e158400421929d6f4a924e8b9f643d8d779e5aa7895ee9d799dbc0a22a753b"
 
 [[files]]
+file = "mods/furnish-26-fabric.jar"
+hash = "d92f4d473dd02ba756de0f02d85ff4523e4e71adfe75ea3ea0500deabc86ddb1"
+
+[[files]]
 file = "mods/fusion-1.1.1-fabric-mc1.20.1.jar"
 hash = "d771da81f03a08cf3eaf9a474e4b44f197a6bf5d91051c03ac1ba7c07c55b3d5"
 
@@ -3647,6 +3663,10 @@ hash = "c5068115c7435d71f07a25c248e848a163e1406fe8663f12b18bc37ebd7347b7"
 [[files]]
 file = "mods/integrated_stronghold-1.1.1+1.20.1-fabric.jar"
 hash = "b72343bf7b21afa7422ff0fef7fc5ee5522efac28402c3fd33b699d95b2a0acd"
+
+[[files]]
+file = "mods/interiors-0.5.3+fabric-mc1.20.1.jar"
+hash = "a7a57cc227ff65d2114313dced70e748e2e86c52d8b76daaa5edb493d42d0371"
 
 [[files]]
 file = "mods/inventoryessentials-fabric-1.20.1-8.2.6.jar"
@@ -4327,6 +4347,10 @@ hash = "cfb2eb02c949761b43c907175c9002ed44eaeae326b1c8ad81957ffb5f4f4c86"
 [[files]]
 file = "mods/weaponmaster-multi-fabric-1.20.1-3.0.5.jar"
 hash = "c14964476f350f6da8d19b0b9231ecf7cedc428d08e0044cea406bf477bb3eff"
+
+[[files]]
+file = "mods/wicked-paintings-1.4.0+1.20.1.jar"
+hash = "92dcb3b7e27377d67d557b6b3d21bc4a40e67e0a63e5af45a54c63d77f44d860"
 
 [[files]]
 file = "mods/windchimes-1.2.4+1.20.jar"
