@@ -21,6 +21,7 @@ ClientEvents.lang('en_us', event => {
     rename ( 'simplyswords:diamond_greathammer', "Diamond Warhammer" )
     rename ( 'simplyswords:netherite_greathammer', "Netherite Warhammer" )
     rename ( 'simplyswords:runic_greathammer', "Runic Warhammer" )
+    rename ( 'brewery:rope', "Brewery Rope" )
 })
 
 REIEvents.hide('item', event => {

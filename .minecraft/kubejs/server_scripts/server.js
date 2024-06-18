@@ -176,10 +176,10 @@ event.shaped('gag:hearthstone', [// arg 1: output
   }
 )
 
+// Rope Unification
+
 event.remove({ output: 'farmersdelight:safety_net' })
 event.shapeless('farmersdelight:safety_net', ["supplementaries:rope", "supplementaries:rope", "supplementaries:rope", "supplementaries:rope"])
-
-// Comforts tweak recipe
 
 event.remove({ output: 'comforts:rope_and_nail' })
 event.shaped('comforts:rope_and_nail', [// arg 1: output
@@ -191,6 +191,10 @@ event.shaped('comforts:rope_and_nail', [// arg 1: output
     B: 'minecraft:iron_ingot'
   }
 )
+
+event.shapeless('2x brewery:rope', ['supplementaries:rope', 'minecraft:string'] )
+
+// Shulker Charm
 
 event.remove({ output: 'shulkercharm:shulker_charm' })
 event.shaped('shulkercharm:shulker_charm', [// arg 1: output
