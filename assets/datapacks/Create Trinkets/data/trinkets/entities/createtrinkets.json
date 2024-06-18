@@ -1,8 +1,7 @@
 {
-  "entities": [
-    "player"
-  ],
+  "entities": ["player"],
   "slots": [
-    "chest/tank"
+    "head/face",
+    "chest/back"
   ]
 }
