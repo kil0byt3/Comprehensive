@@ -95,6 +95,47 @@ event.shaped('createaddition:capacitor', [
   }  
 )
 
+event.remove({ id: 'constructionwand:stone_wand' })
+event.shaped('constructionwand:stone_wand', [
+  '  A', 
+  ' B ',
+  ' B '  
+], {
+  A: '#minecraft:stone_tool_materials', 
+  B: 'minecraft:stick'
+}
+)
+event.remove({ id: 'constructionwand:iron_wand' })
+event.shaped('constructionwand:iron_wand', [
+  '  A', 
+  ' B ',
+  ' B '  
+], {
+  A: 'minecraft:iron_ingot', 
+  B: 'minecraft:stick'
+}
+)
+event.remove({ id: 'constructionwand:diamond_wand' })
+event.shaped('constructionwand:diamond_wand', [
+  '  A', 
+  ' B ',
+  ' B '  
+], {
+  A: 'minecraft:diamond', 
+  B: 'minecraft:stick'
+}
+)
+event.remove({ id: 'constructionwand:infinity_wand' })
+event.shaped('constructionwand:infinity_wand', [
+  '  A', 
+  ' B ',
+  ' B '  
+], {
+  A: 'minecraft:nether_star', 
+  B: 'minecraft:stick'
+}
+)
+
 // Create Trains earlier/worse recipe
 
 event.shaped('create:railway_casing', [
