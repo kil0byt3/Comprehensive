@@ -726,7 +726,7 @@ hash = "edeabd17da9d0d962b8ff4296505fda2722a1b31563efa8a695402534e92cbe1"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "416d7055733cb79bc7e4962e3c1be2fc8ee3125f7dbe6f6b7a8e0b8a983a9c04"
+hash = "62e96bc89a169ea021651d660efae8a43990d20e830d8b5374f81059a7a6b06f"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"

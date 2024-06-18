@@ -15,6 +15,11 @@
 	  "-depends": {
 		"fabric-api": "IGNORED"
 	  }
-	}  
+	},
+	"createspawnerboxer": {
+	  "-depends": {
+		"create": "IGNORED"
+	  }
+	}
   }
 }
