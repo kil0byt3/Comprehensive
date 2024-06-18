@@ -2446,7 +2446,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "f84d069c0d55ef92ab9fb57acdcec334e8b6d78fdee773940a75ec0af138f280"
+hash = "262fdc70b923b342a5e0e13b687731465dbb467449e5bdcc652a50b765190b35"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
@@ -2551,6 +2551,10 @@ hash = "52c37786ac819d72e10014abb9816fa89e9ef0b2e3f824f0c08bd08a35b28917"
 [[files]]
 file = "mods/Couplings-1.9.4+1.20.jar"
 hash = "beb79ec8e0cab24b817fabdbc475d109aea0929675ce2bdde153e48f00811e70"
+
+[[files]]
+file = "mods/CreateSpawnerBoxer-0.1.0+fabric-1.20.1-6.jar"
+hash = "a95be3950bb3f6dece0c056177d8233bccb4405c97cc006ae443026d4e227681"
 
 [[files]]
 file = "mods/Crystal-Clear-2.1-Beta-fabric.jar"

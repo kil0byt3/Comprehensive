@@ -516,4 +516,19 @@ event.shaped('immersive_aircraft:improved_landing_gear', [
 }
 )
 
+// Ore Excavation
+
+event.remove({ output: 'createoreexcavation:vein_finder' })
+event.shaped('createoreexcavation:vein_finder', [
+  'AB ',
+  'CD ',
+  '  D'
+], {
+  A: 'endermanoverhaul:ancient_pearl',
+  B: 'minecraft:netherite_block',
+  C: 'minecraft:recovery_compass',
+  D: 'ad_astra:steel_rod'
+}
+)
+
 })
