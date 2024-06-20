@@ -4,6 +4,13 @@
 
 console.info('Loaded KiloScript')
 
+ServerEvents.tags('item', event => {
+
+event.add('c:duck_eggs', 'duckling:duck_egg')
+event.add('c:duck_eggs', 'naturalist:duck_egg')
+
+})
+
 ServerEvents.recipes(event => {
 
 
@@ -534,5 +541,214 @@ event.shaped('createoreexcavation:vein_finder', [
   D: 'ad_astra:steel_rod'
 }
 )
+
+// Farmer's Delight stuff
+
+event.remove({ output: 'vinery:apple_bag' })
+event.remove({ output: 'supplementaries:sugar_cube' })
+event.remove({ output: 'naturalist:cooked_egg' })
+event.shaped('supplementaries:sugar_cube', [  
+  '   ', 
+  ' AA',
+  ' AA'  
+], {
+  A: 'minecraft:sugar',  
+}
+)
+event.remove({ output: 'cratedelight:duck_egg_crate' })
+event.shaped('cratedelight:duck_egg_crate', [
+  'AAA',
+  'AAA',
+  'AAA'
+], {
+  A: '#c:duck_eggs'
+}
+)
+
+event.custom({"type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "result": {
+    "item": 'frightsdelight:apple_slime',
+    "count": 1
+  }
+})
+
+event.custom({"type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "recipie_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    }
+  ],
+  "result": {
+    "item": "frightsdelight:undead_kebab",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:stick"
+  }
+})
+
+event.custom({"type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "recipie_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:cobweb"
+    },
+    {
+      "item": "minecraft:cobweb"
+    }
+  ],
+  "result": {
+    "item": "frightsdelight:web_on_stick",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:stick"
+  }
+})
+
+event.custom({"type": "farmersdelight:cooking",
+  "cookingtime": 75,
+  "experience": 2.0,
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "result": {
+    "item": "frightsdelight:monster_mash",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+})
+
+event.custom({"type": "farmersdelight:cooking",
+  "cookingtime": 75,
+  "experience": 2.0,
+  "recipie_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "farmersdelight:raw_pasta"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "result": {
+    "item": "frightsdelight:pasta_with_slimeballs",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+})
+
+event.custom({"type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "recipie_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "tag": "c:crops"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "result": {
+    "item": "frightsdelight:soup_rotten_flesh",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+})
+
+event.custom({"type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "recipie_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "tag": "c:crops"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    }
+  ],
+  "result": {
+    "item": "frightsdelight:soup_spider_eye",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+})
+
+event.custom({"type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "recipie_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "tag": "c:crops"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "result": {
+    "item": "frightsdelight:soup_slime",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+})
 
 })

@@ -108,4 +108,6 @@ REIEvents.hide('item', event => {
     event.hide('sophisticatedbackpacks:stack_upgrade_tier_2' )
     event.hide('sophisticatedbackpacks:stack_upgrade_tier_3' )
     event.hide('sophisticatedbackpacks:stack_upgrade_tier_4' )
+    event.hide('vinery:apple_bag' )
+    event.hide('naturalist:cooked_egg' )
 } )

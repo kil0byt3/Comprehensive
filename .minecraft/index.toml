@@ -338,7 +338,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "91dec6f731843103ae06b157511ce17ec4b2a3339893e22a145dc3d51f74a399"
+hash = "993ee3a5563476854ac5220f5feb758080d27f547386f09bae3d7e09098fa9fb"
 
 [[files]]
 file = "config/cccbridge.properties"
@@ -739,14 +739,6 @@ hash = "3e9799eac7743f833cadeb180fb3f8d976405d7ef3b935e889eb1fe5f140e3f6"
 [[files]]
 file = "config/farmersdelight-client.toml"
 hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
-
-[[files]]
-file = "config/farmersdelight-common-1.toml.bak"
-hash = "6fdd4c296d951150b7522283fb9bc03992d5025af8a106462e3d196dc5143abe"
-
-[[files]]
-file = "config/farmersdelight-common-2.toml.bak"
-hash = "6fdd4c296d951150b7522283fb9bc03992d5025af8a106462e3d196dc5143abe"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
@@ -2074,15 +2066,15 @@ hash = "a71ebe6119d672a7c8cf6eceb0eacd613fc068f409bb7dcf6f1fff2e6f490b48"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "3b51f24720711047bde3b736ca5c4baa389a6673bab533b6aa00cb2f68dcba2a"
+hash = "e074239b94da19a8ba514d1a2b61de1da164269d5b4215fab436ecc30fedcdba"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c71f7b86d595989bd23909059cc87e38a409e27805e85f9300a6b3a752849e83"
+hash = "255591727e0ed9b4e436546388398d4f9ee0f4f1876873dd7000ac3349d2792b"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "44e8d06597994b3b0a415a2486febfcc874ec9cad7d90d2582418e676d17d7f3"
+hash = "cbd892e47d9edd1c1e124f2f5e981633d2e751e61a0e0fba4ecadb2fe2c07a1e"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -2394,7 +2386,7 @@ hash = "04352235526c5867bb861bff94bd6de687eaa9cf516f6da0f0c323308801fba8"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "1a87e7ae97988d5d13837b7d7f966002b0dc3b0d61f4c0e9aa9ec96e46d7df77"
+hash = "05eece47f757c65f207f71c6e7b334604a1e926b6fb87fa07b0e7d093b1681b0"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2442,7 +2434,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "3ab8974eae532cbc95533197ca36b19982067cf6994caef4017e62c190408bd6"
+hash = "6faec5fd642edfd451a7e2628f2b48fdf587d278be51ebc495bc822d7bfe2aa2"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
@@ -2763,6 +2755,10 @@ hash = "1869e52d9a306d40063c69f53261e991ecd76dea613216098a196520cebb4aa7"
 [[files]]
 file = "mods/Necronomicon-Fabric-1.4.2.jar"
 hash = "e9672731e310e8d93813f06fed60e8d3c4877d782a99c284d7b1100bb38503b8"
+
+[[files]]
+file = "mods/NethersDelight-Refabricated-1.20.1-4.1.1.jar"
+hash = "882c8fd92d7964f2314da6d4696190d451f8ed87db7726df06b9bc913776c9cb"
 
 [[files]]
 file = "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
@@ -3249,6 +3245,10 @@ file = "mods/craftingtweaks-fabric-1.20.1-18.2.4.jar"
 hash = "c5c68af61ecb55360a12c43fbcb290ca2d4993808505c7faeb5f530cbf5a0f03"
 
 [[files]]
+file = "mods/cratedelight-2024.05.05-1.20-fabric.jar"
+hash = "9cb28012c1716424e156df724d8f70bd279e2fa289da630b76ffc8cc9dd4eb32"
+
+[[files]]
 file = "mods/crawl-0.12.0.jar"
 hash = "525a507735310278897b795989905a9f5c32937846495c39abec15cdf9ec2e40"
 
@@ -3351,6 +3351,10 @@ hash = "da010337deba2c9bb12df161801c8644c9c8bd3196c5537cbcca500ed49a9e3a"
 [[files]]
 file = "mods/cubes-without-borders-1.1.0+1.20.jar"
 hash = "4339319aeccdc44cb7fded0c85875ee22cb1869aa736845c6a7289b92edb453a"
+
+[[files]]
+file = "mods/dahmersdelight-1.0.2.jar"
+hash = "9bd7741dcd2e43e6d65311f57d4831122521a7a987885ca3fd136c354c5dd43b"
 
 [[files]]
 file = "mods/damagevignette-3.0.0.jar"
@@ -3857,6 +3861,10 @@ file = "mods/moreculling-1.20.4-0.24.0.jar"
 hash = "def2462c60576d0bb8dbec51a101fe2909d4c5d343150d5e5105a56bbc6bbfd5"
 
 [[files]]
+file = "mods/moredelight-1.2.2-1.20.1-fabric.jar"
+hash = "4a29a040ed5be1c0db2e384d5ea337ed67c168de8ceb1e36c9db06dab782e49f"
+
+[[files]]
 file = "mods/moremobvariants-fabric+1.20.1-1.3.0.1.jar"
 hash = "8cb6f112ece5be5114cd17e201308e3ac1f3395cf66a88c0548caa50b0461911"
 
@@ -3915,6 +3923,10 @@ hash = "9e781315d2026db16fd601681b1f97a515d582ea5d7f54c33a03fb1900270aec"
 [[files]]
 file = "mods/obsidianboat-3.1.4+mc1.20.1.jar"
 hash = "465fc520f1e0b5eb3b5d0c1f545e9165de6e34ed1009a14d122fa5205e7cf23c"
+
+[[files]]
+file = "mods/oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
+hash = "c87de6e5cd772c65d5f79e8b8fcbe04e6bad0e29b5caffde1141c59e9fde2754"
 
 [[files]]
 file = "mods/optigui-2.1.7.jar"
