@@ -185,7 +185,8 @@
       "createdieselgenerators:*",
       "railways:*",
       "sliceanddice:*",
-      "createoreexcavation:*'"
+      "createoreexcavation:*",
+	  "rootsclassic:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
