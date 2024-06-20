@@ -22,7 +22,7 @@ hash = "c30b745ebbd4902145714571b91864208a567d7074f7a9bbc80acdf04c722849"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "6eed2fee88757e3e2b3d05045c70b958495655898140475cde98e550f68af6df"
+hash = "d6d80f2591dde1218d8faa5509a547ec01c75c91f2d2d47a368e9c7583c8a65f"
 
 [[files]]
 file = "config/HorseBuff.toml"
@@ -786,7 +786,7 @@ hash = "5f126223b891b2c32a5f172ea37272db65fcf4a2a6c67154ceca35e152366c2b"
 
 [[files]]
 file = "config/flywheel.json"
-hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+hash = "48fc71a430b2cede4507f74a9e1f49cece24c0760958a426942cae76a533b6fe"
 
 [[files]]
 file = "config/forcemaster_rpg/effects.json"
@@ -2398,7 +2398,7 @@ hash = "04352235526c5867bb861bff94bd6de687eaa9cf516f6da0f0c323308801fba8"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "b785886da6f58afb62b278d5c1d10b3f95c26c52e898f93d1e63fdd8c18d8070"
+hash = "1a87e7ae97988d5d13837b7d7f966002b0dc3b0d61f4c0e9aa9ec96e46d7df77"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2446,7 +2446,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "262fdc70b923b342a5e0e13b687731465dbb467449e5bdcc652a50b765190b35"
+hash = "3ab8974eae532cbc95533197ca36b19982067cf6994caef4017e62c190408bd6"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
@@ -3977,6 +3977,10 @@ file = "mods/polytone-1.20-1.20.3-fabric.jar"
 hash = "971f6526399b9aae0e494fc132a02dcd7393f4e3dba9cffa8f419253e84f3729"
 
 [[files]]
+file = "mods/portablecrates-fabric-1.0.2+1.20-1.20.1.jar"
+hash = "bbca1198f6b24b02f6328d386da4738f3d1dfe86a4252f25b5fa33817dfd5ecb"
+
+[[files]]
 file = "mods/preferred-gamerules-1.1.0+1.19.4.jar"
 hash = "d256749d4881ae21dd9d95d2bc22d5a142bcc267b428c38e6ac5ce03aecaa64e"
 
@@ -4383,6 +4387,10 @@ hash = "9f9b1671c18336557fcb3bd7dd3cf1a1004f39473bf97bdd88296a0aa8c13e10"
 [[files]]
 file = "resourcepacks/Comprehensified.zip"
 hash = "d87fb72fb9a7a24456a143c880db7c79df58f16e668c534761539cb6b7e89fd7"
+
+[[files]]
+file = "resourcepacks/Furnish Door Knock Silencer.zip"
+hash = "ed28b69634c92d15417fc3af7d27162f11e76dd889d2c3d76f86a77a968815fd"
 
 [[files]]
 file = "resourcepacks/Stay_True_1.20.zip"

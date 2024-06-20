@@ -104,4 +104,8 @@ REIEvents.hide('item', event => {
     event.hide('onlyhammersandexcavators:lapis_excavator' )
     event.hide('onlyhammersandexcavators:emerald_excavator' )
     event.hide('onlyhammersandexcavators:redstone_excavator' )
+    event.hide('sophisticatedbackpacks:stack_upgrade_tier_1' )
+    event.hide('sophisticatedbackpacks:stack_upgrade_tier_2' )
+    event.hide('sophisticatedbackpacks:stack_upgrade_tier_3' )
+    event.hide('sophisticatedbackpacks:stack_upgrade_tier_4' )
 } )

@@ -158,6 +158,10 @@ event.remove({ output: 'sophisticatedbackpacks:chipped/loom_table_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/mason_table_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/alchemy_bench_upgrade' })
 event.remove({ output: 'sophisticatedbackpacks:chipped/tinkering_table_upgrade' })
+event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_1' })
+event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_2' })
+event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_3' })
+event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_4' })
 
 // Sophisticated Backpacks rebalance
 event.remove({ output: 'sophisticatedbackpacks:iron_backpack' })
