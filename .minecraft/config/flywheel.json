@@ -1,5 +1,5 @@
 {
-  "backend": "BATCHING",
+  "backend": "INSTANCING",
   "debugNormals": false,
   "limitUpdates": true
 }

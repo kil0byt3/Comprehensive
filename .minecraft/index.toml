@@ -786,7 +786,7 @@ hash = "5f126223b891b2c32a5f172ea37272db65fcf4a2a6c67154ceca35e152366c2b"
 
 [[files]]
 file = "config/flywheel.json"
-hash = "48fc71a430b2cede4507f74a9e1f49cece24c0760958a426942cae76a533b6fe"
+hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 
 [[files]]
 file = "config/forcemaster_rpg/effects.json"
