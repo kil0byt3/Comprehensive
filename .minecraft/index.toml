@@ -338,7 +338,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "8405882d4b590e9b4af5bbd99d0596f33b11b5dedae26ddf8af54dc279e01950"
+hash = "91dec6f731843103ae06b157511ce17ec4b2a3339893e22a145dc3d51f74a399"
 
 [[files]]
 file = "config/cccbridge.properties"
@@ -2145,10 +2145,6 @@ file = "config/starterkit/kits/Default.txt"
 hash = "00bc8b30246f5663eef87a63a7ffa0e873eddd33f7aa3019e8b3e0135dc25515"
 
 [[files]]
-file = "config/stutterfix-config.json"
-hash = "cee877626997e58a3ab14171d9c3c4bd3b34e8ddae3c15cfddb8c0e0fd116b21"
-
-[[files]]
 file = "config/styled-nicknames.json"
 hash = "be268060062e4987e61dbad688a5942ec49250b098ca1d3d4113a7595c0caaca"
 
@@ -3193,6 +3189,10 @@ file = "mods/chickensshed-fabric-1.6.0+mc1.20.1.jar"
 hash = "69faa6d20ffebedf03b34436bd3862fd00feeddd4d5d323be8aaf90d7a17b6cf"
 
 [[files]]
+file = "mods/chunkumulator-1.0.3+MC1.20.1.jar"
+hash = "e5fe6b1c0b597cfc866e541a34fc21ddd03f30096653edf8f29eb6c705093ed0"
+
+[[files]]
 file = "mods/cicada-lib-0.7.2+1.20.1.jar"
 hash = "4685881f72f9422a9ccccf5839833ba4da37edabd56e2d56d8d556d9cea0dd27"
 
@@ -4165,10 +4165,6 @@ file = "mods/sparsestructures-2.1.2.jar"
 hash = "c496b663fa47650a3d99fd0f097f3ba64d4dc5cb0753f5a523dabe982d6c9fed"
 
 [[files]]
-file = "mods/spawnproof-villagers-1.0.0+1.19.4.jar"
-hash = "70a7f8445bcec2a7da6ed29b8ccd6d9afcd19b0cb9194d84432db305dace4880"
-
-[[files]]
 file = "mods/specutils-1.0.1.jar"
 hash = "64979e4399b46ec5dbf3db850944f37ca087c9009c0b8f77205c5803ecaf552a"
 
@@ -4193,10 +4189,6 @@ file = "mods/stairdoors-1.0.0.jar"
 hash = "6dbbfdb8883b26646fe8274a559dfcc5dd021f7b1a8250350b73da3a684dad04"
 
 [[files]]
-file = "mods/starlight-1.1.2+fabric.dbc156f.jar"
-hash = "2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8"
-
-[[files]]
 file = "mods/starterkit-1.20.1-6.7.jar"
 hash = "00eb9bcd7654757c600047b7e806e8e870be6c1048664a0ff67ac732ae9525fb"
 
@@ -4211,10 +4203,6 @@ hash = "263ab411e36e5526516b914376a0687f69b113579d8051fabcdfe702c6e10c1d"
 [[files]]
 file = "mods/structure_pool_api-1.0+1.20.1.jar"
 hash = "84ebe8b98268c8fe1439bb6cd3dbeba19501bf9e25ea2f2fd49dfe3940aa1a78"
-
-[[files]]
-file = "mods/stutterfix-mc1.20.1-0.2.0.jar"
-hash = "9b2bad1d002f3b4f8aea88eea251ef0561731d633a50d69c9dcab89b6ebdd249"
 
 [[files]]
 file = "mods/styled-nicknames-1.2.1+1.20.jar"
