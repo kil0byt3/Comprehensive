@@ -1,0 +1,189 @@
+{
+  "replace": true,
+  "groups": [
+    "fruits",
+    "grains",
+    "proteins",
+    "sugars",
+    "vegetables",
+    "alcohol"
+  ],
+  "effects": [
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        },
+        {
+          "name": "minecraft:generic.knockback_resistance",
+          "operation": "add",
+          "amount": 0.10
+        },
+        {
+          "name": "minecraft:generic.armor_toughness",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins", "fruits", "vegetables", "grains", "alcohol"],
+          "match": "every",
+          "above": 0.5,
+          "below": 0.8
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+		  "name": "minecraft:generic.attack_speed",
+          "operation": "multiply_base",
+          "amount": 0.85
+        }
+      ],
+      "status_effects": [
+        {
+          "name": "minecraft:slowness",
+          "power": 1
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins", "fruits", "vegetables", "grains"],
+          "match": "any",
+          "above": 0.5,
+          "below": 1.0
+        },
+        {
+          "groups": ["proteins", "fruits", "vegetables", "grains"],
+          "match": "every",
+          "above": 0.0,
+          "below": 0.15
+        }
+      ]
+    },
+    {
+      "status_effects": [
+        {
+          "name": "minecraft:hunger",
+          "power": 3
+        },
+        {
+          "name": "minecraft:speed",
+          "power": 3
+        },
+        {
+          "name": "minecraft:haste",
+          "power": 3
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["sugars"],
+          "match": "all",
+          "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "status_effects": [
+        {
+          "name": "minecraft:hunger",
+          "power": 1
+        },
+        {
+          "name": "minecraft:speed",
+          "power": 2
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["sugars"],
+          "match": "all",
+          "above": 0.5,
+          "below": 0.8
+        }
+      ]
+    },
+    {
+      "status_effects": [
+        {
+          "name": "minecraft:speed",
+          "power": 1
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["sugars"],
+          "match": "all",
+          "above": 0.15,
+          "below": 0.5
+        }
+      ]
+    },
+    {
+      "status_effects": [
+       {
+         "name": "brewery:drunk",
+         "power": 255
+       },
+       {
+         "name": "minecraft:nausea",
+         "power": 255
+       }
+      ],
+      "conditions": [
+        {
+          "groups": ["alcohol"],
+          "match": "all",
+		  "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "status_effects": [
+       {
+         "name": "minecraft:nausea",
+         "power": 3
+       },
+       {
+         "name": "minecraft:strength",
+         "power": 3
+       }
+      ],
+      "conditions": [
+        {
+          "groups": ["alcohol"],
+          "match": "all",
+		      "above": 0.5,
+          "below": 0.8
+        }
+      ]
+    },
+    {
+      "status_effects": [
+       {
+         "name": "vinery:trippy",
+         "power": 1
+       },
+       {
+         "name": "minecraft:strength",
+         "power": 1
+       }
+      ],
+      "conditions": [
+        {
+          "groups": ["alcohol"],
+          "match": "all",
+		      "above": 0.15,
+          "below": 0.5
+        }
+      ]
+    }
+  ]
+}
