@@ -555,6 +555,7 @@ event.shaped('supplementaries:sugar_cube', [
   A: 'minecraft:sugar',  
 }
 )
+
 event.remove({ output: 'cratedelight:duck_egg_crate' })
 event.shaped('cratedelight:duck_egg_crate', [
   'AAA',
