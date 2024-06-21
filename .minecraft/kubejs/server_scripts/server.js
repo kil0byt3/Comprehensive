@@ -70,6 +70,8 @@ event.remove({ output: 'onlyhammersandexcavators:netherite_excavator' })
 event.remove({ output: 'onlyhammersandexcavators:lapis_excavator' })
 event.remove({ output: 'onlyhammersandexcavators:emerald_excavator' })
 event.remove({ output: 'onlyhammersandexcavators:redstone_excavator' })
+event.remove({ output: 'extraalchemy:empty_ring' })
+event.remove({ output: 'extraalchemy:potion_ring' })
 
 // General small fixes for compat
 

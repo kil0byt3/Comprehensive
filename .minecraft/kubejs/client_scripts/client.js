@@ -110,4 +110,6 @@ REIEvents.hide('item', event => {
     event.hide('sophisticatedbackpacks:stack_upgrade_tier_4' )
     event.hide('vinery:apple_bag' )
     event.hide('naturalist:cooked_egg' )
+    event.hide('extraalchemy:empty_ring' )
+    event.hide('extraalchemy:potion_ring' )
 } )

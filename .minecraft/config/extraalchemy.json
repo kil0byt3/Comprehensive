@@ -1,7 +1,7 @@
 {
   "learningIncreasesExpOrbValue": true,
   "enableVials": true,
-  "enableRings": true,
+  "enableRings": false,
   "enableBrewingStandFire": true,
   "brewingStandHeatIncrementDelay": 2,
   "brewingStandFireMaxCapacity": 20,
@@ -15,7 +15,7 @@
     "fuse": true,
     "recall": true,
     "sails": true,
-    "returning": true,
+    "returning": false,
     "learning": true,
     "concentration": true,
     "gravity": true,

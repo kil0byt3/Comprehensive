@@ -333,7 +333,32 @@
 					"betterend:alloying_fuel",
 					"betterend:alloying",
 					"betterend:infusion",
-					"betterend:smithing"
+					"betterend:smithing",
+					"spectrum:pedestal_crafting",
+					"spectrum:anvil_crushing",
+					"spectrum:fusion_shrine",
+					"spectrum:natures_staff_conversions",
+					"spectrum:enchanter",
+					"spectrum:enchantment_upgrade",
+					"spectrum:potion_workshop_brewing",
+					"spectrum:potion_workshop_crafting",
+					"spectrum:potion_workshop_reacting",
+					"spectrum:spirit_instiller",
+					"spectrum:mud_converting",
+					"spectrum:liquid_crystal_converting",
+					"spectrum:midnight_solution_converting",
+					"spectrum:dragonrot_converting",
+					"spectrum:heating",
+					"spectrum:freezing",
+					"spectrum:ink_converting",
+					"spectrum:crystallarieum",
+					"spectrum:cinderhearth",
+					"spectrum:titration_barrel",
+					"roughlyenoughresources:deeper_down_worldgen_category",
+					"rootsclassic:mortar",
+					"rootsclassic:ritual",
+					"nethersdelight:plugin/composition",
+					"gearifiers:rerolling"
 				],
 				"hiddenCategories": [
 					"minecraft:plugins/tag"
@@ -345,7 +370,8 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
 			]
 		}
 	},
