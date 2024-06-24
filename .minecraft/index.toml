@@ -549,14 +549,6 @@ file = "config/darkmodeeverywhereshaders.json"
 hash = "dca1711b8ec98cc3cff3ca17e0dda5a2cfb89ce3ee55d0faf60e1ffed17f4601"
 
 [[files]]
-file = "config/deathcounter/deathcounter-client.conf"
-hash = "69fbfc755d36aa478b59a39457dda59e3437b9b8abb8ebe9e6672ada880ec31c"
-
-[[files]]
-file = "config/deathcounter/deathcounter.conf"
-hash = "d8ddb403f145c91f73b3b30c498056274500b59579f03e3bc641b75704bad54e"
-
-[[files]]
 file = "config/debugify-descriptions.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -2593,10 +2585,6 @@ file = "mods/DarkUtilities-Fabric-1.20.1-17.0.3.jar"
 hash = "3ba3c24a2bbd1614a179f35797553495ce9bbca2e8d16ed82206be4dba82491f"
 
 [[files]]
-file = "mods/DeathCounter-1.20.1-Fabric-1.3.0.jar"
-hash = "15c83c6ef2d555383013e619be80c0f2a73b477387d71f8b6a77ea6078235437"
-
-[[files]]
 file = "mods/DeathKnell-Fabric-1.20.1-10.0.4.jar"
 hash = "61d15ddbb93a34752eb71b206051218d167a764351c92d7ae2479a5c78930a94"
 
@@ -3263,10 +3251,6 @@ hash = "50c4a6ee3a79c7d3cb755c0105de8b7af29f813ede872e33ba3cd4c32c5e9c56"
 [[files]]
 file = "mods/comforts-fabric-6.3.5+1.20.1.jar"
 hash = "be51b88b75c63b1123086b5f675a683984d504e01df3d9681da15c3187689ebf"
-
-[[files]]
-file = "mods/completeconfig-2.5.0.jar"
-hash = "311c3489d1db92d1a299b0ec90ea1c47b3add8242547aa5a0c6eec2a20e40bf3"
 
 [[files]]
 file = "mods/compressed_blocks-1.0.0.jar"
