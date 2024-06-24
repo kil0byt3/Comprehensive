@@ -5,7 +5,7 @@
     "#forge:raw_materials:16",
     "#c:ores:16",
     "#c:raw_ores:16",
-	"#c:potions:1"
+    "#c:potions:1"
   ],
   "fontOverride": true,
   "itemCountScaleInt": 25

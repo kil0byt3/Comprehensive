@@ -325,6 +325,10 @@ file = "config/brokenleadwarner.json"
 hash = "4f8f39de2d9e1dd5b306e21b87216552a1850f9897e019b08f11524040b31f1b"
 
 [[files]]
+file = "config/brutalbosses.json"
+hash = "b91240c0be7406ff529efa09a7e83ced36f1c46a69a4dfe6686841183b2f76b0"
+
+[[files]]
 file = "config/bwncr.toml"
 hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
 
@@ -533,12 +537,24 @@ file = "config/cryingghasts.json5"
 hash = "e3ec9d521f6afd9b205c8ffb6061d68d7a3a387b8db34ff111d7041f5b30b165"
 
 [[files]]
+file = "config/cupboard.json"
+hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
+
+[[files]]
 file = "config/darkmodeeverywhere-client.toml"
 hash = "5fdd2441d5e2cfac24ac26c7b9d2d4b44e098e52111b3f72bfcbddcc5bd4a4cf"
 
 [[files]]
 file = "config/darkmodeeverywhereshaders.json"
 hash = "dca1711b8ec98cc3cff3ca17e0dda5a2cfb89ce3ee55d0faf60e1ffed17f4601"
+
+[[files]]
+file = "config/deathcounter/deathcounter-client.conf"
+hash = "69fbfc755d36aa478b59a39457dda59e3437b9b8abb8ebe9e6672ada880ec31c"
+
+[[files]]
+file = "config/deathcounter/deathcounter.conf"
+hash = "d8ddb403f145c91f73b3b30c498056274500b59579f03e3bc641b75704bad54e"
 
 [[files]]
 file = "config/debugify-descriptions.json"
@@ -579,6 +595,10 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 [[files]]
 file = "config/dramaticdoors-common.toml"
 hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
+
+[[files]]
+file = "config/dsbg-server.toml"
+hash = "ffd4da885f218a552262b1e458120688860972d5d52c29aca62d13a9fc635fc6"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
@@ -1657,6 +1677,10 @@ file = "config/numismatic-overhaul.json5"
 hash = "dbec612781926fb59978646976b41432d8ec7eaf1c094979439fb65dd0b1146a"
 
 [[files]]
+file = "config/online_detector.json5"
+hash = "d529dfdecd4f3e813575e7342dc7103e7bab96c8c6e14cb7c882be0638012ef5"
+
+[[files]]
 file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
@@ -2130,7 +2154,7 @@ hash = "0a4cf6463e3750510309b76e4d848f2cdaa43b5687b764af09667c9ce817367e"
 
 [[files]]
 file = "config/stacksizeedit.json"
-hash = "146abbe42737cdb160b4a4450beb3562bd2bfeeb74122a4601da871f2042fa2b"
+hash = "7ed858306fabad61845f6ee2e3876093dc4c6a892f697c2f79cdff40d862794d"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -2569,6 +2593,14 @@ file = "mods/DarkUtilities-Fabric-1.20.1-17.0.3.jar"
 hash = "3ba3c24a2bbd1614a179f35797553495ce9bbca2e8d16ed82206be4dba82491f"
 
 [[files]]
+file = "mods/DeathCounter-1.20.1-Fabric-1.3.0.jar"
+hash = "15c83c6ef2d555383013e619be80c0f2a73b477387d71f8b6a77ea6078235437"
+
+[[files]]
+file = "mods/DeathKnell-Fabric-1.20.1-10.0.4.jar"
+hash = "61d15ddbb93a34752eb71b206051218d167a764351c92d7ae2479a5c78930a94"
+
+[[files]]
 file = "mods/Debugify-1.20.1+2.0.jar"
 hash = "c61b78a7609c989578e98837047bc026d32654a0ad55f9118bb35f295536949d"
 
@@ -2583,10 +2615,6 @@ hash = "bc489eecfe7a1d3d4bf5e90b89af28d354352e7238a2d220c714d56ace1027df"
 [[files]]
 file = "mods/DiagonalWalls-v8.0.3-1.20.1-Fabric.jar"
 hash = "898986e152da000e5653e743233032aa03997ff2567450bbfb23c7b0f159aef0"
-
-[[files]]
-file = "mods/DiagonalWindows-v8.1.4-1.20.1-Fabric.jar"
-hash = "26254ffd989dbc9e30c65c99cee7aad6b969160aaa1be1cba3402b815dba2104"
 
 [[files]]
 file = "mods/DistantHorizons-2.1.0-a-1.20.1.jar"
@@ -3145,6 +3173,10 @@ file = "mods/brokenleadwarner-1.1.1+1.20.x.jar"
 hash = "e847e4943f1e4c0a1951016998891dd769b415bfc6fc83db353c7e0e9f02d19b"
 
 [[files]]
+file = "mods/brutalbosses-fabric-1.20.1-7.0.jar"
+hash = "640856de4daa1f0a2742c5934acd0798f0416a1859e31719a994fe1ff3af5f61"
+
+[[files]]
 file = "mods/bwncr-fabric-1.20.1-3.17.0.jar"
 hash = "b9e988c1eaec888e51246530747908f47bc1193f74bf5a89ea86d1377a5793fd"
 
@@ -3231,6 +3263,10 @@ hash = "50c4a6ee3a79c7d3cb755c0105de8b7af29f813ede872e33ba3cd4c32c5e9c56"
 [[files]]
 file = "mods/comforts-fabric-6.3.5+1.20.1.jar"
 hash = "be51b88b75c63b1123086b5f675a683984d504e01df3d9681da15c3187689ebf"
+
+[[files]]
+file = "mods/completeconfig-2.5.0.jar"
+hash = "311c3489d1db92d1a299b0ec90ea1c47b3add8242547aa5a0c6eec2a20e40bf3"
 
 [[files]]
 file = "mods/compressed_blocks-1.0.0.jar"
@@ -3367,6 +3403,10 @@ hash = "da010337deba2c9bb12df161801c8644c9c8bd3196c5537cbcca500ed49a9e3a"
 [[files]]
 file = "mods/cubes-without-borders-1.1.0+1.20.jar"
 hash = "4339319aeccdc44cb7fded0c85875ee22cb1869aa736845c6a7289b92edb453a"
+
+[[files]]
+file = "mods/cupboard-fabric-1.20.1-2.6.jar"
+hash = "6c94006113e55988b0d06e01089097e776fceb786d17a3d31b7c581dd6d93e71"
 
 [[files]]
 file = "mods/dahmersdelight-1.0.2.jar"
@@ -3951,6 +3991,10 @@ hash = "465fc520f1e0b5eb3b5d0c1f545e9165de6e34ed1009a14d122fa5205e7cf23c"
 [[files]]
 file = "mods/oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
 hash = "c87de6e5cd772c65d5f79e8b8fcbe04e6bad0e29b5caffde1141c59e9fde2754"
+
+[[files]]
+file = "mods/online_detector-1.20-6.0.0.jar"
+hash = "387d3f8802ed6663053dde1fec9096b29e9de1e33702805fdbeab9c7bafdda07"
 
 [[files]]
 file = "mods/optigui-2.1.7.jar"

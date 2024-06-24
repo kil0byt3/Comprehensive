@@ -1,0 +1,15 @@
+{
+	"ODCommonConfig": {
+		/* How often the Online Detector Block should check if the assigned player is online,
+		   this value is measured in ticks (20 ticks are 1 second), it is not recommended to
+		   set this value bellow 20
+		*/
+		"onlineCheckFrequency": 100
+	},
+	"ODClientConfig": {
+		// Whether or not there should be Redstone particles while the Online Detector Block is active.
+		"shouldShowRedstoneParticles": true,
+		// Whether or not there should be Portal particles while the Online Detector Block is active.
+		"shouldShowPortalParticles": true
+	}
+}
