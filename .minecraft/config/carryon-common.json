@@ -186,7 +186,8 @@
       "railways:*",
       "sliceanddice:*",
       "createoreexcavation:*",
-      "rootsclassic:*"
+      "rootsclassic:*",
+      "table_top_craft:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [

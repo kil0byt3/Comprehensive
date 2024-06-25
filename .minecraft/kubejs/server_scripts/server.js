@@ -145,6 +145,15 @@ event.shaped('constructionwand:infinity_wand', [
 }
 )
 
+event.shaped('minecraft:furnace', [
+  'AAA', 
+  'A A',
+  'AAA'
+], {
+  A: 'minecraft:cobblestone'
+} 
+)
+
 // Create Trains earlier/worse recipe
 
 event.shaped('create:railway_casing', [
