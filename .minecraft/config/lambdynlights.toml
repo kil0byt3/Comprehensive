@@ -347,3 +347,6 @@ mode = "fancy"
 			[light_sources.settings.entities.shield_overhaul]
 				shield_bash_entity = true
 
+			[light_sources.settings.entities.createdieselgenerators]
+				chemical_sprayer_projectile = true
+

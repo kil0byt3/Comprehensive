@@ -89,6 +89,9 @@ key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift:NONE
 key_key.exposure.camera_controls:key.keyboard.unknown:NONE
+key_key.extraalchemy.magnetism_toggle:key.keyboard.n:NONE
+key_key.extraalchemy.potion_bag_mode:key.keyboard.k:NONE
+key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.y:NONE
 key_key.fabricskyboxes.toggle:key.keyboard.unknown:NONE
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12:NONE
 key_fakerlib.toggleWings:key.keyboard.keypad.8:NONE
@@ -117,6 +120,9 @@ key_key.immersive_aircraft.multi_control_push:key.keyboard.w:NONE
 key_key.immersive_aircraft.multi_use:key.mouse.right:NONE
 key_key.immersive_aircraft.dismount:key.keyboard.r:NONE
 key_key.immersive_aircraft.boost:key.keyboard.b:NONE
+key_key.indypets.interact:key.keyboard.h:NONE
+key_key.indypets.whistle:key.keyboard.j:NONE
+key_key.indypets.unwhistle:key.keyboard.j:NONE
 key_key.inventorysorter.sort:key.mouse.middle:NONE
 key_key.isometric-renders.area_select:key.keyboard.unknown:NONE
 key_key.itemfavorites.favorite_item:key.keyboard.left.alt:NONE
