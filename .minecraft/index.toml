@@ -342,7 +342,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "993ee3a5563476854ac5220f5feb758080d27f547386f09bae3d7e09098fa9fb"
+hash = "350b163ad881198c36b24ab824ae662ae8432e15aca528d82dce811a7e040777"
 
 [[files]]
 file = "config/cccbridge.properties"
@@ -1357,6 +1357,10 @@ file = "config/indium-renderer.properties"
 hash = "f0cbbbb7c74fd7422efd8e047439351c4af78dd9fb0edb7c07906bcf29326a39"
 
 [[files]]
+file = "config/indypets.json"
+hash = "81fda09bcda23399afb3e5d094070f4ba1702d537cb8228cd201e868ab359cab"
+
+[[files]]
 file = "config/infinity-buttons-config.json5"
 hash = "a9f9e52d09c6c28871dfa9f8e3f165741bd7f4c634ba11ae0ffabf894310f696"
 
@@ -1378,7 +1382,7 @@ hash = "02063610a0145943b4bc3fb580074bd44618615aba4565b704a1ecb5d240ae24"
 
 [[files]]
 file = "config/iris.properties"
-hash = "5cc12bfa95de91a44770f37f977cfcc06014a331e75df52879de0aaf430e9d44"
+hash = "2d0666f03a6cb450fdb73dbf12304029c9bc6b345475cb492a6b861772f539eb"
 
 [[files]]
 file = "config/ironchests/chests/barrels/copper.json"
@@ -1834,7 +1838,7 @@ hash = "7c0fc29501e25e68a5cc9c9ae55b9d709d74184ade60dbfda5568c1ec4989059"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
-hash = "4e21a268916b1804deb3d9b4e2e1363272a2470f183dc54809572cfc16acde86"
+hash = "4c12ddae28c0d48e76c42b58065f56433d38b23f0ffc3909f276ef3f17f6d589"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -2458,7 +2462,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "a0c2b1d1d2de1e87225c50d0c8f53594137f2898417a0b05bbac9fa4fb0be979"
+hash = "95388e0a7c606ee3a6a410eb4ed702208ab0efe01897b6dc131e84f6b7041149"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
@@ -4297,6 +4301,10 @@ file = "mods/sushi_bar-0.1.1.jar"
 hash = "90aaab6405a02f76afa4b29ed05084f71095ff461679420753c4ef7497032aef"
 
 [[files]]
+file = "mods/table_top_craft-1.20.1-5.0.2.jar"
+hash = "9576c23d877521e0a5ef548dd4e138f8fcbb37cb6c78312cb44897b78009688d"
+
+[[files]]
 file = "mods/tcdcommons-3.9.7+fabric-1.20.1.jar"
 hash = "7ce18a626718ffd048e823e610238ccd5ec3a97510898fbffef04cb4ec47a582"
 
@@ -4442,7 +4450,7 @@ hash = "9f9b1671c18336557fcb3bd7dd3cf1a1004f39473bf97bdd88296a0aa8c13e10"
 
 [[files]]
 file = "resourcepacks/Comprehensified.zip"
-hash = "d87fb72fb9a7a24456a143c880db7c79df58f16e668c534761539cb6b7e89fd7"
+hash = "7cb75cceca4a28b36c2c0702d55bc82d432f2afa22f68e1761733950d36f6723"
 
 [[files]]
 file = "resourcepacks/Furnish Door Knock Silencer.zip"
@@ -4457,12 +4465,12 @@ file = "rhino.local.properties"
 hash = "092f73309cc1ef8e5b82e4553e0b3cf9b36a415eb483f8bee1e6723e7c84f690"
 
 [[files]]
-file = "shaderpacks/Bliss.zip"
-hash = "20c31e16876fb3d8d3a01ba39b288a356fb4cc230fa19eaf316c92e2d1b3e042"
+file = "shaderpacks/ComplementaryReimagined.zip"
+hash = "3eeefb1c7a3bfba61a03f1fbe79eab4d44b375450254ace147877896c7b1765f"
 
 [[files]]
-file = "shaderpacks/Bliss.zip.txt"
-hash = "e607cc0abae24e921e6a28585898c5b8f52c5c4081070820cf4742f25b988eac"
+file = "shaderpacks/ComplementaryReimagined.zip.txt"
+hash = "e10e7a60b3d5c9fa2715200e024b8dca911fcc396e907581704514e3c265cc0f"
 
 [[files]]
 file = "vinurl/client_downloads/d4ce8bec2d1f31448ddf998339ca488f814b74bed7c160cf0fc9ba7fc2343f36.ogg"
