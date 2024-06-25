@@ -1,5 +1,5 @@
 ignoreUpdate:0
-updateNotification:true
+updateNotification:false
 allowInternetAccess:true
 differentiateByServerAddress:true
 caveMapsAllowed:true
@@ -11,7 +11,7 @@ updateChunks:true
 terrainSlopes:2
 terrainDepth:true
 footsteps:true
-flowers:true
+flowers:false
 coordinates:true
 hoveredBiome:true
 biomeColorsVanillaMode:false
@@ -22,7 +22,7 @@ worldmapWaypointsScale:1.0
 openMapAnimation:true
 reloadVersion:0
 reloadEverything:false
-zoomButtons:true
+zoomButtons:false
 waypointBackgrounds:true
 detectAmbiguousY:true
 showDisabledWaypoints:false
@@ -37,11 +37,11 @@ partialYTeleportation:true
 displayStainedGlass:true
 caveModeDepth:30
 caveModeStart:2147483647
-autoCaveMode:-1
+autoCaveMode:0
 legibleCaveMaps:false
 displayCaveModeStart:true
 caveModeToggleTimer:1000
-defaultCaveModeType:1
+defaultCaveModeType:0
 biomeBlending:true
 trackedPlayers:true
 multipleImagesExport:false
