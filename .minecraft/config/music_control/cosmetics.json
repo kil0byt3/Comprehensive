@@ -1,0 +1,13 @@
+{
+  "display": {
+    "atMusicStart": true,
+    "remainingSeconds": false,
+    "type": "JUKEBOX"
+  },
+  "gui": {
+    "height": 150,
+    "width": 320,
+    "scrollSpeed": "NORMAL",
+    "filterOperator": "AND"
+  }
+}

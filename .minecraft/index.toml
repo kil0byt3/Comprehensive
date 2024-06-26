@@ -361,10 +361,6 @@ file = "config/chat_heads.json5"
 hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
 
 [[files]]
-file = "config/chatpatches.json"
-hash = "1016a07945fa8c601981f13e262e8e2a84fc45a4555333295085b7db1264d3ea"
-
-[[files]]
 file = "config/chestedcompanions.json"
 hash = "71e44335b0b09b019f22d40645de3b117246463baa05c6d2ee5dee892a02e17a"
 
@@ -419,6 +415,10 @@ hash = "14dc5d1ae3c50ce67cbe52811ab3e3f621ab5e9251e6a7d49f71942c48456f1e"
 [[files]]
 file = "config/comforts-server.toml"
 hash = "7a11ffc02cfa1dc4ae6460dd1c72bb087759d94aa3813b4db46a144ba9293416"
+
+[[files]]
+file = "config/compact-chat.json"
+hash = "4125fcb38fa2cce9793121cbb9bde6c4b988d94b3cde4fd851775f3f23413957"
 
 [[files]]
 file = "config/computercraft-client.toml"
@@ -1633,6 +1633,14 @@ file = "config/moreculling.toml"
 hash = "b0c9dd5618d6de50bc98f066bafc3056ff8559fd30822fd39b9867ac45d2d749"
 
 [[files]]
+file = "config/music_control/cosmetics.json"
+hash = "c4462bfc388323cb97f399a711b3a6c25cc06f956d8bcbebc6a3e466696a59d7"
+
+[[files]]
+file = "config/music_control/general.json"
+hash = "a7dc4d50e47986af63db7f621b0c9353cafa693dca846fb539159b08d3b44d66"
+
+[[files]]
 file = "config/naturalist.json"
 hash = "24e5ae46ed559982b771d246709d855caeeb55e837df1bf131e91fd5b6f3a42f"
 
@@ -1829,6 +1837,10 @@ file = "config/resourceful-config-web.json"
 hash = "13476735445ca517013967a0e82c1e32c88787416d82c6ef8cbb235c4aec4abf"
 
 [[files]]
+file = "config/restorechatlinks-client.toml"
+hash = "38af1469197b2bb089baff657df565aadb7fc475549b89fedb4c4196f4ef49ae"
+
+[[files]]
 file = "config/rootsclassic-client.toml"
 hash = "be82efab0fd16f5a1b0965ec1dcee0573af2452e5c6d6153df84d8b5f5cebe7e"
 
@@ -1838,7 +1850,7 @@ hash = "7c0fc29501e25e68a5cc9c9ae55b9d709d74184ade60dbfda5568c1ec4989059"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
-hash = "4c12ddae28c0d48e76c42b58065f56433d38b23f0ffc3909f276ef3f17f6d589"
+hash = "61b84fb076f0c4f1f6b0c9604ba72f6fced784ad4623a3c5a3930b7eb7a6cd19"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -2354,7 +2366,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+hash = "9ae099ab6f21038a68d5582995b25808fcb6fbd77efeafbb1cfd5d1f5373ef3b"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -2865,6 +2877,10 @@ file = "mods/Quicker Connect Button-fabric-1.20.1-1.0.1.jar"
 hash = "5ab6ef490da82092b0d025e1787470fd1a5f9797f6864eb2041ee6f185b98909"
 
 [[files]]
+file = "mods/RestoreChatLinks-0.2.4+1.19.3.jar"
+hash = "0901552b45a6557c8885d807f347f788cb01b13e1b811263fc2105fb505286cf"
+
+[[files]]
 file = "mods/RoughlyEnoughItems-12.1.725-fabric.jar"
 hash = "dd981b4d90c45b670770d5afeba59f99f97e30e4562914bd08e4dbea6765a2a1"
 
@@ -3233,10 +3249,6 @@ file = "mods/chatanimation-1.0.5.jar"
 hash = "9d63477c783c41501109d9fe278ee8d3157ca7117346386933f46947089d0c31"
 
 [[files]]
-file = "mods/chatpatches-201.5.6.jar"
-hash = "db9a08de54eec18ce67e344cfa831207e20f270b6635bbde1b6f1bd1f2e6111e"
-
-[[files]]
 file = "mods/chestedcompanions-1.3.1-1.20.1-FABRIC.jar"
 hash = "d7164fbe9ce2167f8e2e86aaa1866b737a1ec7fa23e4c10ed7b451f1bdb8aed8"
 
@@ -3275,6 +3287,10 @@ hash = "50c4a6ee3a79c7d3cb755c0105de8b7af29f813ede872e33ba3cd4c32c5e9c56"
 [[files]]
 file = "mods/comforts-fabric-6.3.5+1.20.1.jar"
 hash = "be51b88b75c63b1123086b5f675a683984d504e01df3d9681da15c3187689ebf"
+
+[[files]]
+file = "mods/compact-chat-2.0.2.jar"
+hash = "924b8725a327647d9f35abaf74b3be91e295be36c7cab63c66d8ecb8693eb8a2"
 
 [[files]]
 file = "mods/compressed_blocks-1.0.0.jar"
@@ -3949,6 +3965,10 @@ file = "mods/mru-0.4.2+1.20.1.jar"
 hash = "ac2e15d6f4c9fb3da2fbb8b0e8ec44a459898ae7e00db0039aba0720294518d0"
 
 [[files]]
+file = "mods/music_control-1.8.1+1.20.1.jar"
+hash = "887233c633da6dba9cda182c073cb6e4ca0bfde08d970a3455402faf4c0c11bb"
+
+[[files]]
 file = "mods/naturalist-fabric-4.0.3-1.20.1.jar"
 hash = "a21c21068a46bb7663376b0cce7e7ac9228aac46db2bc5f3d13ab9b44ed3aa92"
 
@@ -3979,10 +3999,6 @@ hash = "090ddbd005105f5f1dd13e3039d51802128cf91a944f75b5b341a3f99a6c5715"
 [[files]]
 file = "mods/notenoughanimations-fabric-1.7.3-mc1.20.1.jar"
 hash = "b3d6a8fc01b99b5931e5352a5671ef5f6e8694e716625a9b718eeadd7bf8a11e"
-
-[[files]]
-file = "mods/now-playing-fabric-1.4.4-blanketcon.jar"
-hash = "f23c0c4a288bc5f865389e9b2cd215446062392c0a30ea576efb1d49ef1dc50c"
 
 [[files]]
 file = "mods/ns-cr-rc-0.0.0.jar"
@@ -4119,10 +4135,6 @@ hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
 [[files]]
 file = "mods/rei-enchantment-info-1.0.0.jar"
 hash = "eda2e8e219e1cac03ae978b00a6fbc136e5e18f0840122b9b7fe29a2b9925479"
-
-[[files]]
-file = "mods/reicollapsibleentries-3.1.0-fabric1.20.jar"
-hash = "66892989293968fc99e4097f5b66a23c397da2d53f8835005b4b19ca5e7fe09f"
 
 [[files]]
 file = "mods/reimagined-trims-1.0.3.jar"
