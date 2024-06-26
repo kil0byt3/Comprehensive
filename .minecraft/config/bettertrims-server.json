@@ -1,11 +1,11 @@
 {
   "quartz_experience_bonus": 0.05,
-  "iron_mining_speed_increase": 0.5,
-  "netherite_fire_resistance": 0.25,
+  "iron_mining_speed_increase": 0.1,
+  "netherite_fire_resistance": 0.1,
   "redstone_movement_speed_increase": 0.1,
   "copper_swim_speed_increase": 0.005,
   "emerald_villager_discount": 0.125,
-  "diamond_damage_reduction": 0.05,
+  "diamond_damage_reduction": 0.02,
   "lapis_enchantability": 30,
   "amethyst_potion_duration_modify_chance": 0.0625,
   "glowstone_potion_amplifier_increase_chance": 0.25,
@@ -16,7 +16,7 @@
   "echo_shard_vibration_distance_reduction": 1.5,
   "gold_effects": {
     "piglins_ignore": true,
-    "pieces_for_piglins_ignore": 1
+    "pieces_for_piglins_ignore": 3
   },
   "prismarine_shard_effects": {
     "guardians_ignore": true,
@@ -74,19 +74,19 @@
   "enable_diamond": true,
   "enable_lapis": true,
   "enable_amethyst": true,
-  "enable_coal": true,
-  "enable_dragons_breath": true,
-  "enable_chorus_fruit": true,
-  "enable_echo_shard": true,
-  "enable_ender_pearl": true,
-  "enable_fire_charge": true,
-  "enable_glowstone_dust": true,
-  "enable_leather": true,
-  "enable_nether_brick": true,
-  "enable_prismarine_shard": true,
-  "enable_rabbit_hide": true,
-  "enable_slime_ball": true,
-  "enable_enchanted_golden_apple": true,
-  "enable_silver": true,
-  "enable_platinum": true
+  "enable_coal": false,
+  "enable_dragons_breath": false,
+  "enable_chorus_fruit": false,
+  "enable_echo_shard": false,
+  "enable_ender_pearl": false,
+  "enable_fire_charge": false,
+  "enable_glowstone_dust": false,
+  "enable_leather": false,
+  "enable_nether_brick": false,
+  "enable_prismarine_shard": false,
+  "enable_rabbit_hide": false,
+  "enable_slime_ball": false,
+  "enable_enchanted_golden_apple": false,
+  "enable_silver": false,
+  "enable_platinum": false
 }

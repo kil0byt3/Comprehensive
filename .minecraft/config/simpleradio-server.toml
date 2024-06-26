@@ -1,19 +1,19 @@
 [transceiver]
-	maxAMDistance = 750
 	maxFMDistance = 550
 	falloffFM = 500
+	maxAMDistance = 750
 	falloffAM = 700
 [transmitter]
-	maxAMDistance = 2200
 	maxFMDistance = 1100
 	falloffFM = 1000
+	maxAMDistance = 2200
 	falloffAM = 2000
 [radio]
 	range = 24
 [frequency]
-	crossDimensional = false
+	wholePlaces = 3
 	decimalPlaces = 2
 	defaultFrequency = "auto-generate"
-	packetBuffer = 2
+	crossDimensional = false
 	dimensionalInterference = 10
-	wholePlaces = 3
+	packetBuffer = 2
