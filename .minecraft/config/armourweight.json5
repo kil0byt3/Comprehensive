@@ -1,0 +1,22 @@
+{
+	// Show Bar?
+	"weightbar": true,
+	// Weight Marker 1 point
+	"Marker1": 3.0,
+	// Weight Marker 2 point
+	"Marker2": 7.0,
+	// Weight Marker 3 point
+	"Markerfinal": 9.0,
+	// Marker effects, 1 = slowness, 2 = slowness + resistance, 3 = slowness + resistance + strength.
+	"Marker1effects": 1.0,
+	// Marker effects, 1 = slowness, 2 = slowness + resistance, 3 = slowness + resistance + strength.
+	"Marker2effects": 2.0,
+	// Marker effects, 1 = slowness, 2 = slowness + resistance, 3 = slowness + resistance + strength.
+	"markerFinaleffects": 3.0,
+	// Marker slowness amplifier 1
+	"Marker1Amp": 0.0,
+	// Marker slowness amplifier
+	"Marker2Amp": 1.0,
+	// Marker slowness amplifier
+	"markerFinalAmp": 2.0
+}
