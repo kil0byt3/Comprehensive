@@ -350,3 +350,6 @@ mode = "fancy"
 			[light_sources.settings.entities.createdieselgenerators]
 				chemical_sprayer_projectile = true
 
+			[light_sources.settings.entities.malum]
+				natural_spirit = true
+

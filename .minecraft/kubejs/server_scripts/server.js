@@ -153,6 +153,7 @@ event.remove({ output: 'onlyhammersandexcavators:emerald_excavator' })
 event.remove({ output: 'onlyhammersandexcavators:redstone_excavator' })
 event.remove({ output: 'extraalchemy:empty_ring' })
 event.remove({ output: 'extraalchemy:potion_ring' })
+event.remove({ output: 'malum:copper_nugget' })
 
 // General small fixes for compat
 

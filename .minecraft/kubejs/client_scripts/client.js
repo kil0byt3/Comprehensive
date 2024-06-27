@@ -112,4 +112,5 @@ REIEvents.hide('item', event => {
     event.hide('naturalist:cooked_egg' )
     event.hide('extraalchemy:empty_ring' )
     event.hide('extraalchemy:potion_ring' )
+    event.hide('malum:copper_nugget' )
 } )

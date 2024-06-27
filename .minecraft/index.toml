@@ -541,14 +541,6 @@ file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
-file = "config/darkmodeeverywhere-client.toml"
-hash = "5fdd2441d5e2cfac24ac26c7b9d2d4b44e098e52111b3f72bfcbddcc5bd4a4cf"
-
-[[files]]
-file = "config/darkmodeeverywhereshaders.json"
-hash = "dca1711b8ec98cc3cff3ca17e0dda5a2cfb89ce3ee55d0faf60e1ffed17f4601"
-
-[[files]]
 file = "config/debugify-descriptions.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -1550,7 +1542,7 @@ hash = "bd4b88a98aec1426b6c79c43ddf6438c7d58569d0d43d42ff0d9d24a7195acae"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "3d70b9edf8fe78e106995d2e9993f3134735c8e10e94c8203327be00ad9a7a68"
+hash = "cb9286ac677d57fa0cbaae6fab551f3a80903affc0511a195430d614970f906a"
 
 [[files]]
 file = "config/leahs-immersive-thunder.toml"
@@ -2450,7 +2442,7 @@ hash = "04352235526c5867bb861bff94bd6de687eaa9cf516f6da0f0c323308801fba8"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "583c2a5e059b24e405833d6e9750400c62fdfb2fda7f15b9e1cb6a569d0b4607"
+hash = "b50abfb06241036bb9492b3823d34b586a8679017f0f10759374f55012779f9b"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2498,7 +2490,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "52474fbbca5d43ef91f7fc83d010d679855edfde0bda2f7b7511cc3e05542384"
+hash = "f762973228cb98a5c1feb31d0f1c969697a6576445c8472ab7a50dbd53ab993c"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
@@ -2607,10 +2599,6 @@ hash = "a95be3950bb3f6dece0c056177d8233bccb4405c97cc006ae443026d4e227681"
 [[files]]
 file = "mods/Crystal-Clear-2.1-Beta-fabric.jar"
 hash = "5123cfdf67d74d29f88bd409bd8d7fd2b828f62654038860cf0138b62ca12f5f"
-
-[[files]]
-file = "mods/DarkModeEverywhere-1.20.1-1.2.2.jar"
-hash = "dc91675e4886955425ead7d702802092e0e0292111c78a67dbb378ff6266cf99"
 
 [[files]]
 file = "mods/DarkPaintings-Fabric-1.20.1-17.0.4.jar"
@@ -4498,7 +4486,7 @@ hash = "9f9b1671c18336557fcb3bd7dd3cf1a1004f39473bf97bdd88296a0aa8c13e10"
 
 [[files]]
 file = "resourcepacks/Comprehensified.zip"
-hash = "7cb75cceca4a28b36c2c0702d55bc82d432f2afa22f68e1761733950d36f6723"
+hash = "fe3257a18a25de0aa1b2dec410404da18b8de89dae143d0db80edb2de28e33f5"
 
 [[files]]
 file = "resourcepacks/Furnish Door Knock Silencer.zip"
