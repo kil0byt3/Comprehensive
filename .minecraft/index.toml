@@ -70,7 +70,7 @@ hash = "320e0fc1914b7d05a550207449dfc99ce3d88cdddb376ba1828d2a10b5d1f9e0"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "532f9325d3490b6cf808174a7f4814e2f86aeed168dc739a31a58387c025a127"
+hash = "587d6d37f6f29ea51f2b94a2349315166ef684c1ec675f0ad89fe580f33328e1"
 
 [[files]]
 file = "config/TrueDarknessFork.json5"
@@ -158,7 +158,7 @@ hash = "033b7e7c6f52be8317a31d9608c4e48492abea06346580a5395887cd68a66458"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "926c5455cca67482c8268b7e0639d708780787cebdc06813811241ee1456fd66"
+hash = "93e8aac0092b713d81c3e6f2a4aef98e17c20f631f74b93c1d40aa7a3efd74de"
 
 [[files]]
 file = "config/authme.json5"
@@ -290,11 +290,11 @@ hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
 
 [[files]]
 file = "config/bettertrims-server.json"
-hash = "710d10caf9e52277534c2ef35c76c12b0aafe80673f4a02a8c84383adc3a7551"
+hash = "9255c5b6e0e9ea543b3e2095a8c3158512a1aee5014d1c3338cbbeccecd28ad7"
 
 [[files]]
 file = "config/bettertrims.json"
-hash = "1b47c11beece3a9e2adfcc0691a089786d92a79e80cec78a64c6c6013e964f28"
+hash = "9255c5b6e0e9ea543b3e2095a8c3158512a1aee5014d1c3338cbbeccecd28ad7"
 
 [[files]]
 file = "config/blockrunner-client.toml"
@@ -1346,7 +1346,7 @@ hash = "1d200eb94b7b78d2285c8314b45d7f1c82a9ade5f37fa20250e8e56848949b20"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "2c26bdb40d2013c212f0fbdb05b7e87c5774a5dfeca1259806dae42de463c5eb"
+hash = "5637558e8a5ea13a481a7612c025e436e1fb71a0ec64f53088f13a26f96eca9d"
 
 [[files]]
 file = "config/immersive_aircraft.json"
@@ -1478,7 +1478,7 @@ hash = "57e5308e115e1338a3603ea153a591ac917e5802625407a94284576d73774f11"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5c4297f3c470d784a36ec467717b8e15899207ec332ee1984ea6cc72bdd1dab1"
+hash = "da52e3a9dc428caae556faccb999f11e1e5d0d04c777e83a9cbc324ce3fdf90c"
 
 [[files]]
 file = "config/items_displayed_config.properties"
@@ -1577,6 +1577,10 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
+file = "config/lodestone-client.toml"
+hash = "60b064c7a579dc31a472b2dd6eebb211e090310cf7a24a962a123db948ad24d7"
+
+[[files]]
 file = "config/logbegone.toml"
 hash = "f5c9519cf68b01a770080dd72a778c2f330acc2e7516c2d5fff13aff48dd850b"
 
@@ -1587,6 +1591,14 @@ hash = "3903323b855dffa7da1ae5affee8ce6ba96ab11d342cdf10852269039343805b"
 [[files]]
 file = "config/magna.json"
 hash = "6749b1d63e487d30f5ef70f945edbd36643353bf5c38081443593d8e702d66ed"
+
+[[files]]
+file = "config/malum-client.toml"
+hash = "5fd693ada8ecdf987ad795909c0cb1893b48bdf9f38cff3600b2d0cc8bd59e62"
+
+[[files]]
+file = "config/malum-common.toml"
+hash = "cb5fc751689282d5ef6c63dc0b05cb10ba7049199dc721edfb813dfe40640458"
 
 [[files]]
 file = "config/measurements.toml"
@@ -1850,7 +1862,7 @@ hash = "7c0fc29501e25e68a5cc9c9ae55b9d709d74184ade60dbfda5568c1ec4989059"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
-hash = "61b84fb076f0c4f1f6b0c9604ba72f6fced784ad4623a3c5a3930b7eb7a6cd19"
+hash = "fd9f49654d691fc5b6af85faff73ca8aacdf443ee318cbf955fcba74168627ff"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -1998,7 +2010,7 @@ hash = "9b9d0e609acafcd55c471e333d0805e95447e850c61d88aacd7e07f0cd8b2efa"
 
 [[files]]
 file = "config/simpleradio-server.toml"
-hash = "0b43c413999bb7fcee254a77e080c691a0f24f64595a182fe55835642abc6dcc"
+hash = "130e76b10ca68f5f12fa0b7275f8913a6236b0c7e0e1b970b67d29463b07ffd6"
 
 [[files]]
 file = "config/simplyswords_extra/backupconfig.json"
@@ -2106,15 +2118,15 @@ hash = "a71ebe6119d672a7c8cf6eceb0eacd613fc068f409bb7dcf6f1fff2e6f490b48"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "a80aa3411c182271ceaaa3df4b1cd8b84cfc4e1778c18f9ea48623dd8b36d363"
+hash = "3ff09fabc8f03d3e6b55724d6801477a74cec5f93c5ed0a63cd5e2937817b197"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "255591727e0ed9b4e436546388398d4f9ee0f4f1876873dd7000ac3349d2792b"
+hash = "6fd947ee9d4e6266faa21c1502b01c128b19c230bbdee39baa3fa3f498feed15"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "cbd892e47d9edd1c1e124f2f5e981633d2e751e61a0e0fba4ecadb2fe2c07a1e"
+hash = "1fd4edcdafd49122a8633fded58ade5447c35d52034c2cbd899d8ee0deffee14"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -2354,11 +2366,11 @@ hash = "b297a73c318f37ac205cb77ef3b2ce2db2474cec2eaf2200b53a779e23439ba5"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "43605a70188b3b9b92e120dddcce8c24c7bf8e1d2a92f6218f195e8176d4817a"
+hash = "b731636a6ce5525b75b4c61c9abca5a9ea1a2869a37524213f55720c98be5fd6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3cb32ea35ec34445a72458e2db37a5049ecd0c4aa448a46ff03c846507a30edd"
+hash = "255c8f568b1029910c7f22e4dc0c0f173423eb00479733130464a49fc63a5846"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2486,15 +2498,11 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "95388e0a7c606ee3a6a410eb4ed702208ab0efe01897b6dc131e84f6b7041149"
+hash = "52474fbbca5d43ef91f7fc83d010d679855edfde0bda2f7b7511cc3e05542384"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
 hash = "f370437bada0709607ee883409ba27320824d83e8dc853bd2b03e1c580da2219"
-
-[[files]]
-file = "mods/1.7.11-1.20.1.jar"
-hash = "1b2fee2d428c979655d1195a3f21a3c274d7b12297804ad2993ad40b46ae8ed4"
 
 [[files]]
 file = "mods/ACE_mc1.20.6-3.1.1.jar"
@@ -3901,6 +3909,10 @@ file = "mods/make_bubbles_pop-0.2.0-fabric-mc1.19.4+.jar"
 hash = "b1e82615bf4b24e08bd3f4bb51884fa6c973f76cf4c71cadf4f4444044989b4c"
 
 [[files]]
+file = "mods/malum-1.20.1-1.6.1.0c-fabric.jar"
+hash = "a3cda2c0324d1562ad71ce5a983a4133a2e8e507f1cefb6a0405e0698c2952ea"
+
+[[files]]
 file = "mods/mcw-bridges-3.0.0-mc1.20.1fabric.jar"
 hash = "7a1480216b58ee60f0ca663b661f196f3c7626928675240348d486abd4a446f0"
 
@@ -4157,8 +4169,8 @@ file = "mods/resourcefullib-fabric-1.20.1-2.1.25.jar"
 hash = "930bee200e98a734ae2efbbd298cdaa02963738941c6e1c64ade50eda6fd860c"
 
 [[files]]
-file = "mods/revelationary-1.3.7+1.20.1.jar"
-hash = "fb4c8d6f5b51398857a880b7c41e602c739b46cb4f93cb66f6bc3ff1b6c95924"
+file = "mods/revelationary-1.3.8+1.20.1.jar"
+hash = "6f59050f8816e2c92ee6b8021e4a873deb9b195727a90c23057ff8697a26f0ba"
 
 [[files]]
 file = "mods/rhino-fabric-2001.2.2-build.18.jar"
@@ -4267,6 +4279,10 @@ hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
 [[files]]
 file = "mods/sparsestructures-2.1.2.jar"
 hash = "c496b663fa47650a3d99fd0f097f3ba64d4dc5cb0753f5a523dabe982d6c9fed"
+
+[[files]]
+file = "mods/spectrum-deeper-down-1.7.14.jar"
+hash = "36b1b896dbe4b57fbdad4829d63570d1e44ffec76da979e70ceec18b9b5e2ee6"
 
 [[files]]
 file = "mods/specutils-1.0.1.jar"
@@ -4502,7 +4518,7 @@ hash = "3eeefb1c7a3bfba61a03f1fbe79eab4d44b375450254ace147877896c7b1765f"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined.zip.txt"
-hash = "ac0d46bf291ad96fad90df3d89028043910dac779ab29c2667847bed6183f117"
+hash = "2c8bf200929de2a792a51aa55f22d630782e917290b0f4926bed97878f79f09b"
 
 [[files]]
 file = "vinurl/client_downloads/d4ce8bec2d1f31448ddf998339ca488f814b74bed7c160cf0fc9ba7fc2343f36.ogg"
