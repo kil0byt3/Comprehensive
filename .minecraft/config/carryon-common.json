@@ -188,7 +188,7 @@
       "createoreexcavation:*",
       "rootsclassic:*",
       "table_top_craft:*",
-	  "catwalksinc:*"
+      "catwalksinc:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [

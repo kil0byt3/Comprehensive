@@ -1,0 +1,71 @@
+{
+  "dependencies": [
+    "world"
+  ],
+  "tasks": {
+    "teleportation2": {
+      "icon": {
+        "item": {
+          "id": "minecraft:end_portal_frame",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "from": "minecraft:overworld",
+      "to": "minecraft:the_end",
+      "type": "heracles:changed_dimension"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Take back your power."
+    },
+    "description": [
+      "<subtitle id=\"teleportation\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"teleportation2\" quest=\"teleportation\"/>",
+      "<hr/>",
+      "The true end game of transport is transport through the End. ",
+      "",
+      "The End holds infinite resources and power through the form of XP and overpowered items allowing flight and transport through other dimensions - but what about transport through the End itself?",
+      "",
+      "Once you make the journey to the outer islands to start your exploration, what happens when you want to find your way back to a place you've been before? Or quickly get to your Enderman farm? ",
+      "",
+      "...or, /d/what if you could use the End as a quick way to get from anywhere to anywhere? /d/",
+      "",
+      "<hr/>",
+      "",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"teleportation\" quest=\"teleportation\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          150,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "endrem:cursed_eye",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "title": {
+      "translate": "End Game"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED",
+    "unlockNotification": true
+  }
+}
