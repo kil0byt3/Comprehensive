@@ -3225,10 +3225,6 @@ file = "mods/bwncr-fabric-1.20.1-3.17.0.jar"
 hash = "b9e988c1eaec888e51246530747908f47bc1193f74bf5a89ea86d1377a5793fd"
 
 [[files]]
-file = "mods/cardinal-components-api-5.2.2.jar"
-hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
-
-[[files]]
 file = "mods/carryon-fabric-1.20.1-2.1.2.7.jar"
 hash = "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd"
 
