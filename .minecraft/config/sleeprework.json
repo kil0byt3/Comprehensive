@@ -19,7 +19,7 @@
   },
   "player": {
     "min_sleep_level": 1.0,
-    "sleep_timeout": 90000,
+    "sleep_timeout": 99999,
     "wake_up_effects": [
       {
         "ambient": true,
@@ -28,11 +28,11 @@
         "amplifier": 1
       }
     ],
-    "tiredness_increase_per_minute": 0.025,
-    "max_tiredness": 5.0
+    "tiredness_increase_per_minute": 0.0075,
+    "max_tiredness": 1.0
   },
   "phantom": {
-    "tiredness_phantoms": true,
+    "tiredness_phantoms": false,
     "phantom_spawn_tiredness": 3.0,
     "spawn_required_sky_darken": 5,
     "disable_vanilla_phantom_spawner": true

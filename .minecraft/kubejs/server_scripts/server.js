@@ -247,6 +247,24 @@ event.shaped('minecraft:bell', [
 } 
 )
 
+event.remove({ output: 'minecraft:clock' })
+event.shaped('minecraft:clock', [
+  ' A ', 
+  'ABA',
+  ' A '
+], {
+  A: 'minecraft:gold_block',
+  B: 'minecraft:redstone'
+} 
+)
+
+event.shapeless('minecraft:phantom_membrane', ['minecraft:bone', 'minecraft:slime_ball', 'minecraft:rotten_flesh', 'minecraft:feather'])
+
+event.remove({ output: 'more_rpg_classes:hardened_leather' })
+event.shapeless('16x minecraft:leather', ['more_rpg_classes:hardened_leather'])
+event.remove({ output: 'malum:encyclopedia_arcana'})
+event.shapeless('malum:encyclopedia_arcana', ['minecraft:book', 'minecraft:iron_nugget'])
+
 // Create Trains earlier/worse recipe
 
 event.shaped('create:railway_casing', [
@@ -336,7 +354,7 @@ event.shaped('gag:hearthstone', [// arg 1: output
 
 event.remove({ output: 'farmersdelight:safety_net' })
 event.shapeless('farmersdelight:safety_net', ["supplementaries:rope", "supplementaries:rope", "supplementaries:rope", "supplementaries:rope"])
-
+/* 
 event.remove({ output: 'comforts:rope_and_nail' })
 event.shaped('comforts:rope_and_nail', [// arg 1: output
     ' A ', 
@@ -346,7 +364,8 @@ event.shaped('comforts:rope_and_nail', [// arg 1: output
     A: 'supplementaries:rope',  //arg 3: the mapping object
     B: 'minecraft:iron_ingot'
   }
-)
+) 
+*/
 
 event.shapeless('2x brewery:rope', ['supplementaries:rope', 'minecraft:string'] )
 
