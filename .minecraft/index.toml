@@ -1517,14 +1517,6 @@ file = "config/jade/sort-order.json"
 hash = "13626390c610b10ac9e7159f6395805a654d2ab318dd01c4665e7b5099bb215c"
 
 [[files]]
-file = "config/jecalculation/common.json"
-hash = "b4ec636b61d7f9fcc6a2ed11204bee709197486c460420f66ee8aabade4161e4"
-
-[[files]]
-file = "config/jecalculation/record.json"
-hash = "6074ab4ccac3086ed2bbf2542cd1be9b0eeb32901c88c46b9585ef4fb2a4dce7"
-
-[[files]]
 file = "config/jewelry/items_v2.json"
 hash = "9231c9de761d4e56a8fa322572c7a73c70c9dd638839e5ed5dcc55a2760bcc33"
 
@@ -3821,10 +3813,6 @@ file = "mods/jamlib-0.6.1+1.20.x.jar"
 hash = "1deee37cd3f35bcb84b6821544968a54b85905922c97ce3e9df8052068ae68c0"
 
 [[files]]
-file = "mods/jecalculation-fabric-1.20.1-4.0.4.jar"
-hash = "b623f9e25edb73e1b08f7216332c4df9bc8e0799aa9a5767e50f79ad8db5f46d"
-
-[[files]]
 file = "mods/jumpoverfences-1.0-SNAPSHOT.jar"
 hash = "e8b53e1e1e9ad1d1951e3f65dbfcfb11b10ee6871782bd77dcb40fb92c673e64"
 
@@ -4439,6 +4427,10 @@ hash = "6b736b4de41ecf336d9a8e1c9b13713611a81f6c806d1e1660891d797315f35b"
 [[files]]
 file = "mods/twigs-3.1.0-fabric.jar"
 hash = "25ab7e6eff163c799d30dfa27f9c54c3d0828dff8f5af099e69966c48783f33a"
+
+[[files]]
+file = "mods/unloadedactivity-v0.5.4+1.20-1.20.1.jar"
+hash = "c45d8283d656166606febdd1e799619515859a6bec82bf2e443ed22134ff6f27"
 
 [[files]]
 file = "mods/vanillaconfig-1.2.7+1.20.jar"
