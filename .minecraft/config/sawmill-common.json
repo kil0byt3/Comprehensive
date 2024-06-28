@@ -16,6 +16,7 @@
     "special_recipe_costs": {
       "stairs": 1.0
     },
-    "max_discount": 0.35
+    "max_discount": 0.35,
+    "ignore_custom_ingredients": true
   }
 }

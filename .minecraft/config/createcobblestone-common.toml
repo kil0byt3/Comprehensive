@@ -2,6 +2,10 @@
 #Common settings
 [common]
 	#.
+	#Maximum storage of the generators (in items)
+	#Range: > -2147483648
+	maxGeneratorStorage = 256
+	#.
 	#Cobblestone generator stress
 	#stress * rpm = total stress
 	#Range: > -2147483648
@@ -9,7 +13,7 @@
 	#.
 	#Cobblestone generator ratio
 	#Cobblestone/tick = rpm/ratio
-	#Range: > -2147483648
+	#Range: 0.009999999776482582 ~ 3.4028234663852886E38
 	generatorRatio = 8
 
 	#.
