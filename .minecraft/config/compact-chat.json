@@ -1,4 +1,4 @@
 {
-  "onlyCompactConsecutiveMessages": false,
+  "onlyCompactConsecutiveMessages": true,
   "ignoreCommonSeparators": true
 }
