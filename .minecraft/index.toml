@@ -122,7 +122,7 @@ hash = "87d50d9f156405071c6cc7a0ceb2d35982e2c1f316be2e1bb8d44e6f4950da7e"
 
 [[files]]
 file = "config/apocalypse.json"
-hash = "112a3b6c63d01c123912d5a3adc4fad23432af852ad2c001fcac7850530abdd7"
+hash = "ba738efc364ff2009b8e68ea4d66231684c75a224bff9280424603514a223869"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -342,7 +342,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "350b163ad881198c36b24ab824ae662ae8432e15aca528d82dce811a7e040777"
+hash = "3d13d126df59d8319222706136a75c4117b31d26ace742f67646c6b9ef7b6557"
 
 [[files]]
 file = "config/cccbridge.properties"
@@ -418,7 +418,7 @@ hash = "7a11ffc02cfa1dc4ae6460dd1c72bb087759d94aa3813b4db46a144ba9293416"
 
 [[files]]
 file = "config/compact-chat.json"
-hash = "4125fcb38fa2cce9793121cbb9bde6c4b988d94b3cde4fd851775f3f23413957"
+hash = "cf5ed234ff37fbfc4039b549d6950fb5b2bb29db033f0da7b8d393bc8b815888"
 
 [[files]]
 file = "config/computercraft-client.toml"
@@ -839,6 +839,10 @@ hash = "d9f80b0bb33b7706d83eab5a2bf3a28149392c39dba8eb200be16526be6468f2"
 [[files]]
 file = "config/genshinstrument-client.toml"
 hash = "116d093d176396ac34e24c5ef476842cbdcb3d36c7cd395ca626392597ac3c39"
+
+[[files]]
+file = "config/giantspawn.json5"
+hash = "2bb96878a58942502be58b48bc629301c8c45c495755f7f7ea28a1c04b1532f4"
 
 [[files]]
 file = "config/guardvillagers.json"
@@ -1314,7 +1318,7 @@ hash = "3e13d61ea7fdb925a45bf4d23895419ba2dd6f4714838dbb4d7598c02c505fd6"
 
 [[files]]
 file = "config/heracles/quests/introduction/connectingcrystal.json"
-hash = "76062ec3f0d85e993a8ab346855a55963b4ceb5bd3521bdf6e171d2cbd2ceeea"
+hash = "7f49acb140136f2831a817f8aaaa20ac1a662d2abc1a3d3d8cc588f569b25762"
 
 [[files]]
 file = "config/heracles/quests/introduction/controls-movement.json"
@@ -1329,12 +1333,20 @@ file = "config/heracles/quests/introduction/pack-controls-building.json"
 hash = "4b0233e37de2eb37e58b17842298d033030688a5e93ed898f51dfd570e97e1e5"
 
 [[files]]
+file = "config/heracles/quests/introduction/teleportation.json"
+hash = "80de4fa3ac09710be7da658b52ab10a05cde9abc7571778d3a6029b9407d2bfa"
+
+[[files]]
 file = "config/heracles/quests/introduction/world.json"
-hash = "2bbfdd56647fd242ee4cdf5b73fbce0efa6577647983280953545021d0f4eb18"
+hash = "4f15bbf04e2c06f9cd99a8772ad4d6345c615e8f0f0fbab3cb3e368f7a445bd7"
 
 [[files]]
 file = "config/heracles/tutorial.html"
 hash = "1d200eb94b7b78d2285c8314b45d7f1c82a9ade5f37fa20250e8e56848949b20"
+
+[[files]]
+file = "config/huskspawn.json5"
+hash = "560af12fe76140f65a319621641d79fd800bd98a9beb4ece3c0ed2c2622c7f25"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -1669,6 +1681,10 @@ file = "config/niftycarts-common.toml"
 hash = "db05824f322df0ffd6e15c10dece5fab4d3d036e9b95a710bef30ccd8fed2405"
 
 [[files]]
+file = "config/nohostilesaroundcampfire.json5"
+hash = "b38952a7123831846d4c0f0a4fc3bce7abaf9c423c36ed031f8706a1ced22b85"
+
+[[files]]
 file = "config/noindium.json"
 hash = "0ec99e2aebcefedcf1d5681b6d9cd83d5ed6af32cb8004db0d0699c47beb1164"
 
@@ -1705,8 +1721,8 @@ file = "config/openloader/data/ExpandedWorld-1.1.0-1.20.1-Datapack.zip"
 hash = "600770ded9baad69c900f890382d8bb18492a5921c6d468d8abe0c4d6b732c5c"
 
 [[files]]
-file = "config/openloader/data/ServerSleep.zip"
-hash = "876b3b38347eba7195a7a2ce67ad206b938fa3fb7749429396afcd9a65ddabd1"
+file = "config/openloader/data/MobCaptains-v3.1.1.zip"
+hash = "e40c7e53d9683061d7a1c0b07cb9dc657917400881a348c606d72d900966f619"
 
 [[files]]
 file = "config/openloader/data/Treasure-Map-Replacement.zip"
@@ -1854,7 +1870,7 @@ hash = "7c0fc29501e25e68a5cc9c9ae55b9d709d74184ade60dbfda5568c1ec4989059"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
-hash = "fd9f49654d691fc5b6af85faff73ca8aacdf443ee318cbf955fcba74168627ff"
+hash = "445d213a3c9a63683b73221a6efd75dbc691e29de17009d287192932ed1d8e89"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -2042,7 +2058,7 @@ hash = "c72bc82b8aab95c226a5412e460fa5a980fc9be1062bed841fb10242c8abcb7a"
 
 [[files]]
 file = "config/sleeprework.json"
-hash = "88b7f7181584e06faeb0060d586a945bf616e38f588ab63376ca330d8be724ac"
+hash = "f770f854686ea143470d91352a6e87700c9896156b4536c2d93ee91d6a70502e"
 
 [[files]]
 file = "config/sliceanddice-client.toml"
@@ -2181,6 +2197,10 @@ file = "config/starterkit/kits/Default.txt"
 hash = "00bc8b30246f5663eef87a63a7ffa0e873eddd33f7aa3019e8b3e0135dc25515"
 
 [[files]]
+file = "config/strayspawn.json5"
+hash = "d515091e2ae9d09bdda04bf66bdedf8be99a9f3a67ae25a56996d3a8424f0bff"
+
+[[files]]
 file = "config/styled-nicknames.json"
 hash = "be268060062e4987e61dbad688a5942ec49250b098ca1d3d4113a7595c0caaca"
 
@@ -2259,10 +2279,6 @@ hash = "c0f9ef8200999d7cf1cc9e4f71c713bba4c4be775d6149ef57669e63347dc46e"
 [[files]]
 file = "config/ukulib.toml"
 hash = "4b8c9a2611143d69b79f7afd76669d1127d00403df9c76271a6e96b1a0a5bd0f"
-
-[[files]]
-file = "config/unloaded-activity.json"
-hash = "4030c26214e0f817796b290ff6bdb5103ea9d5d802f970d03c94d2488e7a8d92"
 
 [[files]]
 file = "config/urkazmoontools.json"
@@ -2442,7 +2458,7 @@ hash = "04352235526c5867bb861bff94bd6de687eaa9cf516f6da0f0c323308801fba8"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "b50abfb06241036bb9492b3823d34b586a8679017f0f10759374f55012779f9b"
+hash = "7078899a4c4fed4ae8ca352cebe476e57b665305c9e427a00cd96bff4a6a5d77"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2490,7 +2506,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "f762973228cb98a5c1feb31d0f1c969697a6576445c8472ab7a50dbd53ab993c"
+hash = "320cb6ac006c9eca628d61f63ba9ed440d9b2885474493e6c15eee3f045ebb1e"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
@@ -2917,6 +2933,10 @@ file = "mods/SimpleRadio-fabric-1.20.1-2.2.4.jar"
 hash = "e159770a34fcce9c91aafdc20a3bbae3423a54c6b5bd99722d53815e77fb4dd6"
 
 [[files]]
+file = "mods/SitsEndAnchor-1.0.1.jar"
+hash = "09b923afd6d61eb2c956c7ffa16866decf6a32321f8cbe6da8535d62bfb8bae0"
+
+[[files]]
 file = "mods/SnowUnderTrees-2.3.0+1.20.1.jar"
 hash = "406cd04838c95935690c96c2ad33c646306f80dc62d380fd66c385da6113b1ec"
 
@@ -3273,16 +3293,16 @@ file = "mods/collective-1.20.1-7.61.jar"
 hash = "3c37a6b4ece7fde3e76a0e6fe9861b4d7a7549c48efa2898072e99662a575255"
 
 [[files]]
+file = "mods/collective-1.20.1-7.67.jar"
+hash = "587013ab60f37127fa47bc20056afb3b17df9e535103814a90795bed5a162a0c"
+
+[[files]]
 file = "mods/colorfulhearts-fabric-1.20.1-4.1.6.jar"
 hash = "318a9d4da732b8235d08c408047ccf054c0c0ee1428fdfe170e35a68b679fdc9"
 
 [[files]]
 file = "mods/combatroll-fabric-1.3.2+1.20.1.jar"
 hash = "50c4a6ee3a79c7d3cb755c0105de8b7af29f813ede872e33ba3cd4c32c5e9c56"
-
-[[files]]
-file = "mods/comforts-fabric-6.3.5+1.20.1.jar"
-hash = "be51b88b75c63b1123086b5f675a683984d504e01df3d9681da15c3187689ebf"
 
 [[files]]
 file = "mods/compact-chat-2.0.2.jar"
@@ -3697,6 +3717,10 @@ file = "mods/geophilic-v2.2.0-mc1.20u1.20.2.jar"
 hash = "afacf02ce17dc680cd1a17712ee9d24a40efeb96c6e32ec8ddfeb0dcc58a4ad2"
 
 [[files]]
+file = "mods/giantspawn-1.20.1-5.0.jar"
+hash = "d471ed2e91ed1433a568b5000c4baf615ebd1e973695cb2d6fc57af323460a5f"
+
+[[files]]
 file = "mods/glassential-fabric-2.0.1.jar"
 hash = "6722479c040a0c071f8b4be4246586f9f26f58d7f07fe2ff005afebabbd9abd1"
 
@@ -3735,6 +3759,10 @@ hash = "27ddd427624eb616543a5b5f3091a76ef506de2bf85cfd40164f89f9416ebe5d"
 [[files]]
 file = "mods/hoesarescythes-1.2-1.20.1.jar"
 hash = "cfca82a8356c3cb01d60b0fd0a6519f1c5291258dcae237a6b4cfbe0b018a979"
+
+[[files]]
+file = "mods/huskspawn-1.20.1-3.5.jar"
+hash = "1731aa60e70166b30d172606ffc0a0c164ea94e363e5c892ba91553c141076bc"
 
 [[files]]
 file = "mods/immersive_aircraft-1.0.1+1.20.1-fabric.jar"
@@ -3941,8 +3969,8 @@ file = "mods/modernfix-fabric-5.18.0+mc1.20.1.jar"
 hash = "1bd913054607bbb50fa558b4168272e58f82ef5d4b8e44bbb0638dfd7cc0f772"
 
 [[files]]
-file = "mods/moonlight-1.20-2.11.33-fabric.jar"
-hash = "f4aa5cbcaffaf6883c8fca49a14cdb6dccaf9a996e8d9d35492d97c64eddda08"
+file = "mods/moonlight-1.20-2.12.6-fabric.jar"
+hash = "1e52fa80fd99dfd6d4163858dc5c3313949796627d0155a4d7d036508fe2a404"
 
 [[files]]
 file = "mods/more_rpg_classes-1.1.7-1.20.1.jar"
@@ -3993,6 +4021,10 @@ file = "mods/nnvf-0.1.3_1.20.jar"
 hash = "f36d32a64781420f5eb2cb9473eb194f522d8215b77b5171b8ff9bafe7928387"
 
 [[files]]
+file = "mods/nohostilesaroundcampfire-1.20.1-5.9.jar"
+hash = "7fcf6babbc7bf94349570b6e5d70d58d8a381029363075ea14ebea409a6969e8"
+
+[[files]]
 file = "mods/noisium-fabric-2.0.3+mc1.20-1.20.1.jar"
 hash = "090ddbd005105f5f1dd13e3039d51802128cf91a944f75b5b341a3f99a6c5715"
 
@@ -4027,6 +4059,10 @@ hash = "387d3f8802ed6663053dde1fec9096b29e9de1e33702805fdbeab9c7bafdda07"
 [[files]]
 file = "mods/optigui-2.1.7.jar"
 hash = "287a3e87c851febed90734841d7a0e5fe74f6587e5adb155df61ae90dbe0e0a8"
+
+[[files]]
+file = "mods/overworld-anchors-1.0.0.jar"
+hash = "a0aa86674ee071e1caac88a0fe8a029297ea6af556177c910c8b46faf688d305"
 
 [[files]]
 file = "mods/owo-lib-0.11.2+1.20.jar"
@@ -4095,6 +4131,10 @@ hash = "d256749d4881ae21dd9d95d2bc22d5a142bcc267b428c38e6ac5ce03aecaa64e"
 [[files]]
 file = "mods/probejs-6.0.0-fabric.jar"
 hash = "b8c4778e410257916d0c93898480a869e88cef04776198df1f60d3e886a7ae48"
+
+[[files]]
+file = "mods/progressive-raids-1.0.0.jar"
+hash = "69be0ce0327ca3b5e1b36e42fabed0ef13bc56713b1b29949d2b389c4b7a8168"
 
 [[files]]
 file = "mods/puzzle-1.5.2+1.20.jar"
@@ -4309,6 +4349,10 @@ file = "mods/strange-berries-2.3.2-1.20.x.jar"
 hash = "263ab411e36e5526516b914376a0687f69b113579d8051fabcdfe702c6e10c1d"
 
 [[files]]
+file = "mods/strayspawn-1.20.1-3.5.jar"
+hash = "bccdda7d40fa49b6b73bc60c474ce7d16bfa96c11f804144855c0e9eabd16aa1"
+
+[[files]]
 file = "mods/structure_pool_api-1.0+1.20.1.jar"
 hash = "84ebe8b98268c8fe1439bb6cd3dbeba19501bf9e25ea2f2fd49dfe3940aa1a78"
 
@@ -4399,10 +4443,6 @@ hash = "6b736b4de41ecf336d9a8e1c9b13713611a81f6c806d1e1660891d797315f35b"
 [[files]]
 file = "mods/twigs-3.1.0-fabric.jar"
 hash = "25ab7e6eff163c799d30dfa27f9c54c3d0828dff8f5af099e69966c48783f33a"
-
-[[files]]
-file = "mods/unloadedactivity-v0.5.4+1.20-1.20.1.jar"
-hash = "c45d8283d656166606febdd1e799619515859a6bec82bf2e443ed22134ff6f27"
 
 [[files]]
 file = "mods/vanillaconfig-1.2.7+1.20.jar"
