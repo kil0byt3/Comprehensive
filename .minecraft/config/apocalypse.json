@@ -1,6 +1,6 @@
 {
   "horde": {
-    "enabled": false,
+    "enabled": true,
     "cooldownMin": 300,
     "cooldownMax": 600,
     "distanceMin": 64,
