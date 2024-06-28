@@ -2370,15 +2370,15 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "b297a73c318f37ac205cb77ef3b2ce2db2474cec2eaf2200b53a779e23439ba5"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "b731636a6ce5525b75b4c61c9abca5a9ea1a2869a37524213f55720c98be5fd6"
+hash = "b7c772f3fab0b0e8812b21001b5290ac0fb44f03128f5a633dc41c8de961e7b0"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "255c8f568b1029910c7f22e4dc0c0f173423eb00479733130464a49fc63a5846"
+hash = "215f0c52d776232a02df51634d8b495be64b7031c5b95796ad91402a9d12b964"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2386,11 +2386,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "9ae099ab6f21038a68d5582995b25808fcb6fbd77efeafbb1cfd5d1f5373ef3b"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "36dbde2f4a3ed187ca23d47860ed41bae2f6d3f2b203dae9b10a3ffd0d33d345"
+hash = "a61bd63121bf850f8d5966100c3a23bc297d2aea4f3fd78969597eeedbffd5fe"
 
 [[files]]
 file = "config/yacl.json5"
