@@ -2273,6 +2273,10 @@ file = "config/ukulib.toml"
 hash = "4b8c9a2611143d69b79f7afd76669d1127d00403df9c76271a6e96b1a0a5bd0f"
 
 [[files]]
+file = "config/unloaded-activity.json"
+hash = "efc588c474bbb48e10dd399f81ef64655fa5e8003022e1a937e593be9033ecde"
+
+[[files]]
 file = "config/urkazmoontools.json"
 hash = "49d11ce214d1b2c17e84e80e41a73ea629288c8d91bd6aabd9c92b828f0a4302"
 
