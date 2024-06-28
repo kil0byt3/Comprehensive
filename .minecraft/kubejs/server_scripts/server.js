@@ -247,6 +247,19 @@ event.shaped('minecraft:bell', [
 } 
 )
 
+event.remove({ output: 'minecraft:clock' })
+event.shaped('minecraft:clock', [
+  ' A ', 
+  'ABA',
+  ' A '
+], {
+  A: 'minecraft:gold_block',
+  B: 'minecraft:redstone'
+} 
+)
+
+event.shapeless('minecraft:phantom_membrane', ['minecraft:bone', 'minecraft:slime_ball', 'minecraft:rotten_flesh', 'minecraft:feather'])
+
 event.remove({ output: 'more_rpg_classes:hardened_leather' })
 event.shapeless('16x minecraft:leather', ['more_rpg_classes:hardened_leather'])
 event.remove({ output: 'malum:encyclopedia_arcana'})
