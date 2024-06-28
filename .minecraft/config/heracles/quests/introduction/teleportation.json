@@ -1,0 +1,112 @@
+{
+  "dependencies": [
+    "world"
+  ],
+  "tasks": {
+    "teleportation2": {
+      "icon": {
+        "item": {
+          "id": "minecraft:end_portal_frame",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "from": "minecraft:overworld",
+      "to": "minecraft:the_end",
+      "type": "heracles:changed_dimension"
+    },
+    "teleportation": {
+      "type": "heracles:item",
+      "item": "endanchor:end_anchor",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "icon": {
+        "item": {
+          "id": "endanchor:end_anchor",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "teleportation": {
+      "icon": {
+        "item": {
+          "id": "minecraft:end_crystal",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:end_crystal",
+        "count": 3
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Take back your power."
+    },
+    "description": [
+      "<subtitle id=\"teleportation\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"teleportation2\" quest=\"teleportation\"/>",
+      "<task task=\"teleportation\" quest=\"teleportation\"/>",
+      "<hr/>",
+      "The true \"end\" game of transport is transport through the End. (ha.)",
+      "",
+      "The End holds infinite resources and power through the form of XP and overpowered items allowing flight and transport through other dimensions - but what about transport through the End itself?",
+      "",
+      "Once you make the journey to the outer islands to start your exploration, what happens when you want to find your way back to a place you've been before? Or quickly get to your Enderman farm? ",
+      "",
+      "Enter the/d/ End Anchor/d/.",
+      "",
+      "The recipe is /6/hidden/6/.",
+      "",
+      "Craft it with /d/4 Obsidian, 4 Popped Chorus Fruit, and a Lodestone compass that's been set to a Lodestone./d/",
+      "",
+      "Once you've done so, fuel the End Anchor with an End Crystal. ",
+      "",
+      "Right-clicking the End Anchor will then teleport you directly to the connected Lodestone. ",
+      "",
+      "/4/DO NOT TRY THIS IN OTHER DIMENSIONS/4/. The Dragon's fury reaches across worlds, even in death. ",
+      "",
+      "<hr/>",
+      "",
+      "With this newfound power, go, and free the End - explore to your heart's content. And ensure that you always have a route home or back to where you were; via a network of Anchors.",
+      "",
+      "<br/>",
+      "<hr/>",
+      "<reward reward=\"teleportation\" quest=\"teleportation\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          150,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "endrem:cursed_eye",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "title": {
+      "translate": "End Game"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "IN_PROGRESS",
+    "unlockNotification": true
+  }
+}

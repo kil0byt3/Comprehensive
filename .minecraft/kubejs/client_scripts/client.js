@@ -24,6 +24,11 @@ ClientEvents.lang('en_us', event => {
     rename ( 'brewery:rope', "Brewery Rope" )
 })
 
+ItemEvents.tooltip(event => {
+    event.add('minecraft:respawn_anchor', '§6Can be used in any dimension, including the Overworld.')
+    event.add('endanchor:end_anchor', '§6See questbook for recipe and usage.')
+})
+
 REIEvents.hide('item', event => {
     event.hide('simplyswords:iron_spear' )
     event.hide('simplyswords:gold_spear' )
@@ -112,4 +117,5 @@ REIEvents.hide('item', event => {
     event.hide('naturalist:cooked_egg' )
     event.hide('extraalchemy:empty_ring' )
     event.hide('extraalchemy:potion_ring' )
+    event.hide('malum:copper_nugget' )
 } )

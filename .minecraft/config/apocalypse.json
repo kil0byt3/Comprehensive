@@ -1,16 +1,16 @@
 {
   "horde": {
-    "enabled": false,
+    "enabled": true,
     "cooldownMin": 300,
     "cooldownMax": 600,
     "distanceMin": 64,
-    "distanceMax": 128,
-    "ZombieAmountMin": 8,
-    "ZombieAmountMax": 16,
-    "PersistentZombies": true
+    "distanceMax": 120,
+    "ZombieAmountMin": 10,
+    "ZombieAmountMax": 20,
+    "PersistentZombies": false
   },
   "zombie": {
-    "attackSpeed": 1.0,
+    "attackSpeed": 1.2,
     "burnsInDaylight": true,
     "avoidSunlight": false,
     "pathThroughDoors": true,
@@ -35,6 +35,6 @@
     "instantDoorBreakHardness": 5.0,
     "diggingProgressTick": 0.02,
     "maximumTargetHardness": 20,
-    "modifyPiglins": false
+    "modifyPiglins": true
   }
 }

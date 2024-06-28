@@ -4,6 +4,87 @@
 
 console.info('Loaded KiloScript')
 
+/* 
+//? Add code to make different potato projectiles go bang
+
+//! READ ME: 
+//* when you add a new ammo type. make sure it add it to Create-Astral\global_packs\required_data\zLaky Core\data\createastral\potato_cannon_projectile_types
+//* Use the cog as an example.
+
+//? Possable Fields:
+
+//? projectileItem - Required - String
+//? particlesEnable - Required - Bool
+//? particleSpread - Required if particlesEnable is true - Float
+//? particleSize - Required if particlesEnable is true - Float
+//? particleSpeed - Required if particlesEnable is true - Float
+//? particleCount - Required if particlesEnable is true - Float
+//? particleType - Required if particlesEnable is true - String
+//? particleHasColour - Required if particlesEnable is true - Bool
+//? particleColourR - Required if particleHasColour is true - Float
+//? particleColourG - Required if particleHasColour is true - Float
+//? particleColourB - Required if particleHasColour is true - Float
+//? explosionEnable - Required - Bool
+//? explosionStrength - Required if explosionEnable is true - Float
+//? explosionDamageTerrain - Required if explosionEnable is true - Bool
+
+const ammos = [
+  {
+  projectileItem: "createastral:astral_singularity",                              //? Item ID
+  particlesEnable: true,                                                          //? Does it have particles
+  particleSpread: 2.5, particleSize: 10, particleSpeed: 5, particleCount: 100,    //? Settings
+
+  particleType: "minecraft:dust", particleHasColour: true,                        //? Type of particle and if its colour can be changed
+  particleColourR: 0.31, particleColourG: 0, particleColourB: 0.7,                //? Colour settings
+
+  explosionEnable: true,                                                          //? Does it go boom         
+  explosionStrength: 10, explosionDamageTerrain: true,                            //? How strong it go boom and if it hurt the land
+  },
+
+
+  {
+  projectileItem: "createbigcannons:flak_autocannon_round",
+  particlesEnable: false, 
+
+  explosionEnable: true,
+  explosionStrength: 5, explosionDamageTerrain: true,
+  }
+]
+
+onEvent('entity.spawned', event => {
+const { entity, server} = event
+ammos.forEach(ammoType => {
+if (entity.type === "create:potato_projectile" && entity.fullNBT.Item.id === ammoType.projectileItem) {
+
+server.scheduleInTicks(5, event => {
+  if(entity.removed || entity.deadOrDying || !entity.alive) {
+      let x = entity.fullNBT.Pos[0] 
+      let y = entity.fullNBT.Pos[1]
+      let z = entity.fullNBT.Pos[2]
+      let explosion = entity.block.offset(0,0,0).createExplosion()
+
+      if (ammoType.particlesEnable) {
+          if (ammoType.particleHasColour) {
+              server.runCommandSilent(`particle ${ammoType.particleType} ${ammoType.particleColourR} ${ammoType.particleColourG} ${ammoType.particleColourB} ${ammoType.particleSize} ${x} ${y} ${z} ${ammoType.particleSpread} ${ammoType.particleSpread} ${ammoType.particleSpread} ${ammoType.particleSpeed} ${ammoType.particleCount}`)
+          }
+          else {
+              server.runCommandSilent(`particle ${ammoType.particleType} ${x} ${y} ${z} ${ammoType.particleSpread} ${ammoType.particleSpread} ${ammoType.particleSpread} ${ammoType.particleSpeed} ${ammoType.particleCount}`)
+          }
+      }
+
+      if (ammoType.explosionEnable === true) {
+          explosion.strength(ammoType.explosionStrength)
+          explosion.damagesTerrain(ammoType.explosionDamageTerrain)
+          explosion.explode()
+      }
+      return
+  }
+  event.reschedule()
+})}})})
+//! Made by TheOverlyCaffeinatedTrashPanda 
+// *end of potato projectile code
+
+ */
 ServerEvents.tags('item', event => {
 
 event.add('c:duck_eggs', 'duckling:duck_egg')
@@ -72,6 +153,7 @@ event.remove({ output: 'onlyhammersandexcavators:emerald_excavator' })
 event.remove({ output: 'onlyhammersandexcavators:redstone_excavator' })
 event.remove({ output: 'extraalchemy:empty_ring' })
 event.remove({ output: 'extraalchemy:potion_ring' })
+event.remove({ output: 'malum:copper_nugget' })
 
 // General small fixes for compat
 
@@ -153,6 +235,35 @@ event.shaped('minecraft:furnace', [
   A: 'minecraft:cobblestone'
 } 
 )
+
+event.shaped('minecraft:bell', [
+  ' A ', 
+  'B B',
+  'BCB'
+], {
+  A: 'supplementaries:rope',
+  B: 'minecraft:gold_ingot',
+  C: 'minecraft:gold_nugget'
+} 
+)
+
+event.remove({ output: 'minecraft:clock' })
+event.shaped('minecraft:clock', [
+  ' A ', 
+  'ABA',
+  ' A '
+], {
+  A: 'minecraft:gold_block',
+  B: 'minecraft:redstone'
+} 
+)
+
+event.shapeless('minecraft:phantom_membrane', ['minecraft:bone', 'minecraft:slime_ball', 'minecraft:rotten_flesh', 'minecraft:feather'])
+
+event.remove({ output: 'more_rpg_classes:hardened_leather' })
+event.shapeless('16x minecraft:leather', ['more_rpg_classes:hardened_leather'])
+event.remove({ output: 'malum:encyclopedia_arcana'})
+event.shapeless('malum:encyclopedia_arcana', ['minecraft:book', 'minecraft:iron_nugget'])
 
 // Create Trains earlier/worse recipe
 
@@ -243,7 +354,7 @@ event.shaped('gag:hearthstone', [// arg 1: output
 
 event.remove({ output: 'farmersdelight:safety_net' })
 event.shapeless('farmersdelight:safety_net', ["supplementaries:rope", "supplementaries:rope", "supplementaries:rope", "supplementaries:rope"])
-
+/* 
 event.remove({ output: 'comforts:rope_and_nail' })
 event.shaped('comforts:rope_and_nail', [// arg 1: output
     ' A ', 
@@ -253,7 +364,8 @@ event.shaped('comforts:rope_and_nail', [// arg 1: output
     A: 'supplementaries:rope',  //arg 3: the mapping object
     B: 'minecraft:iron_ingot'
   }
-)
+) 
+*/
 
 event.shapeless('2x brewery:rope', ['supplementaries:rope', 'minecraft:string'] )
 
