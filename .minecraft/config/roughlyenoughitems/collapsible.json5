@@ -11852,28 +11852,6 @@
 			]
 		},
 		{
-			"id": "custom:4bd07563-d4c2-49c6-a8b2-7fbf661a813e",
-			"name": "Sleeping Bags",
-			"stacks": [
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_white\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_orange\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_magenta\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_light_blue\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_yellow\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_lime\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_pink\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_gray\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_light_gray\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_cyan\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_purple\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_blue\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_brown\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_green\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_red\",type:\"minecraft:item\"}",
-				"{Count:1b,Favorite:0b,id:\"comforts:sleeping_bag_black\",type:\"minecraft:item\"}"
-			]
-		},
-		{
 			"id": "custom:16cd00ed-6175-459c-90a2-198478fa2ebf",
 			"name": "Hammocks",
 			"stacks": [
