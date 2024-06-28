@@ -75,7 +75,9 @@
     "dye_blocks": false
   },
   "torch": {
-    "torch_fire": true
+    "torch_fire": true,
+    "torch_fire_offhand": false,
+    "torch_fire_duration": 2
   },
   "lily_pad": {
     "better_lilypads": true

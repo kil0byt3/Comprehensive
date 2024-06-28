@@ -1,6 +1,7 @@
 {
   "beautify:hanging_pot.pot_flower": null,
   "beautify:lamp_jar.glowstone_dust": null,
+  "beautify:trellis.pot_plant": null,
   "create:backtank_capacity": null,
   "create:blaze_burner": null,
   "create:contraption_inv": null,
@@ -11,6 +12,7 @@
   "create:hide_boiler_tanks": null,
   "create:placard": null,
   "exposure:lightroom": null,
+  "exposure:photograph_frame": null,
   "jade:block_face": null,
   "jade:distance": null,
   "jade:mod_name": null,
