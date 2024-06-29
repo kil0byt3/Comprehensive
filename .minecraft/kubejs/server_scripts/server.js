@@ -247,7 +247,7 @@ event.shaped('minecraft:bell', [
 } 
 )
 
-event.remove({ output: 'minecraft:clock' })
+event.remove({ id: 'minecraft:clock' })
 event.shaped('minecraft:clock', [
   ' A ', 
   'ABA',
