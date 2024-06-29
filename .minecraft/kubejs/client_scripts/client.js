@@ -27,6 +27,8 @@ ClientEvents.lang('en_us', event => {
 ItemEvents.tooltip(event => {
     event.add('minecraft:respawn_anchor', '§6Can be used in any dimension, including the Overworld.')
     event.add('endanchor:end_anchor', '§6See questbook for recipe and usage.')
+    event.add('minecraft:soul_campfire', '§6Serves as a deterrent for the Undead when lit as a signal atop a hay block.')
+    event.add('malum:runewood_obelisk', '§6A hallowed beacon of light. Stops the spread of Evil.')
 })
 
 REIEvents.hide('item', event => {
