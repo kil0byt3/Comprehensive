@@ -39,15 +39,15 @@ disableConversion = false
 #Enable/disable categories of features. Disabling a category hides all related features. Values on server override clients
 [feature_categories]
 	#.
+	#All copycats that can be resized by putting in more of the same copycat
+	stackables = true
+	#.
 	#.
 	#All copycats with a sloped surface
 	slopes = true
 	#.
-	#All copycats that support multiple materials in a single block
-	multistates = true
-	#.
-	#All copycats that can be resized by putting in more of the same copycat
-	stackables = true
-	#.
 	#All copycats that can emit a redstone signal
 	redstone = true
+	#.
+	#All copycats that support multiple materials in a single block
+	multistates = true

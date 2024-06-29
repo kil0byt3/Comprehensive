@@ -528,6 +528,17 @@
         "value": 16
       }
     },
+    "staminafortweakers:generic.climb_speed": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "minecraft:generic.flying_speed": {
       "enabled": true,
       "min": {
@@ -869,6 +880,17 @@
         "value": 16
       }
     },
+    "staminafortweakers:generic.stamina": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "combatroll:distance": {
       "enabled": false,
       "min": {
@@ -933,6 +955,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "staminafortweakers:generic.max_stamina": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "stepheightentityattribute:stepheight": {

@@ -162,7 +162,7 @@ hash = "033b7e7c6f52be8317a31d9608c4e48492abea06346580a5395887cd68a66458"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "93e8aac0092b713d81c3e6f2a4aef98e17c20f631f74b93c1d40aa7a3efd74de"
+hash = "bb20fe7e4ef977e9d25bf69edc4c7ad604a484278b7e3778dc0694f73df76e25"
 
 [[files]]
 file = "config/authme.json5"
@@ -462,7 +462,7 @@ hash = "cca920d8238c2b9881b8f9ece15cb6885e766debccf46fd4379ef7c9f3e25638"
 
 [[files]]
 file = "config/copycats-common.toml"
-hash = "cff489442dff601f8514f9e373492adb0f82603c1998cd75b340f90974e44b6d"
+hash = "d3f27a99247f30f4b24bbedf84694fa919e9238597c6df7dfda108b929c08055"
 
 [[files]]
 file = "config/couplings.toml"
@@ -1749,10 +1749,6 @@ file = "config/openloader/data/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip"
 hash = "3bbcaca8a773be45a2f3f7e04c344d418f797641311d8b9f312bce829858edcb"
 
 [[files]]
-file = "config/openloader/data/gm4_weighted_armour_1_20.zip"
-hash = "c6f46e56a53355fb1691b47eb513c42a85918d6bd538e5463ab9230bffaa8fa1"
-
-[[files]]
 file = "config/openloader/data/intstrong_endrem-1.0.0-1.18.2-1.19.2.zip"
 hash = "8e41b8cc5e0e255f8639c0a1ee76aa37486fa0c7d406976983c53a6c56438bbb"
 
@@ -1926,7 +1922,7 @@ hash = "a67d9c9fd5d8ab733f7066472200f457a668a3b258e729fb184fff981435ed7b"
 
 [[files]]
 file = "config/rpg_series/tag_cache.json"
-hash = "d6279d4d2faa9ef7818ea22946c2fd25166ea18992d5f8595908a089f590a15c"
+hash = "38cc38b24ce923e1464854b1d94bad7fe4cd6ba2901b1081640f2cabf549be1f"
 
 [[files]]
 file = "config/rrp.properties"
@@ -2158,7 +2154,7 @@ hash = "a71ebe6119d672a7c8cf6eceb0eacd613fc068f409bb7dcf6f1fff2e6f490b48"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "2e0c2b77ef2870d6d43300f9e042ad7cb6a35f97c9b6727430a07fcad765c401"
+hash = "8a6f6bc73720a22ba2e39b2a4bcae5e7c4b5c6ff4f756efaafbf1bffab81d822"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -2215,6 +2211,10 @@ hash = "0a4cf6463e3750510309b76e4d848f2cdaa43b5687b764af09667c9ce817367e"
 [[files]]
 file = "config/stacksizeedit.json"
 hash = "7ed858306fabad61845f6ee2e3876093dc4c6a892f697c2f79cdff40d862794d"
+
+[[files]]
+file = "config/staminafortweakers.json5"
+hash = "62c51ba8d0f14dd8e3866b521e417d9a598a9d99af48a277759fa619a1eb1b23"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -4367,6 +4367,10 @@ hash = "87d52b3729051898a28b4620d11d2a5b1ad55f0b9b494bf064063592038d2ccd"
 [[files]]
 file = "mods/stairdoors-1.0.0.jar"
 hash = "6dbbfdb8883b26646fe8274a559dfcc5dd021f7b1a8250350b73da3a684dad04"
+
+[[files]]
+file = "mods/stamina-for-tweakers-1.2.1+1.20.1.jar"
+hash = "1a71a7e7602ff7eef77caf5378aab5f6f89b2f1ecf1819918cf7ad8d588a1132"
 
 [[files]]
 file = "mods/starterkit-1.20.1-6.7.jar"
