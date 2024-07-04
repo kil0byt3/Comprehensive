@@ -1,0 +1,14 @@
+{
+  "registry_name": "endermanoverhaul:mushroom_fields_enderman",
+  "primary_type": "eldritch",
+  "spirits": [
+    {
+      "spirit": "eldritch",
+      "count": 1
+    },
+    {
+      "spirit": "arcane",
+      "count": 2
+    }
+  ]
+}
