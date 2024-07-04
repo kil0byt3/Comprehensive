@@ -1745,6 +1745,10 @@ file = "config/openloader/data/ExpandedWorld-1.1.0-1.20.1-Datapack.zip"
 hash = "600770ded9baad69c900f890382d8bb18492a5921c6d468d8abe0c4d6b732c5c"
 
 [[files]]
+file = "config/openloader/data/MalumSpirits.zip"
+hash = "6216534f53d9672110ed13d88593b820933e6e0a0a98568e5f6485ce1a1626be"
+
+[[files]]
 file = "config/openloader/data/MobCaptains-v3.1.1.zip"
 hash = "e40c7e53d9683061d7a1c0b07cb9dc657917400881a348c606d72d900966f619"
 
@@ -2613,8 +2617,8 @@ file = "mods/Boids-1.2.2.jar"
 hash = "6503e0d7ab6c1a8653e758392d4a788ab743194b3ac553389ce35bd49b56b85b"
 
 [[files]]
-file = "mods/Bookshelf-Fabric-1.20.1-20.1.11.jar"
-hash = "41ad52f75abdd7d75523cc5adc4dea7d44b807703e8089320279886673b70b70"
+file = "mods/Bookshelf-Fabric-1.20.1-20.2.13.jar"
+hash = "4da44061c9daf2c8b44531609f381b9b92bb207d9709753ead3b6ef1f6adcd7a"
 
 [[files]]
 file = "mods/Bountiful-6.0.3+1.20.1-fabric.jar"
@@ -2645,8 +2649,8 @@ file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
 hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
 
 [[files]]
-file = "mods/CorgiLib-fabric-1.20.1-4.0.1.1.jar"
-hash = "52c37786ac819d72e10014abb9816fa89e9ef0b2e3f824f0c08bd08a35b28917"
+file = "mods/CorgiLib-fabric-1.20.1-4.0.1.3.jar"
+hash = "f78e7f2fb5b16d43b7a5170cccffa9e39ebb0e48314d9a7291c7bdd96389a45c"
 
 [[files]]
 file = "mods/Couplings-1.9.4+1.20.jar"
@@ -2837,8 +2841,8 @@ file = "mods/LevelTextFix-Fabric-1.20.1-7.0.2.jar"
 hash = "baec2eca64c2e9ae07fbf70d358e2622897ee8f3823409bcf07b2ac5807e7654"
 
 [[files]]
-file = "mods/Lexiconfig-fabric-1.2.11.jar"
-hash = "c13379f2917cfc68a6f5a2d8c263770a48f73d386ec2a9a5b7cb7dbeff40f340"
+file = "mods/Lexiconfig-fabric-1.3.11.jar"
+hash = "768eb19183fc8eec890aad7e3694857ee43ee171117b485ea302eea5fc4b05c9"
 
 [[files]]
 file = "mods/Log-Begone-Fabric-1.20.1-1.0.8.jar"
@@ -2905,8 +2909,8 @@ file = "mods/Patchouli-1.20.1-84-FABRIC.jar"
 hash = "96ad2c77adf1d0fe1994223b5f469848d51d111b33737efb708eba4ad8f4d2e0"
 
 [[files]]
-file = "mods/Pehkui-3.8.2+1.14.4-1.20.6.jar"
-hash = "5df4e35389fdf84f402ffe0c0499962f5b31d0269963ad5adb8f6af671ad1ef0"
+file = "mods/Pehkui-3.8.3+1.14.4-1.21.jar"
+hash = "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b"
 
 [[files]]
 file = "mods/PigPen-Fabric-1.20.1-15.0.2.jar"
@@ -2925,12 +2929,12 @@ file = "mods/Prism-1.20.1-fabric-1.0.5.jar"
 hash = "dbe3ec8d19c75a1b04ebfdc93dc37f084d1b283568673ce3e4cc2ab9cff7c348"
 
 [[files]]
-file = "mods/PuzzlesLib-v8.1.20-1.20.1-Fabric.jar"
-hash = "aae26724aa8211d124da05a8d09df7899336c49c8a357642faed11d8ccd0aca6"
+file = "mods/PuzzlesLib-v8.1.21-1.20.1-Fabric.jar"
+hash = "a412f09ef80ecb16fce0e772f1ad7fd5966b071b97149c8dab9f4d61cdf33338"
 
 [[files]]
-file = "mods/Quad-1.2.3+1.20.4-Fabric.jar"
-hash = "1b1f7f4f850532418745790fb4724874e7ab8de16f27a134dec9c1122478d506"
+file = "mods/Quad-1.3.0-beta.3+1.20.4-Fabric.jar"
+hash = "49a12c8da82988b706abd7aad9b6c965a463784ccb107f6c1fca82010e4734a2"
 
 [[files]]
 file = "mods/Quicker Connect Button-fabric-1.20.1-1.0.1.jar"
@@ -3173,16 +3177,16 @@ file = "mods/autohud-6.3.5+1.20.1-fabric.jar"
 hash = "5cd46ecd9ca16875089810b6c7f552e3c0ec27c05ac11ac467398f3f9b7dd8d3"
 
 [[files]]
-file = "mods/azurelibarmor-fabric-1.20.1-2.0.3.jar"
-hash = "fce2256c095afda2415598a711448281871d53ed3315bb9c01fc50b38190212d"
+file = "mods/azurelibarmor-fabric-1.20.1-2.0.6.jar"
+hash = "249138bb63e157a268e3c7382b600306ee109e483cefcd7ba4c1b933576fb187"
 
 [[files]]
 file = "mods/badpackets-fabric-0.4.3.jar"
 hash = "4a6b84ce20d7a35d17ef86fe29417de6f25704f478ee2f5f92c7c2ee76ea899e"
 
 [[files]]
-file = "mods/balm-fabric-1.20.1-7.3.4.jar"
-hash = "19bf2e9cfc6ef55df4f0971c23c1bf0ef92bdb5406383c475b9d1739ead9fbad"
+file = "mods/balm-fabric-1.20.1-7.3.6.jar"
+hash = "db03a161d64829ee6c900d0cf8207becebd48b71efb65276dc90a6dade03dfdb"
 
 [[files]]
 file = "mods/beautify-1.2.0+1.20.1.jar"
@@ -3245,8 +3249,8 @@ file = "mods/blur-3.1.0.jar"
 hash = "b886ddaac7b19c9e2db9e0e5331210dcc5b487743d3f9d8d08ad66e90278d9e7"
 
 [[files]]
-file = "mods/botarium-fabric-1.20.1-2.3.3.jar"
-hash = "8a100ec47ce30c65e0f6a1ae2b455ab7cbf0196f8758c3743df9193717b16cfa"
+file = "mods/botarium-fabric-1.20.1-2.3.4.jar"
+hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
 
 [[files]]
 file = "mods/bounced-4.1.0-fabric1.20.jar"
@@ -3317,8 +3321,8 @@ file = "mods/chunkumulator-1.0.3+MC1.20.1.jar"
 hash = "e5fe6b1c0b597cfc866e541a34fc21ddd03f30096653edf8f29eb6c705093ed0"
 
 [[files]]
-file = "mods/cicada-lib-0.7.2+1.20.1.jar"
-hash = "4685881f72f9422a9ccccf5839833ba4da37edabd56e2d56d8d556d9cea0dd27"
+file = "mods/cicada-lib-0.8.1+1.20.1.jar"
+hash = "6e07d2929817cdae0ec9663565e0a935127963f9db6ec06ee112542c0cbe3660"
 
 [[files]]
 file = "mods/citresewn-1.1.5+1.20.1.jar"
@@ -3329,12 +3333,12 @@ file = "mods/cloth-config-11.1.118-fabric.jar"
 hash = "1a5b6bfc5abb0516b2aa883f99ddff11af2faa5cebdf33beb52cd4e3cd37bb75"
 
 [[files]]
-file = "mods/collective-1.20.1-7.68.jar"
-hash = "efe9364caa0149d4b38ddf5f5358b2c7672e94907f341be9c5cc5e10e7fbe1e2"
+file = "mods/collective-1.20.1-7.70.jar"
+hash = "d9359cde6b268c45f1104a6a0f654c4c6e4ce02c142d9392820ced20b0fd2cd7"
 
 [[files]]
-file = "mods/colorfulhearts-fabric-1.20.1-4.2.11.jar"
-hash = "1d535f78a5b05614e11398a0c7d7aa9d58c7ac7e544027adf3158b2e245166d9"
+file = "mods/colorfulhearts-fabric-1.20.1-4.2.13.jar"
+hash = "7c22e4706cf542406aee99a56e6cefc937b59c4263b780a0579195941a59c7d4"
 
 [[files]]
 file = "mods/combatroll-fabric-1.3.2+1.20.1.jar"
@@ -3393,8 +3397,8 @@ file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
 hash = "11a850d3689b4771d5fa705ffa7dd711827c69b71082956597e5d051471cc1ee"
 
 [[files]]
-file = "mods/create-metalwork-1.0.3-fabric.jar"
-hash = "2eb4de996cb404f86023780945b53a346bd684cf8c90426c42bbeeb77e073107"
+file = "mods/create-metalwork-1.20.1-1.0.4-fabric.jar"
+hash = "24e6472d3a4e93612d3273b47ee98aa9766c4e6812dc8c4f97b94919715f2171"
 
 [[files]]
 file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
@@ -3481,12 +3485,12 @@ file = "mods/ctov-wizards-compat-2.0a.jar"
 hash = "da010337deba2c9bb12df161801c8644c9c8bd3196c5537cbcca500ed49a9e3a"
 
 [[files]]
-file = "mods/cubes-without-borders-2.0.1+1.20.jar"
-hash = "9727aa59e837a65eec2a0abaf9d5982ee1ca8e9fb659114f6e0a695aad3e2b76"
+file = "mods/cubes-without-borders-2.1.0+1.20.jar"
+hash = "805ffc67149d3462cb0c435e2753833ad52c9efc03ecf10513a5293247b29782"
 
 [[files]]
-file = "mods/cupboard-fabric-1.20.1-2.6.jar"
-hash = "6c94006113e55988b0d06e01089097e776fceb786d17a3d31b7c581dd6d93e71"
+file = "mods/cupboard-fabric-1.20.1-2.7.jar"
+hash = "3ce1eba640c2f7e28c7b769255996f19d9776ab8add481caa84a24dabe0c80a5"
 
 [[files]]
 file = "mods/dahmersdelight-1.0.2.jar"
@@ -3597,12 +3601,12 @@ file = "mods/endermanoverhaul-fabric-1.20.1-1.0.4.jar"
 hash = "4d967523b7ffcffe6acd0e995390a69dd9af5e6dd3e3573dd43ca42c32157bc0"
 
 [[files]]
-file = "mods/entity_model_features_fabric_1.20.1-2.0.2.jar"
-hash = "ac1508eaa81909a19ba7ae776cad3ba4529a19427fed092186b6dba829264fb1"
+file = "mods/entity_model_features_fabric_1.20.1-2.1.3.jar"
+hash = "c58ed6b4f8fcbd81ab68a5bde373c203f6713ea4c3e890c1dc1c677deb5f91ef"
 
 [[files]]
-file = "mods/entity_texture_features_fabric_1.20.1-6.0.1.jar"
-hash = "cde636267c8c0edd3a3cdffe178be4663c7a945d85adf6857cbb9c0a3f845774"
+file = "mods/entity_texture_features_fabric_1.20.1-6.1.3.jar"
+hash = "21b47d22f82cf96c6eb2444f9a6f6c010e490496c7db708400ffaa31c65430d8"
 
 [[files]]
 file = "mods/entityculling-fabric-1.6.5-mc1.20.1.jar"
@@ -3617,8 +3621,8 @@ file = "mods/explosive-enhancement-1.2.2-1.20.x.jar"
 hash = "2a98b3f820b48c156e2495c28b994cf2835da172db852de6dd24bdef3b8de589"
 
 [[files]]
-file = "mods/exposure-1.20.1-1.7.1-fabric.jar"
-hash = "85983a29ab81fe339fd0e4c25048f1d235a651b0dc52ed58dd3d7bb7040fb0f3"
+file = "mods/exposure-1.20.1-1.7.2-fabric.jar"
+hash = "fcae2aebb6f1a614c30ae00a23a3a775f0c122fab8da46b8aa0f4d98c3791524"
 
 [[files]]
 file = "mods/extra-sounds-2.3.1+1.20.1~lonefelidae16-build.1.jar"
@@ -3745,8 +3749,8 @@ file = "mods/gearifiers-0.7.0+1.20.1.jar"
 hash = "d93dc74463f9e17000e828900d425df4a2ade11afcc57c584e0a06d4b92e17c4"
 
 [[files]]
-file = "mods/geckolib-fabric-1.20.1-4.4.5.jar"
-hash = "4c04d9fbd12a2303be1f4ea0ad88265b3b49af81b3257372711c29c115276c82"
+file = "mods/geckolib-fabric-1.20.1-4.4.7.jar"
+hash = "19a336e0343baadcba8b56eb0df8473c0e27ca6f7af75f6294b1b59203672547"
 
 [[files]]
 file = "mods/genshinstrument-fabric-1.20+1.20.1-3.4.1.jar"
@@ -3885,8 +3889,8 @@ file = "mods/kubejs-create-fabric-2001.0.0-build.9999.jar"
 hash = "97b289d990522d672b96f4d373e05ee41e281e065aed16b055bd489f992e4d9e"
 
 [[files]]
-file = "mods/kubejs-fabric-2001.6.5-build.7.jar"
-hash = "16f0ca4199a3ac1b8b3c03e9f0ec35047a461af1802be85f5712092515f1502b"
+file = "mods/kubejs-fabric-2001.6.5-build.14.jar"
+hash = "cdccc100fd10da7dd52560e84da61fb1f37cc43a9cfeda6c860bc557870ed69d"
 
 [[files]]
 file = "mods/labels-1.20-1.20.2-fabric.jar"
@@ -4029,8 +4033,8 @@ file = "mods/moremobvariants-fabric+1.20.1-1.3.0.1.jar"
 hash = "8cb6f112ece5be5114cd17e201308e3ac1f3395cf66a88c0548caa50b0461911"
 
 [[files]]
-file = "mods/mru-0.4.2+1.20.1.jar"
-hash = "ac2e15d6f4c9fb3da2fbb8b0e8ec44a459898ae7e00db0039aba0720294518d0"
+file = "mods/mru-0.4.4+1.20.1.jar"
+hash = "ac10440239bd8036a47174cef8ecf6d426b4159e84ae335052971e49e7449d23"
 
 [[files]]
 file = "mods/music_control-1.8.1+1.20.1.jar"
@@ -4157,8 +4161,8 @@ file = "mods/polymorph-fabric-0.49.5+1.20.1.jar"
 hash = "7dd06f560b44173d9254a0a9edb7f8ba4156c963dcc378ccf432440441b53938"
 
 [[files]]
-file = "mods/polytone-1.20-1.20.3-fabric.jar"
-hash = "971f6526399b9aae0e494fc132a02dcd7393f4e3dba9cffa8f419253e84f3729"
+file = "mods/polytone-1.20-2.1.2-fabric.jar"
+hash = "37b89788de0d317119c7afa8db18e535911817a1da84f95fa23687a24ea742f3"
 
 [[files]]
 file = "mods/portablecrates-fabric-1.0.2+1.20-1.20.1.jar"
@@ -4171,10 +4175,6 @@ hash = "d256749d4881ae21dd9d95d2bc22d5a142bcc267b428c38e6ac5ce03aecaa64e"
 [[files]]
 file = "mods/probejs-6.0.0-fabric.jar"
 hash = "b8c4778e410257916d0c93898480a869e88cef04776198df1f60d3e886a7ae48"
-
-[[files]]
-file = "mods/progressive-raids-1.0.0.jar"
-hash = "69be0ce0327ca3b5e1b36e42fabed0ef13bc56713b1b29949d2b389c4b7a8168"
 
 [[files]]
 file = "mods/puzzle-1.5.2+1.20.jar"
@@ -4421,8 +4421,8 @@ file = "mods/supplementaries-1.20-2.8.17-fabric.jar"
 hash = "cb14b8b5eaf93805ba214a9e759f009be35c0585d11ddc42644b4b0002a5c1e4"
 
 [[files]]
-file = "mods/sushi_bar-0.1.1.jar"
-hash = "90aaab6405a02f76afa4b29ed05084f71095ff461679420753c4ef7497032aef"
+file = "mods/sushi_bar-0.2.1+1.20.jar"
+hash = "e0f919704cedc55ee294faab7f886452281671aad7481167d22a383f7cca4054"
 
 [[files]]
 file = "mods/table_top_craft-1.20.1-5.0.2.jar"
