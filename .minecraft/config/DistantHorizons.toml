@@ -236,6 +236,10 @@ _version = 2
 			# This can be useful for debugging.
 			logFileSubDimEvent = "DISABLED"
 			#
+			# If enabled, a chat message will be displayed if Java doesn't have enough 
+			# memory allocated to run DH well.
+			showLowMemoryWarningOnStartup = true
+			#
 			# If enabled, the mod will log information about file read/write operations. 
 			# This can be useful for debugging.
 			logFileReadWriteEvent = "DISABLED"
@@ -259,10 +263,6 @@ _version = 2
 			# If enabled, the mod will log information about the world generation process. 
 			# This can be useful for debugging.
 			logWorldGenLoadEvent = "DISABLED"
-			#
-			# If enabled, a chat message will be displayed if Java doesn't have enough 
-			# memory allocated to run DH well.
-			showLowMemoryWarningOnStartup = true
 
 		[client.advanced.debugging]
 			#

@@ -22,7 +22,7 @@ hash = "c30b745ebbd4902145714571b91864208a567d7074f7a9bbc80acdf04c722849"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "2573b25686bdac10dbd0ecfce12c9fe2b8ccad0cfe79a991238e8dd5c4ef2731"
+hash = "eb0dc30566265f2012de588f92c24870fc64c2551f2b153d6371e70a652c64c9"
 
 [[files]]
 file = "config/HorseBuff.toml"
@@ -702,11 +702,11 @@ hash = "794d204bd0f2d682eafd5e086e777aa1277370a9b9b229ee006b30d737472cb4"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "392a955315c034ca833d8163ac8d525eda212c3454308e6c5cf52e3f6acb9f44"
+hash = "c6b4c9aabb8615f8ffbf4a624f26c7caaa1bf485edc082e28f08cab7409b4c42"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
+hash = "d15359d589b9c0849d0d1faf2fe503d537bcc186cc09703648f0881c32dcf6e4"
 
 [[files]]
 file = "config/entityculling.json"
@@ -2166,15 +2166,15 @@ hash = "a71ebe6119d672a7c8cf6eceb0eacd613fc068f409bb7dcf6f1fff2e6f490b48"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "8a6f6bc73720a22ba2e39b2a4bcae5e7c4b5c6ff4f756efaafbf1bffab81d822"
+hash = "1be9ef6f1fb0c6791f7724551c50ed9f2f2add7773cf3c40f8a5a766ee745429"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "b310c788a93c203220c24f3d19833e212078cad0cd802dad80c8dce8a94fcb1b"
+hash = "f108d5028b5299a2a416dfde4b639134358bcfb2b09cd6453f72c6a22e52249b"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "6a2be9b1a2565b599712841b1060e03b8d87d0c6376d5c55b641480ab8f960a9"
+hash = "d2387cf485fb1e668221e936b6c56b911d9c821b3ccb249dcb4704fef0aceef9"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
