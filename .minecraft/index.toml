@@ -3397,8 +3397,8 @@ file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
 hash = "11a850d3689b4771d5fa705ffa7dd711827c69b71082956597e5d051471cc1ee"
 
 [[files]]
-file = "mods/create-metalwork-1.20.1-1.0.4-fabric.jar"
-hash = "24e6472d3a4e93612d3273b47ee98aa9766c4e6812dc8c4f97b94919715f2171"
+file = "mods/create-metalwork-1.0.3-fabric.jar"
+hash = "2eb4de996cb404f86023780945b53a346bd684cf8c90426c42bbeeb77e073107"
 
 [[files]]
 file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
@@ -4610,8 +4610,8 @@ hash = "ff92400f35af30da0e57eebbef726d9b6d341a718c9efd8bbee1a14bc5e42ea3"
 
 [[files]]
 file = "vinurl/youtubedl/version.txt"
-hash = "a820ee11ea5bbf07e2060d2a4c055a84ecc0a2eb8eec5bd07a2004bb395548b1"
+hash = "0a51819a4597ccff59a4e0ca2ba69794a12b87c96f536fd80a0c21593cf366db"
 
 [[files]]
 file = "vinurl/youtubedl/yt-dlp.exe"
-hash = "e96f6348244306ac999501b1e8e2b096b8a57f098c3b2b9ffe64b2107039e0ae"
+hash = "cf10e539941a24d2a38e835028415e5062db6a46645063233221189043e158a3"
