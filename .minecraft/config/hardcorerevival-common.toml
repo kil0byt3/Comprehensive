@@ -12,7 +12,7 @@ allowPistols = false
 allowUnarmedMelee = false
 
 # If true, the timer until death continues even if the player logs out.
-continueTimerWhileOffline = false
+continueTimerWhileOffline = true
 
 # If true, Hardcore Revival will not be active when playing alone in multiplayer.
 disableInLonelyMultiplayer = false
