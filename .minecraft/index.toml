@@ -626,7 +626,7 @@ hash = "fff4210e9ad19b4bab956b748ffc7ed0a580aeb0b78dee2e8254e335f707c74d"
 
 [[files]]
 file = "config/easyanvils-server.toml"
-hash = "5d2c09bf9a609c0cc8f6130357aa369bebacfd4538d6b290d83ddcf01728bc10"
+hash = "7ab8c1eaba4fa846ec1e46863f4c39b77bbf2b0eb1637efc8796f0ff9795bd95"
 
 [[files]]
 file = "config/easymagic-client.toml"
@@ -874,7 +874,7 @@ hash = "793dd29112341a3751e7d42bc8c2329fdd4971e271e0d58d4a3952250849bd68"
 
 [[files]]
 file = "config/hardcorerevival-common.toml"
-hash = "cb461bfb113e5a0a7442db34c1f2de53bd2549c8afd676cab9edb24a40641205"
+hash = "311dc98cadacb9cdbdd250d3bfe78b621efdb984830f54ad775e0ab1d59628e4"
 
 [[files]]
 file = "config/harvestwithease-common.toml"
@@ -2221,10 +2221,6 @@ file = "config/spyglass-improvements/settings.json"
 hash = "0a4cf6463e3750510309b76e4d848f2cdaa43b5687b764af09667c9ce817367e"
 
 [[files]]
-file = "config/stacksizeedit.json"
-hash = "7ed858306fabad61845f6ee2e3876093dc4c6a892f697c2f79cdff40d862794d"
-
-[[files]]
 file = "config/staminafortweakers.json5"
 hash = "62c51ba8d0f14dd8e3866b521e417d9a598a9d99af48a277759fa619a1eb1b23"
 
@@ -2562,7 +2558,7 @@ hash = "3835bae7e9e560c33d7c2f7a6ec10c76a8bb2be52ddd7c4ccfeb58187908c3ad"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
-hash = "f370437bada0709607ee883409ba27320824d83e8dc853bd2b03e1c580da2219"
+hash = "d9c1e399a91502f57d680c5e67cfd5a00198f36fa08945bb1f5a8b5a3cea0399"
 
 [[files]]
 file = "mods/ACE_mc1.20.6-3.1.1.jar"
@@ -3393,6 +3389,10 @@ file = "mods/create-cards-1.2.jar"
 hash = "528f43bf3268c39a0f045abaf284beb424e59796597bcc2938d3fd1d1363176b"
 
 [[files]]
+file = "mods/create-cogglewoggle-0.1.2+1.20.1.jar"
+hash = "5775fb1c2846cb7e9a481cfa594071cf64ab4befa3b7004c4b15c869c12e83a2"
+
+[[files]]
 file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
 hash = "11a850d3689b4771d5fa705ffa7dd711827c69b71082956597e5d051471cc1ee"
 
@@ -3423,6 +3423,10 @@ hash = "30e8eac2ec6d63d5cd47940c2fa912e02f9a8fd9ae44eb3b80266dfea64261a9"
 [[files]]
 file = "mods/create_jetpack-fabric-4.2.0.jar"
 hash = "84c583decbf5721ba8d706dad1516f671b3fee358fa605cd2b6d8637af8e6df9"
+
+[[files]]
+file = "mods/create_jetpack_curios-1.0.0-fabric-1.20.1.jar"
+hash = "b95ea574802b74daaaaad89617c9faf171d7e70789b65d1a101fcb1eef3c50d0"
 
 [[files]]
 file = "mods/create_oxidized-0.1.1+1.20.1.jar"
@@ -4349,6 +4353,10 @@ file = "mods/sparsestructures-2.1.2.jar"
 hash = "c496b663fa47650a3d99fd0f097f3ba64d4dc5cb0753f5a523dabe982d6c9fed"
 
 [[files]]
+file = "mods/spectral-sync-1.0.0.jar"
+hash = "042b934f18344b4a07d00aef3673e3d68eb4008b79ff9ba4ef73a62572c90723"
+
+[[files]]
 file = "mods/spectrum-deeper-down-1.7.14.jar"
 hash = "36b1b896dbe4b57fbdad4829d63570d1e44ffec76da979e70ceec18b9b5e2ee6"
 
@@ -4367,10 +4375,6 @@ hash = "46d7f66ca131cb8cdd0a2f8ac828ac544544803ebc7c7044b1b4d1b4683c8a35"
 [[files]]
 file = "mods/spyglass-improvements-1.5.1+mc1.20+fabric.jar"
 hash = "75609f385a77bbd26a3338d62abaf30007b248811260810e0c3ef2fd38676ea1"
-
-[[files]]
-file = "mods/stacksizeedit-1.0.0-fabric.jar"
-hash = "87d52b3729051898a28b4620d11d2a5b1ad55f0b9b494bf064063592038d2ccd"
 
 [[files]]
 file = "mods/stairdoors-1.0.0.jar"
