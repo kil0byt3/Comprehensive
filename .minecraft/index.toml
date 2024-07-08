@@ -3389,10 +3389,6 @@ file = "mods/create-cards-1.2.jar"
 hash = "528f43bf3268c39a0f045abaf284beb424e59796597bcc2938d3fd1d1363176b"
 
 [[files]]
-file = "mods/create-cogglewoggle-0.1.2+1.20.1.jar"
-hash = "5775fb1c2846cb7e9a481cfa594071cf64ab4befa3b7004c4b15c869c12e83a2"
-
-[[files]]
 file = "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
 hash = "11a850d3689b4771d5fa705ffa7dd711827c69b71082956597e5d051471cc1ee"
 
@@ -4347,10 +4343,6 @@ hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
 [[files]]
 file = "mods/sparsestructures-2.1.2.jar"
 hash = "c496b663fa47650a3d99fd0f097f3ba64d4dc5cb0753f5a523dabe982d6c9fed"
-
-[[files]]
-file = "mods/spectral-sync-1.0.0.jar"
-hash = "042b934f18344b4a07d00aef3673e3d68eb4008b79ff9ba4ef73a62572c90723"
 
 [[files]]
 file = "mods/spectrum-deeper-down-1.7.14.jar"
