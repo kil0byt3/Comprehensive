@@ -1858,7 +1858,7 @@ hash = "0b852ceb382a189e7b8cb39501358c9c824e626127be93d5637a78b6e1f6fda6"
 
 [[files]]
 file = "config/quickerconnectbutton.properties"
-hash = "0fdd0d9dc2e96ad18197f0ff674bf7fb7143e9fa93806bb0dd9b2da386d8b83c"
+hash = "dbe3a4991489bc729e968fe49d39c4588f7c833f520cc1dc03bda34d349fed61"
 
 [[files]]
 file = "config/quickstack.json"
