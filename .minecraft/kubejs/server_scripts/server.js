@@ -168,6 +168,8 @@ event.shaped('minecraft:chest', [
 
 event.shapeless('minecraft:ender_pearl', ["#endermanoverhaul:ender_pearls"])
 
+event.shapeless('4x minecraft:echo_shard', ['deeperdarker:heart_of_the_deep'])
+
 event.recipes.createMixing('minecraft:dirt',[
   Fluid.of('water',27000),
   'minecraft:gravel'

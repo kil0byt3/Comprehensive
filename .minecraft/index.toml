@@ -785,10 +785,6 @@ file = "config/fastpaintings-common.json"
 hash = "7efe84b1f1076685bfe16bdd130816eb2349d801a55dfef0fcb9384b370aa215"
 
 [[files]]
-file = "config/fastquit.toml"
-hash = "0e8ac36e41880a3715f6891a9f4a8f22febc0b20c75a2d757c6e82e19bad2b18"
-
-[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "5cb2998eb0d990a42be344c3d9193d3c2b2c2c9d1d100a5d6cf8a95773b642f3"
 
@@ -1737,6 +1733,10 @@ file = "config/openloader/data/Balanced Mending.zip"
 hash = "b7f0f7abc3a1cf8c38a88a656c476688e7cf1cea5a2eb8c5f77dfdcb4ef827dd"
 
 [[files]]
+file = "config/openloader/data/Comprehensive Trinkets.zip"
+hash = "19c7fb170cbaa64b1b7002529c7c814636a81125333c2763be38eef0289b8e82"
+
+[[files]]
 file = "config/openloader/data/CreateChippedCutting312051.zip"
 hash = "aed36dee85c7039add90586b0b9cffe65d01448b617df9e07ff2d4699143adc1"
 
@@ -2554,7 +2554,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "3835bae7e9e560c33d7c2f7a6ec10c76a8bb2be52ddd7c4ccfeb58187908c3ad"
+hash = "065be3a7fae0fcf01a320d8c8a6535aedfa84538ac09cd52d6651aac78f88c64"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
@@ -3679,10 +3679,6 @@ hash = "c4760c5d7657ae9f4fa2e0a65228178ff36a3fb2952a86985f6e176a84b9181d"
 [[files]]
 file = "mods/fastpaintings-1.20-1.2.7-fabric.jar"
 hash = "31d7fe9d421494953291048ddea6dae7dd59fd61dbb0ae557dd2815e63720a3c"
-
-[[files]]
-file = "mods/fastquit-3.0.0+1.20+.jar"
-hash = "6c07d505a7c7435c9813edf68103c8320e37c20daf95418d508aac2681212a78"
 
 [[files]]
 file = "mods/ferritecore-6.0.1-fabric.jar"
