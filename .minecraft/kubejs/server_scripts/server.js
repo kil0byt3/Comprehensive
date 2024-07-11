@@ -89,6 +89,7 @@ ServerEvents.tags('item', event => {
 
 event.add('c:duck_eggs', 'duckling:duck_egg')
 event.add('c:duck_eggs', 'naturalist:duck_egg')
+event.add('spell_engine:enchant_spell_infinity', 'simplyswords:runic_scythe')
 
 })
 
