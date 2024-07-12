@@ -120,4 +120,8 @@ REIEvents.hide('item', event => {
     event.hide('extraalchemy:empty_ring' )
     event.hide('extraalchemy:potion_ring' )
     event.hide('malum:copper_nugget' )
+    event.hide('ae2:quantum_ring' )
+    event.hide('ae2:quantum_link' )
+    event.hide('ae2:singularity' )
+    event.hide('ae2:quantum_entangled_singularity' )
 } )

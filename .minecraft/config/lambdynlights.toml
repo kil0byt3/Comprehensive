@@ -353,3 +353,8 @@ mode = "fancy"
 			[light_sources.settings.entities.malum]
 				natural_spirit = true
 
+			[light_sources.settings.entities.illagerinvasion]
+				archivist = true
+				provoker = true
+				basher = true
+

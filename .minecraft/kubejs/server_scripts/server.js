@@ -4,87 +4,6 @@
 
 console.info('Loaded KiloScript')
 
-/* 
-//? Add code to make different potato projectiles go bang
-
-//! READ ME: 
-//* when you add a new ammo type. make sure it add it to Create-Astral\global_packs\required_data\zLaky Core\data\createastral\potato_cannon_projectile_types
-//* Use the cog as an example.
-
-//? Possable Fields:
-
-//? projectileItem - Required - String
-//? particlesEnable - Required - Bool
-//? particleSpread - Required if particlesEnable is true - Float
-//? particleSize - Required if particlesEnable is true - Float
-//? particleSpeed - Required if particlesEnable is true - Float
-//? particleCount - Required if particlesEnable is true - Float
-//? particleType - Required if particlesEnable is true - String
-//? particleHasColour - Required if particlesEnable is true - Bool
-//? particleColourR - Required if particleHasColour is true - Float
-//? particleColourG - Required if particleHasColour is true - Float
-//? particleColourB - Required if particleHasColour is true - Float
-//? explosionEnable - Required - Bool
-//? explosionStrength - Required if explosionEnable is true - Float
-//? explosionDamageTerrain - Required if explosionEnable is true - Bool
-
-const ammos = [
-  {
-  projectileItem: "createastral:astral_singularity",                              //? Item ID
-  particlesEnable: true,                                                          //? Does it have particles
-  particleSpread: 2.5, particleSize: 10, particleSpeed: 5, particleCount: 100,    //? Settings
-
-  particleType: "minecraft:dust", particleHasColour: true,                        //? Type of particle and if its colour can be changed
-  particleColourR: 0.31, particleColourG: 0, particleColourB: 0.7,                //? Colour settings
-
-  explosionEnable: true,                                                          //? Does it go boom         
-  explosionStrength: 10, explosionDamageTerrain: true,                            //? How strong it go boom and if it hurt the land
-  },
-
-
-  {
-  projectileItem: "createbigcannons:flak_autocannon_round",
-  particlesEnable: false, 
-
-  explosionEnable: true,
-  explosionStrength: 5, explosionDamageTerrain: true,
-  }
-]
-
-onEvent('entity.spawned', event => {
-const { entity, server} = event
-ammos.forEach(ammoType => {
-if (entity.type === "create:potato_projectile" && entity.fullNBT.Item.id === ammoType.projectileItem) {
-
-server.scheduleInTicks(5, event => {
-  if(entity.removed || entity.deadOrDying || !entity.alive) {
-      let x = entity.fullNBT.Pos[0] 
-      let y = entity.fullNBT.Pos[1]
-      let z = entity.fullNBT.Pos[2]
-      let explosion = entity.block.offset(0,0,0).createExplosion()
-
-      if (ammoType.particlesEnable) {
-          if (ammoType.particleHasColour) {
-              server.runCommandSilent(`particle ${ammoType.particleType} ${ammoType.particleColourR} ${ammoType.particleColourG} ${ammoType.particleColourB} ${ammoType.particleSize} ${x} ${y} ${z} ${ammoType.particleSpread} ${ammoType.particleSpread} ${ammoType.particleSpread} ${ammoType.particleSpeed} ${ammoType.particleCount}`)
-          }
-          else {
-              server.runCommandSilent(`particle ${ammoType.particleType} ${x} ${y} ${z} ${ammoType.particleSpread} ${ammoType.particleSpread} ${ammoType.particleSpread} ${ammoType.particleSpeed} ${ammoType.particleCount}`)
-          }
-      }
-
-      if (ammoType.explosionEnable === true) {
-          explosion.strength(ammoType.explosionStrength)
-          explosion.damagesTerrain(ammoType.explosionDamageTerrain)
-          explosion.explode()
-      }
-      return
-  }
-  event.reschedule()
-})}})})
-//! Made by TheOverlyCaffeinatedTrashPanda 
-// *end of potato projectile code
-
- */
 ServerEvents.tags('item', event => {
 
 event.add('c:duck_eggs', 'duckling:duck_egg')
@@ -352,6 +271,26 @@ event.shaped('gag:hearthstone', [// arg 1: output
     C: 'bosses_of_mass_destruction:soul_star'
   }
 )
+
+// AE2
+
+event.remove({ output: 'ae2:spatial_anchor' })
+event.shaped('ae2:spatial_anchor', [
+    'ABA', 
+    'BCB', 
+    'BDB'  
+  ], {
+    A: 'create_power_loader:brass_chunk_loader',  
+    B: 'ae2:spatial_pylon',
+    C: 'ae2:spatial_cell_component_128',
+    D: 'ae2:engineering_processor'
+  }
+)
+
+event.remove({ output: 'ae2:quantum_link' })
+event.remove({ output: 'ae2:quantum_ring' })
+event.remove({ output: 'ae2:singularity' })
+event.remove({ output: 'ae2:quantum_entangled_singularity' })  
 
 // Rope Unification
 
